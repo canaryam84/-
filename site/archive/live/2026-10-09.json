@@ -1,6 +1,6 @@
 {
  "label": "10월 9일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-11T00:03:34.979294+09:00",
+ "updatedAt": "2026-10-11T00:39:08.285025+09:00",
  "items": [
   {
    "title": "루멘텀, 개장전 '강세'…CEO \"광전자 부품, 강력한 수요에 2029년까지 완판\"",
@@ -31,6 +31,20 @@
    "found": "2026-10-10T15:22:55.058376+09:00",
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "삼성SDI, ‘실적 저점 통과 기대’ 52주 신고가…목표가 줄상향 ‘100만원’까지",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PaVJKYUpqc0w0Wk9JS0JiTEt5eXNVdG5QOEZHQVI5aFlGQnBJVTFUVFBObmxxQVk2UGx4bU9yMGpHRTdUNzRNbkRwX0N1OHM5QnZXVHlENmc5X0I0UHVsLWJTNA?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-09T17:10:21+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "'한글' 넘어 '인공지능 직원' 미국에 판다는 한컴…주가 반등 가능할까",
