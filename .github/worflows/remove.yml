@@ -1,0 +1,15 @@
+name: 삭제 요청
+description: 잘못되었거나 삭제를 원하는 종목·기사를 알려주세요. 접수 즉시 자동으로 숨김 처리됩니다.
+title: "[삭제요청] "
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 삭제할 종목명 또는 기사 링크
+      description: 화면에 표시된 종목명(예: 삼성전자) 또는 기사 링크를 그대로 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 사유 (선택)
