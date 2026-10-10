@@ -1,0 +1,24 @@
+{
+ "label": "미국 10월 9일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.83,
+   "text": "+0.83%",
+   "exact": true,
+   "source": "재경일보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iQjA4dVBycjRtblhQN2FIUjl1TXRWS202TUJtXzBiazRCeFIxWW9xQUVrYzFYbHVrLTVieWpwUzhGcDY5Si1QWnB3Zw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.64,
+   "text": "+0.64%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4c2dnTndkRk82QUoxcXdOZkM4WTZrOUI2dk9PdlZrS3dKdlRfQWFyQS10RjlaMW11Z2JCc0N3RVIyVGJ1bTYzZVZuN1g5WmVh?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-10T18:31:01.675141+09:00"
+}

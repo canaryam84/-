@@ -1,0 +1,151 @@
+{
+ "label": "9월 29일(화) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -0.27,
+   "text": "-0.27%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfYTYwLXFEazBqN2Uzell5blB4c0txUFh4RWlybUlMVXEwU0Q5Z1U5RUowMFFadFVnWGlyOEw3TEVBNlRWaDlvVHlXQXVWVjlhZHBQSUpqX1BFN2RKMGl4UVl1WmJvVm8?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.38,
+   "text": "+0.38%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ySGlJOTNLYWE5YXY4ZHA0X3RDd1lSRXFidGl6V01fSDlkM1ZNSXAyanpRUloyU2ZIR1lieFNoOTFzZjVwd1FHZkN5Zi1uOVBHVzJtaGdhOUpkUlE?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "씨싸이트",
+   "sub": "코스닥 · 109670",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[특징주] 씨싸이트, 구미현 전 아워홈 회장 인수.. 이틀째 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXlXX1ZSOUViWmdUREZGSlJwQnM1b3Y5aE15bXlIVjhxcmtCc1dsYkdRWmRvdDZiS1o1RDVDWktJNnlybWZTQTNTT3lnU19xZTlheWt1WlVKdFFmX3NoYXZPWDF3Y0NlX3ZDc0dXTVBmMVEzRFJ3ZFBOeEViMk1fc1BuWmREWHFF?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-09-29T16:00:00+09:00"
+    },
+    {
+     "title": "구미현 아워홈 전 회장 일가 품에 안긴 씨싸이트, 상한가 기록",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FSk42M1JNUUJmamdpak1udUlKTEZaaWtRTm1jay05QktabHFTSGFHTTJkaDR6WjFGVDhseWNrZGZBUGF4aFlwX19mQU05NzM4bVlkVVVTY1FjVDhHZll4V2VkV2l4dGVnWHc?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-09-29T16:00:00+09:00"
+    },
+    {
+     "title": "구미현 아워홈 전 회장 일가 품에 안긴 씨싸이트, 상한가 기록[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUDFFWGpabFJHRkJ4N1AtZVNFOWlGRjB6V1FsRndJUFZQeHlwUHRRRzhnUWg5ZGF6YTA4NkxwMlB0STRsSG9IVHZYc3BVWmkxQzNmSg?oc=5",
+     "source": "Daum",
+     "time": "2026-09-29T13:31:06+09:00"
+    },
+    {
+     "title": "씨싸이트 주가 장중 상한가, 구미현 전 아워홈 회장 인수 소식에 이틀째 급등",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kZUFzQ2lYelp1cUtKWjAwQVJZVDNCTGQ4ZTdMeDIxb1d4TkNlQTJlZTJpNGpIUkl0ZVZyWFUwcm5uSnc1OGgyUU5VYkZRR01YNlZhSEhYUkFfX0NtZUp5VkZaUmVIVWxWWU80dWhnT2hycnc?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-09-29T11:06:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라메디텍",
+   "sub": "코스닥 · 462510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 라메디텍, ECM 재생의료 기대감에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MbjNJM1NqNnN4SC1sclUzNnlxaS1IX0ttek55TnJveG1aanJpLVBvVG5PcDR4VER5cmlfMHF2bU1vbHVlZVkwUjRNeWhXUGVyaVBOWVVubEhudXZ0U1JFclZBUlpmV242Qm9RcA?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-09-29T16:00:00+09:00"
+    },
+    {
+     "title": "라메디텍 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRHBXc0oyQWxiaXc1RDAzOGRxZVljOHp6NG9faE13X2Q3Qml1Z0Z2bXkwSXg2N3BNRHhTTHVQdEd5QkN6TGtUT0Zpa0drcDQ0VGRLMTR0cDhvZmtCSTBWVHVXbTRMcDBjbGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-29T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "테라뷰",
+   "sub": "코스닥 · 950250",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "테라뷰, 美 기업과 반도체 검사장비 공급계약에 상한가 [종목 NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SOFFsWnRUV2NTdllkcG80R2dfNzVidXlkUmNlSV9tVUIybVZibkF0MmY1cnc5Yl9TajJYdThod1A1Vm1EcXlJQkhtdw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-29T14:20:13+09:00"
+    },
+    {
+     "title": "[주식마감] 美기업과 반도체 검사장비 공급계약 소식에 테라뷰 상한가... 씨싸이트, 라메디텍, 현대바이오랜드 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yTnBXR2tiTXFUVlJVT0V5UHNJSGdqdk5FWmhMZldyZFFHdlRBcGpNNHQ0SEp6TUxjYnNNV0xCbm1vdkVub3NKdnBTN3R1TDJYLU15TURpd1FUTGJRY0xYSUhmWlR5aHhYR2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-29T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "핀텔",
+   "sub": "코스닥 · 291810",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "핀텔, 코스닥 퇴출 코앞...이틀 상한가 쳐도 '시총 200억' 미달",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XbTVVa3o3cFBUS2dscWlHb0QzUjRjTkJhejM5VFphSU0wVVFQYmpvV3ZaUjF2U3hOZkQwaEhFVzA4cHJQdXl4VzZfdVREZHFySUNFaVRWMlY4aDFGRXBnS1RNUzdzQQ?oc=5",
+     "source": "디일렉",
+     "time": "2026-09-29T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB제약",
+   "sub": "코스닥 · 047920",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] HLB제약 상한가 도달…삼전·SK하닉 상승",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FRzN1ZjBFaWhsSFVDcDB2U180SmF1cG5SOFBibVNpcEN3VzkwOHFqdDVZay1wVHB0TDIzZElid1hrdnNnLXc?oc=5",
+     "source": "Daum",
+     "time": "2026-09-30T07:52:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "현대바이오랜드",
+   "sub": "코스닥 · 052260",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "현대바이오랜드 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZzc5VjdMZDA3NmpyTVNsemNnRng0MkhVTU10UTY4dU9fMzJ0QkFRMmJSX3BfaHlnbllDS2xlektaSkVoU182Tm5pckpEeFhDN09yekFTRnZGQlV5dUZoSmRrUndQOU5SQXc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-29T15:06:09+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>오늘의 급등 브리핑</title>
+<meta name="description" content="국내 주식 15%, 해외 주식·코인 20% 이상 하루에 올랐다고 보도된 종목과 관련 기사를 모아 보여줍니다.">
+<meta name="theme-color" content="#f4f5f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111317" media="(prefers-color-scheme: dark)">
+<!-- 개인용: 검색엔진에 노출하지 않음 -->
+<meta name="robots" content="noindex, nofollow">
+<!-- 홈 화면에 앱처럼 설치 (아이폰·안드로이드) -->
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="급등 브리핑">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<style>
+:root {
+  --bg: #f4f5f7; --card: #ffffff; --text: #16181d; --sub: #6b7280; --line: #e6e8ec;
+  --up: #e5322d; --up-soft: #fdecec; --down: #1d63d8; --chip: #f1f3f6; --accent: #2563eb; --active: #16181d;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111317; --card: #1a1d23; --text: #eceef2; --sub: #9aa1ad; --line: #2a2e36;
+    --up: #ff5a52; --up-soft: #3a1d1c; --down: #5b9bff; --chip: #252932; --accent: #6ea0ff; --active: #ffffff; --active: #ffffff;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111317; --card: #1a1d23; --text: #eceef2; --sub: #9aa1ad; --line: #2a2e36;
+  --up: #ff5a52; --up-soft: #3a1d1c; --down: #5b9bff; --chip: #252932; --accent: #6ea0ff; --active: #ffffff;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: system-ui, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  -webkit-font-smoothing: antialiased; line-height: 1.5;
+}
+.wrap { max-width: 640px; margin: 0 auto; padding: 0 16px 48px; }
+header { padding: 22px 0 6px; }
+h1 { font-size: 22px; font-weight: 800; margin: 0; letter-spacing: -0.02em; }
+h1 span { color: var(--up); }
+.lead { color: var(--sub); font-size: 13px; margin-top: 4px; }
+
+.install { margin-top: 10px; padding: 10px 12px; border-radius: 12px; background: var(--chip); font-size: 13px; display: flex; gap: 8px; align-items: center; }
+.install[hidden] { display: none; }
+.install span { flex: 1; }
+.install button { border: 0; border-radius: 8px; padding: 6px 10px; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; background: var(--accent); color: #fff; }
+.install button.x { background: transparent; color: var(--sub); padding: 6px; }
+.controls { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 0 8px; margin-bottom: 4px; }
+.tabs { display: flex; gap: 6px; }
+.tab {
+  flex: 1; border: 1px solid var(--line); background: var(--card); color: var(--text);
+  border-radius: 12px; padding: 10px 6px; font: inherit; font-size: 15px; font-weight: 700; cursor: pointer;
+}
+.tab small { display: block; font-size: 12px; font-weight: 500; color: var(--sub); }
+/* 선택된 시장: 배경은 그대로 두고 테두리만 굵게 (어두운 화면에서는 흰색) */
+.tab[aria-selected="true"] { border-color: var(--active); box-shadow: inset 0 0 0 2px var(--active); }
+/* 탭 안의 지수 등락률 (상승 빨강, 하락 파랑) */
+.tab .idx { display: block; font-size: 11px; font-weight: 600; line-height: 1.35; margin: 2px 0 1px; font-variant-numeric: tabular-nums; }
+.tab .idx:empty { display: none; }
+.tab .idx span { display: block; white-space: nowrap; }
+.tab .idx .u { color: var(--up); }
+.tab .idx .d { color: var(--down); }
+.tab .idx .n { color: var(--sub); }
+
+.datebar { display: flex; align-items: center; gap: 6px; margin: 0 0 8px; }
+.datebar button {
+  width: 40px; height: 40px; flex: none; border: 1px solid var(--line); background: var(--card); color: var(--text);
+  border-radius: 10px; font-size: 18px; cursor: pointer;
+}
+.datebar button:disabled { opacity: .35; cursor: default; }
+.datebar label { flex: 1; position: relative; }
+.datebar select {
+  width: 100%; height: 40px; appearance: none; -webkit-appearance: none; border: 1px solid var(--line);
+  background: var(--card); color: var(--text); border-radius: 10px; font: inherit; font-size: 15px; font-weight: 700;
+  text-align: center; text-align-last: center; padding: 0 28px; cursor: pointer;
+}
+.datebar label::after { content: "▾"; position: absolute; right: 12px; top: 50%; transform: translateY(-50%); color: var(--sub); pointer-events: none; }
+.closed-box {
+  text-align: center; padding: 36px 16px; border-radius: 16px;
+  background: var(--up-soft); border: 1px solid var(--up); color: var(--up);
+}
+.closed-box b { display: block; font-size: 24px; font-weight: 800; margin-bottom: 4px; }
+.closed-box span { color: var(--text); font-size: 14px; }
+.basis { font-size: 13px; color: var(--sub); margin: 2px 2px 12px; }
+.basis b { color: var(--text); font-weight: 600; }
+.list { display: flex; flex-direction: column; gap: 10px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; }
+.top { display: flex; align-items: flex-start; gap: 12px; }
+.rank { font-size: 13px; font-weight: 800; color: var(--sub); min-width: 18px; padding-top: 3px; }
+.name { flex: 1; min-width: 0; }
+.name b { font-size: 17px; font-weight: 700; word-break: keep-all; }
+.name .sub { display: block; font-size: 12px; color: var(--sub); }
+.pct { text-align: right; }
+.pct strong { font-size: 20px; font-weight: 800; color: var(--up); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pct small { display: block; font-size: 11px; color: var(--sub); }
+.badge {
+  display: inline-block; font-size: 11px; font-weight: 700; color: var(--up); background: var(--up-soft);
+  border-radius: 6px; padding: 1px 6px; margin-top: 2px;
+}
+.badge.muted { color: var(--sub); background: var(--chip); display: block; width: fit-content; margin-left: auto; }
+.news { list-style: none; margin: 12px 0 0 30px; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.news a { color: var(--text); text-decoration: none; font-size: 14px; display: block; word-break: keep-all; }
+.news a:hover { text-decoration: underline; }
+.news span { font-size: 12px; color: var(--sub); }
+.news-head { font-size: 12px; color: var(--sub); margin: 12px 0 -4px 30px; }
+details { margin: 8px 0 0 30px; }
+details .news { margin-left: 0; }
+summary { font-size: 13px; color: var(--accent); cursor: pointer; list-style: none; }
+summary::-webkit-details-marker { display: none; }
+.foot { display: flex; justify-content: flex-end; margin-top: 8px; }
+.foot a { font-size: 12px; color: var(--sub); text-decoration: none; }
+.foot a:hover { text-decoration: underline; }
+.empty { text-align: center; color: var(--sub); padding: 40px 0; font-size: 15px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; }
+footer { color: var(--sub); font-size: 12px; margin-top: 28px; line-height: 1.7; }
+footer b { color: var(--text); font-weight: 700; }
+footer a { color: var(--accent); }
+/* 실시간 탭 */
+.tab .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--up); margin-right: 4px; vertical-align: 1px; animation: pulse 2s infinite; }
+@keyframes pulse { 50% { opacity: .3; } }
+.live-head { font-size: 13px; color: var(--sub); margin: 2px 2px 10px; }
+.live-head b { color: var(--text); font-weight: 600; }
+.search {
+  width: 100%; height: 42px; border: 1px solid var(--line); background: var(--card); color: var(--text);
+  border-radius: 10px; font: inherit; font-size: 15px; padding: 0 14px; margin-bottom: 10px;
+}
+.newbar {
+  display: block; width: 100%; border: 0; border-radius: 10px; padding: 10px; margin-bottom: 10px; cursor: pointer;
+  background: var(--accent); color: #fff; font: inherit; font-size: 14px; font-weight: 700;
+}
+.feed { list-style: none; margin: 0; padding: 0; background: var(--card); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+.feed li { padding: 12px 16px; border-top: 1px solid var(--line); }
+.feed li:first-child { border-top: 0; }
+.feed li.fresh { animation: fresh 4s ease-out; }
+@keyframes fresh { from { background: var(--up-soft); } to { background: transparent; } }
+.feed .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 4px; }
+.feed time { font-size: 12px; color: var(--sub); font-variant-numeric: tabular-nums; min-width: 38px; }
+.chip { font-size: 12px; font-weight: 700; color: var(--accent); background: var(--chip); border: 0; border-radius: 999px; padding: 1px 9px; cursor: pointer; font-family: inherit; }
+.new { font-size: 10px; font-weight: 800; color: #fff; background: var(--up); border-radius: 4px; padding: 0 5px; }
+.feed a { color: var(--text); text-decoration: none; font-size: 15px; display: block; word-break: keep-all; }
+.feed a:hover { text-decoration: underline; }
+.feed .src { font-size: 12px; color: var(--sub); }
+.feed .src a { display: inline; font-size: 12px; color: var(--sub); }
+.feed li.thin-wrap { padding: 0; background: var(--bg); }
+.thin-wrap details { margin: 0; }
+.thin-wrap summary { padding: 12px 16px; font-size: 13px; color: var(--sub); }
+.thin-wrap summary::after { content: " ▾"; }
+.thin-wrap details[open] summary::after { content: " ▴"; }
+.feed.thin { border: 0; border-radius: 0; background: var(--card); opacity: .8; }
+@media (max-width: 380px) {
+  .news, .news-head, details { margin-left: 0; }
+  .tab { font-size: 14px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>오늘의 <span>급등</span> 브리핑</h1>
+    <div class="lead">하루 동안 국내 15%·해외·코인 20% 이상 올랐다고 보도된 종목과 관련 기사</div>
+    <div class="install" id="install" hidden></div>
+  </header>
+
+  <div class="controls">
+    <div class="datebar">
+      <button id="older" aria-label="이전 날짜">‹</button>
+      <label><select id="date" aria-label="날짜 선택 (모든 시장 공통)"></select></label>
+      <button id="newer" aria-label="다음 날짜">›</button>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab" role="tab" data-key="korea">국내 주식<span class="idx" id="i-korea"></span><small id="c-korea">-</small></button>
+      <button class="tab" role="tab" data-key="us">해외 주식(미국)<span class="idx" id="i-us"></span><small id="c-us">-</small></button>
+      <button class="tab" role="tab" data-key="crypto">코인<span class="idx" id="i-crypto"></span><small id="c-crypto">-</small></button>
+      <button class="tab" role="tab" data-key="live"><span class="dot"></span>실시간<br>종목뉴스<small id="c-live">-</small></button>
+    </nav>
+  </div>
+
+  <main id="main"><div class="empty">불러오는 중…</div></main>
+
+  <footer>
+    <b>안내</b><br>
+    · 종목과 상승률은 언론 보도를 자동으로 모은 것이며, 시세를 직접 제공하지 않아요. 정확한 시세는 거래소나 증권사에서 확인하세요.<br>
+    · 국내는 정규장 마감 후(16:30)와 넥스트레이드 애프터마켓 마감 후(20:10) 두 번, 해외는 미국 정규장 마감 후(07:00), 코인은 매일 12:00에 갱신돼요. 국내 '상한가'는 +30%로 표시해요.<br>
+    · '실시간' 탭은 국내 상장 종목 이름이 들어간 증시 기사 중 제목에 주가 상승이나 상승과 관련된 소식이 담긴 기사를 언론사 RSS에서 바로 모아 보여주며, 새 기사는 새로고침 없이 자동으로 올라와요. 날짜는 한국 시간 0시 기준으로 나뉘어요.<br>
+    · 같은 내용이 기사 2건 이상에서 확인되거나, 그 종목만 다룬 기사가 있을 때만 표시해요.<br>
+    · 기사 제목은 원문 그대로이며 저작권은 각 언론사에 있어요. 내용은 원문 기사에서 확인하세요.<br>
+    · 정보 제공용이며 특정 종목의 매수·매도를 권유하지 않아요. 투자 판단과 책임은 본인에게 있어요.<br>
+    · 회원가입이 없고, 개인정보와 쿠키를 수집하지 않아요.<br><br>
+    <b>삭제 요청</b><br>
+    · 잘못되었거나 삭제를 원하는 내용은 각 항목의 '삭제 요청' 또는 <a id="contact" href="#" target="_blank" rel="noopener">여기</a>로 알려주세요. 접수 즉시 자동으로 숨김 처리돼요.
+  </footer>
+</div>
+
+<script>
+const LABEL = { korea: "국내 주식", us: "해외 주식(미국)", crypto: "코인" };
+
+// 삭제 요청 주소: GitHub Pages 주소(아이디.github.io/저장소)에서 저장소를 자동으로 찾음.
+// 개인 도메인을 연결하면 아래 REPO에 "아이디/저장소"를 적어 주세요.
+const REPO = "";
+function issueUrl(target) {
+  let repo = REPO;
+  const m = location.hostname.match(/^([\w-]+)\.github\.io$/);
+  if (!repo && m) repo = `${m[1]}/${location.pathname.split("/")[1] || m[1] + ".github.io"}`;
+  if (!repo) return null;
+  const q = new URLSearchParams({ template: "remove.yml", title: `[삭제요청] ${target || ""}`.trim() });
+  if (target) q.set("target", target);
+  return `https://github.com/${repo}/issues/new?${q}`;
+}
+
+let INDEX = null;          // archive/index.json: 시장별 날짜 목록과 휴장 안내
+const DAYS = {};          // 불러온 날짜별 데이터 캐시
+let current = "korea";
+let currentDate = null;   // null이면 가장 최근 날짜
+try { current = localStorage.getItem("tab") || "korea"; } catch (e) {}
+// 공유 링크: #korea/2026-10-08
+const [hashTab, hashDate] = location.hash.slice(1).split("/");
+if (LABEL[hashTab]) { current = hashTab; currentDate = hashDate || null; }
+if (hashTab === "live") { current = "live"; currentDate = hashDate || null; }
+if (current !== "live" && !LABEL[current]) current = "korea";
+
+const WEEK = "일월화수목금토";
+function dayText(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return `${m}월 ${d}일 (${WEEK[new Date(y, m - 1, d).getDay()]})`;
+}
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function ago(iso) {
+  if (!iso) return "";
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 60) return `${Math.max(m, 1)}분 전`;
+  if (m < 60 * 24) return `${Math.round(m / 60)}시간 전`;
+  return `${Math.round(m / 1440)}일 전`;
+}
+
+const fmtPct = p => `+${Number.isInteger(p) ? p.toFixed(1) : p.toFixed(2).replace(/0$/, "")}%`;
+
+function newsItem(a) {
+  return `<li><a href="${esc(a.link)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a><span>${esc(a.source || "뉴스")}${a.time ? " · " + ago(a.time) : ""}</span></li>`;
+}
+
+function card(e, i) {
+  const arts = e.articles || [];
+  const shown = arts.slice(0, 2), more = arts.slice(2);
+  const del = issueUrl(e.name);
+  return `<article class="card">
+    <div class="top">
+      <div class="rank">${i + 1}</div>
+      <div class="name"><b>${esc(e.name)}</b><span class="sub">${esc(e.sub)}</span></div>
+      <div class="pct"><strong>${fmtPct(e.pct)}</strong>${e.limitUp ? `<div class="badge">상한가</div>` : `<small>보도 기준</small>`}${e.afterMarket ? `<div class="badge muted">애프터마켓</div>` : ""}</div>
+    </div>
+    <div class="news-head">관련 기사</div>
+    <ul class="news">${shown.map(newsItem).join("")}</ul>
+    ${more.length ? `<details><summary>기사 ${more.length}건 더 보기</summary><ul class="news" style="margin-top:8px">${more.map(newsItem).join("")}</ul></details>` : ""}
+    ${del ? `<div class="foot"><a href="${esc(del)}" target="_blank" rel="noopener">삭제 요청</a></div>` : ""}
+  </article>`;
+}
+
+const getJSON = url => fetch(url + "?t=" + Math.floor(Date.now() / 60000)).then(r => { if (!r.ok) throw r; return r.json(); });
+
+function loadDay(market, date) {
+  const key = `${market}/${date}`;
+  if (!DAYS[key]) DAYS[key] = getJSON(`archive/${key}.json`).catch(e => { delete DAYS[key]; throw e; });
+  return DAYS[key];
+}
+
+const MARKETS = ["korea", "us", "crypto", "live"];
+let LIVE = null;            // live.json: 오늘(한국 시간) 실시간 뉴스
+
+// 모든 탭의 날짜를 합친 하나의 날짜 목록 (날짜를 바꾸면 모든 탭이 함께 바뀜)
+function allDates() {
+  const set = new Set();
+  for (const k of MARKETS) (INDEX.markets[k]?.dates || []).forEach(d => set.add(d));
+  if (LIVE) set.add(LIVE.date);
+  return [...set].sort().reverse();
+}
+
+const hasDay = (k, date) => (k === "live" && LIVE && LIVE.date === date) || (INDEX.markets[k]?.dates || []).includes(date);
+
+// 탭마다 선택한 날짜의 종목 수(또는 휴장·기사 수) 표시
+function updateCounts(date) {
+  for (const k of MARKETS) {
+    const el = document.getElementById("c-" + k);
+    if (k === "live" && LIVE && LIVE.date === date) { liveCount(); continue; }
+    const idx = document.getElementById("i-" + k);
+    if (idx) idx.innerHTML = "";
+    if (!hasDay(k, date)) { el.textContent = "기록 없음"; continue; }
+    el.textContent = "…";
+    loadDay(k, date).then(d => {
+      if (currentDate !== date) return;
+      el.textContent = d.closed ? "휴장" : k === "live" ? `${upOnly(d.items).length}건` : `${d.items.length}종목`;
+      // 그날 마감 기사에 보도된 지수 등락률 (코스피·코스닥 / 다우·나스닥 / BTC)
+      if (idx) idx.innerHTML = (d.indices || []).map(i =>
+        `<span class="${i.pct > 0 ? "u" : i.pct < 0 ? "d" : "n"}">${esc(i.name)} ${esc(/\d/.test(i.text) ? `${i.pct >= 0 ? "+" : ""}${i.pct.toFixed(2)}%` : i.text)}</span>`).join("");
+    }).catch(() => { el.textContent = "-"; });
+  }
+}
+
+// ---------------------------------------------------------------- 실시간 국내 종목 뉴스
+const SEEN = new Set();     // 이미 본 기사 링크
+const FRESH = new Set();    // 이 화면을 연 뒤 새로 들어온 기사
+let unread = 0;
+let liveQuery = "";
+let FEED = null;            // 지금 보고 있는 날짜의 뉴스 목록
+let thinOpen = false;       // '시세만 전하는 기사' 펼침 상태 (새 기사가 와도 유지)
+// 실시간 탭에는 제목 내용이 주가 상승과 관련된 기사(dir: "up")만 올림
+const upOnly = items => items.filter(it => it.dir === "up");
+
+function clock(iso) {
+  return new Date(iso).toLocaleTimeString("ko-KR", { hour: "2-digit", minute: "2-digit", hour12: false });
+}
+
+function liveCount() {
+  if (!LIVE) return;
+  const el = document.getElementById("c-live");
+  if (currentDate && currentDate !== LIVE.date) return;
+  el.textContent = unread && current !== "live" ? `새 기사 ${unread}` : `${upOnly(LIVE.items).length}건`;
+}
+
+function fillFeed() {
+  const ul = document.getElementById("feed");
+  if (!ul || !FEED) return;
+  const q = liveQuery.trim().toLowerCase();
+  const items = upOnly(FEED.items).filter(it => !q || it.title.toLowerCase().includes(q) || it.stocks.some(s => s.name.toLowerCase().includes(q) || s.code === q));
+  const row = it => {
+    const del = issueUrl(it.link);
+    return `<li class="${FRESH.has(it.link) ? "fresh" : ""}">
+      <div class="meta"><time>${clock(it.time)}</time>${FRESH.has(it.link) ? `<span class="new">NEW</span>` : ""}
+        ${it.stocks.map(s => `<button class="chip" data-q="${esc(s.name)}">${esc(s.name)}</button>`).join("")}</div>
+      <a href="${esc(it.link)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a>
+      <span class="src">${esc(it.source || "뉴스")}${del ? ` · <a href="${esc(del)}" target="_blank" rel="noopener">삭제 요청</a>` : ""}</span>
+    </li>`;
+  };
+  // 이유 없이 시세만 전하는 기사(thin)는 아래에 접어 둠
+  const main = items.filter(it => !it.thin), thin = items.filter(it => it.thin);
+  ul.innerHTML = (main.length ? main.map(row).join("") : `<li style="text-align:center;color:var(--sub)">${q ? "검색 결과가 없어요." : "아직 기사가 없어요."}</li>`)
+    + (thin.length ? `<li class="thin-wrap"><details ${thinOpen ? "open" : ""}><summary>이유 없이 시세만 전하는 기사 ${thin.length}건 더 보기</summary><ul class="feed thin">${thin.map(row).join("")}</ul></details></li>` : "");
+  ul.querySelector(".thin-wrap details")?.addEventListener("toggle", e => { thinOpen = e.target.open; });
+  const head = document.getElementById("live-head");
+  if (!head) return;
+  if (FEED === LIVE) {
+    const secs = Math.max(0, Math.round((Date.now() - (wsLive ? lastCheck : new Date(LIVE.updatedAt))) / 1000));
+    const ago = secs < 60 ? `${secs}초 전` : secs < 3600 ? `${Math.round(secs / 60)}분 전` : `${Math.round(secs / 3600)}시간 전`;
+    const mode = wsLive ? `<span class="badge">실시간 연결됨</span> 새 기사가 확인되는 즉시 올라와요`
+      : marketOpenNow() ? "장중에는 약 10분 간격으로 업데이트돼요"
+      : "정규장 마감 후에는 약 30분 간격으로 업데이트돼요 · 장중(평일 08:00~15:30)에는 실시간으로 올라와요";
+    head.innerHTML = `<b>${esc(dayText(LIVE.date))} 국내 종목 상승 관련 뉴스</b> · ${upOnly(LIVE.items).length}건 · 마지막 확인 ${ago}<br>${mode}`;
+  } else {
+    head.innerHTML = `<b>${esc(dayText(currentDate))} 국내 종목 상승 관련 뉴스</b> · ${upOnly(FEED.items).length}건 (지난 기록)`;
+  }
+}
+
+async function renderLiveDay(main) {
+  const today = LIVE && currentDate === LIVE.date;
+  if (today) { unread = 0; liveCount(); FEED = LIVE; }
+  else {
+    const want = currentDate;
+    try { FEED = await loadDay("live", currentDate); }
+    catch (e) { main.innerHTML = `<div class="empty">데이터를 불러오지 못했어요. 잠시 후 다시 시도해 주세요.</div>`; return; }
+    if (want !== currentDate || current !== "live") return;
+  }
+  main.innerHTML = `<div class="live-head" id="live-head"></div>
+    <input class="search" id="search" type="search" placeholder="종목명으로 찾기 (예: 삼성전자)" value="${esc(liveQuery)}">
+    <ul class="feed" id="feed"></ul>`;
+  document.getElementById("search").addEventListener("input", e => { liveQuery = e.target.value; fillFeed(); });
+  document.getElementById("feed").addEventListener("click", e => {
+    const chip = e.target.closest(".chip");
+    if (chip) { liveQuery = chip.dataset.q; document.getElementById("search").value = liveQuery; fillFeed(); }
+  });
+  fillFeed();
+}
+
+// 실시간 서버(Cloudflare) 주소. 장중(평일 08:00~15:30)에는 여기에 연결해 새 기사를 바로 받아요.
+// 비워 두거나 연결이 안 되면 GitHub 자동 수집분(장중 10분·장 마감 후 30분 간격)을 써요.
+// 예: "wss://rise-live.아이디.workers.dev/ws"
+const LIVE_WS = "";
+let BASE = null;            // live.json (GitHub 자동 수집: 구글 뉴스 포함)
+let FAST = null;            // 실시간 서버에서 받은 오늘 기사
+let lastCheck = 0;          // 실시간 서버가 마지막으로 기사를 확인한 시각
+let CLOSED_DAYS = [];       // 국내 증시 휴장일 (holidays.json)
+let ws = null, wsTries = 0, wsLive = false;
+let lastActive = Date.now();
+const IDLE_MS = 10 * 60 * 1000;  // 10분 동안 화면을 건드리지 않으면 실시간 연결을 쉼
+
+// 국내 장 시간(넥스트레이드 프리마켓 포함 08:00~15:30)인지 — worker/src/rules.js 의 marketOpen 과 같은 기준
+function marketOpenNow() {
+  const k = new Date(Date.now() + 9 * 3600 * 1000);
+  const day = k.getUTCDay(), min = k.getUTCHours() * 60 + k.getUTCMinutes();
+  if (day === 0 || day === 6 || CLOSED_DAYS.includes(k.toISOString().slice(0, 10))) return false;
+  return min >= 8 * 60 && min < 15 * 60 + 30;
+}
+
+// 두 출처를 합쳐 오늘 기사 목록을 만듦 (같은 기사·같은 제목은 하나로)
+function mergeLive() {
+  const parts = [BASE, FAST].filter(Boolean);
+  if (!parts.length) return null;
+  const date = parts.map(p => p.date).sort().pop();
+  const seen = new Set(), items = [];
+  for (const it of parts.filter(p => p.date === date).flatMap(p => p.items).sort((a, b) => new Date(b.time) - new Date(a.time))) {
+    const key = it.title.replace(/[^\p{L}\p{N}]/gu, "").slice(0, 60);
+    if (seen.has(it.link) || seen.has(key)) continue;
+    seen.add(it.link); seen.add(key);
+    items.push(it);
+  }
+  const updatedAt = parts.map(p => p.updatedAt || "").sort().pop();
+  return { date, updatedAt, items };
+}
+
+// 새로 합친 목록을 화면에 반영 (새 기사는 NEW 표시)
+function applyLive() {
+  const d = mergeLive();
+  if (!d) return;
+  const first = !LIVE, newDay = LIVE && LIVE.date !== d.date;
+  for (const it of d.items) {
+    if (!SEEN.has(it.link)) {
+      SEEN.add(it.link);
+      if (!first) { FRESH.add(it.link); if (current !== "live" && !it.thin && it.dir === "up") unread++; }
+    }
+  }
+  const wasToday = !LIVE || currentDate === LIVE.date;
+  LIVE = d;
+  if (first || newDay) {  // 처음 불러왔거나 자정이 지나 날짜가 바뀌었으면 날짜 목록부터 다시
+    if (newDay && wasToday) currentDate = d.date;
+    return render();
+  }
+  liveCount();
+  if (current === "live" && currentDate === LIVE.date && document.getElementById("feed")) { FEED = LIVE; fillFeed(); }
+}
+
+// GitHub 자동 수집분: 바뀌었을 때만 내려받음 (cache: no-cache → 안 바뀌었으면 304로 데이터를 아낌)
+async function pollBase() {
+  if (document.visibilityState === "hidden" && LIVE) return;
+  try { BASE = await fetch("live.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw r; return r.json(); }); }
+  catch (e) { /* 다음에 다시 */ }
+  applyLive();
+}
+
+// ---------------------------------------------------------------- 실시간 연결 (장중에만)
+const wantSocket = () => LIVE_WS && marketOpenNow() && document.visibilityState === "visible"
+  && Date.now() - lastActive < IDLE_MS && wsTries < 6;
+
+function connect() {
+  if (ws || !wantSocket()) return;
+  const sock = ws = new WebSocket(LIVE_WS);
+  sock.onmessage = e => {
+    let m;
+    try { m = JSON.parse(e.data); } catch (err) { return; }
+    lastCheck = Date.now();
+    wsTries = 0;
+    if (m.type === "snapshot") {
+      FAST = { date: m.date, updatedAt: m.updatedAt, items: m.items };
+      wsLive = !!m.open;
+      if (!m.open) disconnect();  // 장이 끝났으면 연결을 닫고 GitHub 수집분으로
+    } else if (m.type === "add" || m.type === "tick") {
+      if (FAST && FAST.date === m.date) FAST = { ...FAST, updatedAt: m.updatedAt, items: m.items.concat(FAST.items) };
+      else FAST = { date: m.date, updatedAt: m.updatedAt, items: m.items };
+      wsLive = true;
+    } else if (m.type === "closed") {
+      disconnect();
+    }
+    applyLive();
+  };
+  sock.onclose = () => {
+    if (ws === sock) { ws = null; wsLive = false; }
+    if (sock.wantOpen !== false) { wsTries++; setTimeout(connect, Math.min(60000, 2000 * 2 ** wsTries)); }  // 끊기면 점점 늦게 다시 연결
+    if (current === "live") fillFeed();
+  };
+}
+
+function disconnect() {
+  if (!ws) return;
+  ws.wantOpen = false;
+  ws.close();
+  ws = null; wsLive = false;
+}
+
+// 30초마다 연결 상태 점검: 장이 열리면 연결, 끝났거나 오래 안 쓰면 닫기, 1분 넘게 소식이 없으면 다시 연결
+setInterval(() => {
+  if (ws && !wantSocket()) disconnect();
+  else if (ws && wsLive && Date.now() - lastCheck > 60 * 1000) { ws.close(); }
+  else connect();
+}, 30 * 1000);
+
+["pointerdown", "keydown", "scroll", "touchstart"].forEach(ev =>
+  addEventListener(ev, () => { const idle = Date.now() - lastActive > IDLE_MS; lastActive = Date.now(); if (idle) connect(); }, { passive: true }));
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") { lastActive = Date.now(); pollBase(); connect(); }
+  else disconnect();  // 다른 앱·탭으로 가면 연결을 닫아 서버 사용량을 아낌
+});
+
+fetch("holidays.json", { cache: "no-cache" }).then(r => r.json()).then(d => { CLOSED_DAYS = d; connect(); }).catch(() => connect());
+pollBase();
+setInterval(pollBase, 3 * 60 * 1000);                              // GitHub 수집분 확인 (바뀌었을 때만 내려받음)
+setInterval(() => current === "live" && fillFeed(), 10 * 1000);   // '몇 초 전' 표시 갱신
+
+const TAB_NAME = { ...LABEL, live: "실시간 종목뉴스" };
+
+async function render() {
+  document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-selected", t.dataset.key === current));
+  if (!INDEX) return;
+  const dates = allDates();
+  const main = document.getElementById("main");
+  if (!dates.length) {
+    main.innerHTML = `<div class="empty">아직 기록이 없어요.</div>`;
+    return;
+  }
+  if (!dates.includes(currentDate)) currentDate = dates[0];
+  const pos = dates.indexOf(currentDate);
+
+  // 날짜 선택 (모든 탭 공통, 한국 시간 0시 기준)
+  const sel = document.getElementById("date");
+  sel.innerHTML = dates.map(d => `<option value="${d}">${dayText(d)}${d === dates[0] ? " · 최신" : ""}</option>`).join("");
+  sel.value = currentDate;
+  document.getElementById("older").disabled = pos >= dates.length - 1;
+  document.getElementById("newer").disabled = pos <= 0;
+  history.replaceState(null, "", `#${current}/${currentDate}`);
+  updateCounts(currentDate);
+
+  if (!hasDay(current, currentDate)) {
+    main.innerHTML = `<div class="empty">${dayText(currentDate)}의 ${TAB_NAME[current]} 기록이 없어요.</div>`;
+    return;
+  }
+  if (current === "live") return renderLiveDay(main);
+
+  const want = `${current}/${currentDate}`;
+  let day;
+  try { day = await loadDay(current, currentDate); }
+  catch (e) { main.innerHTML = `<div class="empty">데이터를 불러오지 못했어요. 잠시 후 다시 시도해 주세요.</div>`; return; }
+  if (want !== `${current}/${currentDate}`) return;  // 불러오는 사이 다른 날짜·탭을 눌렀으면 무시
+
+  if (day.closed) {  // 휴장일
+    main.innerHTML = `<div class="closed-box"><b>휴장</b><span>${esc(dayText(currentDate))} · ${esc(day.message)}</span></div>`;
+    return;
+  }
+  const upd = day.updatedAt ? new Date(day.updatedAt).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }) : "";
+  const basis = `<div class="basis"><b>${esc(day.label)}</b>${upd ? ` · ${upd} 갱신` : ""}</div>`;
+  main.innerHTML = basis + (day.items.length
+    ? `<div class="list">${day.items.map(card).join("")}</div>`
+    : `<div class="empty">${day.threshold || INDEX.threshold}% 이상 올랐다는 ${LABEL[current]} 보도가 없어요.</div>`);
+}
+
+function go(step) {
+  if (!INDEX) return;
+  const dates = allDates();
+  const i = dates.indexOf(currentDate) + step;
+  if (i >= 0 && i < dates.length) { currentDate = dates[i]; render(); }
+}
+
+document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => {
+  current = t.dataset.key;  // 날짜는 그대로 두고 시장만 바꿈
+  try { localStorage.setItem("tab", current); } catch (e) {}
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}));
+document.getElementById("older").addEventListener("click", () => go(1));
+document.getElementById("newer").addEventListener("click", () => go(-1));
+document.getElementById("date").addEventListener("change", e => { currentDate = e.target.value; render(); });
+
+const contact = issueUrl("");
+if (contact) document.getElementById("contact").href = contact;
+
+// ---------------------------------------------------------------- 홈 화면에 설치
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+(function installHint() {
+  const box = document.getElementById("install");
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  let dismissed = false;
+  try { dismissed = localStorage.getItem("installHint") === "off"; } catch (e) {}
+  if (standalone || dismissed) return;
+  const close = `<button class="x" aria-label="닫기">✕</button>`;
+  const hide = () => { box.hidden = true; try { localStorage.setItem("installHint", "off"); } catch (e) {} };
+  const ios = /iPhone|iPad|iPod/.test(navigator.userAgent);
+  if (ios) {  // 아이폰·아이패드: 사파리 공유 버튼으로 설치
+    box.innerHTML = `<span>📱 사파리 아래쪽 <b>공유 버튼</b> → <b>홈 화면에 추가</b>를 누르면 앱처럼 쓸 수 있어요.</span>${close}`;
+    box.hidden = false;
+  }
+  addEventListener("beforeinstallprompt", e => {  // 안드로이드(삼성 인터넷·크롬): 설치 버튼
+    e.preventDefault();
+    box.innerHTML = `<span>📱 홈 화면에 앱으로 설치할 수 있어요.</span><button id="doInstall">앱 설치</button>${close}`;
+    box.hidden = false;
+    document.getElementById("doInstall").onclick = async () => { e.prompt(); await e.userChoice; hide(); };
+  });
+  box.addEventListener("click", ev => { if (ev.target.closest(".x")) hide(); });
+})();
+
+getJSON("archive/index.json").then(idx => {
+  INDEX = idx;
+  render();
+}).catch(() => {
+  document.getElementById("main").innerHTML = `<div class="empty">데이터를 불러오지 못했어요. 잠시 후 다시 시도해 주세요.</div>`;
+});
+render();
+</script>
+</body>
+</html>

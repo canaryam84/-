@@ -1,0 +1,15 @@
+# Cloudflare Worker 설정 (GitHub Actions가 자동으로 배포 — .github/workflows/worker.yml)
+name = "rise-live"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+# 실시간 전달 서버 (무료 플랜은 SQLite 저장소 방식만 사용 가능)
+[[durable_objects.bindings]]
+name = "HUB"
+class_name = "LiveHub"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["LiveHub"]
+
+# SITE_URL(GitHub Pages 주소)은 배포할 때 자동으로 넣어 줌

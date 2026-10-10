@@ -1,0 +1,133 @@
+{
+ "label": "10월 9일(금) 국내 종목 뉴스",
+ "updatedAt": "2026-10-10T16:01:43.261502+09:00",
+ "items": [
+  {
+   "title": "루멘텀, 개장전 '강세'…CEO \"광전자 부품, 강력한 수요에 2029년까지 완판\"",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04011446645611280",
+   "source": "이데일리",
+   "time": "2026-10-09T19:53:37+09:00",
+   "stocks": [
+    {
+     "name": "광전자",
+     "code": "017900"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성 107조 벌고도 주가 하락…SK하이닉스, 27일 추가 주주환원 규모 공개",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xeWpZMWlRdno4TEpGMFl4aWNOMHExVlpVYTVlS0lJd0J3QTB1UWVSUjVqMUdUX1pVODRjWmFyN1Y2SzZ4QzNtdGxST1FXZnRacmhNSdIBVEFVX3lxTE0xeWpZMWlRdno4TEpGMFl4aWNOMHExVlpVYTVlS0lJd0J3QTB1UWVSUjVqMUdUX1pVODRjWmFyN1Y2SzZ4QzNtdGxST1FXZnRacmhNSQ?oc=5",
+   "source": "세계일보",
+   "time": "2026-10-09T18:07:09+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "'한글' 넘어 '인공지능 직원' 미국에 판다는 한컴…주가 반등 가능할까",
+   "link": "https://www.hankyung.com/article/202610081938i",
+   "source": "한국경제",
+   "time": "2026-10-09T15:00:02+09:00",
+   "stocks": [
+    {
+     "name": "한컴",
+     "code": "030520"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "HLB글로벌·에이엔피·우성, 개장 직후 나란히 '상한가'",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JN0hWX1FpRklPSUJqTThpd1NqYWplQzd1VEdWZE1jVzk4T2VsakNZLWNpNzdQblhpSG1nVjBlOV9BcjF3dldpc2lBYUVOb2FYOVNiWk9lRlRzTmZZSjEwcS03RVRhc3FzWHln0gFrQVVfeXFMT0k3SFZfUWlGSU9JQmpNOGl3U2phamVDN3VUR1ZkTWNXOThPZWxqQ1ktY2k3N1BuWGlIbWdWMGU5X0FyMXd2V2lzaUFhRU5vYVg5U2JaT2VGVHNOZllKMTBxLTdFVGFzcXNYeWc?oc=5",
+   "source": "경제투데이",
+   "time": "2026-10-09T13:16:27+09:00",
+   "stocks": [
+    {
+     "name": "HLB글로벌",
+     "code": "003580"
+    },
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    },
+    {
+     "name": "우성",
+     "code": "006980"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "대화제약, 애프터마켓서 급등…연휴 이후 주가 흐름 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMGt5MVg1cXNGTE90Y2laTlhPS21TUkE3dFZfMU9hcktmQU5fdThZOTlWbkE4LVJ4R0hJRkVYdVNwU3hGdS1yZ2pTZmVBelFld2hmeVI1cThWRTYxMEprRUExdWxRXzI4?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-09T12:06:23+09:00",
+   "stocks": [
+    {
+     "name": "대화제약",
+     "code": "067080"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "“241층 구조대 오나요?”…고점서 36% 빠진 삼성전기, 증권가 전망은",
+   "link": "https://www.mk.co.kr/news/stock/12172221",
+   "source": "매일경제",
+   "time": "2026-10-09T10:49:34+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "\"지배구조 개편에 주주환원까지\"…현대지에프홀딩스 4.64%↑",
+   "link": "https://www.hankyung.com/article/202610082049i",
+   "source": "한국경제",
+   "time": "2026-10-09T09:00:15+09:00",
+   "stocks": [
+    {
+     "name": "현대지에프홀딩스",
+     "code": "005440"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자, 107조 벌고도 주가 하락..증권가, 저평가 근거는",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rYVd5Rk5rQlc0SUM1UUUtYzRTZ2xkV2tMM0hwZU15eHVUeHIxS1NFWm9nWHpnRFBMRU9LLWJxWlV6cHItWDB1bHZGX3dKS1ozUUE?oc=5",
+   "source": "한국정경신문",
+   "time": "2026-10-09T08:51:13+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "down"
+  }
+ ]
+}

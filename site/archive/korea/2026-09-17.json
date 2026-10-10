@@ -1,0 +1,223 @@
+{
+ "label": "9월 17일(목) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -0.04,
+   "text": "-0.04%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXYVpFQ3hrTzdwSmZrR0Z4bXlodFo1SU9kSW9Ed0V0YjlHeWZBTjNCX2lxenR3azlMREwxSDZWMUUyMEp0Xy1peHdlYVVrNmV5TWFxV0hGY2taeGxxUTI5cXVUWWI5aDg?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.76,
+   "text": "+0.76%",
+   "exact": true,
+   "source": "한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vWkxiWUNtZzdCT3A5OF9QT1VaNURoMUJzY3pDaW9ScFJaWEV1UmRzQ2UwcGdXaEpGZjc3eGgyaU9NQnFFQVEzZ3AxNWJla01XZVdYX2NGZFQ0UQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "앤씨앤",
+   "sub": "코스닥 · 092600",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 피인수 소식에 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm81UGVLd0s3UzM4bXpHMW1NVkJmZklhM3FZSEx3UHlvNmh5Yjg1d193R1ZSTkN4X0tJM0pQeE1tcVpUVUlVVDA2NDhoZjRncHhWU3QzNExmaGlCaE1yUWUtWU85UkFEaTJac0k4eVBFdGV0X01oQXFZQW9idDFDelhjYmU0bXdi0gGcAUFVX3lxTE5NMGtfRWppeHM1U09JQndUMHQwcDhJTU5laHhqSmJqY3pEYVpoSlI2YUt3aDlxRXBYeUwzT0NZbzNuSHNEWU04cUxWQ1RyeUhjRGYwTGhWRnh3cVFvSDRoZ2k5S2VaVXNkSktUOHpFcmRuRUEzOTVjeUNxeFJLYVNIX01YTGlXdFdjN0hQWXAyWEtUMDBtVEVsamlzSA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "앤씨앤, 비투엔 경영권 인수 추진에 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YdUpnSTVnTkJLVmFJVU1yaFlCeDVPdk9fUGlaV19jOWZfNk4wN2JOWkhlUGQ3bUpUWEJLT05iV29GOE9ITV9GdG5rM0FHY2c?oc=5",
+     "source": "Daum",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔이 경영권 인수.. '상한가' 직행",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObk5lXzQ4d0xXOFJkcXlqTXJRaXJMcGtGMjNjYjVOY0VnU25ybVE4WERYRDBCZ0VqcVpFczNfODR4cWZGaTRuaEtfVUMxZFNRXzlQMkp5TXFzY1ptZThXeVpobTV4bU1WUk9QWVhsb0RwemUyOWh0Z0pNTERtS3Y5WQ?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 최대주주 등극 소식에 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoZUpDbG0wQjl4NE16WldvYWpJSXJFOTNHZVR1cEJIajROcG5VR2F0MWhhckVRbGV4OFdZa2RuTWhiTi1CMUVpRmM5TjhLbnlobUJNRVhwOThONHRnRzIzYW52QTVLUUhHNlE?oc=5",
+     "source": "컨슈머타임스",
+     "time": "2026-09-17T09:54:11+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비투엔",
+   "sub": "코스닥 · 307870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 피인수 소식에 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm81UGVLd0s3UzM4bXpHMW1NVkJmZklhM3FZSEx3UHlvNmh5Yjg1d193R1ZSTkN4X0tJM0pQeE1tcVpUVUlVVDA2NDhoZjRncHhWU3QzNExmaGlCaE1yUWUtWU85UkFEaTJac0k4eVBFdGV0X01oQXFZQW9idDFDelhjYmU0bXdi0gGcAUFVX3lxTE5NMGtfRWppeHM1U09JQndUMHQwcDhJTU5laHhqSmJqY3pEYVpoSlI2YUt3aDlxRXBYeUwzT0NZbzNuSHNEWU04cUxWQ1RyeUhjRGYwTGhWRnh3cVFvSDRoZ2k5S2VaVXNkSktUOHpFcmRuRUEzOTVjeUNxeFJLYVNIX01YTGlXdFdjN0hQWXAyWEtUMDBtVEVsamlzSA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "앤씨앤, 비투엔 경영권 인수 추진에 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YdUpnSTVnTkJLVmFJVU1yaFlCeDVPdk9fUGlaV19jOWZfNk4wN2JOWkhlUGQ3bUpUWEJLT05iV29GOE9ITV9GdG5rM0FHY2c?oc=5",
+     "source": "Daum",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔이 경영권 인수.. '상한가' 직행",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObk5lXzQ4d0xXOFJkcXlqTXJRaXJMcGtGMjNjYjVOY0VnU25ybVE4WERYRDBCZ0VqcVpFczNfODR4cWZGaTRuaEtfVUMxZFNRXzlQMkp5TXFzY1ptZThXeVpobTV4bU1WUk9QWVhsb0RwemUyOWh0Z0pNTERtS3Y5WQ?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 최대주주 등극 소식에 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoZUpDbG0wQjl4NE16WldvYWpJSXJFOTNHZVR1cEJIajROcG5VR2F0MWhhckVRbGV4OFdZa2RuTWhiTi1CMUVpRmM5TjhLbnlobUJNRVhwOThONHRnRzIzYW52QTVLUUhHNlE?oc=5",
+     "source": "컨슈머타임스",
+     "time": "2026-09-17T09:54:11+09:00"
+    }
+   ]
+  },
+  {
+   "name": "큐라티스",
+   "sub": "코스닥 · 348080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "비만·당뇨 치료제 테마주 강세… 큐라티스·엠에프씨 상한가 [바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnbGY0M1I3N0c1Z0d1UkJQTkhISjdOOHQ0TkV2NmY1UkZNMjl0TjBqRVVTeDhEZkdtaUZpWVRrRHhCMXZQQ0MtcElJczJ4R0NkRWNQbER0YmZpNzF0c3gtZ3pKMjV3LW0xcDd0Z2dB?oc=5",
+     "source": "팜이데일리",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, 큐라티스-mRNA 테마 상승세에 16.65% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80amUycFBSVzJiWGVNQnJMbU5wNWNjSXNtQzZKV0ZmWlRBODk1R3ctYlBVWHlrZkVKVXg1c0lYQnpCeEdEYmNfWlpFcEpqS3QtbGc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비츠로테크",
+   "sub": "코스닥 · 042370",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "비츠로테크 주가, 9월 17일 11,440원 30.00% 상한가",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNekJuLW4xWFFweHBJbXF0QzRkdV9XYjR4WnE5Y3pyUWU3SkdBc2dxaWEyUnlKNnlRU1dFcU9GZ2M1NWZJUmxYTUdSU0pNN3ZHVlJYc2VrZE1ySzhFRjA5MVdySlZNTkpNY3VkelJhdjYwUQ?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "[EBN 데이터센터] 비츠로테크 등 코스닥 상한가 6종목",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5MG9WQXNZT0hzTVY5OEdYell6WE90S01udTd4NVZsbHNXY3hoSEZjTFdyVzJ0RDJkcWZneHV0NC1ZMTExU29rVXdkM2FBNko5cVlOVkQwN00wMS1ZLS14OVhnbnpPRWh4?oc=5",
+     "source": "www.ebn.co.kr",
+     "time": "2026-09-17T15:35:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빛샘전자",
+   "sub": "코스닥 · 072950",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓]빛샘전자·아모센스 상한가…삼전 보합·SK하닉 상승폭 축소",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHd2RGQXlFWUJHbmhjdzg2N3pDRGg3NWFLVVV6VEhOZnYyR3FPNHMxbFVnTXRLaldCMUlFZnhGX19zc3Z0bG9Ob1RPcw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-17T16:00:00+09:00"
+    },
+    {
+     "title": "빛샘전자, AI 광통신 기대에 상한가…실적까지 받쳐주는 상승세",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01b2ttQ2FxNmhacmk5TGRzVmhzNDZMOXpoXzFJV1dVbS1UVTJCdjRobGhnSlZsbkM1Smg2T3l6UDdqSllqeWRtTzFxeC1jS1FYWW1ndEV4VDJZdw?oc=5",
+     "source": "한국경제",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엠에프씨",
+   "sub": "코스닥 · 432980",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비만·당뇨 치료제 테마주 강세… 큐라티스·엠에프씨 상한가 [바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnbGY0M1I3N0c1Z0d1UkJQTkhISjdOOHQ0TkV2NmY1UkZNMjl0TjBqRVVTeDhEZkdtaUZpWVRrRHhCMXZQQ0MtcElJczJ4R0NkRWNQbER0YmZpNzF0c3gtZ3pKMjV3LW0xcDd0Z2dB?oc=5",
+     "source": "팜이데일리",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아모센스",
+   "sub": "코스닥 · 357580",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓]빛샘전자·아모센스 상한가…삼전 보합·SK하닉 상승폭 축소",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHd2RGQXlFWUJHbmhjdzg2N3pDRGg3NWFLVVV6VEhOZnYyR3FPNHMxbFVnTXRLaldCMUlFZnhGX19zc3Z0bG9Ob1RPcw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "넥스트칩",
+   "sub": "코스닥 · 396270",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "넥스트칩 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhSmRfc1RCRUQwTTFteTVqWTdod2RvSTdDejQ4YUFzSThNME43c21TbjJWeTFYVUhlMms0bzc0RENwVW9ON2dhTmtaTjJTX3ktampNY01jWHkzVzA1SGUwVnFMbVFiRGFxc1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "케이피항공산업",
+   "sub": "코스닥 · 288180",
+   "pct": 15.78,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 케이피항공산업-항공기부품 테마 상승세에 15.78% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oV19jZzVjYTAzTWpZQXBRVTh5eXQ3VlZBR3pEcHI5ZS0zRGpoQlNodXBtOE85Sjg5S2hWY0t2QkhFWFc3U1l2TGlackgweFBEd3c?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-17T16:00:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

@@ -1,0 +1,73 @@
+{
+ "label": "미국 10월 5일(월) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.18,
+   "text": "+0.18%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3VzZ1hhTXRxMGh3VnFjbjJZVEZFSFFmd1JWdFV0d3RnelQ2MnZYMU5BVmtfVkxMUkxIeFF2WHZMblp2TWhJRGxPeFNQOVBZOWNLN2hfb1pHTmdtQjQ5WlNPVUNuRmlpN2xCWEpqYjY5ZVBNSUYzM3JBazcxQmpGamdTLTBFbldVU0ZZX2lJbVBubGVGY29rQnFvUXdQdG1QQ2p5ekpCbk03clZ5alhjUGlPd3ktRl8waVRfOW9PZTRaVlltSXc?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 1.05,
+   "text": "+1.05%",
+   "exact": true,
+   "source": "데일리안",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPN3dPcGJMNU12Q1VYY0twc0szZEViSnRSZnUwRXo2VnR5aWZHN1dfVFU2Z3p0RExtTUlCTlZyTmhEY3M5MmpzRzRsSHlsM0NfYjBpb3dVQThnTVRzSFBGR25EQTF1bTNETkpyMGVESHAyQVctejVjbEkyWTh5ZEI0Q2p2b1RpaXpYbVliYlVmTFRrdGdtZTBpbkZTYV9kNUlYb1NISWxNc3cxODROdGJMSzNLSy1POG5SMXVxYkFPVlJmNXFKVVhfSmtEdTM2eW9tWUdrclJDMHcxTEdLeFhqWDMxQmFDOXZwbEtrWHEzVjFaWDNoOXJsOUlZVWN4elNxcGEyRkxDWkFQQWFk?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Perrigo",
+   "sub": "PRGO",
+   "pct": 62.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Perrigo stock soars 62% after InvestingPro Fair Value call By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzZoODlkeDY4QnpCdGxjbVJMeHJJSmlsWkxSS0otWHBVT0xNYi1VQy1iVUIxMlpMUHdFM2ZtMzJaSXhrYWwteXpiQlpyY3R6NXBfRWR1WkdZOUZGRmt6ai16R2JxbUtuSFJDc2tWcV81bzB3VlpsTTlybW4zSFRkZW5HM2FLdVgwSE9iazY5dXpNbHhEQ0tHZ0Q0V0FWbGRtM1Y4bUhhVTRjb0NTSkt1NEYxamtVcTBpUHc?oc=5",
+     "source": "Investing.com",
+     "time": "2026-10-05T20:32:28+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Vaxcyte",
+   "sub": "PCVX",
+   "pct": 57.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "Vaxcyte shares jump 57% after strong late-stage vaccine trial results",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzlQOEU3RkIyRFUtOFZkcHRNRWJVaFctVnhSMGlLWkZFV0dWemxpSS14S3NyMXNNLTlMeElaNXpUbnVfX1hSa1hkMDloQW52cjZJYVQ4TkZjc1lRN0kwWnk2czBzYkw3aGVIV3p0Y2FFLUI1MVhHRFR4SDJGeDZmLTEzRXkyVUhPZHNuenMtcFZzU3ZGZVJZVFR6bTljZw?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-06T00:36:22+09:00"
+    },
+    {
+     "title": "Vaxcyte stock soars 50% on positive phase 3 vaccine data",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlJTcW9yNTI3M3N4RUtqY1ZySFZtXzFmSEMxN0QtczZ6QmtLMjgxaXlqWjRXUDdHVFJWaWRfd2VoYmt6bzI1bEdwYm1lQ19RZktLZk9TZ2dqbFpKal90MHVhTk01ajBpQXNfSEl6NU5jMzB6NXExYXJJcXZKdkgzNWtmSGJmbUZxQng3dkhPRC1iMUlmbTQyNVNpazZCSnhwXy1WX0VocVh5cWs3NXotYXlR?oc=5",
+     "source": "Investing.com",
+     "time": "2026-10-05T22:16:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "PTC",
+   "sub": "PTC",
+   "pct": 34.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "PTC shares soar nearly 34% after Schneider Electric agrees to $22.6 billion buyout",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRVVudU1RSnVyYWQ4ZFNuRTk5V3B0c0FhM2oyQ0ZTd1k4d2tFMmZMdGFxRXo2UlFQLU5VbjlZdUJIck5hVUw2Z3JXU25DeUFnR2pHZGczYXNzQkd6Y25Kc2VQM2poekxqMTVOOWFRSEJpTHA3NWt1VVloOFJoMjAyTV9xTXlJMFVNQ0NMUzRDWmdia0RoYTNKS0ZPTU9WOGE1WnF4ZzVvajg2d2JONTd0NXBuS0pmVFhCdnczNUpDTXJPNzhqX0F6YzBiYmdrYmpIOG5BV3ozNllybHRhSmRUNzd0ZUhnMnFQWTVNWUoxdml3a29pTzAxN1g0OS0yZ0HSAYQCQVVfeXFMTmNvdVVkUzJRUzFhRlhreDR0TFlxQWdvN1R6ci1fVGVDVVV6cmNtc1hXUXlZV2hEMmhRSkl1VTFUcUNWdTJaOXlyVHB6SmR5YXhpODY2WFNmMU5DaDRyZ1dlcjctRGc0Zkc3SnJ2TE5zWE1EaGJsd2dOSTRybmlJeFVHUjNxR2VUbXFvZDM3VXJDQndZbzV6Z2Y1eV8yN0lwbjNncmVySkZ2aUlrYm50cGJMcXQwYWs4MHlUWTQzbWZkWnMzM2ZTcVNQcVJxTGVUWW5SMEpRd0tValJnMlIwQUFMTjJrSzhEWmM1LWZCVlFiOVlMSlB5LVVaSzBlMDl4S3l2bTc?oc=5",
+     "source": "The Economic Times",
+     "time": "2026-10-06T03:00:47+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:31:01.675141+09:00"
+}

@@ -1,0 +1,179 @@
+{
+ "label": "9월 18일(금) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 2.66,
+   "text": "+2.66%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oR3AtLWdvemtMSVU4ZWdpQlBfV2dqdTB0X19vZXJKTUplWHIzS0E0Z1pqeWdYaC1ZVVdZdThNUERHMzZxNkFYTkpDd3d3RzN6bHpKUkg2b1d2NHdyVnlwM1pYRjc1OHM?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.6,
+   "text": "+0.60%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qM3VReHZYdjJpWFVHYi1IRkVzLVpSWFo4WlZDaEdRQloyU2g2NWl0a253WGdoRDZPNWdaMGkyamFQWDNPTnIzck5tTlF6WnRZZ0stWjMza29fSm9PQWJB?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "동양",
+   "sub": "코스피 · 001520",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "[특징주] 가덕도신공항·AI 데이터센터 기대…동양 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nTW1YNzRuTGF3NVdielBwWTZWSDNmeW5yeHBFOGlZVHVFMGFKbVRiRWZIS29qdndBX01RNlJQSkhYZnBsTDRMTnhsNmloR0JuanIwNmZmNkppWjlo?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "동양 주가 장중 상한가, 가덕도 신공항·데이터센터 기대감 반영",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PRjNONWMxc2ZEQTdhTVhkWU02Y0tzUXJ6aENLU3ltaUJoWUVQdmtlc2JqTjF3VlkxN3gwcGZ0dl8zTEtFTzMzNU5DSWpiUDhnLVRNNi1UR0xnNHJxaWdlbkJ3ODhpajlmX1ZyckNTOU1MSm8?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "동양, 가덕도신공항·AI 데이터센터 기대에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYV3hYS0hHcTZqQ1dFTlVSY0UyOGFKOW9LVlJqUU11ZWlSLXZVWDBUVHNsS1RYbXhnbkpESWVfMldhN1Q5VXVkMFpsR2Q3WDBzcFFTandMbXRsbE9SUXJaalJB?oc=5",
+     "source": "매일신문",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "동양 주가 '상한가'...가덕도신공항 착공 수혜 기대",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRGJHT2JHdXdBYXhHMVFaWlVCQTRjZjFTTzBYU0lRcGNzZFJxREJiM0tlZTdpWUhtaGZjVXplSkhtc2g3eGlYOUNxLU00STJtN28ydnZuVXVPNU1jYjBjWlNzczhDWXVIUWVUN2dn?oc=5",
+     "source": "국제뉴스",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "앤씨앤",
+   "sub": "코스닥 · 092600",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "앤씨앤, 비투엔 최대주주 변경 기대에 이틀째 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qeFhlazViS3dWWUYxUXVfb3FURGtDMHZ5SG9kYlRLSWFtalpNSU5PS0RQNzdXYnh5Ykxha25IcmZvbkcteVY5Rkg3OGlvNmc?oc=5",
+     "source": "Daum",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 피인수 소식에 연이틀 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWJnQmFLWHplQ2cxekxmZjQxem53RkNCM29ydG1OYl9nTC1rVWRXTWFERFNJN1dGNWprRy1uWnE3YXhCcThIT0piamd1X3hYZ0pRSVpQYmVMb2tYX3dWdms1dDBwMlZsSU5kRzNuYkV6b0dEeEdwYkhlR3ZTUHZpekVnRFBlQnk20gGcAUFVX3lxTE5lajFMWXBZajFzZXpkSXRHQzBCNDY2UEpCMWl4QXN2S2g4S2pVb0xDUzI5LWluODB4aWtBbTdfRFdBa191cjZQMjNua0VTME5RMnNQcWp5S1BmZjJZbEZ4RjVIVEV6WV84T05tTEt3cWZ5V0ZlQmJWeXB5QlliaThMRzRlb3ZKalpyR01iOGxlY0pnOUdkR2tXMExRNA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, 앤씨앤-뉴로모픽 반도체 테마 상승세에 23.02% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42TlNhS0Jjc2NmODAxQkVfVHYzd2hENnJaNDJmQnlCSkhYRzJld3UzX29xX0lVVnd6VnktTktaYkVwMExEQjBZWi02d01LTlZjNkE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비투엔",
+   "sub": "코스닥 · 307870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "앤씨앤, 비투엔 최대주주 변경 기대에 이틀째 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qeFhlazViS3dWWUYxUXVfb3FURGtDMHZ5SG9kYlRLSWFtalpNSU5PS0RQNzdXYnh5Ykxha25IcmZvbkcteVY5Rkg3OGlvNmc?oc=5",
+     "source": "Daum",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 앤씨앤, 비투엔 피인수 소식에 연이틀 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWJnQmFLWHplQ2cxekxmZjQxem53RkNCM29ydG1OYl9nTC1rVWRXTWFERFNJN1dGNWprRy1uWnE3YXhCcThIT0piamd1X3hYZ0pRSVpQYmVMb2tYX3dWdms1dDBwMlZsSU5kRzNuYkV6b0dEeEdwYkhlR3ZTUHZpekVnRFBlQnk20gGcAUFVX3lxTE5lajFMWXBZajFzZXpkSXRHQzBCNDY2UEpCMWl4QXN2S2g4S2pVb0xDUzI5LWluODB4aWtBbTdfRFdBa191cjZQMjNua0VTME5RMnNQcWp5S1BmZjJZbEZ4RjVIVEV6WV84T05tTEt3cWZ5V0ZlQmJWeXB5QlliaThMRzRlb3ZKalpyR01iOGxlY0pnOUdkR2tXMExRNA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "큐라티스",
+   "sub": "코스닥 · 348080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비만·당뇨 치료제 테마주 강세… 큐라티스·엠에프씨 상한가 [바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1MwSjI0RGR0TDgwR1NOcUVwV3pSUUVISEtzb3FJY19rNFFXQXkxSXFrZWVLem5HVUNSZWdDbUNrMEhCOHpQZGpGcVdxRDBFMno5eU1xdzdMM1BkajFqSTVsV0VNdmRWWDMwX2NsNXE4X2UwTHpiZURTTXFiclp6ag?oc=5",
+     "source": "이데일리",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엠에프씨",
+   "sub": "코스닥 · 432980",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비만·당뇨 치료제 테마주 강세… 큐라티스·엠에프씨 상한가 [바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1MwSjI0RGR0TDgwR1NOcUVwV3pSUUVISEtzb3FJY19rNFFXQXkxSXFrZWVLem5HVUNSZWdDbUNrMEhCOHpQZGpGcVdxRDBFMno5eU1xdzdMM1BkajFqSTVsV0VNdmRWWDMwX2NsNXE4X2UwTHpiZURTTXFiclp6ag?oc=5",
+     "source": "이데일리",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "우리로",
+   "sub": "코스닥 · 046970",
+   "pct": 20.66,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 우리로-양자암호/양자컴퓨팅 테마 상승세에 20.66% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBazlYdV9HQS03VkdqdW9hc0ZfTVVsdUFFS0puNW9wQ3Q2aDQyWjI4bTZjZ3pJeTRYOGRHN0pvVndUMzBEc2JoZUZBR2pfZWE1Nnc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "가온전선",
+   "sub": "코스피 · 000500",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "아마존發 전력장비 훈풍에 가온전선 20% 급등 [줍줍리포트]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVUJJS0RPZ0ZoNm9XUW05QmczeWh0WUw3TTV1Y0prZU9TYzFvRnk5T0JxR1B3S25CT0t4dHJULUY2VGljS01IbkNES0lBdVlFd0HSAVNBVV95cUxNOWhyRlo0ZFk3RkdqU2pkWWNiRG9CZzQ5U3JkTVBoak5kSzFqQUVjeUxYWlBoLXg1UzJsYm1QMW94Y1hqLV9nZU90OElJOU5LWVViSQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-09-18T16:00:00+09:00"
+    },
+    {
+     "title": "가온전선 20% 급등…'美 인프라 투자기대' 전선주 강세[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lU3ByaDVnX19uVHc5cmRCS2JYR2ZVTG1XaWl4RXEweEthWXlWT0pFZFR0V2NIXzU2X1NXM3RtMDZ1OWctUzlHUTFQY1BRTlIwNnRPcFVHWFZXTTh6bFln?oc=5",
+     "source": "뉴스1",
+     "time": "2026-09-18T16:00:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

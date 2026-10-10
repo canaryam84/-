@@ -1,0 +1,145 @@
+{
+ "label": "9월 30일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -0.48,
+   "text": "-0.48%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01VGNBeloxaWVqcExSNzExYVRfZmF2RTRuSktaOGpWUmN5OG9WcVlSYzhWazBkRWxObDk0cEhnS1JqVWdWWXk3YV9VemxMQTB4RVlvZEVXMDl4dnFGbktSU1MwdjZQM2c?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.72,
+   "text": "+0.72%",
+   "exact": true,
+   "source": "뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43OFh4OTZSYTB3TVQ2SUVvRS1WeEhTSENpMlgzTWpNUnVoenEzOFotbEJwS2FfV0hoVW9BNWtJOEo1S2NETklHU1BNUHRwRnppMTVJb2FkQ3M5TmhZ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "윈팩",
+   "sub": "코스닥 · 097800",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "윈팩 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50ZHlraWxKVEFBY3Y5dlN6UTBXOWFORVRqVDdWNm5zaHR5TzFOMngyZ1dPMWswREVobW5yeGo5SUVVcUd6WS1oQzA3UVBDa21GNElKVXZrVlZxU1gyY3lmVWdoVkE2Xy1RNnc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-30T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, 윈팩-HBM(고대역폭메모리) 테마 상승세에 23.06% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FTWZwRDVlWGtoRHJUQXJaaDZzb1lJbGJEYlhUa2Y3TXlnQy1JZl9qWUxOYXh3MjdNcEpLXy1FZG0tMXk0WmEzUUJjcVU2MnF1UXc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-30T16:00:00+09:00"
+    },
+    {
+     "title": "[주식마감] SK하이닉스 D램 후공정 외주 확대 기대감에 윈팩 상한가... 동양스틸럭스, KBI동양철관, 빅웨이브로보틱스 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdWlFQjJicVNDSnZiem9TMjQyYXlsRC1MOVNfajdEVG1DWkc1N0o2RGhZRm1WVGF5bFlhcGtmb2pGa19YRTlIcTdfV0hocG9MY2R0RjQ3U1RaU1dQOFJCa2Z1cVhkamx6SlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-30T19:40:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "동일스틸럭스",
+   "sub": "코스닥 · 023790",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "철강주 장중 대미투자 프로젝트 발표 기대감에 동반 급등, 동일스틸럭스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45TjViS1pSWkdhdUk3LW1oS01Eb1YyM0F3akhRSkRPazROOHpkMzJMOGtzUG5qUUZMeWlvQUw1a2pPZ3hhWFVUQjBINUVHMnBaLWlrbDR2WW1YV01FN1BvMXlLX281VFJoNWJ5ZmU0WUR1cjg?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-09-30T10:31:42+09:00"
+    },
+    {
+     "title": "동일스틸럭스 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbURoMDNocUNZUjhxTlpMRFVHXzhudmdPenBJZml6NE1mYlQtTlFYaGUxS2d3cVB1VnY0dUFSa2xmWXhmUHpLTkFBUi1nSEJjRUZxRnU0ZkFPTTVndkpaVXlzYTVZbjNJemc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-30T09:25:34+09:00"
+    }
+   ]
+  },
+  {
+   "name": "KBI동양철관",
+   "sub": "코스피 · 008970",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감시황] 코스피 사흘째 하락…KBI동양철관 29.97% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oSHR6T2w0Z0JFWnBXUTJCT3RmdkFmUl90cTN3QjVoRmNMQUwtb01rYlVDZVFYamZ2OHA5YjJuR0VRSDQyUzlnd29VSnpiUDlUWW4zczY0YXpFbDFQdVZUekwtckp2S28?oc=5",
+     "source": "자본시장뉴스",
+     "time": "2026-09-30T17:00:00+09:00"
+    },
+    {
+     "title": "KBI동양철관 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56SnBzOFBOQ1M2aEFxb3JHR1VKM1A1WHp3VnBpVEdhZ1JjTHYyV0p5QTV6REo0dGVFSHBRM3NDU2pGTURPcG5BcmVtUm5vM0hCOExjMlFqLXFtY0VtaGJFVzU2Ny1vOTRzWWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-30T10:08:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[EBN 데이터센터] 코스닥 강세…빅웨이브로보틱스 등 3종목 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4YVdwZUdsd2k4UWI5ZmdzU3VnQy1MeGhpczZwSFB4anR1TkFGY3NEM1dwZ2pJMEVWZDB6NkYtRzV2Wm1GUkN1WHpubVV0VVZuczRsMXJqaUcta05qT01NZ3Q2MWpsRjdR?oc=5",
+     "source": "www.ebn.co.kr",
+     "time": "2026-09-30T15:35:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB제약",
+   "sub": "코스닥 · 047920",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] HLB제약 상한가 도달…삼전·SK하닉 상승",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zczdqcEFqX2VkeFJBZWdjMUZJR0N3SEsyRnNHOFNvNDc5c1FJZ1hYVmlRcDdDbWtFNU9xM0dNVEpVUlpfemVGZ1lBZERaZmV3R0QtWQ?oc=5",
+     "source": "이투데이",
+     "time": "2026-09-30T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "범한퓨얼셀",
+   "sub": "코스닥 · 382900",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주]범한퓨얼셀, AI 전력수요·잠수함 수출 기대감…15% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FcTFfNTcyMDktbWhXNlhwYlRtbGh0X0JGWGtrbGxael9qZTJmMFVLUmNxbTdOTTRITGk2ZGdJY1lUdk5hOFBHUGF0VFRvdDQ?oc=5",
+     "source": "Daum",
+     "time": "2026-09-30T09:00:44+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

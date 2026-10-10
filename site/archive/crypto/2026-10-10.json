@@ -1,0 +1,51 @@
+{
+ "label": "10월 10일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.92,
+   "text": "+0.92%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ed0Z2NmxuTUpMZ2RTVEswNlM4WXZJeFNtMEk4YXVRNDc5VWZRS2FqdTFQdGswd3IwSFJEX3c1aUNRRDRWQlRILVJEUEdSN2hualNNbzZFLVBkNjVJQVhUdW1nT2IyM0xF?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "탈루스",
+   "sub": "가상자산",
+   "pct": 107.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,290만원…빗썸 탈루스 107% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPaDI2RkFzZ29vb04tMFk1SkN5ZzFsRXlqMjl3U1BuQnJiYThvejZCTEhDUkxGQ3BJdFJBQjhOVDR6SFR5M1hBRDBJMFY4R3E5NmNiZ3JDT09zZmE2X2JPbg?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-10T07:30:20+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카이아",
+   "sub": "가상자산",
+   "pct": 59.17,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[10월 10일 코인 가격] 비트코인 0.92%↑, 카이아 59.17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ed0Z2NmxuTUpMZ2RTVEswNlM4WXZJeFNtMEk4YXVRNDc5VWZRS2FqdTFQdGswd3IwSFJEX3c1aUNRRDRWQlRILVJEUEdSN2hualNNbzZFLVBkNjVJQVhUdW1nT2IyM0xF?oc=5",
+     "source": "IT타임스",
+     "time": "2026-10-10T10:51:02+09:00"
+    },
+    {
+     "title": "업비트 거래대금 34.78% 급감…비트코인 1억1,300만원대, 카이아 26.12% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KdUJiM2hoUUh1X3doWm5PZjZnR0hOV3RqLUIzYndUX3JBcXFrWHVRWE9LQnhnd1JfS1IycVFNN0NuYlFKVks1Mm53?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-10T08:48:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

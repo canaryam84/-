@@ -1,0 +1,31 @@
+{
+ "label": "10월 6일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.62,
+   "text": "-0.62%",
+   "exact": true,
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTM4azhtSnJyT0NUZzZLeHBNMFNjY2Z3Zl9WOTJnTW9zbWFkUnl4eEh0RkFyVjhORC16VXhuWUlucUYweVh4aFZVR2hTX0ZodWRiZHcyTXVIWnpFWHpua2JpYV9GN2pqNnVqNGhzZHR6RUpsU3VrbEd0N1ZrR2VwUtIBlAFBVV95cUxQbmRkUTBxYXBsVHUxdU1Nbi1YUUtadWNZVVlDbGZRWUFVSWVoTjZvQ3ZTYnI4VnJxNVNuckVqSzZDQ0R2QnFCNjUtZnhpdmtrRXhKZVh5WWhhd19GODh4U3dJbzBDTlFBYjlyUWw2cUxyZlZIdU1LX1dKM0txUXJyYlRtWF8zUS1GdGZmZk0wMmdjbUhJ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "아이젝",
+   "sub": "가상자산",
+   "pct": 105.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,629만원…빗썸 아이젝 105% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QelpqMm1LeERKbXNJZTNXS212R3NOZzlKV1JKZXAxdmVReW1xZUpaNFRhMndLUnFNS3N3amZFUkVXWXJDWHJ5Rk1qQWU4eFltZUwyUExDSjIyZVFVdDhpUg?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-06T07:30:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

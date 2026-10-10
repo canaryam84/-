@@ -1,0 +1,16 @@
+{
+ "label": "10월 8일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.31,
+   "text": "-0.31%",
+   "exact": true,
+   "source": "국제뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTlJMQmJFckRHUUhTNUtEWUZLejY3Z2pMZHJINlRCNWRvVFY5dEl6Wm1KQm5hVjd5QTdLQWhmTFZxS0hyODlBVVhCdmVrSWR6R2haT3pCLXd1aUlTYXp4R19BVWlOeWtCZUlBZmFn?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

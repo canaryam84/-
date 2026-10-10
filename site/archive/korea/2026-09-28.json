@@ -1,0 +1,123 @@
+{
+ "label": "9월 28일(월) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -2.7,
+   "text": "-2.70%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWUd1U2VqdlktWUFHMUFMam9sMkZDd0U4RVlhVzJFNldkR2phNGVqWEFwRVd4YmRRVXJVdXNQaWROVGg4RVFOTGRiSkZhSHpDZk5tTGg2UDZJMlo3emRydHFSWUJkSEU?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.25,
+   "text": "+0.25%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HLU1JQ1VGYmszM1U4cEktMzFKNi0ydHZEOV90Mi1DX0VOWG85ZktzdWZxcjQ3RktubGZuMlllUW1FZ3dBTXJFNHk5cEdtc3lobHJHaFZ0T2U4TVU?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "HLB",
+   "sub": "코스닥 · 028300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 20,
+   "articles": [
+    {
+     "title": "HLB 상한가 마감…FDA 승인 반영한 첫 거래일, 화요일 장 성적에 시선",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhQVp6YlVZVkUxdDVTR0FoRFZWUjZwaHJGa2JCbWNPcnJINi11TFpteGg1SEVaaF9MQ0lhX0V5Zmc5T3Nmam9lZEhfd0RhZnNlUUpJbUtWQVdISWpSY2hlRnRmNGpvbXJ3?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-29T07:40:00+09:00"
+    },
+    {
+     "title": "HLB·HLB제약 등 그룹주 상한가 '불기둥'…향후 장 흐름 '이목'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tMWZON1VrVEJMTjR6Szc4M3YybmM5S1c2WC1SVUJmNU1EN2E4bDNnZlZwLWctaWxGc180UjBaYzE5WW5mQk1iMmYtUkpXaXVIdFowY3NIZ1NjYVdfdF9LVEc5RWJiRTVC?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-29T00:10:00+09:00"
+    },
+    {
+     "title": "[특징주] HLB, 담관암 신약 '리픽투' FDA 허가에 상한가(종합)",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMWYxQ2xxMy1fZ2pSWlhHRzZEUmhycXVDb3J2bDg3MVZlY0ZFVnBSVG0ybGx6WnJtNnhPTDhWTm9TQkloNmZEUnZsREQ2TUs1T2lNVkV2WTRUX0HSAWBBVV95cUxPQk5OajhfeUczbFFGY2UyVm5GSXRCenNETEpCSUVPTVB1Y0RwWTNPQ1lOaW05WFlROTBQTVZHVnRIS1lyd3hPZDBXZDd1emdZZm53c2E0LUJGVU1iNFhGNXg?oc=5",
+     "source": "연합뉴스",
+     "time": "2026-09-28T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] HLB, 담관암 신약 '리픽투' FDA 허가 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PYnJxa3BaT0RPZ2hqUkRCRlJTbkZQZER6ZXdYaE5oX2h2MkltM3NiNDY4dG1pVG1HMWxoYVRyUk12VVRGTGZhMklGeEo2YU5sSmhNbXpxblFPazTSAWBBVV95cUxQaEhhOFBRajFueU81MzNndk9XMllfZTdNNkNPNmcxMEtiZC1pRDI1TXlPYmYzaDdxUmVtZDh5RFJHRWtTTUhvOXZ0NnFkUWl6QjlhQXpxQmlSS2tqN25QUFg?oc=5",
+     "source": "연합뉴스",
+     "time": "2026-09-28T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB글로벌",
+   "sub": "코스피 · 003580",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] HLB글로벌 상한가, 담관암 신약 '리픽투' FDA 승인",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84VlYwbGJXcEtYYVpiQ05RcHpIV2JWbVFkamVIUFltWHYxT2o4bGtIQkhfWlZXRmptYm5zYmtNV1BZSlFUWUE?oc=5",
+     "source": "Daum",
+     "time": "2026-09-28T09:15:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB제약",
+   "sub": "코스닥 · 047920",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "HLB·HLB제약 등 그룹주 상한가 '불기둥'…향후 장 흐름 '이목'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tMWZON1VrVEJMTjR6Szc4M3YybmM5S1c2WC1SVUJmNU1EN2E4bDNnZlZwLWctaWxGc180UjBaYzE5WW5mQk1iMmYtUkpXaXVIdFowY3NIZ1NjYVdfdF9LVEc5RWJiRTVC?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-29T00:10:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국비엔씨",
+   "sub": "코스닥 · 256840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 한국비엔씨 상한가 도달...VI 발동되기도",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84eHFNSV9PM2ZiWUxDMjRpOUV0WlBFdE1LY09abkc3NVdwck5JV200ckFreU93R2dYcVFTSjFNVUgzSU1KaE5vcWpmODlTaGlhNmprcFJIMERXRUZRR3gzaFdSWENwdHBG?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-28T13:35:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "액토즈소프트",
+   "sub": "코스닥 · 052790",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "액토즈소프트, 첫 배당에 주가도 '들썩'…22% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1STlNDMzBYZGN0ZDRxamoyeXZndzVCSTBKNm9BU0lEbkJKVmlOUmF0NnV0TWkxalR0dTF5WUE4dUM0Tzk5Q0hjOURqQ21NZmRYYVRLNGZBZndVNkJPbWp1OFhvelI?oc=5",
+     "source": "MTN 머니투데이방송",
+     "time": "2026-09-28T17:33:45+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

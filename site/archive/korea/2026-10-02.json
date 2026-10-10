@@ -1,0 +1,187 @@
+{
+ "label": "10월 2일(금) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 0.46,
+   "text": "+0.46%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcGVSMXg1Q1JPUkUtZGNGWWtXdF9xSmd0Z0dybGNlVkxjSlB4N1BWaU5PaVR2UkZRRVRZUXBHZWotdVpPYjU2SUVNdXU0SDQxdEZseDBMNk9YWGc?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -0.11,
+   "text": "-0.11%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcGVSMXg1Q1JPUkUtZGNGWWtXdF9xSmd0Z0dybGNlVkxjSlB4N1BWaU5PaVR2UkZRRVRZUXBHZWotdVpPYjU2SUVNdXU0SDQxdEZseDBMNk9YWGc?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "머큐리",
+   "sub": "코스닥 · 100590",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "AI 데이터센터 기대감에 국내 광통신株 급등…머큐리 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vV2dlT0xBc2RtUi1aR09VWDVVckZIWjNSQVV3eUF1X1phMUtIS1ZJVlYyTnVoMXctWDhLeGFJd29KNUduT1piU0dyX2FsbEx6a3BncXVvZmtwcXM4WGd6ZF9n?oc=5",
+     "source": "매일신문",
+     "time": "2026-10-02T11:01:51+09:00"
+    },
+    {
+     "title": "티엠씨·머큐리 주가 장중 상한가, AI 데이터센터 관련 기대감에 광통신주 강세",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01eFNQN283QUpYelBCdnRVM2hNREhUMWd3U0h0UkJsa0stVjBNQ1JhY2h2alF5Q25BekcxUl9xbnFvTmhHNlBEdU9oM0E0WWcxYzVUcmpoLWtmbFR3MWh0QnQyUmM1MG85aGt1RndiMUwxVTA?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-02T10:55:01+09:00"
+    },
+    {
+     "title": "[N2 증시 풍향계] 반도체 소부장株 신고가 행진…머큐리 ‘상한가’, 이차전지·정유 ‘강세’",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1meWRyYmZ5RFowSEROTUVweVZocklHSlpvdFItcDB5WkQ5ZkhLVUx3T24wcnJTY3pmaHB0aWw2X0xtMDdDOG5lZFl0Y3lRUFBacEdQaHpXR3VMeDJSaWc?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-10-02T10:23:00+09:00"
+    },
+    {
+     "title": "광통신주, AI 데이터센터 확산세에 일제히 급등…머큐리, 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pWTFiQTRaMEw5NV8xLVZkb1Z0VHNRaHVDWDJiNnhqemllbUVGWG5BRWljR2lRSmxCRXN0NHp4Z1ZuNndiZF9sRHpHbWlieUlrbUE?oc=5",
+     "source": "매일경제",
+     "time": "2026-10-02T09:59:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아이비젼웍스",
+   "sub": "코스닥 · 469750",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[특징주] 아이비젼웍스, 5대1 액면병합 후 거래재개…장 초반 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1POEpsLVNJRHZtOHRWclVGMW9MMHNMOEhSWXpvOXhpV2tRSnl1MFU1TXB2TVd1SmVmNE5TZzM0RHJBR1h0YmpsV0M5SklmUk1rVFRKLUZ5Q2Y1T3I1?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-02T10:13:00+09:00"
+    },
+    {
+     "title": "아이비젼웍스, 액면병합 뒤 거래 재개 첫날 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TalZZM0hScWdFVnpRb0EzWFB5aDRMUUZQN1FtTmZSa0dYd01ScnlGT1czOHI5TjQxX1FmdWVaWkJaT1NDTWRpaUkwNA?oc=5",
+     "source": "Daum",
+     "time": "2026-10-02T09:40:06+09:00"
+    },
+    {
+     "title": "아이비젼웍스 주가 상한가, 액면병합 후 거래 재개",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55RXBBcTFKRnBfUlI4cmk5STlUQWxWQkhiNWZvUWhTd3dycm5rLW9JQjVOaFI0YTd2UUJxVlRnUFladE90cDliSTRLR2s4VDdvZUh6cHFWTHZONEhQUW11dGlSMjZoeHlvNkRzR2Nn?oc=5",
+     "source": "국제뉴스",
+     "time": "2026-10-02T09:25:32+09:00"
+    },
+    {
+     "title": "아이비젼웍스, 액면병합 후 거래재개 첫날 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSnYyNTVKc2xlV3BPdDNvUzkwUUlQWWNEV2pFdHQ3RXY4LUpLNHI2OVhLZUxnWDJGREY4eWhySjByWHR4a2xTakZCUzdCZENJUEUtWU45bnhOUExOYmkxallFY3R4bTFZ?oc=5",
+     "source": "TradingView",
+     "time": "2026-10-02T09:19:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스제이그룹",
+   "sub": "코스닥 · 306040",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "에스제이그룹 주가 장중 상한가, 20억 규모 자사주 취득 결정 영향",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTUNLUWZuQW1lT2dvbzZTVjJwSE5Qb2piekgwRFFKb1JzcjhXUTBEV1FjV0JiR2RxOGlMQ3Q2czdhRFpYVG45N2toeTNZc1dzcW9vQVNFbGpOc2FaaEFfWG5rY3RKQ002NFpYOUNUTHhFZ1k?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-02T11:12:36+09:00"
+    },
+    {
+     "title": "[특징주] 에스제이그룹, 20억원 규모 자사주 취득에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XN0ZpZWx5dnBSTFVTYnBRa0F4SWJvMFhFR3hHUHlFQjlDRjlSeHBUQXpOa253bDlhano5bHVZRjNJOUJma0ZYMC1qUkFOQkVfQXJobDR2aUtUaU1H?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-02T10:26:00+09:00"
+    },
+    {
+     "title": "[특징주] '캉콜' 브랜드 에스제이그룹, 20억원 자기주식 취득 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1FfTXJRcFpXQkdpNU8wcnlyU3BPSHJqdWt2STlqRHVQUFR3dHRpZ2tGODVMZ1Q3N0xlUlJaU0kyUlZFc2tFVFVtT0pKdTZWV1E1V2ZrNTZ0X3FTcktWblJCMXFaVjZEU1V5eDVwTDZ5Y3pKX3czQk4tTE9obV9QLTFXdGNJZEhW?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-10-02T10:00:47+09:00"
+    },
+    {
+     "title": "[특징주] 에스제이그룹, 자사주 취득 소식에 장 초반 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OaU5EUE54bVpnXzlLMGxOdTJpZVM2NXJzMzFsTTFIZ01rMG5OVnJ5Tmw1cnFaaDJHUU1qUmphTVRqQS1iVVdCTWwyckN5R1k4LXZ3WA?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-02T09:40:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "티엠씨",
+   "sub": "코스피 · 217590",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "티엠씨 주가, 10월 2일 애프터마켓 상한가 18,440원 29.95% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUTFvZHNub3E4QnFnR2RKMkkwNTFBejhBV3BQV2RuUkdON0hwWUZGU1ZiblhRT19XeENMQUdrUUdKSzVONVlqakcxT1VfMmx2X2F0NVJDN1JjV0xQSUYtang0RkpNRHNMbGNwcS1iTjRsZw?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-10-02T16:01:23+09:00"
+    },
+    {
+     "title": "티엠씨·머큐리 주가 장중 상한가, AI 데이터센터 관련 기대감에 광통신주 강세",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01eFNQN283QUpYelBCdnRVM2hNREhUMWd3U0h0UkJsa0stVjBNQ1JhY2h2alF5Q25BekcxUl9xbnFvTmhHNlBEdU9oM0E0WWcxYzVUcmpoLWtmbFR3MWh0QnQyUmM1MG85aGt1RndiMUwxVTA?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-02T10:55:01+09:00"
+    },
+    {
+     "title": "조선·조선기자재주 강세…티엠씨 상한가·삼영엠텍 3%대 상승",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ck00Y21sQUJ5bzF5OG5CQVQzNW50NjVtbkRLYXBUcUFEZGdsV3RLSmVQcmI4bWxzcDcxUFI3S0s4bUFUU3J0cDFxekZSWFRsWGVOZDJPaVdsNjJvRHBRbXRpOXJHUGJ3?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-03T09:30:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "원일티엔아이",
+   "sub": "코스닥 · 136150",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "원일티엔아이, 美 원전 8기 건설 기대에 이틀 연속 상한가[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Cc0ZiSW9sUzBSM1FxbGNlVXNFU0tEaV92eElOaVhWS2ZKMElnbi02WHdJTG45OHU3QWlLdkJac1FBTFI1YVJ6X1FYVQ?oc=5",
+     "source": "Daum",
+     "time": "2026-10-02T09:38:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "롯데에너지머티리얼즈",
+   "sub": "코스피 · 020150",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] '2차전지 소재' 롯데에너지머티리얼즈…주가 20% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04XzdrMmhxS1BWeXYzQnRFcWZUZzU4bGFfbkxCZ0RuMHFDLUZ5VUJBcTlPRGtxcWs3NERycko3b0tEQkRZTkVuTTRJVmg4UV9YVFZRd3VVaENsTXVFeHpqY043cVE1SDJSY1HSAW5BVV95cUxPeHpFcDFrRFp4TlBtUURRTTZwYVk1VGxfWTRCNDNINGVEelZPSkFmSXcxYk5XN1lwa1BGZmJ6UUxfdVJBZm1kVTkwcXY5Qi01X2VJbDRWbnBZOXhHZG53bHhiMEY2S0MxRS1HNEx6UQ?oc=5",
+     "source": "뉴스드림",
+     "time": "2026-10-02T11:01:27+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

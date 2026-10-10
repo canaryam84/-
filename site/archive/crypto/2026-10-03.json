@@ -1,0 +1,73 @@
+{
+ "label": "10월 3일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 5.0,
+   "text": "+5.00%",
+   "exact": false,
+   "source": "미주조선일보",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRG1xTnhKcGc3aHNGOW9YekhMaW5uakpWRjAxRE9SV1BoT1RMUTJNMmRfeWhHblZGcm5oLWlwRm9TZkxIWjB0dzR3X1JQNnZXRjk0NHpZQXFadUE2bDd0bk9tQ2JETlJsenVTWThQYTZ2c1FSamZfdEtNYlNtSFBJZzkzbTVnbGtjc2VETjg3aTZ3ZDQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "니어",
+   "sub": "가상자산",
+   "pct": 183.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "그레이스케일 \"9월 AI 가상자산 54% 상승…니어 183% 급등\"",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJQW9NR3RuaUpNY1JtQ01TRThHb3VKTTA3U25FWlQySDNSLVlnSW1qSE42RDlhVjk2YjdRSS02YUczQkNLUWJBZkpDUDNMLVRG?oc=5",
+     "source": "블루밍비트",
+     "time": "2026-10-03T05:39:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Dolphin",
+   "sub": "가상자산",
+   "pct": 161.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Dolphin 161% 급등…업비트 원화 상장에 검색 집중",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94Vk41YlNTY2lnY3Z5eVo0NFV6MndYcmQ0M0Nic1dqeElraTZ1dnJ5d2J6VVczUlNYbFZhOFp4ZXFaWjAxT1dZVG45QVFqR1hGZnhWVw?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-02T16:53:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "샌드박스",
+   "sub": "가상자산",
+   "pct": 43.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "리플XRP 3620억 거래 1위…샌드박스 43% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ON0xnd2pyMEh0Q0hwME5ZTmVCMEZBY2w1bzJ0N29JV0syTzZvY3lHQ05mM01IWDBQbW1XTENab1ZnMC1UbVhrel9McVk4Ri10cDJNQ0JPZU1qNkhoanZWSm1xVkQwWVFLbGxuSWFvelg1dw?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-10-03T07:24:04+09:00"
+    }
+   ]
+  },
+  {
+   "name": "미드나잇",
+   "sub": "가상자산",
+   "pct": 30.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "알트코인 순환매 확산…스택스·미드나잇 30%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBINExodjRHdkJOLTlEM2RBbzVrcUJ1LW5QOWZPaFZ1VXRTWlowZHNrNzVvMExPQlcxbDZLeHNDZEUxc0dnUDNrQjZPTWNZaHpWcVhJdE9rbG1kU2ZYSFU4cmpLaG55bTTSAWtBVV95cUxQQUN3Sk9iTF96eEtTQWtQdTZiSHVRaXhldHR5WkJYVFpPQ1hWSFc5dlNRblcyNTRpeTcyMktlUHdBZElXd2YwUzJNUi1OVzlUTFZtWlJTV2pxX1Nlc1poaEx2X1FqYll2U3FTcw?oc=5",
+     "source": "비온미디어",
+     "time": "2026-10-02T14:18:14+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

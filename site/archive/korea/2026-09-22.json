@@ -1,0 +1,113 @@
+{
+ "label": "9월 22일(화) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 0.15,
+   "text": "+0.15%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wOEhwb21iZF80OElvSEtFd0d2S0ZDNDJjbEw1WjdBT0hmSzEwRVJfbGVsc1d2cUFIZEJRRUh0OVg1aWk3UzNkTG9jbVV6MWZxZy1xb24zaXdFMmkwT0pQTEFIeTR5QWM?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -0.23,
+   "text": "-0.23%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fRDBKaVlNUk1PRkk4OUtqcV9pZTJZOS1NLWhaeTJFdDhLV1p0WkV6bVFKc3AyeGljc0ViVFkwZVZyMkI5WjZqcmJRRm4zZl9NN0dITkZLcFdqRzA?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "더블유에스아이",
+   "sub": "코스닥 · 299170",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "더블유에스아이 주가 장중 상한가, 자회사 수술로봇 유럽 19개국 특허 등록",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxY0ZvLWFUaTQ3QzZyMVBWRW1tU2NhTDNDMDBFMnJGVVc2eVViZkdUTElMYXRDY2ZwdHc0Y29WenRmdUpNQlY4OTdkTnJXck8tRWZ4bGVaZDJPOGF4ZEFJanJiMGtxVW04SWZ6NjlLUXBBcjQ?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-09-22T16:00:00+09:00"
+    },
+    {
+     "title": "더블유에스아이, 자회사 수술로봇 유럽 특허 등록 소식에 `상한가`",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrNXZPcWdkVFkwb3kyNWMycDNzV0k5RUE4SXhteDVya2x2SWtCakhVaE1SZEhQZUJkVFFLemdqSmpCZ1dOeXVKYmZZV1NheVBIdVo5TGlzeFY5cmtoNi01a2dR?oc=5",
+     "source": "매일신문",
+     "time": "2026-09-22T16:00:00+09:00"
+    },
+    {
+     "title": "더블유에스아이, 자궁거상 로봇 유럽 19개국 특허 등록에 상한가 [Why 바이오]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HMXNodzBaQUdoTzZqSF9yOS04WmtBZGxlblRId1pRVjFNR0FvYzB6VGJlQUpXZ0FDMlcyX0ZKMVZ0cGpRU1ZsY25GMFVCMkRGd3fSAVNBVV95cUxPVG1OZUh6UzFXTkw4ZEQxLTYza2lFTEhxU005cG5BSzBqOFdaeS0tRGNCclhzRlB3dlQ2UTNZRUlyM3ZVZDFrY25xbFE2Uk5nYzlVYw?oc=5",
+     "source": "서울경제",
+     "time": "2026-09-22T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 더블유에스아이, 자궁조작 로봇 유럽 특허 등록.. '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNU5NYmZ6bi1EWTBZRnpvQXhDaU1ha0JtZmh4NUxCaVVNcVRybGlnSTdvQVptN1pYbC1pZ0FoZHRMOTQ0NHF3OFJKZGFkU2w3dmNidzhYLW9MeldJUUgyVEVoMGZONko5eUdDWHUwTGlWMktBQ2c5T3VzT1U3c25MWQ?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-09-22T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "셀리드",
+   "sub": "코스닥 · 299660",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 셀리드, 휴니버스글로벌 최대주주 변경 소식에 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWFJV0U0eUpZMGRJcGwxN2RhN0Y0OGlkSGh0bnB2X0w5SDAyNVBJVjNhNGFTSkxRV2tIdjVBQjljd1AwVnpfdWtUQXVMbnR5QXNVcmNFWUNqMHd3aXFFSDB0Q1hvUnNMalBuV3E4Q0pFN2FJbUplTjhNUXNzc3dFclNYYllwdVha0gGcAUFVX3lxTE9LaDBQWkVBeXNrTnNiMFROc1AyTk5PbzhLTzdEUHlnR2JDQjFNWi1xNVZhTEVBZjBpRGZjay1MT0x4NkVLMW1BY194ZEVBVzRRZlVMUWJhNXhPQ3VGbEZRN0FxMGROVGJwdDFDazc5b01TZkFiRWc0UG1yS2szRy01aDNOU2ZWNi00RXF6X3JzOTJEM1Q0SzItNmw3SQ?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-22T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "코리아써키트",
+   "sub": "코스피 · 007810",
+   "pct": 28.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 美 CPU주 급등에 기판株 동반 강세…코리아써키트 28%↑",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15endBbTF4cDU4RDFISXJlal9BbDl4SmpVOWJCcDJFZUdMNkFwZWllaEVXaW56V3gzUGh6NFFlY1hfNC1Qa3hSVjhNeTVsUzVpNmpEblRUcFlEOHFP?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-09-22T16:00:00+09:00"
+    },
+    {
+     "title": "美 CPU주 급등에 '기판주' 불붙었다…코리아써키트 22%↑[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kWTNUc0pJeS1XNmk0RlFMa2dEX2plUVhvT0ZhZDFCZF9JREV6NU5JZ3l4U1Y3TXozRTFsN1RHeHpKREcwLUwzZW1Gc3BNSTVuYmhHUXY3NUhjdkU?oc=5",
+     "source": "뉴스1",
+     "time": "2026-09-22T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "서울반도체",
+   "sub": "코스닥 · 046890",
+   "pct": 18.03,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "반도체株 프리마켓서 줄줄이 급등…서울반도체 18.03%↑[특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MODRoUzlpWExGY0w2R2w2NmlpRVN4QXpyeWpUTFNwTmNuY1BFSE91eHBQeFRUaUc1LVkyR0t2enJQNk9GWHc?oc=5",
+     "source": "Daum",
+     "time": "2026-09-22T16:00:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

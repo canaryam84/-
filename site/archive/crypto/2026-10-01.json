@@ -1,0 +1,31 @@
+{
+ "label": "10월 1일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.28,
+   "text": "+1.28%",
+   "exact": true,
+   "source": "CBC뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qdWtmRXRrQW83T2NhVUZSYTM3VHZ5RGk4dFphckJ6YXhablJyY3BaakpHTFRIQW4tMlBNT0lGbUxHQzgxMjcwTFY0NW5TeWMwV255RS1ZOHhLZkNDdXgtSnd0RUk5YzlU?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Moonriver는",
+   "sub": "가상자산",
+   "pct": 58.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Pump.fun 16% 상승…Moonriver는 58% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zeGdSQ3A1aTljd2Z6YXBtUHJLR2FEUkdkZEJJeHk4NG91cjR3eHRVWTFJdTBTNElKWlZ5UHFJcERucHA0RERSeVFQY3d3azAzRDBGTA?oc=5",
+     "source": "이투데이",
+     "time": "2026-09-30T16:47:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

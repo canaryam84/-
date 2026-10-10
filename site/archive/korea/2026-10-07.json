@@ -1,0 +1,313 @@
+{
+ "label": "10월 7일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -1.98,
+   "text": "-1.98%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OZDJrbFVva1lFRkZqMjBFTlQ1SHR3OFZoS2xMTGc2Y3Z6Yk1xeWRzQ0U0d252VGRJVzhiOWc1eWFlb21GQlg1WUs0b0VHMGtOVXMxOVlKaG1lRTBacXZBc3BUWHl4MTA?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -2.34,
+   "text": "-2.34%",
+   "exact": true,
+   "source": "한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eEs5OFRMU2dTc05IRm9JQU9qSFYzazdDOG9VSDEzWl9tLXBJcy1rekp1MTJzR1pZcGJLMkpYYUU5Y1o5ZDJQM0FzcktURlB4U1hDN3hldUN1UQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "국제약품",
+   "sub": "코스피 · 002720",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 19,
+   "articles": [
+    {
+     "title": "국제약품 4430원 상한가 마감…전일 대비 29.91% 상승",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ON01lb1pWYzlhR3lBai05dFlZWTdDZ1FJMEd6SWFZSHBOQnFfaWJwcEV0R1BybjI4WHo1U01aT3NOQlFDNkhueUpBanlpcS1vU3FkbkFDc2E3NHdNVmpSOGhiQ2lXZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-07T19:02:59+09:00"
+    },
+    {
+     "title": "제약지수 등락폭 축소, 국제약품 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FcUpYVnF4MHFmNDd4TWNCZnRFb0FfVkxtdjFkbmZLRjNHRjdQUUxQWjM5ckswdk5KdlI0MWpNT2xwUlhxUlVZRGZVTW14YlVqZVFfdDdPMFBlSEhySU5QZWtVYVpZZ0NU?oc=5",
+     "source": "의약뉴스",
+     "time": "2026-10-07T17:10:23+09:00"
+    },
+    {
+     "title": "러시아 페스트 우려에 관련주 급등…국제약품 상한가[핫종목](종합)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VbnB3aWtGbXFjbDZNRk91bEJmQ0hPMzIwMnRXM2FuNmFWQmgzWkNvcmlyNHBQeUZDYk5qaGREUm5URWZydm9vT2t5aGhkVGRQeWlfOGhyUE1mdTg0ZUFz?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-07T17:00:24+09:00"
+    },
+    {
+     "title": "국제약품 주가, 10월 7일 애프터마켓 상한가 4,430원 29.91% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SdlBhYjVyV1p0WVRoR2lxQXdtSnBOeGNhdlh0OVE3WndLTGpKaXYyeHZTMTBnajJwR2xJWlJEaURLYlAwZlJZR1lIZ1F6Q0R2YVl3S2RLUkhlc1g4TXZQeHJSbHpQR18xbGtJQ1BRbDZfQQ?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-10-07T16:01:51+09:00"
+    }
+   ]
+  },
+  {
+   "name": "천일고속",
+   "sub": "코스피 · 000650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "[주식마감] ‘서울고속버스터미널 재개발 기대’ 동양고속·천일고속 상한가... 국제약품, 알파칩스, HLB바이오스텝 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZXRwbDVLMUVSOGVISUdIVW1veW9BS3dJbFJsOXFvSWl1dEg5NmVSVU84dFZqWkFDdFhPVEZlMW1YNWZqZWtLQjAySU55eTMwamdVcmFtNWtOcXBsT2ptamdkdTBwWi1Wb0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-07T19:58:50+09:00"
+    },
+    {
+     "title": "천일고속 29.99% 올라 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hckNyNTY3UlB6a3didnQ2cFA2a3hNQUdmaXJPUVBVNUxLS2cxZXRjZ0RDQVEyWjJoSjJLVzAzd0xEOTJlaFV5dEJiT0pGQVVaVDdPdzRoUXdaMXdfVl92WDBhdzBkQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-07T18:58:40+09:00"
+    },
+    {
+     "title": "[특징주] 천일고속·동양고속 상한가…‘고터 재개발’에 尹 무죄·오세훈 판결 기대감까지",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRYmlIMF9QTF9BUXVZSUNzRzItQjJucEs3anRmMmUwR0duRWI4ZW9jajZ3aDZRYUhqa1d1RzZIMWQ0MnlMNVRvZ3NLNWVGYUk1WU9aMDhSd3pRMTdJM0FZQU1rdXZ4Z28xTmc?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-07T17:19:52+09:00"
+    },
+    {
+     "title": "천일고속 18만300원 상한가…2만주대 거래에 유동성 점검",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSGZLSzVvc3BMTEdXX0dKMW9YczFBcF82REcxNXppSDBMdkVlMXFrX2xNakhrQ09kNzlGX2Jyc1huX2wyYjFFSUJYbF80b01JdGdWQld0eGdsRjE2VzhpMXMzVlNEREJ1Q0s1c2p1MFN6QdIBckFVX3lxTE1DSGZLSzVvc3BMTEdXX0dKMW9YczFBcF82REcxNXppSDBMdkVlMXFrX2xNakhrQ09kNzlGX2Jyc1huX2wyYjFFSUJYbF80b01JdGdWQld0eGdsRjE2VzhpMXMzVlNEREJ1Q0s1c2p1MFN6QQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-07T14:25:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "동양고속",
+   "sub": "코스피 · 084670",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "[주식마감] ‘서울고속버스터미널 재개발 기대’ 동양고속·천일고속 상한가... 국제약품, 알파칩스, HLB바이오스텝 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZXRwbDVLMUVSOGVISUdIVW1veW9BS3dJbFJsOXFvSWl1dEg5NmVSVU84dFZqWkFDdFhPVEZlMW1YNWZqZWtLQjAySU55eTMwamdVcmFtNWtOcXBsT2ptamdkdTBwWi1Wb0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-07T19:58:50+09:00"
+    },
+    {
+     "title": "[특징주] 천일고속·동양고속 상한가…‘고터 재개발’에 尹 무죄·오세훈 판결 기대감까지",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRYmlIMF9QTF9BUXVZSUNzRzItQjJucEs3anRmMmUwR0duRWI4ZW9jajZ3aDZRYUhqa1d1RzZIMWQ0MnlMNVRvZ3NLNWVGYUk1WU9aMDhSd3pRMTdJM0FZQU1rdXZ4Z28xTmc?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-07T17:19:52+09:00"
+    },
+    {
+     "title": "동양고속 상한가 2만9250원…거래량 10만주 밑돌아",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xLXBDaVd6RHpRdTVVZEEySXhYZDlzdkFJbm53MndpRi1ObjJTb0dHR2Y2eTBlSHF0MURBV05MOVlUU21GRVc1Y29xbTJoT0xIX05FSE9BX2ZXMGZTUkNWcm54MDF3Y19CdE5ZRFZHZDRVUdIBckFVX3lxTE1xLXBDaVd6RHpRdTVVZEEySXhYZDlzdkFJbm53MndpRi1ObjJTb0dHR2Y2eTBlSHF0MURBV05MOVlUU21GRVc1Y29xbTJoT0xIX05FSE9BX2ZXMGZTUkNWcm54MDF3Y19CdE5ZRFZHZDRVUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-07T14:14:56+09:00"
+    },
+    {
+     "title": "[특징주] 천일고속·동양고속, 서울고속버스터미널 재개발 기대감에 나란히 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZUphVlVKMkJVT2piSGx0NFduR0xZZzUtLW9PeEdKUGJCZ3BsdmJjX3Bad1JaMVdZNnFYUEFvbTdEczBteTV4eVA5YUVRckNnOXVraUMtUDFGaEQ1LUU0MDhUcG9vbjRScGVQYw?oc=5",
+     "source": "와이드경제",
+     "time": "2026-10-07T14:06:29+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB바이오스텝",
+   "sub": "코스닥 · 278650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "HLB바이오스텝, 10월 7일 상한가…4855원 마감",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9odFpsaUs5VDdrX0NuUTdpaFFrR3dvSGV1eWFrdmJYM1FUMkFxTzFsR29BMVY5QnZscjhjNU9URm8tSDBva0RnUGxWSHJ5MXplTUZkcDRQelJfSlRuY0NtWlRJa2RFdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-07T19:00:36+09:00"
+    },
+    {
+     "title": "HLB바이오스텝 4850원, 상한가 문턱…비임상 CRO 가동률 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rUG1TNFoyUGpOUWtQLTNvdnEtX2owb0NQU0xDbkpqbF95VzFzQTFVZGNVVmhBUHI1T3ZCOV9iamRBRFBYTGpFalZia3BsRXRhZG5RbFdyWTZCRVpzQmN0TXBhczlUcWRYTWpGNDdkRzBOZ9IBckFVX3lxTE1rUG1TNFoyUGpOUWtQLTNvdnEtX2owb0NQU0xDbkpqbF95VzFzQTFVZGNVVmhBUHI1T3ZCOV9iamRBRFBYTGpFalZia3BsRXRhZG5RbFdyWTZCRVpzQmN0TXBhczlUcWRYTWpGNDdkRzBOZw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-07T14:38:45+09:00"
+    },
+    {
+     "title": "HLB그룹주 엇갈린 흐름…HLB·HLB제약 약세, HLB바이오스텝은 19%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YUUZrd25TbDhaRG9leXFfc01LcFB5YlZxRUNJMHJWZUQ1S1g5SVFuRzRjSnRXRzM0dHQ0cnQ5YUlXdnoxclpNWjl1dDNDYXhtYzZlQU1iQkxoeHRTLWNUNVZTNnRIZXc5?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-07T13:46:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "SAMG엔터",
+   "sub": "코스닥 · 419530",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "SAMG엔터 상한가 근접…캐릭터 사업주에 거래 집중",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwb0pNMDVjRzJvclI1akNfOFZNNk9qR3VYVDdFN21FZVNUZlFYcl9BOEQ1YTl4clE5Uy1FTTVhQW1QWGZzSjhIX205SFlPdTREbHNjQkMxNy15c3pvQWpWRk5vMzFmdmhYNUJHTEJn0gFyQVVfeXFMUEJYa1p2VHFHME1OMVFQOHNvRlMxUTJQaGtfeGtxak5hWjNjWHRuNkJNcTJHN2QyeExfS0ZTQ0FaTy0yU25zbmc1bnZONHVXZ0tEdENhM1JyMm5GRDJENUgtSzBEYkV1U2VYb0FRVXdNRXdn?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-07T14:20:14+09:00"
+    },
+    {
+     "title": "티니핑, 美 2000개 타겟 매장 입점…SAMG엔터 28% 급등[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOSjdFVkt2NWtXSVZBazdCT1MzZDJVUjIwQ2VieHc5b05ublVJV3pNUVlfdVVZc3pZUUxjVFNMMTMyXzVkOTRQRElCQ2dBV2hIbTlqaUZ4TGxDaDZWZzQw?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-07T14:19:04+09:00"
+    },
+    {
+     "title": "SAMG엔터 주가 장중 18%대 급등, 미국 타겟 매장 2천여 곳에 '티니핑' 제품 입점",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sb3hneTR6dExGelRZZ3Y4c2RXZFE3bmVLY2ZIYVo3Q0tNZ1VQUTA3aUJrYlRLa0Fnd0VRVzdFYW1IdjhHT3FLUUJiUENocWtNWFExOGtjUU56TDZYZnRaMFZxQjljSWlHd1BNYXZTWXJ1RGM?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-07T11:18:22+09:00"
+    }
+   ]
+  },
+  {
+   "name": "동양",
+   "sub": "코스피 · 001520",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "서울고속터미널 개발 기대에 동양·천일고속 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kN05xU2pIbVFSYW5iLXlOekxHNjNyV2ZsUGszMWdqcDVXUGlsckJtZUh2NG1PTWE2YmlkOEwtS0pTM0hrTlFKS0w2enFkdnhxWGdmN3FGX1dtV0NJenpZUw?oc=5",
+     "source": "제주교통복지신문",
+     "time": "2026-10-07T13:18:17+09:00"
+    },
+    {
+     "title": "동양·천일고속 상한가 직행…도로와철도운송 업종 훈풍 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NWDQzTTJ5d3BYZWRPT0x2RGo1SHFSZ3lVci1ISDZfLVZldE0zdXhtME9GRWpTR1hsY19UbHE1SXFfQTFBQXhveVB2TzBNbWdyTHRPeDJWWXdrS2xTSVpXWG5naEYzT0NabHNJNzVqVXlsLVHSAXdBVV95cUxPXzNEdF93dDRFYXZ4WUIzREdLaW0zNEVSYUVndjRhWU82N1ZiRjFOTDBKOTIxTVdWVWlWYlNBV054Q3YtTFVkWU1najRuV3F5OVRFcDlFS2lsOG9xTi0zSkhOS25OMXo3MlFJMnZDcXRNSUc5QVFUdw?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-07T09:54:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "예선테크",
+   "sub": "코스닥 · 250930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "예선테크 이틀 연속 상한가…893원 마감",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Yc1k1a2pscnM4Q29XTkFlWFpSQU5fYjlpS1U3OGJiMTBDSzFwS2lUZGgxZGIyYWtOd0lpTVlhR1l6SGZrRVlicEMtYktnZ3pBWmxfTVBxYncwRWw1YWZadDUwaTJldw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-07T18:56:51+09:00"
+    },
+    {
+     "title": "예선테크 893원 상한가…거래량 적은 급등에 후속 수급 촉각",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KREdXalRWMEpSd1UzOFJpYzdQeGtqcVl2aGg3YXdvZFZhUFhYVWt4SUVOT3VhSGRUSEpBYjl5Mmd4MlplM1dnamIzSkI4b1JTenNOXzJjZldESlJCWDU2SDNzZ2FlZUJ1QlhyLWFB0gFyQVVfeXFMTmo0RFc1S0tJeDAwekJlV0RxQUxuVGVFcW03VGVBQjE3elN4TnlVVTZ3Zm1POGE0NXUxSnRLdDAyVE9LdHp4ZlNVT1AwLXpCenVUOW12T3UzNWhlS293bDAwNklaMWlFSDJ1UU9aa3NsUjZR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-07T14:37:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라온시큐어",
+   "sub": "코스닥 · 042510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "‘AI 해킹 사태’ 보안주 폭등…라온시큐어·샌즈랩 30% 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CeUJNcmc3LXBaTHhWdHJfZmFTNHoxUHVoTXYyUENKa2lKOTAxM01WRW5oQkx6Y2FwOGhlaDk5dGY2X2VmQWxnNXNPOFQ5VW9ITk0wbGFOMjhaMnNZR3VpQlNFYS14eHM?oc=5",
+     "source": "한겨레",
+     "time": "2026-10-07T11:11:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "샌즈랩",
+   "sub": "코스닥 · 411080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "‘AI 해킹 사태’ 보안주 폭등…라온시큐어·샌즈랩 30% 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CeUJNcmc3LXBaTHhWdHJfZmFTNHoxUHVoTXYyUENKa2lKOTAxM01WRW5oQkx6Y2FwOGhlaDk5dGY2X2VmQWxnNXNPOFQ5VW9ITk0wbGFOMjhaMnNZR3VpQlNFYS14eHM?oc=5",
+     "source": "한겨레",
+     "time": "2026-10-07T11:11:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대양금속",
+   "sub": "코스피 · 009190",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "대양금속 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zZnQ0dHNfTUhlNDFqYUphLUxycWRBNWxhRW5xTWJiOUxia1EzWFo0VlZoQU1MUHJpNEx0N0M0SHBYUkRxV3R2YTRndlpWUU1nbldYWS1HSl9nRUZQN21INUxvRS1tZEtMZnc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-07T09:16:21+09:00"
+    }
+   ]
+  },
+  {
+   "name": "휴마시스",
+   "sub": "코스닥 · 205470",
+   "pct": 26.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 휴마시스, 러시아 ‘페스트 의심’ 소식에 19%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaHQ0LThwSktKVkVRWWtKdnI1b28tQ3pZcnQ0QkxTM0tPR01vYVJ5ZXMxZHlkbG00S1RLejEwZTdmY0g0YUxZaEVMZ1liU2RMdVpKaDhZZ0JWaC1yZ19CbDRfc0NCbWQ2OTNnRQ?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-10-07T18:17:14+09:00"
+    },
+    {
+     "title": "[특징주] 러시아 페스트 사망에 진단키트株 급등…휴마시스 26%↑",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94VDhhVkJiQzBUMUp2VXVGVUVXQk5fYzN1eDNpdTFKMU54d0VaY1JYdHhza2psSWNSMl84V2NYMnhCTk8tTjRXYVdDSGFRTXEydGdBc3l6dGg0bnVs?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-07T10:05:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비아트론",
+   "sub": "코스닥 · 141000",
+   "pct": 25.0,
+   "limitUp": false,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 비아트론, 애프터마켓서 급등…25%대↑ 1만4700원선",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qeVcxY1h4dURPM004Z1JNSmtuU2N6T3lMaDJWODl3MnVGMGNySzg5NHZNa3ZnbUtEQlNzZFBjM1VGYVMwU0I2Mnl4SXVvQl95dkVOaDFab1U3QlVZMThDTWh5S0Y3b3Rz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-07T17:37:41+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

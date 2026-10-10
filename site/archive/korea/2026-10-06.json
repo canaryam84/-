@@ -1,0 +1,293 @@
+{
+ "label": "10월 6일(화) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -0.89,
+   "text": "-0.89%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VeDBYQmk5aW52WG9VT0VNOFRrSkU5UWljLUZDV0FsdklMYzM4b1NURXpUWmJVeWhhQ1pxcHVxOVVEMVBXcmRXbFFuTXo4anJHNEJ4WTJ6OEtYQmhaZVZFTkprSGZxWGs?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 2.98,
+   "text": "+2.98%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VeDBYQmk5aW52WG9VT0VNOFRrSkU5UWljLUZDV0FsdklMYzM4b1NURXpUWmJVeWhhQ1pxcHVxOVVEMVBXcmRXbFFuTXo4anJHNEJ4WTJ6OEtYQmhaZVZFTkprSGZxWGs?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "샌즈랩",
+   "sub": "코스닥 · 411080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 14,
+   "articles": [
+    {
+     "title": "샌즈랩·아티스트스튜디오 상한가…라온시큐어도 30% 육박",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13RzQ0VVp3T1J3MmJLdFZkN1VudkNnd1lXSm1xRU9wMkNQeFRIbkNZOUFDNFZ1TnQ3Sm5GczJfXzJpaGVXdXN6QjJZQXJJS0xvN29GUi1hbjlZdFBGbE44WkRBZWxNeHptOVhNWHdlWVRSRzVTNlHSAXZBVV95cUxNd0c0NFVad09SdzJiS3RWZDdVbnZDZ3dZV0ptcUVPcDJDUHhUSG5DWTlBQzRWdU50N0puRnMyX18yaWhlV3VzekIyWUFySUtMbzdvRlItYW45WXRQRmxOOFpEQWVsTXh6bTlYTVh3ZVlUUkc1UzZR?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-06T20:11:09+09:00"
+    },
+    {
+     "title": "금융권 해킹 여파에 보안주 급등…샌즈랩 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WcDVYQ3Vtbko2QV9seURzbk9VTmRpcXotYTNtaDV6cnZ0bWhMMU54bmN5RW5Ca3M3TXNNWHE4b1NkTUtRbS05M1RDeEVidldMSC14d25uRVpLbllfSW8tVGxBRlliUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-06T19:50:59+09:00"
+    },
+    {
+     "title": "[주식마감] AI 해킹 우려에 ‘사이버보안주’ 강세... 샌즈랩·라온시큐어 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45a0d3QUNuRmo5Z1R3UkRvUXdfd0pGRXB6ZjQ1Qk85eGhKWWNfWVl6WVNZMTEtbTdYTlRKOXEwcnR2QmJNdDZRaHFmaUs1QmhVejNFR2xuN1dEYmlXbmZQdHpLdlhtMEQxQ0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-06T19:40:00+09:00"
+    },
+    {
+     "title": "‘AI 해킹 사태’ 보안주 폭등…라온시큐어·샌즈랩 30% 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pb0s5bzhna2k4bUJ4TnFPYURiUTFXVElOV3VrVHhWVmlhbk5oQ3RfUEpCWTZ2WGtBdjV3M016OGdZdERPU3VZTWxBQjZUZlZRel9lOQ?oc=5",
+     "source": "Daum",
+     "time": "2026-10-06T17:27:02+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라온시큐어",
+   "sub": "코스닥 · 042510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 8,
+   "articles": [
+    {
+     "title": "[주식마감] AI 해킹 우려에 ‘사이버보안주’ 강세... 샌즈랩·라온시큐어 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45a0d3QUNuRmo5Z1R3UkRvUXdfd0pGRXB6ZjQ1Qk85eGhKWWNfWVl6WVNZMTEtbTdYTlRKOXEwcnR2QmJNdDZRaHFmaUs1QmhVejNFR2xuN1dEYmlXbmZQdHpLdlhtMEQxQ0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-06T19:40:00+09:00"
+    },
+    {
+     "title": "‘AI 해킹 사태’ 보안주 폭등…라온시큐어·샌즈랩 30% 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pb0s5bzhna2k4bUJ4TnFPYURiUTFXVElOV3VrVHhWVmlhbk5oQ3RfUEpCWTZ2WGtBdjV3M016OGdZdERPU3VZTWxBQjZUZlZRel9lOQ?oc=5",
+     "source": "Daum",
+     "time": "2026-10-06T17:27:02+09:00"
+    },
+    {
+     "title": "금융권 해킹 우려에 라온시큐어 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ob2lMYm5uakZoUjRMc0RyckMyamRxaEFSb05lc2Yxbk5WYnh1RkdNMnRYQ1hROUFXQmFNVXBRckJzaWIxenFLb3FyYlB2dGMtZXRSanJNUFMtUHkweXVvZg?oc=5",
+     "source": "제주교통복지신문",
+     "time": "2026-10-06T17:24:14+09:00"
+    },
+    {
+     "title": "금융권 해킹에 보안주 ‘불기둥’…라온시큐어·샌즈랩 상한가 [오늘, 이 종목]",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UbUtOcllpM09UNk1PMUd3cmpfdEFwaFZsS1FLSGRfdm5NRzZWSnRtc0FkUjBDb2dkMzhrVElLZkVCd2d0NGdoeUc4WXpRT3BUU1FJNVJB?oc=5",
+     "source": "매일경제",
+     "time": "2026-10-06T15:50:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지니언스",
+   "sub": "코스닥 · 263860",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[특징주] 지니언스, 금융권 AI 해킹 사태 속 +22%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hUkdaQ1VPUTY0aUJleDRxUXpaUUljb1Bpdko2Yy1IUFExR3dkSkpCck5OTFZnalY1NEE1SmhlZjBET1dyQktmaGdWeHZZVnFpakl4QVV2aUN3UUUtcmxsUlByOWNlWjNXY0FRVUp3?oc=5",
+     "source": "전국매일신문",
+     "time": "2026-10-06T10:36:30+09:00"
+    },
+    {
+     "title": "금융권 'AI 해킹' 쇼크에 보안株 불붙었다…지니언스·샌즈랩 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeFNEV3YxTTRYN3I3XzRtWFVXTWlKYks3QW1OMEs0VFpnZEo4RG5sRUoyTU52MEc4eEU1cm8xYXNiYkRHZkY0RjZ4LWYwNkxMUE1KN0NINjJYQdIBVEFVX3lxTE53d0p3UEJMS3NuRmZoekRIQ1I4U2tEMDJpbDlySFRVcnJRMU9zWE9mWXYtMUZWbUpWT2lWZm5BUWZhVkMxQ01LX1NkbktxQmZuRmVQVw?oc=5",
+     "source": "더팩트",
+     "time": "2026-10-06T10:33:55+09:00"
+    },
+    {
+     "title": "금융권 AI해킹 사태에 보안주 강세…지니언스·샌즈랩 장중 상한가[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYUtadWs1dWYySXFsVVRpaG5UbEFHclFsVzdfcmxQYmtKenBlVFRtMFAzVjRxVjlkbXhkbkIxa1JvNGVPX3lXUVEyM1ZFWkdtY0QxbnhBOUd2N0E?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-06T10:10:09+09:00"
+    },
+    {
+     "title": "금융권 AI 해킹 대란에 보안주 치솟아…지니언스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jVFRQWFpFSTNzMURqVUtSVTFEV0VNRnBwcXZ3NjdWNWVRQ2pzZlduNlJQcmtlczVqY1R2ZWFiM3EzY2l1YXdmYlljMDVvQU9SLThaM0dPOG1QZUhILVNkbzVPOWozb1VGblR5VXU3bw?oc=5",
+     "source": "뉴스퀘스트",
+     "time": "2026-10-06T09:28:02+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB",
+   "sub": "코스닥 · 028300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[주식] HLB, 담관암 이어 간암도? 기대감에 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rejBqejBManFUWDVBN1JKSFZyS0t4TmdFczlzRFAxTVlHdm8wcHBQOF9CUU0wR2NfTDRNNHRQTVpRWmdlX3hnRTJSRS1aQVpidDF5M052OC1Hb0tpODFQTTlndGVrUXlNNVJZ?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-10-06T16:47:31+09:00"
+    },
+    {
+     "title": "HLB 재차 상한가…간암 신약 승인 ‘청신호’ [이런국장 저런주식]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQnhjN1g0NUd2SFpTTjRWcFEzQnZGZkFNZ2gyNWlSV0ZmRVp2UklGcEQ3dnh2MW9Ub2lQaXZGYk5mU09fd0V1T05DaUF5RzFJSnfSAVNBVV95cUxOaXFDQUNVMktVZ29IQ0V3bmNScnhBZ0NQR1cycXhVSHJtRnoxaGl3SnRIaG1ET3FOeTl6UWxhZURSakVBQzl2OEhxbWk2TUM0SGNxOA?oc=5",
+     "source": "서울경제",
+     "time": "2026-10-06T10:33:41+09:00"
+    },
+    {
+     "title": "[특징주] HLB, 간암 신약 FDA 실사 이슈 해소에 18%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YU1pRRUZwdGZkN0Jvb0JIRHU0WjhiZVY3TU1ueW92bDd5NTk0OE53T1NGOG10R2JXeXhkRmR2eW9lWVJwR0lGZWJOV3U4YldnallXT0c5WmVyQWE4SVhMTXU3UzJlMFhUcUJuedIBcEFVX3lxTFBiMmpTZGRCOWoyM19JTFZncXVydDJOVUVRQzBrY0k3QkpJbWZ0UlBJVHBmQkVsbWdPWWJuLVF0SVJPa1VVYlgyLThUdmJMZ0pHYVUzRWRYTmhWaWZBeXF4bkJJXzlHQnNjTDh6d1ZuVjU?oc=5",
+     "source": "남도일보",
+     "time": "2026-10-06T10:06:06+09:00"
+    },
+    {
+     "title": "[특징주] HLB, 간암 신약 허가 ‘청신호’ 소식에 23% 급등 - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEN0QXplOHlJazJxc1cxX25rcWYtTUhKelpqVUg5U2RiVmVmVGRQVDdkdDM0eWViTHh6Z1dXdVRUblRvQ3J3bHQxZkRrdGh4YVd4dFBFRDNBREZ0WUxCb1dNcTE2Sm9HNVZoMkt0aXM0bVd3b1I4a0hlUTItSFRzZkRSaXRDeTZV0gGcAUFVX3lxTE9EVHFnLU1oeEtVZ1Q5Sy1WcDFYMEtBVnBWWnJMZ2tOakt3S193clFueXVkLTNwR1hkVDNMb3pzQXpkSnpCenZaaW40aDJfZGFNdkJLUVBtU0FfX1ZEeDgtcnRfSWJJOGFLWTR4UElKZlZqM3J1Q1dTQkRuNjNLa1VpNnEyYTNnYnkzMEJsX29rR0JwcEdZcFhzblgyRA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-10-06T09:36:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB제약",
+   "sub": "코스닥 · 047920",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "HLB그룹주 동반 급등…HLB제약·바이오스텝 상한가, FDA 관련 소식 주목",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZS13ZmlRcmhSc3F4X2NZbS1WRkZmYWhuUENrckpZQ3ZfZDBZaDFCQ2VYeWNTbGJWc1lIRmdrMmYzamVzX1FKdGxVdE5PVnpKU0x5ZDQzWHliOGxoZzd3bFdvUWw3UW5w?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-06T13:40:04+09:00"
+    },
+    {
+     "title": "HLB제약 상한가 찍었다… 장기지속형 기술에 바이오주 매수 훈풍",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hbElOcktfd2RaYnoyZGVzSWdqeEUwUjAwSUFFaXFib1hYaTZlS3JEc0ZPd3ktaHQ2dUFvT0hLV05SSy1hNTRZRmNnN1h5Q3dpR2haQ25qVXI4aHpyM0luTXE0LWpoUnNGQ211TUl6UG1SVTDSAXdBVV95cUxPV3duV19nckt3aXJjRVctU0VMMTI0OVJ1TU5NTGc4WEJ5eFFOZHZnVGFROXpROFZueHdUazUtMXdaQ0Z6bmY3TnBiWUVtQXJfdGI4Q1BsdEtPWnBZdTRkTHQ5czJnd2hnVmtQZ2pLT2dZa2VzcE9iRQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-06T11:15:10+09:00"
+    },
+    {
+     "title": "HLB제약 주가, 10월 6일 장중 상한가, 13,010원 29.97% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eFgyWU1XSWlLY0d2UC1wM1UxY2FtSGVad1BFMjJPMTBMQzdibEViX1ktMENzVTFQQm1hVGZjejhzd1BFNHNyNHdyQnIzVDNrUmNudjBHXzl6TUZMd0NHMm82TnNqQ3JFZmRfMzVkOE42Zw?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-10-06T10:45:36+09:00"
+    }
+   ]
+  },
+  {
+   "name": "모비릭스",
+   "sub": "코스닥 · 348030",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] 모비릭스·아톤 상한가…삼전·SK하닉 반등",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ObElaTmVrSnBXLWI4LVZKcHRwOHgwYUR5NjZ4aG02bS1HeWU4WWZhTjFzdDAxOGtoMXBPbndJeUlONnNNakM0LWFkTkJmM3M?oc=5",
+     "source": "Daum",
+     "time": "2026-10-07T07:55:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아톤",
+   "sub": "코스닥 · 158430",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] 모비릭스·아톤 상한가…삼전·SK하닉 반등",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ObElaTmVrSnBXLWI4LVZKcHRwOHgwYUR5NjZ4aG02bS1HeWU4WWZhTjFzdDAxOGtoMXBPbndJeUlONnNNakM0LWFkTkJmM3M?oc=5",
+     "source": "Daum",
+     "time": "2026-10-07T07:55:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아티스트스튜디오",
+   "sub": "코스닥 · 200350",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "샌즈랩·아티스트스튜디오 상한가…라온시큐어도 30% 육박",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13RzQ0VVp3T1J3MmJLdFZkN1VudkNnd1lXSm1xRU9wMkNQeFRIbkNZOUFDNFZ1TnQ3Sm5GczJfXzJpaGVXdXN6QjJZQXJJS0xvN29GUi1hbjlZdFBGbE44WkRBZWxNeHptOVhNWHdlWVRSRzVTNlHSAXZBVV95cUxNd0c0NFVad09SdzJiS3RWZDdVbnZDZ3dZV0ptcUVPcDJDUHhUSG5DWTlBQzRWdU50N0puRnMyX18yaWhlV3VzekIyWUFySUtMbzdvRlItYW45WXRQRmxOOFpEQWVsTXh6bTlYTVh3ZVlUUkc1UzZR?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-06T20:11:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "안랩",
+   "sub": "코스닥 · 053800",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "은행은 뚫리고 보안주는 날았다…안랩 15%↑·2종목 상한가",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11ZmU1S2d1Y3N3VzRCTlFNOEwzNWFjQU5BWl9KNnJ0Mm1xcXh5WlJ2Tm1LQWJpQWtLQlJKakRTVUNpRTZEZW5JRGVaMjFibTZLckdzSEhwR3ktWDZkUlZFVlltUjlwaHJvRFZFek8wTzPSAXRBVV95cUxNZlJBeFdoWU5iWEZYWHJTX3l4aTdES2ZWYzg0UWRCZlpJRTFzY1ZkNWJ6WWE2UHphZmhVV1NaOUZFMWhtczNMcF93QXE4V2ZXOG93R3NGRHBrM2twRGpZdGpoQUVBcVZzN3FFcjNaQlVwUVZGXw?oc=5",
+     "source": "스포츠한국",
+     "time": "2026-10-06T16:08:44+09:00"
+    },
+    {
+     "title": "[특징주] 금융권 'AI 해킹' 확산에 보안주 급등…안랩 17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aTl94S0NLVUtlTlVXVDFTbzdqbk1kZG0wRDNrZnBuM2oxY0JuWDdGd3NTSTFIUkpJcFpTRVRVa0o5YmlXeGdFZEExUXZpTHBQN2xGbzJyaVp2YmdEdFpubUdVdGRYZXlD?oc=5",
+     "source": "www.ebn.co.kr",
+     "time": "2026-10-06T14:58:40+09:00"
+    },
+    {
+     "title": "사이버보안株 '안랩' 금융권 해킹 수사 본격화에 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zR05SY0FJX2pqeEJnRFBJbWpKRzNjUUFmeUNiNlJoTzNWRzhDU0RVVnFBMW4wb2otcU1TMHZ0SVRBMFdETzJtaFB6ZlN1RE0?oc=5",
+     "source": "Daum",
+     "time": "2026-10-06T09:32:22+09:00"
+    },
+    {
+     "title": "금융권 해킹 우려 확대…보안株 돈 몰리자 안랩 21% 폭등 [코주부]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcVhXV2dWdWJzQ1kxSFI4Y0pSU3RDQWp1czF3dnd0Rmp4UkNFNHp6SXhPdDZpMVRsUnZMc0o0QjVNOHp5eVpncWhjUWxyVXRCZmc?oc=5",
+     "source": "서울경제",
+     "time": "2026-10-06T08:54:12+09:00"
+    }
+   ]
+  },
+  {
+   "name": "주성엔지니어링",
+   "sub": "코스닥 · 036930",
+   "pct": 16.67,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "코스닥 대형주 일제히 강세… 주성엔지니어링 16%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zRF9GX0lyVm9JZ3JZMXhLdkpidk93M2RZMUhQRUNlVFpvZDJUZTB4eU53dXlRaUYwRWNOeGpYelJnbW8yMEZYWjhwX2R4WmpGSjJRR3VYbTYydEQyM2NfT1BUeGlZcGM5T0NwUTREaUptODR6SUF4RTQ0eW9IZw?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-06T13:17:00+09:00"
+    },
+    {
+     "title": "[급등주] 주성엔지니어링, +16.67% 상승",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QdlRGOThEbGszOXNWb3l6dXV5X2dKaWdVQkFtR1FZdGlaRWN5cmxKaEZfOHRndmJpX09PbFpBd21fRUYxXzRKbFdiNTIybzM3S1ZhOHhEUzhxVmRDTGdRUWVxNjZmalNYU0k5UlNn?oc=5",
+     "source": "전국매일신문",
+     "time": "2026-10-06T10:43:42+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

@@ -1,0 +1,173 @@
+{
+ "label": "9월 23일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 0.9,
+   "text": "+0.90%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSnNBMWRQcm1GaHVrdlZ3NVMteXlFc21HcFIyNFY1cUdMVzVlSHY1V1RqWWpWZGJJSExrZW5CcjgyU01fX0JtVnpCSWlNcDBxUHNUYUNRS05HcUlwLUNQOFJmc250UVE?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 1.21,
+   "text": "+1.21%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVTV0NW9Wd19tYk9ibnEwR1FSM1k5M3VxRFdwM0hWU0Q3eDE0WXBRR2thVmduZ2VfbWVaLVg3WHliVDBrLWlKT0c3d2xabHVaeHBqZlprU2lIRzg?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "우리넷",
+   "sub": "코스닥 · 115440",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 양자암호 기대에 우리넷 ‘상한가’⋯시총 미달 관리종목 上",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sc3FUMGxZQWRqQ2dOY0tTTDFYaHdtMU80RGNhdUs0NW8xSTRqa3AzSk0wa05YTndJRXdnYkVtZVFhaWI2WUxEdzlxQ3pablU?oc=5",
+     "source": "Daum",
+     "time": "2026-09-23T16:00:00+09:00"
+    },
+    {
+     "title": "[속보] 우리넷 상한가…두차례 VI 발동되기도",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UbnV0dTlBTkRDQ1ptUlVyaVdGMzhBVEpGV2pIY0JnakVKZDVpWHhmUl90bHFmZjJRYWRQby1ZZS1wM3R5d0hnSXgzUnA4NTlUSGpUMVB6MUxha3NhbS1CSnJXWDBrcWtG?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-23T11:18:11+09:00"
+    },
+    {
+     "title": "[주식마감] 'AI 확산에 양자암호 기대' 우리넷 상한가... 티엔엔터, 씨싸이트, HT로보틱스 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SZWlxbXQ2b2JkQlE5MkNZbjJ4b1pZZnZOZ3BzVGVyb3h5Qjd2Q3UzWkdsT0tIZlZJcFJpaVdwQmNKSWRVWEFlY0FHeVVyX2N5ZHdhVU01cHRjMDJaNXBDcWp3d3BpbDA4RGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-23T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HLB",
+   "sub": "코스닥 · 028300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "HLB, 美 FDA 항암 신약 승인에 상한가…그룹주도 줄줄이 上",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSXpycTNpY19xQVI1T2tDdW1YSHp5cncxa0Q1bHBHUWhfaVBrTWRYYjZsRTV6TjlKSUw2MFhNVjZvYlRtREs4cldBQjRna3JEYWpTenMxWkdPNjdXSVFDdkY0dXZkR0w1a0E?oc=5",
+     "source": "TradingView",
+     "time": "2026-09-27T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "쓰리빌리언",
+   "sub": "코스닥 · 394800",
+   "pct": 23.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 쓰리빌리언, ‘한국형 ARPA-H’ 과제 선정에 23% 급등 - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVFYVDRBNlFsLWJ6LWx1M2pnTzBRd1RFd3RGRFU4aEpwRm8yZURBRGUzRnhRVEYyNmRRUlR3OEVhck5fUXQ2NEp5SDhZVW1EMElfUWJJaEtfUTREVEU2dS1lTkkxRDNWRmZfUGlvYUVpcFZrbEplbzRnWlZsWTR0cDZyMjl6Z3NS0gGcAUFVX3lxTE50S2xzbWhjeE5iSTJkaGF6Qm94bEVySU5sS1lxLVIzRnprZEZlWW4tYlRPSFZrOGZaS3VXUkZxV0ZMM1d2dEp1aGMyMGtQcEx4dUx0ZVNqMllfNmRXVjNuRmdHMV93N0JwX3NfQmJ0YjU4czJXUVRsYnF0OVJGMnFCakFyOEdUWVRNaXZhZ2tzc2IxTjAzYlhmcXRjVA?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-23T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, 쓰리빌리언-의료AI 테마 상승세에 17.46% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fQjNVbHVrd0x0MFFVa1VhczJVYlhuSVh5Y3Y5eW1tcjZiV09yUEpNZGg5Rk1jTWptd3NFVVVPSTBMQmpUREstX1VBYjdGUVg3elE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-23T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "파두",
+   "sub": "코스닥 · 440110",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "AI '뮤즈' 흥행에 메타 협력사 파두, 이틀새 20%대 급등[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVWJWUU5SWEhjOXRTUnQyNGtxd0dDREc3VDBTUjIzekFrS3JTS1ZrMVo3REVQdGNaN21CdmVCQ0tYaGpvU0RxcjBYYUtDVDkyY0l3VGhHOTJoZmPSAWBBVV95cUxPazIxa215OWVLQlpEMmcxODNjSXpWQnRYS1VDRjNlbWRyaUhvdTU3RVd0S3IwUVo0RDFWLXR0bzd1dE53aVRLOXFpUE9kbjNQbkRxZ2g3UTlYbFdMTjZfdEI?oc=5",
+     "source": "뉴스1",
+     "time": "2026-09-23T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "KSS해운",
+   "sub": "코스피 · 044450",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 9,
+   "articles": [
+    {
+     "title": "[특징주] KSS해운, 200억원 규모 자사주 매입에 16%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jS1c2TWxIOU9wbC1LUXU5eEJfZmpPMDRVaURSMkFLZmllSEpEQzl6NlNGUXdBNWtJbmVFWEEwTG9nOHN0M0V6THhwNDFlMWNkR085XzJCR3hpT1RE?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-09-23T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] KSS해운, 자사주 소각 이어 200억원 매입…16% 급등 - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGxKVFFOYUUtWF9hUDdxODhDY3RERmJiRDM3VVhJQXZ1enBxWmRYRnZyeFc4b0ZJenpLVXpzNnc3MnpfN1EwV2ZVRDZlcEg1QU1rUDB0ZWdKNFI4R3dGck9FZ1BwVV9JbW4zQVB1LVBGLVBLQWM3ZGxVcmZhNDNWR3Njam1nSFcz0gGcAUFVX3lxTE1fdTk3dF9KRkU2bG9UdlhBU3BUT3FRNDdIU3FjTldLbUJaVzdoNVRwdlM3alBxcG1jWUtlZFotZEJDeG1HMWdad01zZFVrc0ZYMVZZUk5zUHMzRnU3emtJYjF4emhTYVRHR085N2pBOGlBX3dOZTJ2NkJydVlGdDNveHk0aDNPYkEybW1BaHBWTWUyTnp3ZEgtcklOUw?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-23T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] KSS해운, 198억원 규모 자사주 매입에 18% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSlF0eUJya21yWUFnYW93aTN5LXJrVXJidUpmNWdxV0tzb3g3R1Y4Z1dNbzNNSVNnM3dNam9NRjVDVDA1dWREYkhFUmhvUFE?oc=5",
+     "source": "Daum",
+     "time": "2026-09-23T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] KSS해운, 자사주 취득 소식에 장 초반 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZm15bmxQQ3o3aFBFNzdScW5BVkVhNkpzTXRlb1N4WFBjdXNST1I5cnRRa0RXdEZCdTRkU3hrdnpuTkpXMVpRREJUbnhUMndmMlVreA?oc=5",
+     "source": "이투데이",
+     "time": "2026-09-23T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴로핏",
+   "sub": "코스닥 · 380550",
+   "pct": 16.82,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 뉴로핏-의료AI 테마 상승세에 16.82% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01c2t5Sm1iLVdqUTRDUEJobEpsU0FDSVpBV0tFZ0RnXy15aFR1ZkpoQ2NOTFg1T0lTazVtZFNuSmJnZEszcThiLVlIVWFlMUNDb0E?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-23T09:18:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "토마토시스템",
+   "sub": "코스닥 · 393210",
+   "pct": 15.99,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 토마토시스템-의료AI 테마 상승세에 15.99% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZbGpFeEtvMkU0X1ZHV1JuOTZZd24yak5kVFltZVFXZGljMWxzeFNGcmE0b2RReFV5U3I5SkNFYjAwenRsUVBDZUZTYld5V3NRVFE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-23T09:18:10+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

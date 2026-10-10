@@ -1,0 +1,16 @@
+{
+ "label": "10월 2일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.29,
+   "text": "+1.29%",
+   "exact": true,
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjJZVDc5b2dNRFR6Sm4xN0Fnb3dESEVqQjVEaE0wMHVPUHV1cGZZWmQzdjFxTENnbjhkWkhnZGIwVlhhUWNsWk95WmdqWUN1M0ItRFd6NVdwb2dsUzBtVWE3bUxvUXdUSl8xRk8wTVFXVW8xZ3NPdUxBLXl3elZ6MDlDZ21hU3BadjMxOVBoalJVQQ?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

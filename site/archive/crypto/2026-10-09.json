@@ -1,0 +1,45 @@
+{
+ "label": "10월 9일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -1.47,
+   "text": "-1.47%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSb3JZWG9fMmNuejhkSWYxU083WGFlZi13RXdjU1NRRVR0MVVLeWR6VV9qZ3J5alVJTm1SaXljZnRtSldpS3JuNEgzVlowR1FNVWh3ODA0QnBzdU1Fa3BLRXN3QlppSU5u?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "오리진프로토콜",
+   "sub": "가상자산",
+   "pct": 112.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,220만원…빗썸 오리진프로토콜 112% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSFpQWFZrWlJpaDVsV3dweGZ0N25BT3d3VUxfUHo5eG1JZ1F1eFZCQmNKYVRoSUloUVFTcGNUZVVYOEtHMjBCenI5T2dCLWFKUm03LWxpNWw1OUhXdE5FcQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-09T07:30:21+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스타크넷",
+   "sub": "가상자산",
+   "pct": 21.82,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[10월 9일 코인 가격] 비트코인 1.47%↓, 스타크넷 21.82%↑",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSb3JZWG9fMmNuejhkSWYxU083WGFlZi13RXdjU1NRRVR0MVVLeWR6VV9qZ3J5alVJTm1SaXljZnRtSldpS3JuNEgzVlowR1FNVWh3ODA0QnBzdU1Fa3BLRXN3QlppSU5u?oc=5",
+     "source": "IT타임스",
+     "time": "2026-10-09T11:59:49+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

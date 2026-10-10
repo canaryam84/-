@@ -1,0 +1,215 @@
+{
+ "label": "9월 21일(월) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 1.65,
+   "text": "+1.65%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlSVlyWHUyTGpMR2ZlOVVWU1FFTEU4YlRERXBXNGluT2F0MHpHcmhyY2lKNkZFUG1MNndlelRabC1qSDc3MHZZTE02eVpiRklpRW9Vd2tSdVJCVEhnY1FXZ2pfOTdqX00?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 1.11,
+   "text": "+1.11%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlSVlyWHUyTGpMR2ZlOVVWU1FFTEU4YlRERXBXNGluT2F0MHpHcmhyY2lKNkZFUG1MNndlelRabC1qSDc3MHZZTE02eVpiRklpRW9Vd2tSdVJCVEhnY1FXZ2pfOTdqX00?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "토마토시스템",
+   "sub": "코스닥 · 393210",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 토마토시스템, 美 보험사업 최종 승인 소식에 상한가 - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMEdLcDZEemJWLTRYMm1jS2RKYWNPVmZHS3dtaHpCZFU4ekhOMktna0Znai02ZzZiWFZRaDQ1VVd2NTZRay1jbGR6djNmdVg5ZFZfeE15QW9VRTNvZmhaQ0g2NHlXcmhpZG4yTm9Bb0N0d2huNDkta3dkbU5USnplbEk1bjNDT3A40gGcAUFVX3lxTE94V0daUG9BVWdzTll6cWZROUNVTEFUWjlOTTlkOUdITWlLYmU1cDRrSDc0eUFTaHpPQ05QTVdWQXBBY3l0WmJZNUtUeEpNeS1yU2R6dElmV05LS0Z1bUxYakRaRDBUX0ptTEhIUWR0OFhMejJmSnFUdm5ienRJNjRDOG1uSmpxY2dGSFMyOXhHdUJVRnVnTGdKNnlzNg?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-21T16:00:00+09:00"
+    },
+    {
+     "title": "토마토시스템 '상한가' 직행…지분투자 美 MCP CMS 보험사업 최종승인 [종목 NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vV3JneG41UWhrVGZETDZMVzVNcmNWSGlHY1VSUENLTnFEYnVtTXZYNEVZd3VfSlgyeGFJMUU3Rk1nbEtuVDNoN3R4SVl4U2tzOHpSWUpTaXg1UQ?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-09-21T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, 토마토시스템-퓨리오사AI 테마 상승세에 29.97% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rV3JGWUlfQjZCbWc3UXYxUC03NUpJOENqd2V4Q1VSaHgycWdYT1dmUUNyZG9mVTFOZWsxWW5jUVY5aWhBbS1JM25Va2xnZTY3WXc?oc=5",
+     "source": "매일경제",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비트플래닛",
+   "sub": "코스닥 · 049470",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 비트플래닛·스카이랩스 '上'…코스닥 5개 종목 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lb0lMeDQ3TWlWcDl5aHBlRDZUd0xIcEg2aDJXZTRwUHpGdWtKbXpiN3FmVU9paUp4dl85MnJ0ODFZYUFaeXVrRS1fNkVaZVZWdmdyYw?oc=5",
+     "source": "이투데이",
+     "time": "2026-09-21T16:00:00+09:00"
+    },
+    {
+     "title": "비트코인 8만달러 돌파에 코인株 들썩…비트플래닛 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcU5UVG5wOVFKNmZUSnhReFo5MTg2c1Fzd1hxRC0yaFVNQnE3Y0EwR1NPQUxjSXk0ajNHalFQUzNjLWZIcXZqVEd5UDdyR2F3bXBGS0dYZk51LUd6c1M4Si1GZ3NDbjM3?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-09-21T14:41:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "인벤테라",
+   "sub": "코스닥 · 0007J0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "MRI 조영제 3상 1차지표 달성…인벤테라 장중 ‘상한가’[코주부]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbHRXOEdaVkhzTWNtUHJWNHA3Wmx3Q2F3OWwtYXZyd3VwUnNTN3dBbm5MalU1SUttdndYVmxWblFoY2xiRGw3eTdUXy1xdS11TlHSAVNBVV95cUxNNXhRN0VwMnRjanFJekN3RFROS2xUQ1hQU2w5S0NjZjh2TmdocHNxZmdYM20zNkpuUWo2ZUZKZ1hPYmNxbXdwUWlCbVp1X2FmR0xsNA?oc=5",
+     "source": "서울경제",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스카이랩스",
+   "sub": "코스닥 · 386380",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 비트플래닛·스카이랩스 '上'…코스닥 5개 종목 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lb0lMeDQ3TWlWcDl5aHBlRDZUd0xIcEg2aDJXZTRwUHpGdWtKbXpiN3FmVU9paUp4dl85MnJ0ODFZYUFaeXVrRS1fNkVaZVZWdmdyYw?oc=5",
+     "source": "이투데이",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이엔셀",
+   "sub": "코스닥 · 456070",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] 이엔셀 추가 상승 상한가…삼전·SK하닉 소폭 반납",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fYnlUMURMai1WcVpRSDA1bjBjT05PdjJDQ25YWDV5X2pITXNHS09lUGdVN0FSdmJCYVZGOWxWZ1J6b0FJTllLRUgxYw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이에프더블류",
+   "sub": "코스닥 · 312610",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "상폐 앞두고 널뛴 에이에프더블류…20% 급등→16% 급락 마감(종합)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9weWo0MUl5anppUGx0VE5DUnVVODhPdnptdWxjTHl3cEJJNVFNd1k3ajF5dFhkM3p1eFhzMHNjUTdkTFd1cGpTdV9LVjlxU3BkZjZrbjJNbzJMNzZBQmRB?oc=5",
+     "source": "뉴스1",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "SFA반도체",
+   "sub": "코스닥 · 036540",
+   "pct": 18.63,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, SFA반도체-시스템반도체 테마 상승세에 18.63% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZzlvNTQwUmpvekNjNVh4T0d5YWVCSzNXd3lXX0t4OXIxdVpwT1BPS05GRU9MZG9Gem9STVBJTUhNelB0MnBheVRfd3VTQ0RleHc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "드림씨아이에스",
+   "sub": "코스닥 · 223250",
+   "pct": 18.02,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 드림씨아이에스-의료AI 테마 상승세에 18.02% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91bmlteGx5RXZ2N3NJTy1wRnB2VU84bTVqZXBCdWtkM0hsTnhwWkVUcE95bFVXVlp6Y21uX2NaWlR6cS01UTFaZ3FOUExxdXExUmc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴로핏",
+   "sub": "코스닥 · 380550",
+   "pct": 17.9,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 뉴로핏-의료AI 테마 상승세에 17.9% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOThjdDg1cFFKcERXZXlRemlqY24yS1M0ZHdiempuYzVxRjhGVkFWcFF1MnZrY2QtVUUzTElfZDJab0xjcy1oNWphTGtpUW9SSXc?oc=5",
+     "source": "매일경제",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하나마이크론",
+   "sub": "코스닥 · 067310",
+   "pct": 16.56,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "특징주, 하나마이크론-시스템반도체 테마 상승세에 16.56% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83MWRtcUlVYXpxenJpVjhETFJodTk5VDhGdDlrX210RmNkenJvRVJQTnpNLUJraGZMa2sxaG1zdUVNSXc4bGozSVNCTlk5dEpfX1E?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-21T16:00:00+09:00"
+    },
+    {
+     "title": "하나마이크론 16%대 급등…美반도체 훈풍에 소부장 강세 - 머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vdUZ5S05RUDAyNXBKVUt2U3VXX25OYzFPcmJnZGtvb0IyLU5vcktXQjZLWWZYUHVadjVBMmRHNEx0VnZUR3R1aGEtZjl2NkVkT3FpOTJ4Wl94aVVyTUZSeEpLOXVGVHF50gFuQVVfeXFMUDNEQnl5Zklpc2oxRTY3c18zMU1MblVHZWhoMUNlZmlOV2ZOdVFoSjZJX2pHMHkzTjB6QUU1RVhIVzhNRkRIQzRvY3VTZ1Vhc3NxMnVEWnpFX0Q2RnowM0J2bG9hX192M012WnZEQmc?oc=5",
+     "source": "머니투데이",
+     "time": "2026-09-21T16:00:00+09:00"
+    },
+    {
+     "title": "하나마이크론 16%대 급등…美반도체 훈풍에 소부장 강세",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wSVNkOHoxN291RGpRdUdaLUg4OEdZdHpWamt6bHNaNXFmT290TEJ4emtRT1JEU3NzMXRQWXNuTkswdk9FWWNVYUFlSTM5MkFrYTQw?oc=5",
+     "source": "네이트",
+     "time": "2026-09-21T16:00:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

@@ -1,0 +1,293 @@
+{
+ "label": "9월 16일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 1.37,
+   "text": "+1.37%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUTRaTjVmWEItVzRvSjB5WWRQcHV2RTI5RkhTZk1DeHVCREx5X0lmYkN6VG9KS2cyaDlqaGQ4ZXhrOGNwaXdQcG82bUZMZk5fX0J5RFJDVWNYUHZ2WV80RG82OVFOMXM?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.44,
+   "text": "+0.44%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUTRaTjVmWEItVzRvSjB5WWRQcHV2RTI5RkhTZk1DeHVCREx5X0lmYkN6VG9KS2cyaDlqaGQ4ZXhrOGNwaXdQcG82bUZMZk5fX0J5RFJDVWNYUHZ2WV80RG82OVFOMXM?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "미투온",
+   "sub": "코스닥 · 201490",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 14,
+   "articles": [
+    {
+     "title": "[특징주] 미투온, 카카오게임즈 피인수 소식에 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXJ5clhoQ0dmcnBVZlM2TmEzX3hzVGlRSFlwQVlud0FOUVA0M1FzaDhLSDFFUENUN1Nfa0lOVmQyOEFGM0NSRG9sR3A3Z205UHFtU2ZVV0p4ZmtxMzBhTzQ2S2I3TVg4UUVXenVsekJkTHVoNW5jTlc1czFEVnk0NndtdDlxWVI50gGcAUFVX3lxTE1NWC0yLXZBbExoY21uc0I0bGQtM0JLQ2R2ZHlncHBTWmdWMUgwOW04dEpDbmdHTGJJQTExZDFyVENILW5pSk1VZFVPTmhsX19JWVJ0Nm1zT1VBMW1qRWtCRVViTXZYVF9SUE91Yk03VjFuSTZTMEFZVVJzUF9MbWdFM2Q0VzM3eEhoNUV1VzNLenA4US1vWV9ndlZHSQ?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSVR0MVJVVGFoLTlwS3V6X2Z3ZzkxV3ZtVUZod1J5blI4VFVGME9PMUhJb2E3enkxbk5rVjR3aVFDQ0E1b05lVVZHRUFxVHFyV3J3WTctQWpyQQ?oc=5",
+     "source": "한국경제",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[핫타임] 미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ISGI5Yy1PUFVPVHFXOF9NX3E4S0tSMjhheVh1ODhIUGJfQXBfdmU5eU1pM2JoaFduRVdVTktVak5nX2pRcWVsS25aYw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05a0lLMEctVEtMTGo1MW9wQTlPQkFWQVNsUUtFckxBQWpIQ25iX2tfdXJoWlR3NVdGZFNybjk1S0h6Qll1WThOU0JOWENZSDhuTHdDOE14WTJZNHc?oc=5",
+     "source": "에너지경제신문",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카카오게임즈",
+   "sub": "코스닥 · 293490",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[특징주] 미투온, 카카오게임즈 피인수 소식에 ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXJ5clhoQ0dmcnBVZlM2TmEzX3hzVGlRSFlwQVlud0FOUVA0M1FzaDhLSDFFUENUN1Nfa0lOVmQyOEFGM0NSRG9sR3A3Z205UHFtU2ZVV0p4ZmtxMzBhTzQ2S2I3TVg4UUVXenVsekJkTHVoNW5jTlc1czFEVnk0NndtdDlxWVI50gGcAUFVX3lxTE1NWC0yLXZBbExoY21uc0I0bGQtM0JLQ2R2ZHlncHBTWmdWMUgwOW04dEpDbmdHTGJJQTExZDFyVENILW5pSk1VZFVPTmhsX19JWVJ0Nm1zT1VBMW1qRWtCRVViTXZYVF9SUE91Yk03VjFuSTZTMEFZVVJzUF9MbWdFM2Q0VzM3eEhoNUV1VzNLenA4US1vWV9ndlZHSQ?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSVR0MVJVVGFoLTlwS3V6X2Z3ZzkxV3ZtVUZod1J5blI4VFVGME9PMUhJb2E3enkxbk5rVjR3aVFDQ0E1b05lVVZHRUFxVHFyV3J3WTctQWpyQQ?oc=5",
+     "source": "한국경제",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[핫타임] 미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ISGI5Yy1PUFVPVHFXOF9NX3E4S0tSMjhheVh1ODhIUGJfQXBfdmU5eU1pM2JoaFduRVdVTktVak5nX2pRcWVsS25aYw?oc=5",
+     "source": "Daum",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] 미투온, 카카오게임즈 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05a0lLMEctVEtMTGo1MW9wQTlPQkFWQVNsUUtFckxBQWpIQ25iX2tfdXJoWlR3NVdGZFNybjk1S0h6Qll1WThOU0JOWENZSDhuTHdDOE14WTJZNHc?oc=5",
+     "source": "에너지경제신문",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엠에프씨",
+   "sub": "코스닥 · 432980",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "엠에프씨 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acUVoS3dueVRRWU9abzYwLVhhSWt3by0tM1N2Y280NkwzQmhrX3I4czY0amdvM1Y2bVE0aHY1TFExSWxUWHg1d1gxZUYyOXRwdG9xcFFnODZvbzh0MmdNakNkSElZckxfdXc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "엠에프씨 주가 상한가, AI 기반 경구용 인슐린 개발 국책과제 선정",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92UmwtNmF4SlVIejJVcUdCdDA4SVJXcUlySFVhM1N5eEVnSVBpR3Q3bXZkNGx0VGNWUXFQdGlMbHN2cGh5RVNXSHp6c3dzQXVnVWtacnNzclQwUWRQU3l4am5ueTU3S3FJajNOLXBn?oc=5",
+     "source": "국제뉴스",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "앤씨앤",
+   "sub": "코스닥 · 092600",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "앤씨앤, 비투엔 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YY2ZSdkVna3I4NEVPbnEwUU5uYXRsQXUwYlJQc0Q3TC1YcWVmT0JWa2wzekNGbmprdWQ4QjlXTWExU2ZlZmp0LWgtdkFKclo1U2xtT0VnYkFPYjFYcmpLTlZjWUdBWHdMNGc?oc=5",
+     "source": "TradingView",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비투엔",
+   "sub": "코스닥 · 307870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "앤씨앤, 비투엔 피인수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YY2ZSdkVna3I4NEVPbnEwUU5uYXRsQXUwYlJQc0Q3TC1YcWVmT0JWa2wzekNGbmprdWQ4QjlXTWExU2ZlZmp0LWgtdkFKclo1U2xtT0VnYkFPYjFYcmpLTlZjWUdBWHdMNGc?oc=5",
+     "source": "TradingView",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이스테크",
+   "sub": "코스닥 · 088800",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "에이스테크 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUkZJZFYzanVEc1B5ZnZRZjd5cGdKSFVuZEFObm1mcjJWTVpwbldqZG4yZHJtWFVINDUwYU5mVmw5Sjc0dkdldGF1YkRnSjFuSW9sNWowV2JBVFVOZVY2OTV1U3U0WV90RXc?oc=5",
+     "source": "금강일보",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뷰티스킨",
+   "sub": "코스닥 · 406820",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "뷰티스킨 주가, 9월 16일 애프터마켓 상한가 2,540원 29.86% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNDdlbFd6cGhzSGVDM1lKLWdLMDUzTktjSkVLNTZkekJpakJOMnZhNHVHcDMyVHpyYXA3NzlGYkw2Y0pzLTU2UG9GWHFUVFJfaGpwVmVLQTFuOHdVNEtUMUt3bmttLVBiRGpTamktMWhVQQ?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "기가레인",
+   "sub": "코스닥 · 049080",
+   "pct": 24.82,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 기가레인-5G 테마 상승세에 24.82% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lWmJnMU5ObFhZS3NpUzFYQmZSY1RKVzIzSV8wSlZoZzVsSW1GcUVaajM5Y3JFY0ZiS045eTZWXzU4YmR1Q3FMNXRKUlg5SXhaRFE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카티스",
+   "sub": "코스닥 · 140430",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "카티스 21% 급등... 물리보안주, 개별 모멘텀 따라 차별화",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQSV9DZThXWEpOUXZJT1J2cGlEUG80cWZscTR0Z1dyclBHam5KZXUxbjFsdjRsbDhaVy1mZ3dfdnVUalBwLWRjSFowTDJuWHJQeFZ2N1A3VDhRTVY5YWh1SkZCWWR6blZVVksxNTRuNkh1ZEnSAXdBVV95cUxOakZXd0M3M3M5VFdBMjlVWlYzb3NpSnZKV19Ga012bzVPZzJ0MXhPQWQ4TkVEcUpaWlhBeHViSktxWHc1R2RPcUtGcDBscTlPX0xSdlFQOU1FOG5NTnpoVTVJZ3pNQWJhdFF5b1lZbXpOa1hSMmdoZw?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "LS에코에너지",
+   "sub": "코스피 · 229640",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[특징주] LS에코에너지 19%대 급등…美 태양광 케이블 공급",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZmxkMXJfUWdsd2htUEVhcU5SM0M0eEpKMzhxeWtTaHdSMGY5Ui1UWjNFdDVjcXRfSTVIb19mQ1pmSnRhMGNLeXlNODRLWHFJMGRnWg?oc=5",
+     "source": "Daum",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] LS에코에너지, 美 태양광 발전단지 케이블 공급에 17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92S0Vyd3kwYm5Ca3J1UEcxLVRic3drNGs2cmlWN3pPaXRndVhVV2piNmFjMWZwR0g4U1FWaWcxckJNS2tRNGJ2Y0JqTQ?oc=5",
+     "source": "아이뉴스24",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "[특징주] LS에코에너지, 美 태양광 케이블 공급 소식에 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BOWFZby04RDd5N0FCbzhsSXBiWm50Q3VEdVlSVTJnY0RROHlLNVpwdnJPVFl5YUpkWktYT01KOUdmalVMYU1ubXlWbGFjaE1pcjNjX1hiRU9vd9IBWEFVX3lxTE1kcFo5NUpSeWdkekp4MmdSbGk3ZEZvb3F0cEpoVldWTGVKNUNaX3NWVE9NQndDVm5CVFR5UUZjbWpLZGdmSTZyVVBILTFpR3RuRV9hTVkwRko?oc=5",
+     "source": "아주경제",
+     "time": "2026-09-16T16:00:00+09:00"
+    },
+    {
+     "title": "특징주, LS에코에너지-전선 테마 상승세에 17.47% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iWmJ2b2hnVWRRWkpNR1lkTzJPanNIVnZCRnRyNmVsejJxNXlXUklKN21zbVVCV2xZNHhXclhPQUV4eVJBaWVueDJuSllTT3RHWEE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라이콤",
+   "sub": "코스닥 · 388790",
+   "pct": 17.77,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 라이콤-5G 테마 상승세에 17.77% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lM1pGZGg0NzdYUjdlQ3VzNmlZbkRybndPMGFHRHU5dGo5S0wxOVozV3ljOFU0cF9nVnQxNHA0QkEyVXlKRmhIZzEzWUk2VHA3YUE?oc=5",
+     "source": "매일경제",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비나텍",
+   "sub": "코스닥 · 126340",
+   "pct": 15.34,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비나텍 주가, 9월 16일 75,200원 15.34% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LbVg2NjZSb09ueDNGWGhoOHZUTkl4ZGEwMkxKVXRTc3N5Y2hCalpIcm84cFlnY2hvWGdaVGhCNlZKS1pIeTdOZG51RkFfWUdldGw2YnBEZ0R3MC1WRTdMSS1saWI5ZW04eGh2UDVTTW5VUQ?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-09-16T16:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "알톤",
+   "sub": "코스닥 · 123750",
+   "pct": 15.03,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 알톤-자전거 테마 상승세에 15.03% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CVlI3Q2puSDJ3Z3RMaHpfSW0tX3BCajYyaVdfdHlneDhRTEtTN1Y3OGJLbTNNRTB4RDM5MUpiVllsUC0wZTNPSmh2X1ptN1VzUUE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-09-16T09:25:03+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:27:33.375579+09:00"
+}

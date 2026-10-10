@@ -1,0 +1,45 @@
+{
+ "label": "10월 4일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.17,
+   "text": "+0.17%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zYjNFUFZIY011MTJRVmMwREZSVjBDT2J4aEpmdFFyaUp3QUg3dEdQLS1wZE5WeUxGZkhtTzV0S0trc082VG40QkEzMTRxVFlkRU80QVVIR0dXSndwNGRpaWJrZjdjN1N3?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "돌핀",
+   "sub": "가상자산",
+   "pct": 45.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비트코인 1억 1500만 원선 유지… 돌핀 45%대 급등·샌드박스 강세",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wb2tObEFaN0haaG1sNUZmUFREdWN1cmwxakE2aXN1WnYxSXlFNGhvMXZmR3Y3NDJFcmVJTDR5LXdWX3hJbmNkVGF1ZW0ybE1Bb1MwTU56bDlqcHlTVmZ4SkJlUVFoaWJJYy1yLTR3?oc=5",
+     "source": "국제뉴스",
+     "time": "2026-10-03T17:39:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "유입",
+   "sub": "가상자산",
+   "pct": 40.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "\"바이낸스 스테이블코인 유입 40%↑\"... 가상자산 시장 상승 징후 체크",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PQm9PN1pnVTUzYnZXNXNBUWJZOE5DMW5LM0x6VEZEZE5rRG91Nk56M1RIVEtjdkFoZW5abHJBNGV3LTNwa2dWOWR1T0ppVlVmbndLRUpTbEFxdS1GcTRxN1ozZEhiY19k?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-04T01:00:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

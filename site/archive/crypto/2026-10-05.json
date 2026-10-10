@@ -1,0 +1,31 @@
+{
+ "label": "10월 5일(월) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 2.36,
+   "text": "+2.36%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6a3o2ek5IenBFVWppQVN1UzZpc0VuNDRGTWtVWEp2ZDNNWWxYdjhlZ1BWMHZvSjFuMVdLbzQxQmZPU011SnhOVDZnYmNJSHJCeFUxZmVGZWRPaVpfZ1JhSm92d18zZjV1?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "깃코인",
+   "sub": "가상자산",
+   "pct": 55.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,658만원…빗썸 깃코인 55% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15SEFHX0otbmJqS01wRy15QkxjaEdoTGRPZ0VibmRQUm5fXzJPVlZVMFhQcXhxYTJVZmhucEFOdTZtcnlucGxVZDhwZWtnTkxYTVZ0Zlg5S3Ztb1Y5M09FTQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-05T07:30:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}

@@ -1,0 +1,65 @@
+{
+ "label": "미국 10월 1일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.04,
+   "text": "+0.04%",
+   "exact": true,
+   "source": "이투데이",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fbVQwMnhWYXRQRXJCM3RzTHdUNk9uS0o0YlJ4ZzBRbl9INjQ4OU11NWdXV19CS0M0S3ZVamFsUjZBYTZmOFVhWjlGWUt3YXUyUUZsMw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.04,
+   "text": "+0.04%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYXFfNHJsOWlOTEtQb2ZiVlI1M2w0QmtkNGxEZUw4aVYtNXEwMkEwYXlweVBHbE9XeWI3OWxIZktsU29rUEVrRFZZSU5ObEZq?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Applied Optoelectronics",
+   "sub": "AAOI",
+   "pct": 205.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Applied Optoelectronics stock soars 205% in 202...",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQempyN3A2Sk1FNDZBdVhHQ3pZQkxMZjgtOGNnRXVnUnlNYnBMTnZTdWlsQW9oYXIyQzNmS2I5cEFGUk0tR0xtUFlKRVZKZnRBc095V2toVG1PYmtiM01FOUFVWmxiWWJrejQtY3VHdWVrOTVxb2ZBQll3N0hPYnZHWG82a1BaeHNlNDlRSEVmdVpsbmp3QlRvaGN6NjFNdnFaTlNKYlJn?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-02T04:16:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Accenture",
+   "sub": "ACN",
+   "pct": 24.0,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "Accenture shares surge 20%; Infy, Wipro ADRs rise on strong AI-led growth",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa0VzUk5aZEZoRW5NMFAzRWRra2VFUUpVa2xFaHhZWHQtWTl4N3U3ZHNDcFBLeWlIaF9Kc21qeG02Q29DdWVWRFVqcGtXcE5lYW1UcjU0cTZ5THdKUU9pd212UHdUdnl1c3FkOEE0elFIckoyTjNNd3lpaVRhNE9XdzQ4QTBZVGYtWUlDRzdrZTF2UFhmQy1DZDVrOEl0MXcwZnZyWDhqaDlQcmpyeVg4YUNOUFRwUXppMjVrWTV2RnlYR2IzZ3JCa09RVURESDRhNHlfREJtcFpWd3F4anFvUTBwRTB4dklaRlFSM9IB8gFBVV95cUxQdW5adTVRcDBUVl9aQ052M3hWNXdRcThtN192enlBaDQzd2VQVzEzanoxSy1YQmhoR3k3a2o2eUw4M0V3WGlFdmFJUzF4VUZWRDdtZHZ5SWZnNENFVTg0dUNwd1FUaGY4UEtrajhNd3R0SlFWcE1ybnduQmZ0UmJueVdIZ1FVSkVoSE5MMjZtX25WREpNeGR4R25kQ2RoSVBpY1J2TDFYcGRoY2l2ZjgzTmlzWnZtbjJ2aHVmbkxPSGJKTF8zVmc2WVNBOXJadkl5SkxZbDJDakRRcjF3aGdBRHp6NDBZSGVxX3RNVzdBTkRwdw?oc=5",
+     "source": "The Times of India",
+     "time": "2026-10-02T01:08:00+09:00"
+    },
+    {
+     "title": "Accenture shares surge 24% as earnings defy AI fears",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOG1YWmE3bXFDMm1kZGlzV2FMWTVkMXRyaDV5T2xrVkU5RVJsMHAxaG9KOEs2Uk9lZFlKX0djY0VYbnJNUjNiVWw0RWlob2YtXzJoVWx1aEYyVDZhQUFsU3RJMnNXZWFpOUFPRWotbVJIdFgtUTRJYWxmdU1FY2lRXzFJNzZxVWUwcmc0UGUyRUF5a2dJR29vNzFtMzE1d0RTZXZ0d0lFMDdXZ0hEY3pvSHkzS1J4dHhyQ2JEdWJqN0NzeUItMVE?oc=5",
+     "source": "Capital Brief",
+     "time": "2026-10-02T00:30:23+09:00"
+    },
+    {
+     "title": "Accenture stock surges 20% to $220 after Q4 beats expectations",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVU01MDROelIyQy1TeUJEQzU1QUlGWFRlemhOVWZoaDh4cElIUlVtdHFHa2Z6WW5Xd3hBaDd4NHNzNzlnRlpjRGNYa2htbTktdFlLNlV0UW9aUWVhU1o2X2tFb1JBQ1VNX3BGZ1FQdGticTJXMDJpelpKZGliTHVTUjFxNjl1RWpmaGQ4UFd1bHFFTkhGZmpRSkY2M1JwMTN6cUZZSHQ4dXRva3NG?oc=5",
+     "source": "NewsBytes",
+     "time": "2026-10-01T22:06:17+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T18:31:01.675141+09:00"
+}

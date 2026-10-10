@@ -1,0 +1,51 @@
+{
+ "label": "10월 7일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.64,
+   "text": "+0.64%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NVGpYdFZjVlM4N0RBVlZRN0I5aGVZVW11ZUw5eUVrN1VPZlBya1ZIUFJmTXhhTC0yamc4MFc2QnBDSzRoTzBZVW1EOENUZGJ4Ulg3bU80VGRMV0l2dW9rS1BmYzVSWEVX?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "RLC",
+   "sub": "가상자산",
+   "pct": 137.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] iExec RLC 137% 급등…LayerZero·NEAR도 검색 상위권",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81b3dnc2tvUkNhNEtHZXhGbjJWZmtIdmE3TUN2QTY5SEQ4T3V3Z0o1Mmc0eDV3THFJQnBCME5PbXlzRnN1eC1QYXN6WWg4TWdoRDFlWg?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-06T17:16:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "오르카",
+   "sub": "가상자산",
+   "pct": 32.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "업비트 알트코인 급등세… 오르카 32% 폭등 속 캡·메테오라 두 자릿수 상승",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IbmphZGh2aGY0bERqLUh2QkdxTEJtd3RYVlNzMFpSTGV0UnhTZURDX3hvZEM4RXg5SVllVXEzaWV0WGVoTVp6VWlWQmJzOWFxaXV4M2ttc0RwdlVSZk9zSWJIMjF2M1lmMUlZX3cxY0I?oc=5",
+     "source": "블록체인투데이",
+     "time": "2026-10-07T10:28:04+09:00"
+    },
+    {
+     "title": "코인거래 6.4% 줄었는데 오르카 27% 급등…리플XRP 1249억 몰렸다",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KYkNDelNGNlNxWm5tQXh3Y1oxdlJvNzZTU0Z1NWREZzAyQ2EzYXFJT1NRUXBySGlyZTYwdDBMWlpwTjA3SzF0SnJYMFJtN0pUbVdMc3I0MlMxRU5Uc2RlNFFFSXFIaGpsUnVwTklVbnRsUQ?oc=5",
+     "source": "TopStarNews",
+     "time": "2026-10-07T06:58:23+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-10T19:17:28.192294+09:00"
+}
