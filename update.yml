@@ -1,0 +1,83 @@
+# 시장별로 정해진 시각에 뉴스를 모아 사이트를 갱신하고 GitHub Pages에 배포합니다.
+# (GitHub 예약 실행은 몰릴 때 몇~수십 분 늦어질 수 있습니다)
+name: update
+
+on:
+  schedule:
+    - cron: "30 7 * * *"     # 국내: 매일 16:30 KST (정규장 마감 후, 주말·공휴일엔 '휴장'으로 기록)
+    - cron: "10 11 * * *"    # 국내: 매일 20:10 KST (넥스트레이드 애프터마켓 마감 후 한 번 더 정리)
+    - cron: "0 22 * * *"     # 해외: 매일 07:00 KST (미국 정규장 마감 후, 주말·공휴일엔 '휴장'으로 기록)
+    - cron: "0 3 * * *"      # 코인: 매일 12:00 KST
+  workflow_dispatch:          # 수동 실행 버튼
+    inputs:
+      markets:
+        description: "갱신할 시장 (korea us crypto 중 공백으로 구분)"
+        default: "korea us crypto"
+  workflow_call:              # 삭제 요청 처리 후 다시 배포할 때 사용
+    inputs:
+      refilter:
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 수집
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          MARKETS: ${{ inputs.markets }}
+          REFILTER: ${{ inputs.refilter }}
+        run: |
+          case "$SCHEDULE" in
+            "30 7 * * *")   ARGS="korea" ;;
+            "10 11 * * *")  ARGS="korea" ;;
+            "0 22 * * *")   ARGS="us" ;;
+            "0 3 * * *")    ARGS="crypto" ;;
+            *) if [ "$REFILTER" = "true" ]; then ARGS="--refilter"; else ARGS="${MARKETS:-korea us crypto}"; fi ;;
+          esac
+          python collector/collect.py $ARGS
+      - name: 데이터 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/archive
+          git diff --cached --quiet || git commit -m "데이터 갱신"
+          git pull --rebase --autostash
+          git push
+      - name: 실시간 기사 이어 붙이기 (배포할 때 사라지지 않게)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REFILTER: ${{ inputs.refilter }}
+        run: |
+          URL=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq .html_url 2>/dev/null || true)
+          if [ -n "$URL" ]; then curl -fsSL "${URL%/}/live.json" -o site/live.json || true; fi
+          if [ "$REFILTER" = "true" ]; then python collector/collect.py --refilter; fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

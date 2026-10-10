@@ -1,0 +1,60 @@
+# '실시간' 탭의 기본 자료: 국내 종목 이름이 들어간 증시 기사를 모아 배포합니다.
+# 장중의 즉시 전달은 Cloudflare 실시간 서버(worker/)가 맡고, 이 작업은 구글 뉴스 보충·날짜별 기록·장 마감 후 갱신을 맡음.
+# (GitHub Pages는 시간당 배포 횟수에 권장 한도가 있어 최소 10분 간격. 예약 실행은 몰릴 때 늦어질 수 있음)
+# 오늘 기사(live.json)는 커밋하지 않고 현재 공개된 파일을 받아 이어 붙이며,
+# 한국 시간 자정이 지난 날짜만 site/archive/live/<날짜>.json으로 커밋합니다.
+name: live
+
+on:
+  schedule:
+    - cron: "*/10 23,0-6 * * *"   # 장 시간 무렵(한국 08:00~15:59): 10분마다 (실시간 서버가 안 될 때의 대비)
+    - cron: "0,30 7-22 * * *"     # 그 외 시간: 30분마다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 이전 실시간 기사 가져오기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          URL=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq .html_url 2>/dev/null || true)
+          if [ -n "$URL" ]; then curl -fsSL "${URL%/}/live.json" -o site/live.json || true; fi
+      - run: python collector/collect.py --live
+      - name: 자정이 지난 날짜 기록 저장 (바뀐 게 있을 때만, 보통 하루 한 번)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/archive
+          if ! git diff --cached --quiet; then
+            git commit -m "실시간 뉴스 날짜별 기록"
+            git pull --rebase --autostash
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

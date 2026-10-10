@@ -1,0 +1,33 @@
+# worker/ 폴더가 바뀌면 Cloudflare에 실시간 서버를 자동으로 배포합니다.
+# 처음 한 번만 저장소 Settings > Secrets and variables > Actions 에 아래 두 값을 넣어 주세요 (worker/README.md 참고)
+#   CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID
+name: worker
+
+on:
+  push:
+    paths: ["worker/**", ".github/workflows/worker.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: GitHub Pages 주소 계산
+        run: |
+          OWNER=$(echo "$GITHUB_REPOSITORY_OWNER" | tr '[:upper:]' '[:lower:]')
+          REPO="${GITHUB_REPOSITORY#*/}"
+          if [ "$(echo "$REPO" | tr '[:upper:]' '[:lower:]')" = "$OWNER.github.io" ]; then
+            echo "SITE_URL=https://$OWNER.github.io" >> "$GITHUB_ENV"
+          else
+            echo "SITE_URL=https://$OWNER.github.io/$REPO" >> "$GITHUB_ENV"
+          fi
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: worker
+          command: deploy --var SITE_URL:${{ env.SITE_URL }}

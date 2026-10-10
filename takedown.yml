@@ -1,0 +1,48 @@
+# 삭제 요청 이슈가 올라오면 사람 확인 없이 바로 숨김 처리하고 사이트를 다시 배포합니다.
+name: takedown
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  apply:
+    if: startsWith(github.event.issue.title, '[삭제요청]')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - id: take
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python collector/takedown.py
+      - name: 삭제 목록 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blocklist.txt
+          git diff --cached --quiet || git commit -m "삭제 요청 반영 (#${{ github.event.issue.number }})"
+          git pull --rebase --autostash
+          git push
+      - name: 요청자에게 답변 후 닫기
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MESSAGE: ${{ steps.take.outputs.message }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$MESSAGE"
+
+  rebuild:
+    needs: apply
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/update.yml
+    with:
+      refilter: true

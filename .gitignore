@@ -1,0 +1,6 @@
+collector/cache/
+site/live.json
+site/stocks.json
+site/holidays.json
+site/blocklist.json
+__pycache__/
