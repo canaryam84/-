@@ -1,6 +1,6 @@
 {
  "label": "10월 9일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-10T16:01:43.261502+09:00",
+ "updatedAt": "2026-10-11T00:03:34.979294+09:00",
  "items": [
   {
    "title": "루멘텀, 개장전 '강세'…CEO \"광전자 부품, 강력한 수요에 2029년까지 완판\"",
@@ -70,6 +70,20 @@
    "dir": "up"
   },
   {
+   "title": "결국 목표가 ‘380만원’까지 나왔다… “SK하이닉스, 이제 시작이다”",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmRk5iSUV4QjdtZ25VVkhNZjlvWlBGQTNGb1B6NERwV1ZqZmhZLWRwUEV1MzAycGNidDd0R09QcnVDWlRfbEpVd1Njazd1ZkdIcTd3MGtISURTOTZXVDZ6a1ptZw?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-09T13:09:23+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "대화제약, 애프터마켓서 급등…연휴 이후 주가 흐름 주목",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMGt5MVg1cXNGTE90Y2laTlhPS21TUkE3dFZfMU9hcktmQU5fdThZOTlWbkE4LVJ4R0hJRkVYdVNwU3hGdS1yZ2pTZmVBelFld2hmeVI1cThWRTYxMEprRUExdWxRXzI4?oc=5",
    "source": "CBC뉴스",
@@ -100,6 +114,20 @@
    "dir": "down"
   },
   {
+   "title": "금양 주가 급락 위기, 91억 과징금 폭탄 터진 이유 : 한국증시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JUHFkNVdDOU1oSzFFYTJLX3M0dkVFb1FyV2ZQZnZENzk0OGlibjdib09xbWx1b25HeGw0TFd4NkM5UDR5bjZ0SVpVNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-09T09:45:00+09:00",
+   "stocks": [
+    {
+     "name": "금양",
+     "code": "001570"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
    "title": "\"지배구조 개편에 주주환원까지\"…현대지에프홀딩스 4.64%↑",
    "link": "https://www.hankyung.com/article/202610082049i",
    "source": "한국경제",
@@ -126,6 +154,38 @@
     }
    ],
    "found": "2026-10-10T15:22:55.058376+09:00",
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "동양·천일고속 급등…다시 불붙은 서울고터 재개발 테마 [코주부]",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WTBYM2NZZ0NpbTdZS1FDbGNBX3hjV051OXNEdElLZlBqZENoazh3Vnc0b2wwbDdLNEtZaXpabUEtOWZid0hPSzNtcHQ2a1BHZlpiR1JnZw?oc=5",
+   "source": "서울경제",
+   "time": "2026-10-09T07:00:00+09:00",
+   "stocks": [
+    {
+     "name": "동양",
+     "code": "001520"
+    },
+    {
+     "name": "천일고속",
+     "code": "000650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "“아침부터 찬물”…11주에 하한가 찍은 SK하이닉스, 무슨 일이",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51SVVfN2ZQUDN1bFY4MjEwWmNqTTRjUDNSRHMxVzltR21zNElqTUlqUHRBdktONDBPdXN5VFpUR3REZlVmVkNxdk5MZ1Y0RUFzdnk4YWlIel9vZEljejhVTmVGdw?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-09T04:09:22+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
    "thin": false,
    "dir": "down"
   }

@@ -1,0 +1,178 @@
+{
+ "label": "10월 10일(토) 국내 종목 뉴스",
+ "updatedAt": "2026-10-11T00:03:34.979294+09:00",
+ "items": [
+  {
+   "title": "프로텍 주가, 인베스팅프로 적정가치 신호 후 60% 급등",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1udy01aHQwTy1Vb0lkcFZzbkZON1JnampvcFIwc3NFa2oxX3pOa0tvcjgyenhzRE10R0xUTS1fbGlfNGJiVFRaZlQ0N1VzdkQ4eTZGVTRWY0UySENNZjZOaHhSRlZEMjl5eWtJTjBZUGcyaE5HSWc?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-10T20:50:00+09:00",
+   "stocks": [
+    {
+     "name": "프로텍",
+     "code": "053610"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "부국증권 45% 급락, 적정가치가 미리 포착한 방법",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HeFhsNExRV0VUdHdPa1ZZSmw4cWFzd1htc3RWYWZ0X0o0bzdPQUFXMTlyemhONDhKZUx0TUNZUDZmemc3SE9YaXNYNTMzdWlGRkxHQXJoeGxmU0g4SXRnLUVRMXdRX2tMSGY1VkNpVks5MlVDbGc?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-10T20:46:00+09:00",
+   "stocks": [
+    {
+     "name": "부국증권",
+     "code": "001270"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "10월 2주차 SK스퀘어 주가 100만원대 급락",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wRTVyRUdlaEdJdWI4RTB3MVd1cDRNVU5aTkUyaU5TcXJTbmw1cFFQQzhWQmtpOTFhV05HSl9CalNmRmp3NzdvUG5HckZTUklEVjRVS04yaG5GNXp1cUJrY3Q2eUdnSmJ3cWZfNHhBODQwUQ?oc=5",
+   "source": "TopStarNews",
+   "time": "2026-10-10T11:06:25+09:00",
+   "stocks": [
+    {
+     "name": "SK스퀘어",
+     "code": "402340"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "10월 첫째 주 두산에너빌리티 주가 하락 전환",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ROUJJNjJubnI5SWFiYlhMWGlHcGl1eHp5b05EUFN0dzlOR05od3AwQTFOdkxWMU55ZTkwRE9WU3RrSU5pcGs4Vy04QXhBRVl1cU1FNFlwSF9udUFFbWg0M2NaM2lyY3ZkaUhUNEpyWG1ydw?oc=5",
+   "source": "TopStarNews",
+   "time": "2026-10-10T10:43:07+09:00",
+   "stocks": [
+    {
+     "name": "두산에너빌리티",
+     "code": "034020"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "10월 2주차 SK하이닉스 주가 하락 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZYkZRYW9xYmxTamJOd0owcnRwSVFpUFYtRnMwYWNreTlyMnRka0I3NlIzVG00VUtSSTJHSC1pQXpNaThubHNaR1lZWk1mX0paa3p4YXhEc01yUTlhQXFzMXBudElET3dtUGpfVEY0X2wtZw?oc=5",
+   "source": "TopStarNews",
+   "time": "2026-10-10T10:41:08+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "10월 2주차 삼성전자 주가 27만원대 급락 전환",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcFh5ajJrM3ZINGR6VlcxMVVJYUMwai04OHBRdm5KNHRvd09yNVkwRkg5eWhxa3dnelN6SnZjczhjTXBqYkdPSnhIeFZSdTBTSkpQdTNFUVluX2lSR1Y1eFF4UzBkVFotUVlDOUloLXhvUQ?oc=5",
+   "source": "TopStarNews",
+   "time": "2026-10-10T10:40:06+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "\"무려 30%라고?\"…삼양식품에 등장한 전망에 '불닭 안 식었네'[주末머니]",
+   "link": "https://view.asiae.co.kr/article/2026100808593918912",
+   "source": "아시아경제",
+   "time": "2026-10-10T10:02:00+09:00",
+   "stocks": [
+    {
+     "name": "삼양식품",
+     "code": "003230"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "HLB 그룹주 동반 상승 마감…HLB바이오스텝·HLB글로벌 등 상한가, 새 주 흐름 주목",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KR2NLdlJ3d2JIbVlvNjM5cXVMMk8xMnBSZXI0ZkxzNEE5cTU5bWlEM2U4MnpEb1F3blBkaW9sc3EwVmhvYThNaklDdFQ1XzhrcGVjNWJuTHZkaWg4eEtodTF0TQ?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-10T09:45:00+09:00",
+   "stocks": [
+    {
+     "name": "HLB바이오스텝",
+     "code": "278650"
+    },
+    {
+     "name": "HLB글로벌",
+     "code": "003580"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "실적발표만 하면 하락하는 삼성전자…\"우려 말고 숫자 봐라\" > 뉴스포커스",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43SG5oeU9QRmRiWHBzUEZrekNIdHRYbUVyalpOOWM2SEx6M2xPaXdkYV9WRm5tdUE4U3M0RTREaHRYS3RVS25PNHp4Vjk?oc=5",
+   "source": "SeattleN",
+   "time": "2026-10-10T09:10:03+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
+   "link": "https://www.yna.co.kr/view/AKR20261008073000008",
+   "source": "연합뉴스",
+   "time": "2026-10-10T09:00:05+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "\"글로벌핑 효과 대단하네\"…SAMG엔터 주가 바닥찍고 반등?",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DZnh1SHJpcVpiSDQyX3hTbWl2UzlrU1I0Q0UyUndpM2RqRHRGc3BCaXB1UWZRQ0t1eEJWYklUMi15Yktma2RUUHJYWGdEeDk3QmxEMzR3LWUtX28tajdXckdxWms3dmVzNUhhbGl3SDRaVDFhdjFaZdIBeEFVX3lxTE9DZnh1SHJpcVpiSDQyX3hTbWl2UzlrU1I0Q0UyUndpM2RqRHRGc3BCaXB1UWZRQ0t1eEJWYklUMi15Yktma2RUUHJYWGdEeDk3QmxEMzR3LWUtX28tajdXckdxWms3dmVzNUhhbGl3SDRaVDFhdjFaZQ?oc=5",
+   "source": "뉴시스",
+   "time": "2026-10-10T09:00:00+09:00",
+   "stocks": [
+    {
+     "name": "SAMG엔터",
+     "code": "419530"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[주간e종목] 고점 대비 80% 추락한 SAMG엔터···美 타겟 뚫자 주가 반등",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmRmFOTENkbkhJTDdMQkQtcHRreTVUUWI1NGxmUUV2WlVQamZXRjkzbFZ0STNyWVdpc053c3ZKX0gzOXRjdENlTzAtaU4xME5iN25TQV9tSGVzdkhEcmxUX0Qwc2hxMHQwNGQ3b1hjUWlxVHRIZ1HSAXZBVV95cUxQZkZhTkxDZG5ISUw3TEJELXB0a3k1VFFiNTRsZlFFdlpVUGpmV0Y5M2xWdEkzcllXaXNOd3N2Sl9IMzl0Y3RDZU8wLWlOMTBOYjduU0FfbUhlc3ZIRHJsVF9EMHNocTB0MDRkN29YY1FpcVR0SGdR?oc=5",
+   "source": "시사저널e",
+   "time": "2026-10-10T07:13:54+09:00",
+   "stocks": [
+    {
+     "name": "SAMG엔터",
+     "code": "419530"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  }
+ ]
+}
