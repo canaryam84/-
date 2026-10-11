@@ -1,6 +1,6 @@
 {
  "label": "10월 10일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-11T00:03:34.979294+09:00",
+ "updatedAt": "2026-10-11T15:33:14.186666+09:00",
  "items": [
   {
    "title": "프로텍 주가, 인베스팅프로 적정가치 신호 후 60% 급등",
@@ -95,6 +95,20 @@
     {
      "name": "삼양식품",
      "code": "003230"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK, 동박업체 왓슨 투자 7년···상장 이후 남은 회수 과제",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00N3g4UHFIa0JGVk05VE1yUUwxb0JYMUZ5dm9aZDV3WGhfZ0RmcTlaakVwVkNzV2NGaDE1WHJnQ2kyT0MtUk1heXBpUndYQUJ6SmRjNEZsQ1V1T3dlNHA5cFJuaWFJMmtVaWRVVlQ0WThuMDVMelHSAXZBVV95cUxNNDd4OFBxSGtCRlZNOVRNclFMMW9CWDFGeXZvWmQ1d1hoX2dEZnE5WmpFcFZDc1djRmgxNVhyZ0NpMk9DLVJNYXlwaVJ3WEFCekpkYzRGbENVdU93ZTRwOXBSbmlhSTJrVWlkVVZUNFk4bjA1THpR?oc=5",
+   "source": "시사저널e",
+   "time": "2026-10-10T10:00:31+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
     }
    ],
    "thin": false,
