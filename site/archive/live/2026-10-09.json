@@ -1,7 +1,21 @@
 {
  "label": "10월 9일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-11T00:39:08.285025+09:00",
+ "updatedAt": "2026-10-11T12:06:49.801863+09:00",
  "items": [
+  {
+   "title": "삼성증권, 1Q ‘깜짝 실적’에 증권가 잇단 목표가 상향…“리테일 저력 입증”",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkdExsWTRMcE1CeTdkaHVsY1BHMTJwMGE3TjZDOXRsY1dxM19EY0dkZVRnS0ZIQVlWanVPTE9IYXBxaXdNaFZoYUgxeFJ6Wml2LUZMZHd0cUNUaDhSQzgyaHJ4VQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-09T20:27:20+09:00",
+   "stocks": [
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
   {
    "title": "루멘텀, 개장전 '강세'…CEO \"광전자 부품, 강력한 수요에 2029년까지 완판\"",
    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04011446645611280",
