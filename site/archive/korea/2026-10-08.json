@@ -144,7 +144,7 @@
     },
     {
      "title": "HLB글로벌 2635원 상한가…합병·전환사채와 적자 축소 교차",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80cE9HVF9RUXdxdHVHUG1HZVNwWW5JMXVWSGw0eFo1WER1cXZYaDk5bzJaLUlRSndyYlo0UWNqSVloS2haYm1mMjZpeTVfVW94bXlGY0pJZ0pMclQyMnUzZGIxalRXc1dvRnc1Z3Y5aWFOd9IBckFVX3lxTE80cE9HVF9RUXdxdHVHUG1HZVNwWW5JMXVWSGw0eFo1WER1cXZYaDk5bzJaLUlRSndyYlo0UWNqSVloS2haYm1mMjZpeTVfVW94bXlGY0pJZ0pMclQyMnUzZGIxalRXc1dvRnc1Z3Y5aWFOdw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zaFBWeUFUZWJCRURpOTdkbFBZTF9FN2VlYmh5cDdDbmFvdHFiMWhHNmtMcldOMnVUOFQyT0xiQUJJVlI0NEpyVEVQS0dVYllXSVZNbk9NM1JscGxpcWJlY3UzLU9DNTBNakU2Y2Nn0gFyQVVfeXFMTzRwT0dUX1FRd3F0dUdQbUdlU3BZbkkxdVZIbDR4WjVYRHVxdlhoOTlvMlotSVFKd3JiWjRRY2pJWWhLaFpibWYyNml5NV9Vb3hteUZjSklnSkxyVDIydTNkYjFqVFdzV29GdzVndjlpYU53?oc=5",
      "source": "잡포스트",
      "time": "2026-10-08T15:02:30+09:00"
     },
@@ -181,6 +181,34 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZNjVOZnNvd1JBcG0wZHFvaU5oRXp4N1B5TWhnbGhJRWtWZHRoZ0kySkxyc2NMMkxOUXpBVWxaYWNCaldncEpJRUtkdzJ1WDI5ZUk5RGRPUEZfTmVzeEFhNUFfNnptUWxQSm16Zjcycmcwd9IBckFVX3lxTFBZNjVOZnNvd1JBcG0wZHFvaU5oRXp4N1B5TWhnbGhJRWtWZHRoZ0kySkxyc2NMMkxOUXpBVWxaYWNCaldncEpJRUtkdzJ1WDI5ZUk5RGRPUEZfTmVzeEFhNUFfNnptUWxQSm16Zjcycmcwdw?oc=5",
      "source": "잡포스트",
      "time": "2026-10-08T15:02:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "삼기에너지솔루션즈",
+   "sub": "코스닥 · 419050",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "삼기에너지솔루션즈, ESS 사업 성장 기대에 상한가…실적 확대 전망 부각",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XbUl1c0o0OVF2X1I4TUZPN1FZSnhNSHZRN0JISzVRODVOdkdfM3ZSVFNaLWZNUDFzcHozVFZmZVduc0F5ZjItVTREZmtRc2tVczRINjNn?oc=5",
+     "source": "대한청년일보",
+     "time": "2026-10-08T14:42:46+09:00"
+    },
+    {
+     "title": "삼기에너지솔루션즈, 상한가권 급등 속 VI 두 차례 발동…장 초반 매수세 집중",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxYjE1R2NIMmh3Mk9wYjg1RWdKNFdES24wYkZCRDRVQlpoZjA2T295ekt6X0l2SmI2QVJkSWRXdzRoSGkxNXRkdmF6UE1iUFJiMlZyVHhyODJVcWNJVnVlRmdoT3Btek5O?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-08T11:04:32+09:00"
+    },
+    {
+     "title": "삼기에너지솔루션즈 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RWwxUk1GQWxTaFpSZWptbW1XaW5oMm0zSl91UlBzVmd0b2lmVGQ5WVhFTU1SZ0t6VXdVVEZzazdqUkdVRHM5QkJ2eWJHYXk5Rjh5YnpSZllwaVlnanZwSG1uQ0QzdE9OU0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-08T10:20:30+09:00"
     }
    ]
   },
@@ -251,28 +279,6 @@
    ]
   },
   {
-   "name": "삼기에너지솔루션즈",
-   "sub": "코스닥 · 419050",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "삼기에너지솔루션즈, ESS 사업 성장 기대에 상한가…실적 확대 전망 부각",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XbUl1c0o0OVF2X1I4TUZPN1FZSnhNSHZRN0JISzVRODVOdkdfM3ZSVFNaLWZNUDFzcHozVFZmZVduc0F5ZjItVTREZmtRc2tVczRINjNn?oc=5",
-     "source": "대한청년일보",
-     "time": "2026-10-08T14:42:46+09:00"
-    },
-    {
-     "title": "삼기에너지솔루션즈, 상한가권 급등 속 VI 두 차례 발동…장 초반 매수세 집중",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxYjE1R2NIMmh3Mk9wYjg1RWdKNFdES24wYkZCRDRVQlpoZjA2T295ekt6X0l2SmI2QVJkSWRXdzRoSGkxNXRkdmF6UE1iUFJiMlZyVHhyODJVcWNJVnVlRmdoT3Btek5O?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-10-08T11:04:32+09:00"
-    }
-   ]
-  },
-  {
    "name": "우성",
    "sub": "코스피 · 006980",
    "pct": 30.0,
@@ -314,7 +320,7 @@
    "articles": [
     {
      "title": "예선테크 거래대금 1600만원에 상한가…소재 매출 회복 확인",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56TFpCMllvV2pQbmxQak5JVkR6Y0JzaFVpZ2pveF82UXlmU2R4Tk9wSXZqR0pSSnpwVXhvMnAyMVZzWFhQd1pFa3B1QWk1d1NvMWtHZU5NbENQQlppZlZiR3dEMnhuX0JXUU5DYzY5WFZWZ9IBckFVX3lxTE56TFpCMllvV2pQbmxQak5JVkR6Y0JzaFVpZ2pveF82UXlmU2R4Tk9wSXZqR0pSSnpwVXhvMnAyMVZzWFhQd1pFa3B1QWk1d1NvMWtHZU5NbENQQlppZlZiR3dEMnhuX0JXUU5DYzY5WFZWZw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RU0kxeE1MMi0tSnFXYUlPV0VxZGZZa1R4NDJBZklCajY1WEN5NUVDVG84ZDFQTEswaXk5Q0hfUVF1bVFFUHlFM2lDSU5NZHVBXzVWelE5YlYzM3dfZUpIbVg3NjVoR2ZxWDVFbzlR0gFyQVVfeXFMTnpMWkIyWW9XalBubFBqTklWRHpjQnNoVWlnam94XzZReWZTZHhOT3BJdmpHSlJKenBVeG8ycDIxVnNYWFB3WkVrcHVBaTV3U28xa0dlTk1sQ1BCWmlmVmJHd0QyeG5fQldRTkNjNjlYVlZn?oc=5",
      "source": "잡포스트",
      "time": "2026-10-08T15:01:17+09:00"
     }
@@ -330,7 +336,7 @@
    "articles": [
     {
      "title": "뉴인텍 486원 상한가…증자 이후 커패시터 사업 재정비",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HVjg4a2tham15RmtsWkdqSGVmZnpjTldCRi11UjNLeEsyU1FTbHB1dnljMU5nbVFIVlUzUVpXem02SEdiZFFSajNFREEtU2J0cUVMc0Q1RFZpc2hBUlF6WDgxZVBQQm8wcFg0a1dFYjEyZ9IBckFVX3lxTE5HVjg4a2tham15RmtsWkdqSGVmZnpjTldCRi11UjNLeEsyU1FTbHB1dnljMU5nbVFIVlUzUVpXem02SEdiZFFSajNFREEtU2J0cUVMc0Q1RFZpc2hBUlF6WDgxZVBQQm8wcFg0a1dFYjEyZw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dGNWOW51YTB5cVlCMzhoWkpGU2tYeUFzaWFkMlZJLVNzN1piTlB6cHZEbUxTN0h0a2dZM2QxTU9UNmpqTktFNWpEOU1KLTJMMDRDdnNRempvUVN3WUdtY0Z6V1dsX2hFMDA0QTNR0gFyQVVfeXFMTkdWODhra2FqbXlGa2xaR2pIZWZmemNOV0JGLXVSM0t4SzJTUVNscHV2eWMxTmdtUUhWVTNRWld6bTZIR2JkUVJqM0VEQS1TYnRxRUxzRDVEVmlzaEFSUXpYODFlUFBCbzBwWDRrV0ViMTJn?oc=5",
      "source": "잡포스트",
      "time": "2026-10-08T15:00:26+09:00"
     }
@@ -353,5 +359,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-11T16:45:08.650987+09:00"
+ "updatedAt": "2026-10-11T20:25:31.301596+09:00"
 }
