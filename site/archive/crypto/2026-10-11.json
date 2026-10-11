@@ -1,0 +1,45 @@
+{
+ "label": "10월 11일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.02,
+   "text": "+0.02%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FalhDTlA4dTZKNDJ6VE05OHRPWGlLcE5CVm4zWEFqWkxLcWtIdG5HX2tkSURSV0hKM1h1MEpNY3hUeHd5SFZXb2pRc0Q0ZFJINzhNZl9WWUg5VElqemh1Wl9FRjZOOHBV?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "스타크넷",
+   "sub": "가상자산",
+   "pct": 51.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,313만원…빗썸 스타크넷 51% 급등",
+     "link": "https://www.tokenpost.kr/news/cryptocurrency/420970",
+     "source": "토큰포스트",
+     "time": "2026-10-11T07:30:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카이아",
+   "sub": "KAIA",
+   "pct": 50.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "카이아(KAIA) 50%대 급등…국내 알트코인 시장도 촉각, 상승세 번질까",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OYkVHVnBEVzBqbld4VUZlZlZtLWo1V0ItSkFzdXEyYXpya0t6LU9Bb2V6ZWVhcGdLMXpDdFhPUkQ3RmJ6Vkx4Qnc0dUxaVDdQX1hFbzlTNkFLT1lEVUFQaDJOb2Zzbldz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-10T16:20:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-11T12:15:58.410671+09:00"
+}
