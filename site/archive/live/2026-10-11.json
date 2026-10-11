@@ -1,0 +1,290 @@
+{
+ "label": "10월 11일(일) 국내 종목 뉴스",
+ "updatedAt": "2026-10-12T00:04:04.715393+09:00",
+ "items": [
+  {
+   "title": "삼성전자(KOSE:A005930) 주가, 312% 급등 후 공정가치 아래에서 거래 중",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3NNZ0pLb3k5N0xYYUJmMGtycnFVVVRlekhWcWlEeDNWeE5mOFdidTRRTEZ1Vm9GeFo4YkJ2YXFRMjBlTEg5ZVJ6SDQyclB4MjEzNmVqRVl1MlEtNXJCbFJ5eEk5N1JBbFNUd0ZrZlpleTFFemJKQkR0VTQ2X3dWcUpXaEZHNW9jU0g5S0dyWmtvMHNfNE5oekdCSHNXTWhTRFp6Uko1bVbSAagBQVVfeXFMT0tzTWdKS295OTdMWGFCZjBrcnJxVVVUZXpIVnFpRHgzVnhOZjhXYnU0UUxGdVZvRnhaOGJCdmFxUTIwZUxIOWVSekg0MnJQeDIxMzZlakVZdTJRLTVyQmxSeXhJOTdSQWxTVHdGa2ZaZXkxRXpiSkJEdFU0Nl93VnFKV2hGRzVvY1NIOUtHclprbzBzXzROaHpHQkhzV01oU0RaelJKNW1W?oc=5",
+   "source": "Simply Wall Street",
+   "time": "2026-10-11T17:30:30+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "반도체팹이 바꾼 건설 수혜株… LS일렉·한양이엔지 재주목",
+   "link": "https://www.mk.co.kr/news/stock/12173040",
+   "source": "매일경제",
+   "time": "2026-10-11T16:52:23+09:00",
+   "stocks": [
+    {
+     "name": "한양이엔지",
+     "code": "045100"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] ISC(095340), AI 매출 급증…수익성 개선 관건",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UV1BYRXJ2dXFKcGJWT0FZYVNjaDFZUGZqbDF5NGdvdG84T2xnM1FaeVdHOGZkYWFpVnBtZXZTdXFvemV3bkVMX3hyS3BzN2VrSGxoUWNpUHZOWi1Kc1NZYXhncjkyVWRDQkRrTTBvUQ?oc=5",
+   "source": "인천일보",
+   "time": "2026-10-11T16:25:00+09:00",
+   "stocks": [
+    {
+     "name": "ISC",
+     "code": "095340"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 대한해운(005880), 탄탄한 재무구조…배당 기대감 솔솔",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqbEFvV0lfSG16YzNIVlk4TzRickZOcmZzMFdhZ1VLV2ZIak4waC1HMUdUVnU1TXRxTEdZbFRlai11N1MtNEVBX3AwVXBwVWtLemZTMmtDRjFldmJQNmJqd1VWR0dwX3ExaDdDVXRoNA?oc=5",
+   "source": "인천일보",
+   "time": "2026-10-11T16:25:00+09:00",
+   "stocks": [
+    {
+     "name": "대한해운",
+     "code": "005880"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "인디 화장품 브랜드 성장에 펌텍코리아 한 달 새 24%↑...3분기 최대 실적 기대",
+   "link": "https://www.hankyung.com/article/202610114214i",
+   "source": "한국경제",
+   "time": "2026-10-11T16:17:20+09:00",
+   "stocks": [
+    {
+     "name": "펌텍코리아",
+     "code": "251970"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"목표주가 67만·26만원으로 낮췄다\"…현대차·기아, 車 더 팔아도 웃기 어려운 이유[주末머니]",
+   "link": "https://view.asiae.co.kr/article/2026100815444660680",
+   "source": "아시아경제",
+   "time": "2026-10-11T16:16:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "컴투스,\"낚시의 신\" 흥행 소식에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPM0ZxVXVCT1lOdklpbjRXRDg4MjlDLTN0cFN5YnBPMENWcGNES2JUakhob3N6bTE2QmU1MW40NEtsRFE0LS1jSzRjQlJPQ1NnV1l0UnNqcDZ6M09kZlRuZWMtdUN6a1U?oc=5",
+   "source": "씽크풀 AI",
+   "time": "2026-10-11T15:25:11+09:00",
+   "stocks": [
+    {
+     "name": "컴투스",
+     "code": "078340"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자 '107조 역대급 실적'에도…外人 지분율 금융위기 수준으로",
+   "link": "https://www.hankyung.com/article/2026101142157",
+   "source": "한국경제",
+   "time": "2026-10-11T14:41:12+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "GS건설, 연간 1만7000세대 분양 예상...일주일 새 영업익 전망 29% 올라가",
+   "link": "https://www.hankyung.com/article/202610113952i",
+   "source": "한국경제",
+   "time": "2026-10-11T14:19:31+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "양자컴 열풍 타고 3배 뛴 드림시큐리티, 지금은?[급등주 지금은]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNzJrNEVqanltTUlNbWdGOWVPZW90SXZ1aVQ1WWhyZlI4ZEFTaXc3NHR0aDRZazBqanFQTEZIU3RTQkI4TDVGTV9ldzdMQVl0WWRCdERCR2ZPLWl3UXItTtIBeEFVX3lxTE9sajloSDlUMzhfbHpDVWFmTU1rWUlkanNtYlJJbGotRUR3ZDBPSjZoUVpvdGNoVGZzOHdWUm5KeFUtRUlrNmZPRkxqR25FTGU5UkUzM1RGMXNsMk1tVXRDZTNHR2V5blRZMWdMM0VIaHd3dll3WXowVw?oc=5",
+   "source": "뉴시스",
+   "time": "2026-10-11T11:00:00+09:00",
+   "stocks": [
+    {
+     "name": "드림시큐리티",
+     "code": "203650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "‘107조’ 벌어도 안 오르는 삼성전자 주가…‘주주환원’에 쏠리는 눈",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SRm5OX3RIZ3d4SlVHX3BmX3pscEpFaGt1SlFsVXllSVV5Y0t5T2o5U0VQcjI2emFJNjR5ZzdHUXVlcGttbkNVaGJmbVE3Q0ViM0tDMjQtY3nSAVRBVV95cUxOZ05MZHRIa0Q4ZUlWR1ZHZ1RoeXFrRDBfSkJ6UGVZUXY4QWowdm51R05SdjJDeUpsQ0ltNzZkOV9lUkZEU2xZQmM5YlBDc0FjallJNnU?oc=5",
+   "source": "세계일보",
+   "time": "2026-10-11T10:29:21+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "LG전자, 美 진출 10년 ‘LG 시그니처’로 북미 프리미엄 가전 공략",
+   "link": "https://www.etoday.co.kr/news/view/2634278",
+   "source": "이투데이",
+   "time": "2026-10-11T10:00:00+09:00",
+   "stocks": [
+    {
+     "name": "LG전자",
+     "code": "066570"
+    },
+    {
+     "name": "LG",
+     "code": "003550"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자 100조 ‘실적 축포’에도…금융위기 수준으로 떨어진 외국인 보유율",
+   "link": "https://www.mk.co.kr/news/stock/12172853",
+   "source": "매일경제",
+   "time": "2026-10-11T09:20:46+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK오션플랜트 인수 디오션, 지역상생 내용에 관심",
+   "link": "https://www.yna.co.kr/view/AKR20261008036600052",
+   "source": "연합뉴스",
+   "time": "2026-10-11T09:05:00+09:00",
+   "stocks": [
+    {
+     "name": "SK오션플랜트",
+     "code": "100090"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한화의 KAI 인수 가능성, 국감 쟁점 부상⋯’방산 시너지’ vs ‘독과점 우려’",
+   "link": "https://www.etoday.co.kr/news/view/2633922",
+   "source": "이투데이",
+   "time": "2026-10-11T09:00:00+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "LG유플러스, 통신 데이터로 산악 조난자 수색 범위 99% 줄였다",
+   "link": "https://www.etoday.co.kr/news/view/2634224",
+   "source": "이투데이",
+   "time": "2026-10-11T09:00:00+09:00",
+   "stocks": [
+    {
+     "name": "LG유플러스",
+     "code": "032640"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "LG전자, 3Q 부진에도 목표가 19% 상향…“신사업 성장 주목”",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDLVJyejFVYnpnS1FWX0JtY01CV3NGQURoVldLeFBoNXhuUUcxTldUdkpicTlJU1MycVNEV2ZjclMwRDdEcXItdzZSUXozUXB0TU14WmZ2LTJxMUVXNkJFNVpteEFNQ0FjTnow?oc=5",
+   "source": "www.edaily.co.kr",
+   "time": "2026-10-11T08:28:53+09:00",
+   "stocks": [
+    {
+     "name": "LG전자",
+     "code": "066570"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "현대차, 분기 영업이익 기아에 역전당하나…매출도 6년만에 감소",
+   "link": "https://www.yna.co.kr/view/AKR20261010031400003",
+   "source": "연합뉴스",
+   "time": "2026-10-11T06:05:01+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "대사증후군 사망위험도 '빈부 격차'…저소득 남성 35% 높아",
+   "link": "https://www.yna.co.kr/view/AKR20261008207800530",
+   "source": "연합뉴스",
+   "time": "2026-10-11T06:03:01+09:00",
+   "stocks": [
+    {
+     "name": "남성",
+     "code": "004270"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능성은",
+   "link": "https://www.yna.co.kr/view/AKR20261010015700008",
+   "source": "연합뉴스",
+   "time": "2026-10-11T06:00:03+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  }
+ ]
+}
