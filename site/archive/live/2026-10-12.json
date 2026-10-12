@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T00:11:10.755527+09:00",
+ "updatedAt": "2026-10-13T01:41:34.895433+09:00",
  "items": [
   {
    "title": "LG엔솔·삼성SDI 주가 동반 하락 마감 : 한국증시",
@@ -631,6 +631,20 @@
     {
      "name": "후성",
      "code": "093370"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[마감분석] 호텔신라 1.03% 하락 마감 3만8300원 기록 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fQU93OGE0MFRRLV9uOFpiRVdQeU9CUmI1Z0psU1hMN2RCeXdMb04xODc2bWdDU3NtMFZYMWQ1OVFlTi1uUHl2NnBXbw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T16:25:00+09:00",
+   "stocks": [
+    {
+     "name": "호텔신라",
+     "code": "008770"
     }
    ],
    "thin": true,
