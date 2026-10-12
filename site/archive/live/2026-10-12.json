@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T07:05:07.842690+09:00",
+ "updatedAt": "2026-10-13T08:18:30.122207+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -121,6 +121,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "금호건설·금호전기는 왜 폭등했나…삼전닉스 호실적에도 코스피 급락했는데",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSTd6R0VMQmNfNXVlR250bS1qTEVER1JDLWw5YmtMN1Y1a3lQbllFdEFFc0cyUGlIRHQ3SVl2Y003elpzTDhxQmtNV0VRdS1yY1dQekpNSGlBQQ?oc=5",
+   "source": "경북매일",
+   "time": "2026-10-12T19:43:00+09:00",
+   "stocks": [
+    {
+     "name": "금호건설",
+     "code": "002990"
+    },
+    {
+     "name": "금호전기",
+     "code": "001210"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[주식마감] 최태원 광주 방문 소식에 금호전기 '上'... 묻지마 상한가도 이어져",
