@@ -1,6 +1,6 @@
 {
  "label": "10월 11일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-12T00:04:04.715393+09:00",
+ "updatedAt": "2026-10-13T00:11:10.755527+09:00",
  "items": [
   {
    "title": "삼성전자(KOSE:A005930) 주가, 312% 급등 후 공정가치 아래에서 거래 중",
@@ -243,6 +243,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "삼성SDI, ‘실적 저점 통과 기대’ 52주 신고가…목표가 줄상향 ‘100만원’까지",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PaVJKYUpqc0w0Wk9JS0JiTEt5eXNVdG5QOEZHQVI5aFlGQnBJVTFUVFBObmxxQVk2UGx4bU9yMGpHRTdUNzRNbkRwX0N1OHM5QnZXVHlENmc5X0I0UHVsLWJTNA?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-11T06:58:53+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "현대차, 분기 영업이익 기아에 역전당하나…매출도 6년만에 감소",
