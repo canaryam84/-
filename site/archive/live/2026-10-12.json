@@ -1,7 +1,21 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T01:41:34.895433+09:00",
+ "updatedAt": "2026-10-13T05:06:24.753300+09:00",
  "items": [
+  {
+   "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWkxycDlwckFnQS0wc3c5RGlhQVFCQm56UVVRY19pNjQ4UlhYZVpfczlsTVVnYU9QS3NHa3FjcnlFc3E0dE8zV1RBSnBGTnRwUHkwdHQ0ajRFVDJv?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-12T23:00:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "LG엔솔·삼성SDI 주가 동반 하락 마감 : 한국증시",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VM1RTem5lU204ajhkc01GeHRzdVpWcy1feWd2U2drMFYxSm9qeDA4cF95ZFlJY25NWkpqLUpSMEdyTUdsbURZYjFqZw?oc=5",
