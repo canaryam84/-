@@ -1,6 +1,6 @@
 {
  "label": "10월 9일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-11T12:06:49.801863+09:00",
+ "updatedAt": "2026-10-12T12:20:51.864400+09:00",
  "items": [
   {
    "title": "삼성증권, 1Q ‘깜짝 실적’에 증권가 잇단 목표가 상향…“리테일 저력 입증”",
@@ -72,29 +72,6 @@
     }
    ],
    "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "HLB글로벌·에이엔피·우성, 개장 직후 나란히 '상한가'",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JN0hWX1FpRklPSUJqTThpd1NqYWplQzd1VEdWZE1jVzk4T2VsakNZLWNpNzdQblhpSG1nVjBlOV9BcjF3dldpc2lBYUVOb2FYOVNiWk9lRlRzTmZZSjEwcS03RVRhc3FzWHln0gFrQVVfeXFMT0k3SFZfUWlGSU9JQmpNOGl3U2phamVDN3VUR1ZkTWNXOThPZWxqQ1ktY2k3N1BuWGlIbWdWMGU5X0FyMXd2V2lzaUFhRU5vYVg5U2JaT2VGVHNOZllKMTBxLTdFVGFzcXNYeWc?oc=5",
-   "source": "경제투데이",
-   "time": "2026-10-09T13:16:27+09:00",
-   "stocks": [
-    {
-     "name": "HLB글로벌",
-     "code": "003580"
-    },
-    {
-     "name": "에이엔피",
-     "code": "015260"
-    },
-    {
-     "name": "우성",
-     "code": "006980"
-    }
-   ],
-   "found": "2026-10-10T15:22:55.058376+09:00",
-   "thin": true,
    "dir": "up"
   },
   {
