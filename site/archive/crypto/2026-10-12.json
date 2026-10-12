@@ -1,0 +1,16 @@
+{
+ "label": "10월 12일(월) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 5.0,
+   "text": "+5.00%",
+   "exact": false,
+   "source": "미주조선일보",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVB4bllDOHJEV3hDZ2pZOF9KVXVDXzZrM1hIWFZ6N085SVNmVzRJc0ZTNkV2MDBNaUVCcExzVUU3a2JJU3dyZzJmMXZKaTlwc0VJUC01Ymhoc2xSUW53dWlvMUd5ZU55Q0I0STRFUDREVzFrUERzNzh1Zm9nR1VSLWVaTWNDeHVTRGRUMExMMG9DdXg4VFNHT0laQTZod1NPV0VZa0pjV09ZaTRE?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-12T12:18:10.346739+09:00"
+}
