@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T05:06:24.753300+09:00",
+ "updatedAt": "2026-10-13T07:05:07.842690+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -2459,6 +2459,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 한국앤컴퍼니, 뚜렷한 공시 없이 장중 1.50% 하락세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZMTM0MGM4T2xyZXhxRXYxQ1VRam9CcHUzWkhCeFZIZlhmQ0dZeFdDR0I2dWs1YTJpTXlfVktNdEQ1U1dabkI4OWdaNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T10:47:00+09:00",
+   "stocks": [
+    {
+     "name": "한국앤컴퍼니",
+     "code": "000240"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 금호전기, 최태원 호남 반도체 클러스터 속도전 강조에 '상한가'",
