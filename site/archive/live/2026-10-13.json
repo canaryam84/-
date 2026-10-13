@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T00:10:05.221042+09:00",
+ "updatedAt": "2026-10-14T01:08:50.317900+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -109,6 +109,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[최봉혁ESG칼럼]코스피 5.46% 폭락, 외국인 4.5조 매도… 삼성전자 -7.39%·SK하이닉스 -10.09% 동반 급락:장애인인식개선신문",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5lNENvZU81TVJrcHpKZ2FtTmtnRVh5NW5XR0lXb1pzX1pXRVBTeGxuSzVNaE5NaUtxTkowMm56UEt1enfSAV9BVV95cUxNQ2FhbDk1aWRaSjBsb2VMczZNQjNtQzgtd2FaeUZuWHA0X1FCZGs4WGppZFZmOXRKaWNYbmY1ZE9nbzFhTHYxY2FHYkVRWkhNRmtiQ0NOUzJkQnlxMk9nUQ?oc=5",
+   "source": "장애인인식개선신문",
+   "time": "2026-10-13T19:27:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 코스피 5.46% 급락한 날, 선익시스템은 상승",
