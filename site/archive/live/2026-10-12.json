@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T11:51:23.425960+09:00",
+ "updatedAt": "2026-10-14T07:52:37.606310+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -2491,6 +2491,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] SK가스, 뚜렷한 공시 없이 장중 1%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaE5VeXYzWmhqMGI5Q1E3NUF1bWtZdmhMb1pXVm1nWFRtQ0trbFpVX3NDQWJWZEJjWnduUXQwa0dhSXNzN2xzRUtjYw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T10:48:00+09:00",
+   "stocks": [
+    {
+     "name": "SK가스",
+     "code": "018670"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 한국앤컴퍼니, 뚜렷한 공시 없이 장중 1.50% 하락세 : 기업주식정보",

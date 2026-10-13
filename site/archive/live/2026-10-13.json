@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T04:55:18.974474+09:00",
+ "updatedAt": "2026-10-14T07:52:37.606310+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -945,6 +945,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "SK하이닉스 주가 8%대 급락 CXMT탓?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LbHZRU0VBcFl5ODNyWUVOYjVfYlFoeFZlZlVheVk3NW1tVHM5UXdEZkc0WHZuUkRkYm93YmFFeGZ1R1ZSRGl2aWxFMnA1OVBQMTJ6RWV6cHJUYlh2bDdJc0gwTXNfRnJySko1bkRaakstejFGbmRz?oc=5",
+   "source": "CNews",
+   "time": "2026-10-13T14:52:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "한화 왕옌청, 총액 30만달러에 재계약⋯아시아 쿼터 재계약 1호",
