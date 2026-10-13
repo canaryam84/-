@@ -1,5 +1,5 @@
 {
- "label": "10월 13일(화) 정규장 마감 후 보도 기준",
+ "label": "10월 13일(화) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -7,16 +7,16 @@
    "pct": -5.46,
    "text": "-5.46%",
    "exact": true,
-   "source": "연합뉴스TV",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WTnJNZHQwWHRJTnBBYjVfUmFTZldSN2FrdXJhMWpBWXpVRXVqaXFfN3RxQUZ3ZE9hVDVXcFUtczJmR0ZOTl80TFRwS2tLMTZTemJ5WVZqcDNQSU92WWR4UTYwSUFjWGc?oc=5"
+   "source": "서울신문",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45TFZ3TXZPelR6YUxCXzFMZzhscWNfdGJ3LVhQaEM5Ul9IWldmaGVNWWpoUVozLTlEQUJ0TXFIb21qa2xIdEFaSnRwS2p6Y2htMEJCLUF4eGpIVFFYMkp3REc5SDBFRkN2OU12SWJhdmYtcy16N3dwVDVGRDAtZw?oc=5"
   },
   {
    "name": "코스닥",
    "pct": -1.43,
    "text": "-1.43%",
    "exact": true,
-   "source": "버핏연구소",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QNDNtOWhySHVkWmxkN1IybnF2cVBiVS00R3R1THExbW4xLVdMME40ZmtPaDZQZDk1R2NmNlpUQkEzYlRveFVsX0l3eF80eHVzaVlVOHh1ZjhQRGUwTTRfR2ln?oc=5"
+   "source": "조세일보",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RTkRDZkxXQ2FMSHkxNlZuVWppSndLV241S2tTLUFsU2lYdVp0RHAyNUtkQzJtamFIdV9rbW00R0gwWXNnQU1keHV4RDhrdFB5aUF3SjBTZlp1MzRTMXBR?oc=5"
   }
  ],
  "items": [
@@ -219,5 +219,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-13T16:50:47.615241+09:00"
+ "updatedAt": "2026-10-13T20:30:54.270668+09:00"
 }
