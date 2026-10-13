@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T10:57:02.923381+09:00",
+ "updatedAt": "2026-10-13T11:51:23.425960+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -2729,6 +2729,20 @@
     {
      "name": "삼양식품",
      "code": "003230"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 카카오뱅크, 뚜렷한 공시 없이 장중 1%대 상승 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHU0lDUjlyTVZIR3NoUVE2c2lqeVJ3OEFXa05WcHBULUxDWlc4RklhQ1AwTHRaY1BrNlZaNFZURGc2bnRjeWw4VWR2aw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T10:32:00+09:00",
+   "stocks": [
+    {
+     "name": "카카오뱅크",
+     "code": "323410"
     }
    ],
    "thin": true,
