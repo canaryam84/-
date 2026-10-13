@@ -1,0 +1,99 @@
+{
+ "label": "10월 13일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -1.54,
+   "text": "-1.54%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12SktoN29Pa2NkRVdxZlFhR2FzTmxzb2lGaVZnMjk1Vnp5R3hIdFczUE5Lc2Y5ODJBSUc1c3I2STVkNU83cGluWjNuVTNyYmpPbEk1dENtR2ttQlg3ZHNJc2E5U0U2T0N1?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "일간",
+   "sub": "가상자산",
+   "pct": 272.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "깃코인, 30일간 272% 급등 후 시총 2890만 달러 돌파… 이유는? (+GTC, 급등, 시총, 24시간)",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMFRkZkxlTHNid3Q4Y1d6THgwU1RyT0VfNTg0TmVhaHA4Z0lRcndaNTFjd1lXM3pXaVJueXhvMGw5eWpQNGltVWZGR003ZHFJbnRkNm1qWHQ5UC10X3pjeVk2MHg0Z192S2NwWQ?oc=5",
+     "source": "민심뉴스",
+     "time": "2026-10-12T22:50:08+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깃코인",
+   "sub": "가상자산",
+   "pct": 100.0,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,208만원…업비트 깃코인 66% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QVlF3NXJOeVplTm91Tm4ySjRzaUNFTnBZbmc4NnNyZ2NxanMyQjAzb3B5OXgyZTBxZ3EyUmVodHJuLUFmekZmRFd6QlpOV3p1TGVTcVV5NDFYQmtHZW9saw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-13T07:30:16+09:00"
+    },
+    {
+     "title": "리플XRP 3.67% 하락…깃코인 62% 급등·리저브라이트 25% 급락",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xSE5pLWtYZlV6c01CSXl3bmEyT1cxbHNscTJ1b0Yzdno5RDFCaDFrd2s3bGlFejRZWVBTbjZjMGhxS3JzVFhJSlQwOWMtRDBWM3hUb19BU2lFZGQ4RXdUUHRQYjBqMGRxM1F2d0xNZFloZw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-13T07:10:46+09:00"
+    },
+    {
+     "title": "업비트 상장 예고에 깃코인 100% 급등…0.38달러 돌파",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54RFNvdlVPVlpwbG9pcFFNUHNVcEtma2NXc3NEcWJHTmpqbDR5cWFUNXo1U0o0QVotZ1ludmFidk5nR2FRR3BROXN2NUdXc2xo?oc=5",
+     "source": "블루밍비트",
+     "time": "2026-10-12T19:10:30+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Wormhole",
+   "sub": "가상자산",
+   "pct": 67.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Wormhole 67% 급등…NEAR·LayerZero도 두 자릿수 강세",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLOE5pY3BWSC14ZlAycEpqRHV2MFlybWJUVl9BMFRhbmtRYTB6VFUzQ2hEcFoyUUY4WHg3bFlsX043LUhOYlZDNUxfYUUzQWVtWlkwTEcxQ1pSWUVUejA4SloxUHU1T1RBUXNjMmZPbjNZMzNs?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-12T17:02:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하루새",
+   "sub": "가상자산",
+   "pct": 60.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "웜홀, 하루새 60% 급등…국내 거래소 거래대금 550억 돌파[특징코인]",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LUWdvVlc1dUtrQ0JkWkUzZjBGTEg0RmlJdUlaaTlKS0ljVm5VZEk0ZHd6dUdKd2dWci13VnpDSk9YUWUzNzdvclZfX0tWQ09QMVBKYk16dm1zMlhJZGwyTjF2OVJGUQ?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-12T15:51:43+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카이아",
+   "sub": "KAIA",
+   "pct": 50.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "카이아(KAIA) 50%대 급등…국내 알트코인 시장도 촉각, 상승세 번질까",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OYkVHVnBEVzBqbld4VUZlZlZtLWo1V0ItSkFzdXEyYXpya0t6LU9Bb2V6ZWVhcGdLMXpDdFhPUkQ3RmJ6Vkx4Qnc0dUxaVDdQX1hFbzlTNkFLT1lEVUFQaDJOb2Zzbldz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-12T14:52:16+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-13T12:17:11.630144+09:00"
+}
