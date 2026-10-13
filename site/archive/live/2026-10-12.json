@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T10:32:38.022809+09:00",
+ "updatedAt": "2026-10-13T10:57:02.923381+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -2747,6 +2747,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "‘한화 3남’ 김동선, 1285억 승부수에 시장 ‘들썩’…주가 20% 벌써 급등 [종목Pick]",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHRExqSjdVdnJNcERHUUp5cjhta21yUUFkUXVHU3lIWG1EbEFGSmw2d05MQ05lRGxsdktpamFkUXkyV2MzYnFuem1JRkJpOTQwbm04ejV3?oc=5",
+   "source": "헤럴드경제",
+   "time": "2026-10-12T10:30:01+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[특징주] LG이노텍, 장중 12%대 급락세 보이며 50만원선 위협 : 기업주식정보",
