@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T01:08:50.317900+09:00",
+ "updatedAt": "2026-10-14T04:55:18.974474+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -1057,6 +1057,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "형지I&C 943원으로 급등…패션 재고와 현금흐름이 변수",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Qa0lYWElZTXhNMi1XR2pDZ0FNTU5yaDllNEtiajJzWjh3dms1NkotcW1McGpHODctUmVwVkJUWm40dHB2Nnd4WnUwdXhmNjdja1BKOGxIVUtJck1MODRzTGk1ZHNJN19SY1BpRTNfZDRMZ9IBckFVX3lxTE1Qa0lYWElZTXhNMi1XR2pDZ0FNTU5yaDllNEtiajJzWjh3dms1NkotcW1McGpHODctUmVwVkJUWm40dHB2Nnd4WnUwdXhmNjdja1BKOGxIVUtJck1MODRzTGk1ZHNJN19SY1BpRTNfZDRMZw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-13T14:32:25+09:00",
+   "stocks": [
+    {
+     "name": "형지I&C",
+     "code": "011080"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "피델릭스, 텔릿과 60억원 규모 메모리반도체 공급 계약",
