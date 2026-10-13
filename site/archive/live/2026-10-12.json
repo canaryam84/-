@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-13T08:18:30.122207+09:00",
+ "updatedAt": "2026-10-13T10:32:38.022809+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -1971,6 +1971,20 @@
    "dir": "up"
   },
   {
+   "title": "삼성증권, 1Q ‘깜짝 실적’에 증권가 잇단 목표가 상향…“리테일 저력 입증”",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkdExsWTRMcE1CeTdkaHVsY1BHMTJwMGE3TjZDOXRsY1dxM19EY0dkZVRnS0ZIQVlWanVPTE9IYXBxaXdNaFZoYUgxeFJ6Wml2LUZMZHd0cUNUaDhSQzgyaHJ4VQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-12T11:22:40+09:00",
+   "stocks": [
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[리포트 브리핑]삼성전자, '눈높이를 높이는 구간' 목표가 560,000원 - 유진투자증권",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWDFFbWs1T2tSZnRtcG9QYUw3eEM0VWEtNXJrYWJ1blNfMkxUd2V3ZWlBai1NZTI0aXRjWnNFNm5DSm1kNDFiVXRlYXpqTFZPYmtTV0prbXROYnRZ?oc=5",
    "source": "뉴스핌",
@@ -2571,6 +2585,20 @@
     {
      "name": "강원랜드",
      "code": "035250"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 팬오션, 뚜렷한 공시 없이 장중 5%대 강세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Dcy1OOXFBczZVU3lZQnotZExpcmZqSjZNSTN3M0NCSFJCdG9Mc0xWR2dKT1o4bVlRbGFWTGFRZTZ5c3VoOXRqS29fMA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T10:42:00+09:00",
+   "stocks": [
+    {
+     "name": "팬오션",
+     "code": "028670"
     }
    ],
    "thin": true,
