@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T09:37:27.540864+09:00",
+ "updatedAt": "2026-10-14T10:17:19.483185+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -2340,6 +2340,20 @@
     }
    ],
    "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] LS, 뚜렷한 악재 공시 없이 장중 6%대 급락세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11cWVPRzBCOXVzdzdZTnZaYnA0Yl9mM3pBQm5mZlB5bnVWNTdpdHhOdF9fbzMwOTlEQ2pTaGNxaGVkeUp4bjB5R0NpUQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-13T10:34:00+09:00",
+   "stocks": [
+    {
+     "name": "LS",
+     "code": "006260"
+    }
+   ],
+   "thin": true,
    "dir": "down"
   },
   {
