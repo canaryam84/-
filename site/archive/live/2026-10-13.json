@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T15:50:37.732621+09:00",
+ "updatedAt": "2026-10-14T19:58:09.172727+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -731,6 +731,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 산일전기, 뚜렷한 공시 없이 1.86% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT0hzWk1SS1dNWUdnNllYNHdrTFFzOElVOUdRM3hIdDROeUFDTkVpMmJXWmJ3VXF3S1VESlBhSWhmbWNoX21WUW9Qaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-13T16:02:00+09:00",
+   "stocks": [
+    {
+     "name": "산일전기",
+     "code": "062040"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "한국ESG평가원, KB금융·현대차 등 5개사 최우수기업 선정",
