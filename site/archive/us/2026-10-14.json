@@ -1,0 +1,79 @@
+{
+ "label": "미국 10월 14일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.09,
+   "text": "-0.09%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanVVYXJIWXdiVllseUo3a1BDdU5QMFhyQnJOYUk2UlVhajdBZmJlSDFrZ2h4dTFhSWxVY1J4MnR1Z1RQS0h6Vk1KaXd0eG5INXhnbktsUkozRW10dVBuYWNYYmlGbHFVQi1TMFpZM3k3X3JNZFJvWENVODdEUEtVME1naGJHaDBWWktKMEdKc3FGUDFlckJQUzRuckFRM0lOUS1mM05fU1NneEdHa2JsaVpqamVEclEyMFc5c1VDdWtFYktlLUNB?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -1.88,
+   "text": "-1.88%",
+   "exact": true,
+   "source": "https://www.theconnectmoney.com/",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVlhnY25rWkJ0WnlQejROY1I0Z2tjeDBBTGo1dW9pa2FIMllVUllVTWN6VFg2aUZTQlc3cWVPNXlZUWZvdzlvamExZ2RYYmk4TW1EZmJKODFETUE4LUZsZQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Greenland Energy",
+   "sub": "GLND",
+   "pct": 51.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Greenland Energy shares jump 51% after Trump hi...",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbC1GcFpYb051LWM3Z1BvaUpKT3ktV29sNW9JcEpJTWgtdHVDZm5YQ1JHSnJnSUN4eC12ZjJtODVzcUlUZ2ZKUkstZWlUNDJsS0twTk5Vek1ud3FiNmczVTVTeXRzS1UxbWZPTVdPYlVJRnFIOTI0ZmJKeTgwRTFCRjUxY0xWZGRQbEhQZklkSW1zVHZEWEcwb0I2QzZFRnRTTURRanhicWlCNEFENFE?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-15T01:25:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "벤딩스푼스",
+   "sub": "미국 주식",
+   "pct": 41.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[美증시 특징주] 앱 인수업체 벤딩스푼스 41% 폭등…버크셔 3억 달러 추가투자",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ONVB5LVg1S0drRkRZbTRhZmpGTFk5dkk2NWZkN3BJTy1aNW94NlJtT3ZhNk9nMHdqTVpfNVZuaVJzU0ttWm5ZSUl5aVFJM3VzRC1hMtIBWEFVX3lxTE4xU1FzR1JfSE5TbzBkZ2l3NS0zMmlWREVRX0xWNGhRZGlBTi1abzVfaWE4dndXeDhVMUJ5M1FWaVg5b3dnTnhnVFZ0NzFienI3QWFsb1c4b18?oc=5",
+     "source": "미디어펜",
+     "time": "2026-10-15T06:24:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Liquidia",
+   "sub": "LQDA",
+   "pct": 27.0,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "Liquidia soars 27% after settlement resolves litigation (LQDA:NASDAQ)",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2hhM1R0SDBIV3hZWEEwVkFKTXFleVFDRi1FSVp0UG05U082Tk5xY21nT0Z2T09pa1Z3N192MkdXSzhwZ1dhQkpRU25KQnAyUFl0QUItRERrbndveFFPamxVSk9vWTRJNEFCQ3lnLU1iWF96UVZzYnAyM3hGaVBPaE1lZ3hIakdEbHVwUG4zeHNsWi1hWk9Z?oc=5",
+     "source": "Seeking Alpha",
+     "time": "2026-10-15T05:22:19+09:00"
+    },
+    {
+     "title": "Liquidia shares jump 25% after settling patent lawsuits with United Therapeutics",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWo4TWxvS3Jwc0Y3Y3hqVlRoZFIyejl4Yy1EX0twTF9zU2tGYzFsWTdqVmU1azQ0bmFOUTRyQ05mNWxreHFPaTh3UDhPWGlyV2RuYTlUb2FSU2NCZFFNbGJ5d3lXQ2FtZkc2ZDBiOHFsQ2dlMndHdV9EZFVHT1J6dWx6VnZXWFpsRTk5TzVJT0NuWWZpZlNPaGxlLW14WlhsbE5FVndXaldxdFo0RXdB?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-15T02:35:34+09:00"
+    },
+    {
+     "title": "Liquidia shares surge 25% as settlement ends United Therapeutics litigation",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVd6ZDBIUzFGaTM2LURjQUs5ZDlwWlRtaW95RTZIRlB5dkR3TmQ2SEZad3lXOGw3SGk4NnpobFFIbXVmTE1ScTZwV282TlMtRGlRdjQ3cFhHR3hQeFRHVzdnVnJicmh0Z2E2WDFOYjlKU3hxNXVqZ1RpdXJEa1F2eV9uTzBTR3ViY1RLdThRMnZ5WnFOU2VjZFdGVU5LUU9wc0o3dTlQWGtsamx3M3RKRktIYmFLZkU0OWJrSTFkVmxmb2M0c2sxZXAwbi1mMk1WM3BScHlMSHU3NWZtd0E?oc=5",
+     "source": "Proactive financial news",
+     "time": "2026-10-14T21:07:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-15T07:24:19.056583+09:00"
+}
