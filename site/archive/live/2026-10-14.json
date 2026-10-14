@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T03:22:40.580363+09:00",
+ "updatedAt": "2026-10-15T04:04:58.223020+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -1799,6 +1799,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[ET특징주] 삼성SDI, “ESS 중심 실적 개선세” 평가에 주가 4%↑",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrWHZNN3RCdmt2NkxkdUNTMUdKX2hfNlNWbkRJSF9DeGE0NzFaanpIbGxqa1FFQ0hvb3FaU25rOV9TX0c2YVFxcDhqUDdXQQ?oc=5",
+   "source": "전자신문",
+   "time": "2026-10-14T10:55:57+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[특징주] 시프트업, 뚜렷한 공시 없이 장중 1%대 오름세 : 기업주식정보",
