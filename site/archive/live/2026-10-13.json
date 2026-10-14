@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T10:17:19.483185+09:00",
+ "updatedAt": "2026-10-14T11:27:25.802062+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -230,6 +230,20 @@
    "title": "코스피 5.46%급락한 날 주가 7.9% 급등 피에스케이홀딩스",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEbHZ6QVMzdnl6WXd3Z2tiLXlJYVhRNDhyaHE1Mmc1QmNoSUxUNUlxbFQzSmJkMkJ3QzVJLXRCUHpVLXVWVUhPWEVQR3dEeDBxM0VEMnlwSXhEcVBwVzRJVk1OWm9uVTRndWJRZWExMlJvcEk0NVMw?oc=5",
    "source": "www.thecommoditiesnews.com",
+   "time": "2026-10-13T17:34:38+09:00",
+   "stocks": [
+    {
+     "name": "피에스케이홀딩스",
+     "code": "031980"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "코스피 5.46%급락한 날 주가 7.20% 급등 피에스케이홀딩스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mT3gycFJNODRUbGZXcTdLQXlpRUEzTDNPUm1lXzlGakhuNVhuLU5fZXNSV1ByM1A4ZFVlV01fakI5NW0xZU01N0MyeVNrVktDUkhDNU85Z2hHZGVRc2M4ZS1CVzZuSmtmVnI4YVNDdlRHZw?oc=5",
+   "source": "CNews",
    "time": "2026-10-13T17:34:38+09:00",
    "stocks": [
     {
