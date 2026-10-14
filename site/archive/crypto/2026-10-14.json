@@ -1,0 +1,16 @@
+{
+ "label": "10월 14일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 2.24,
+   "text": "+2.24%",
+   "exact": true,
+   "source": "디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rRmlYMmh0cHhEdFNscElsMy1LT2k1aW9pTkpLUjdma0dVSHpxNWxfZ0ptTFMyME5FRGhybUFSNUs1MGJnMjF3aTdqRjBsdWRwZXZqNHBJSEF2VUZZOVl6bHE5T0p4MGNETjFFYlI4VlB1bHc?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-14T12:26:28.344500+09:00"
+}
