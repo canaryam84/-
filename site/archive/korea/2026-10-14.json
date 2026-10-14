@@ -1,5 +1,5 @@
 {
- "label": "10월 14일(수) 정규장 마감 후 보도 기준",
+ "label": "10월 14일(수) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -7,8 +7,8 @@
    "pct": -0.44,
    "text": "-0.44%",
    "exact": true,
-   "source": "YTN",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZGEwalJ6bUlHTGtTV29QMDk1VklXQWs5Ymp6ald5bzd1RFViLVN2eDd3Wm5OT2U5RTRTa01aRzJyOVhqXy1SeU5VSXBwVFNXV2ZXZjgxVFNtYlVFUVE?oc=5"
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jNWxRUmdGMGZVVnF0YVhucTlQR005MVlVX3I5RUN6S2I3NHh2Vm52bUVxVW0ydUF0UHN0ZTNkNm1wUk42cGlfbFRjSEJrcVM2d01zYy1SYlNtaUpYbm9PcVZSbHhwMU0?oc=5"
   },
   {
    "name": "코스닥",
@@ -89,6 +89,62 @@
    ]
   },
   {
+   "name": "천일고속",
+   "sub": "코스피 · 000650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "천일고속 29.78% 급등해 22만4000원…상한가 변동성 확대",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wbEFfSTJsRVVnZG1EampKYXN2Y0JudUlUTUtOb1ZvZG42aHFqYm13bEs0YmJ1bnV2OVJ2ZkxpaWRqNGluVFpkd0J1bHZkeDFPeG1SSmtlSU9IUzNPRzJyeTBtVjR5UWpOQVFkeVVR0gFyQVVfeXFMUHNwaURwYm0wRzJmeDFQUXdsRHMtV1pNb0ZRT2JHaGlCMGRkNldYaU1Nb3U5SlRVNjRHcGFiVklINGprS0FTb0VBd2txelNSLTQtUmtZaXdsWHJiSmVIc1ZOU19faDVmYi16ZVNNZk1DRm53?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T13:30:54+09:00"
+    },
+    {
+     "title": "[주식마감] '서울고터 복합 개발' 기대감에 천일고속 상한가... 유니켐, 바이오인프라, 하이퍼코퍼레이션 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MkNuZi1RdGR1b0hQazNmZXVJVFZtUWtKa1VhTXVtZXhtTmtWVEM2WVJWMW03R2ZPdjN0NHlaeVFOSkZfVFp3WV90ZEZBY3RiTGVCSXFRemM0Z0lNOTVDVk9WZjFJeC1hR0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-14T19:40:00+09:00"
+    },
+    {
+     "title": "천일고속 29.78% 급등…동양고속도 24%대 상승",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VjJFeF81QXBnVTlCdlBjZUhjM0lfTmNNbGVOWUI2X3NhVDVleGVjSjVjeFJ2REprUjg4Z2xnakt5aE9DT1M5OUkxZXJsdnhjNkQ0RThrWmdudFdRRUwtS0p0ZlhoZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:42:32+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스엠벡셀",
+   "sub": "코스피 · 010580",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "에스엠벡셀 주가, 10월 14일 애프터마켓 상한가 2,670원 29.93% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpaXlrdE5GZW1JRVZlSFEzUkV2ckFsNW1CSGJGelUxclAtTUt0dmNZdnhBQ3R0Qnl4UFVVb0hGZHVaVEtILWFNZ2tWb0p3SkU2QkxVX2YwSzZFOW1EcWZfcGRwTE1KSmNERHhHYWVFM0VCUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-14T16:30:26+09:00"
+    },
+    {
+     "title": "에스엠벡셀 상한가…1490만주 거래로 회전율 확대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHd9IBckFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHdw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:46:16+09:00"
+    },
+    {
+     "title": "[속보] 에스엠벡셀 상한가 도달…VI 두 차례 발동되기도",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udzdIZU1nTFU3alJkMTI5ZDV5YkpXZmJkYzJNNGVEWkNJQ01SYV80UkxwMEk0ZkZwYkkzeFdqTWJtX2ttdUJ0YWMyS1BFOEREUTJnSHRTam9kTDhTRE4xNF9zNTdKaWRW?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-14T14:34:32+09:00"
+    }
+   ]
+  },
+  {
    "name": "대양금속",
    "sub": "코스피 · 009190",
    "pct": 30.0,
@@ -117,28 +173,6 @@
    ]
   },
   {
-   "name": "에스엠벡셀",
-   "sub": "코스피 · 010580",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "에스엠벡셀 상한가…1490만주 거래로 회전율 확대",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHd9IBckFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHdw?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-14T14:46:16+09:00"
-    },
-    {
-     "title": "[속보] 에스엠벡셀 상한가 도달…VI 두 차례 발동되기도",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udzdIZU1nTFU3alJkMTI5ZDV5YkpXZmJkYzJNNGVEWkNJQ01SYV80UkxwMEk0ZkZwYkkzeFdqTWJtX2ttdUJ0YWMyS1BFOEREUTJnSHRTam9kTDhTRE4xNF9zNTdKaWRW?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-10-14T14:34:32+09:00"
-    }
-   ]
-  },
-  {
    "name": "에이엔피",
    "sub": "코스피 · 015260",
    "pct": 30.0,
@@ -161,6 +195,22 @@
    ]
   },
   {
+   "name": "씨엑스아이",
+   "sub": "코스닥 · 900120",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 씨엑스아이, 中 AI 기업 경영권 확보에 상한가…4595원 마감",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IZUNOc1NiR0s0R1dOS2ZDOWd6eHNCMlZKWmZYNzltWkpDZ1NFQzRHYnJFbmtqNktCVlFOYTM0TUpHa2FEVERtMWhIQWs0Y0ZWRTFUR25LN2l1Wm82dXRNNW56enUzYU85UkE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-14T16:50:58+09:00"
+    }
+   ]
+  },
+  {
    "name": "바이오인프라",
    "sub": "코스닥 · 199730",
    "pct": 30.0,
@@ -173,6 +223,22 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUDUzNXBFWENDUzVZWUdteW5RWThhaWMyTEpGNGFsNjJXcjd2OW5tV1Q2aF9OMUZRTk5xaFlxZVNlQjZuZk9yN252QmxqdkJZX3dSQVYzRHF4QzVWb1pwYUVfcHhOUQ?oc=5",
      "source": "비건뉴스",
      "time": "2026-10-14T16:04:59+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴인텍",
+   "sub": "코스닥 · 012340",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "뉴인텍 600원 상한가…흑자 전환과 관리종목 위험 교차",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xc2VEU25KZVNaNG1YcFBVaFFLZ2Vvc1NKT3VUSnotMzZYNDVmandGNndyM3puRUZ0U2NNRU9RM0FSMzJpWHNlS1lRc3dxRW9EajdJWkVrVUxxeXJkVVphdDc4Q3ZyRjBIQjY3NW1ud2tQQdIBckFVX3lxTE0xc2VEU25KZVNaNG1YcFBVaFFLZ2Vvc1NKT3VUSnotMzZYNDVmandGNndyM3puRUZ0U2NNRU9RM0FSMzJpWHNlS1lRc3dxRW9EajdJWkVrVUxxeXJkVVphdDc4Q3ZyRjBIQjY3NW1ud2tQQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:46:35+09:00"
     }
    ]
   },
@@ -193,44 +259,6 @@
    ]
   },
   {
-   "name": "뉴인텍",
-   "sub": "코스닥 · 012340",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "뉴인텍 600원 상한가…흑자 전환과 관리종목 위험 교차",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVk5SeVgxbVlTRHpWdWZkTUszN1k3MlhYTnB0bnpJWTNZTUExNEZ3NnlPNFBoMnliczRmQ2Jaal9XeGYxMVJhLUtSTlNGdjh4UFZackhIa3pEdUFVNnVLd19NUWEwRlpaVnEtSnBn0gFyQVVfeXFMTTFzZURTbkplU1o0bVhwUFVoUUtnZW9zU0pPdVRKei0zNlg0NWZqd0Y2d3Izem5FRnRTY01FT1EzQVIzMmlYc2VLWVFzd3FFb0RqN0laRWtVTHF5cmRVWmF0NzhDdnJGMEhCNjc1bW53a1BB?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-14T14:46:35+09:00"
-    }
-   ]
-  },
-  {
-   "name": "천일고속",
-   "sub": "코스피 · 000650",
-   "pct": 29.78,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "천일고속 29.78% 급등해 22만4000원…상한가 변동성 확대",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wbEFfSTJsRVVnZG1EampKYXN2Y0JudUlUTUtOb1ZvZG42aHFqYm13bEs0YmJ1bnV2OVJ2ZkxpaWRqNGluVFpkd0J1bHZkeDFPeG1SSmtlSU9IUzNPRzJyeTBtVjR5UWpOQVFkeVVR0gFyQVVfeXFMUHNwaURwYm0wRzJmeDFQUXdsRHMtV1pNb0ZRT2JHaGlCMGRkNldYaU1Nb3U5SlRVNjRHcGFiVklINGprS0FTb0VBd2txelNSLTQtUmtZaXdsWHJiSmVIc1ZOU19faDVmYi16ZVNNZk1DRm53?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-14T13:30:54+09:00"
-    },
-    {
-     "title": "천일고속 29.78% 급등…동양고속도 24%대 상승",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VjJFeF81QXBnVTlCdlBjZUhjM0lfTmNNbGVOWUI2X3NhVDVleGVjSjVjeFJ2REprUjg4Z2xnakt5aE9DT1M5OUkxZXJsdnhjNkQ0RThrWmdudFdRRUwtS0p0ZlhoZw?oc=5",
-     "source": "비건뉴스",
-     "time": "2026-10-14T15:42:32+09:00"
-    }
-   ]
-  },
-  {
    "name": "대한제강",
    "sub": "코스피 · 084010",
    "pct": 24.0,
@@ -246,7 +274,7 @@
     },
     {
      "title": "[특징주] 백악관 알래스카 LNG 투자 재언급⋯대한제강 24% 급등",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44MnlUcGZnYk5zWFRVcWJoaWlYNVFobUY4bXFXZW02bm5taUlXc0piNTEwX1lSa3FrUjhMWEFEMWdFYzAxdmdFNDBfdw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TeW0xdEM3RU16VUZvb0FhTXdhYk55WldzS1ZfaTR3XzNzcGxxTnBUTzFHMW90LV9CTGEtRFBYS0lXQThZMmdv?oc=5",
      "source": "아이뉴스24",
      "time": "2026-10-14T09:25:34+09:00"
     },
@@ -275,5 +303,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-14T17:05:25.999941+09:00"
+ "updatedAt": "2026-10-14T20:40:54.598169+09:00"
 }
