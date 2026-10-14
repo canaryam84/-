@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T02:56:36.617137+09:00",
+ "updatedAt": "2026-10-15T03:22:40.580363+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -32,6 +32,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "리퀴디아, 유나이티드 테라퓨틱스와 3억8100만달러 합의…주가 급등",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NS1pV3ZhM0U2N3d3Y0l0V282WFkzQzl0YWh0OWFIZXY5VnR4ZkRsY3ZLek5lazJWM2hxeVR2ek9WM3h1ZExob2ZPVkNpNzBWTTUtWVVOQVhnWWRNTFdVYmR6Q1Vlc1FaOUFlMA?oc=5",
+   "source": "메디컬투데이",
+   "time": "2026-10-14T22:14:32+09:00",
+   "stocks": [
+    {
+     "name": "유나이티드",
+     "code": "033270"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
