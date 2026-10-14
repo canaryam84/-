@@ -1,6 +1,6 @@
 {
  "label": "10월 12일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T07:52:37.606310+09:00",
+ "updatedAt": "2026-10-14T10:50:41.653131+09:00",
  "items": [
   {
    "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
@@ -881,6 +881,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 한진칼 특별한 공시 없이 1.23% 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPTEp4cUJ2TnJHeVk1bVRoeEFCM2VIMy1fSTBZSXQ5TWlpWUNRLThPZXRsSThYOHVYbjBGVFV0Z3I3aUFKQVZKcjlDcw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-12T16:01:00+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[특징주] 금호전기, 최태원 호남 반도체 '속도전' 발언에 상한가 직행",
