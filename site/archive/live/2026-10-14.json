@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T07:51:28.655998+09:00",
+ "updatedAt": "2026-10-15T08:54:02.448550+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -901,6 +901,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "한국가스공사 주가 소폭 상승 마감 주총 공시 속 3만6500원 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnUk1CYmRGMHo1WnFHVFpuOG8wcUh6aUtTNng4VjFBLVdyemNqMVhqeUdkNW5ZaGwwZElucHNDMFZXc1hucW85ai1jRQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T16:09:00+09:00",
+   "stocks": [
+    {
+     "name": "한국가스공사",
+     "code": "036460"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[주식] 한미사이언스·한미약품 '에페' 출시 임박...주가 10%대 하락",
