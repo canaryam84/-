@@ -1,0 +1,279 @@
+{
+ "label": "10월 14일(수) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -0.44,
+   "text": "-0.44%",
+   "exact": true,
+   "source": "YTN",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZGEwalJ6bUlHTGtTV29QMDk1VklXQWs5Ymp6ald5bzd1RFViLVN2eDd3Wm5OT2U5RTRTa01aRzJyOVhqXy1SeU5VSXBwVFNXV2ZXZjgxVFNtYlVFUVE?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -1.57,
+   "text": "-1.57%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jNWxRUmdGMGZVVnF0YVhucTlQR005MVlVX3I5RUN6S2I3NHh2Vm52bUVxVW0ydUF0UHN0ZTNkNm1wUk42cGlfbFRjSEJrcVM2d01zYy1SYlNtaUpYbm9PcVZSbHhwMU0?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "유니켐",
+   "sub": "코스피 · 011330",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 유니켐, 美 기업 인수에 상한가⋯‘시총 상폐’ 유예에 변동성↑",
+     "link": "https://www.etoday.co.kr/news/view/2635842",
+     "source": "이투데이",
+     "time": "2026-10-14T16:59:00+09:00"
+    },
+    {
+     "title": "유니켐 주가 장중 상한가…루미아 인수 계약 추진",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQkJ5cFJHYy1tZFhWN0wwNFB0U05xc3Z6by1jT3h4YjdPX2hOdHBtT3dfUmo1QnF4aXVjUk80TkxvM3dMNTMyZzVwajItaW1LeDBBd1VyTWtVWHdVTlhsYW82aDhGUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:27:05+09:00"
+    },
+    {
+     "title": "유니켐 상한가 6370원…피혁 본업과 재무구조 재평가",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05aFRTOTZTRWkyN0p5Vkt0TXplS3BtNmJkU2VMR1VBekMzdUZhT01aaS1IbnJKX2liMTNtbTZEanU0cmpBNnQ2QndqUnJUMDRxbWg3ZFcwbDJoVXJVcXV6cG9EdGJTS3B0UVFBZlZ6WXd6d9IBckFVX3lxTE05aFRTOTZTRWkyN0p5Vkt0TXplS3BtNmJkU2VMR1VBekMzdUZhT01aaS1IbnJKX2liMTNtbTZEanU0cmpBNnQ2QndqUnJUMDRxbWg3ZFcwbDJoVXJVcXV6cG9EdGJTS3B0UVFBZlZ6WXd6dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:45:06+09:00"
+    },
+    {
+     "title": "\"로봇기업 될 수도\"…유니켐, 美 루미아 인수 소식에 상한가 직행 [종목 NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wLUhmdjZvZGlNc0w1R2pwMWstRGhYSXcwM2FVd3pTNll4bHlRQVl3VUhqUGZGbi1OUngxdDRuenU5N3V6NkQ1Z29oempfWkZ6ZGhsUzQ4bjJ4Zw?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-10-14T10:52:25+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하이퍼코퍼레이션",
+   "sub": "코스닥 · 065650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "하이퍼코퍼레이션, 110억원 유증 공시 뒤 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qVGUyRDFmdVE0SnNzcGctWUNrdGJZejh4YWY3SXY4b1RJWEZYVHFuNFhOMndaYU1uZDlueHVwdVcwdGZsc2ZJNW41QkhvMGV6b2Z1Sm85dWNqWW1PUHVfVEpRWGdMUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:31:46+09:00"
+    },
+    {
+     "title": "하이퍼코퍼레이션 2515원 상한가…거래량 5만주",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3aU5EdlM5dXV3NGtIdldkWktHRDhHamVKbkRSdThmVEhfZXpWWWZlSnpZanB1bzNyYThhMEhVT0NIbWlhODRpdnN6QTN6azhpVmhNcVJ6NnZpQk9NRV9jTkQ4b1RsVDNJNnpKVUx6T0RjUdIBckFVX3lxTFB3aU5EdlM5dXV3NGtIdldkWktHRDhHamVKbkRSdThmVEhfZXpWWWZlSnpZanB1bzNyYThhMEhVT0NIbWlhODRpdnN6QTN6azhpVmhNcVJ6NnZpQk9NRV9jTkQ4b1RsVDNJNnpKVUx6T0RjUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:46:52+09:00"
+    },
+    {
+     "title": "하이퍼코퍼레이션, 유증·최대주주 변경에 이틀째 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWGFfUkRILUFGeTVqOFRUQ0t3ZUdudFJWdS1FMzQ2c3lsN29vaHhyeVk5eEEwMm5iUjEwNmsxQ1dCZW51bWM4SDZDRUFMQ2xZZHFYUDNEUmtrQ3JxVEYzRHRuLUE4ZW9ySmc?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-10-14T09:43:38+09:00"
+    },
+    {
+     "title": "[특징주]하이퍼코퍼레이션, 29.84% 급등…이틀 연속 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwRWp6NHduZUdNX3VEU0Z2U2J2Q0hVVUZhQS1JV0JOTWhuWXdRUWRhREhnb2JmR095YmpTRmx2RzlydEctampaNE1KZnZHLUtfck1Cby1RLW7SAVhBVV95cUxQcEVqejR3bmVHTV91RFNGdlNidkNIVVVGYUEtSVdCTk1obll3UVFkYURIZ29iZkdPeWJqU0Zsdkc5cnRHLWpqWjRNSmZ2Ry1LX3JNQm8tUS1u?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-14T09:25:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대양금속",
+   "sub": "코스피 · 009190",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "대양금속 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rYmxsenBReXRWZGMxN1FWaWxGQXNKLVIwSFB6ci1IaEVQRHlIeGF2SkhFeDlhOVA0Zm54TGVvQ0tlLTV1WWxweXpoeHVuWHpZYlRCWGR4RE05MkpxLV81enpQVWhhd28x?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-14T09:28:16+09:00"
+    },
+    {
+     "title": "특징주, 대양금속-니켈 테마 상승세에 29.32% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04OVVtVVVlZU1kZEdSVzZEUmgwMWU2eGlKOFBzN25hN2lzcUhxRmo4eEVMWTR6SGprRXlmcUZEclRPdnY1ZkxxX2VfWDhqWUpOUWc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-14T09:23:57+09:00"
+    },
+    {
+     "title": "[특징주] 대양금속 29.92% 급등…대한제강도 장중 강세",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YRnY1OEU4MG1LemJDalpCSFZrU3hLS0ZkOWF5clIzX0c1Q1NOV0FSVmlRb0FZeG05M0xfT0w2NW1pbnZrYlNTSnJMRE1xRnd6OGM1TkFjWm9rNzhVdWl2SUpNV0g1Zw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:49:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스엠벡셀",
+   "sub": "코스피 · 010580",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "에스엠벡셀 상한가…1490만주 거래로 회전율 확대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHd9IBckFVX3lxTE9qbXJyVnIwNHB0RFZVLXlkdmpLMDBIUmxIYUs3QUhlV1NBbllNckJPaXBmd254UHk1OUdkRk1YVFRnMjBHNGJHOFc1dHdZTExxTzJ0OXQyVVEtV1pDWV8xeFVlNnpBMVBwRzBVbmZOc1FHdw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:46:16+09:00"
+    },
+    {
+     "title": "[속보] 에스엠벡셀 상한가 도달…VI 두 차례 발동되기도",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udzdIZU1nTFU3alJkMTI5ZDV5YkpXZmJkYzJNNGVEWkNJQ01SYV80UkxwMEk0ZkZwYkkzeFdqTWJtX2ttdUJ0YWMyS1BFOEREUTJnSHRTam9kTDhTRE4xNF9zNTdKaWRW?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-14T14:34:32+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이엔피",
+   "sub": "코스피 · 015260",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "에이엔피 장중 상한가…거래량 1300만주 육박",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhNzhUVWIyTWtJR2JlV3BacEd0Qkg4TUlsSXM5dmlkZloydkVxamdxM1NHSENCNmtUWXBNMnFlVVhrMmJHaC1iU05lV1Y4dGNUUE5nQmIwSEJnbG9oRE92XzZQaVdTdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:57:45+09:00"
+    },
+    {
+     "title": "에이엔피 292원 상한가…1375만주 손바뀜",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMmc4WmpOLV9jTFV0b2ZoTWVhOWJ0Y3hZdWo3bTNfZHd5OGJiRXZjaWlRNmVzeTB3Rk1xVW5SeWtoLUVtZU1aV3FYeUhvQy1nOWNweHhhelNqSU1YZ1A3ek9ZamgyZUxiRWpSZzdR0gFyQVVfeXFMTVJsNktFZW5HUmc5aU9UVkNJckFxOVl0bl8zOUdKcEkyWE82LUoxNnZqNG1aQ0x2TEJlclZfSFFiZ3p1Uk10X2tCUHMyOW1fXzhFU2o4M3lNZDhQTVlIN2hwdnFwZXZvVWFWV2NUY05MS2J3?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:47:12+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바이오인프라",
+   "sub": "코스닥 · 199730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "바이오인프라, 장중 상한가 1981원 기록",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUDUzNXBFWENDUzVZWUdteW5RWThhaWMyTEpGNGFsNjJXcjd2OW5tV1Q2aF9OMUZRTk5xaFlxZVNlQjZuZk9yN252QmxqdkJZX3dSQVYzRHF4QzVWb1pwYUVfcHhOUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T16:04:59+09:00"
+    }
+   ]
+  },
+  {
+   "name": "화성밸브",
+   "sub": "코스닥 · 039610",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "화성밸브 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ejFsNXZvbjBpRjNrMTBHbDFhMWdUUENUQjFPWGR2SWZVdF9zUXdzeHI5MXBxUkc0aVN1THR0UjkwMWYtOEluQTJVVTBaVmVZMWtQNWVSUVhBYlZBWlpVV05MeklvNDYxY0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-14T09:18:01+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴인텍",
+   "sub": "코스닥 · 012340",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "뉴인텍 600원 상한가…흑자 전환과 관리종목 위험 교차",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVk5SeVgxbVlTRHpWdWZkTUszN1k3MlhYTnB0bnpJWTNZTUExNEZ3NnlPNFBoMnliczRmQ2Jaal9XeGYxMVJhLUtSTlNGdjh4UFZackhIa3pEdUFVNnVLd19NUWEwRlpaVnEtSnBn0gFyQVVfeXFMTTFzZURTbkplU1o0bVhwUFVoUUtnZW9zU0pPdVRKei0zNlg0NWZqd0Y2d3Izem5FRnRTY01FT1EzQVIzMmlYc2VLWVFzd3FFb0RqN0laRWtVTHF5cmRVWmF0NzhDdnJGMEhCNjc1bW53a1BB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T14:46:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "천일고속",
+   "sub": "코스피 · 000650",
+   "pct": 29.78,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "천일고속 29.78% 급등해 22만4000원…상한가 변동성 확대",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wbEFfSTJsRVVnZG1EampKYXN2Y0JudUlUTUtOb1ZvZG42aHFqYm13bEs0YmJ1bnV2OVJ2ZkxpaWRqNGluVFpkd0J1bHZkeDFPeG1SSmtlSU9IUzNPRzJyeTBtVjR5UWpOQVFkeVVR0gFyQVVfeXFMUHNwaURwYm0wRzJmeDFQUXdsRHMtV1pNb0ZRT2JHaGlCMGRkNldYaU1Nb3U5SlRVNjRHcGFiVklINGprS0FTb0VBd2txelNSLTQtUmtZaXdsWHJiSmVIc1ZOU19faDVmYi16ZVNNZk1DRm53?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-14T13:30:54+09:00"
+    },
+    {
+     "title": "천일고속 29.78% 급등…동양고속도 24%대 상승",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VjJFeF81QXBnVTlCdlBjZUhjM0lfTmNNbGVOWUI2X3NhVDVleGVjSjVjeFJ2REprUjg4Z2xnakt5aE9DT1M5OUkxZXJsdnhjNkQ0RThrWmdudFdRRUwtS0p0ZlhoZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-14T15:42:32+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대한제강",
+   "sub": "코스피 · 084010",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "대한제강 주가 장중 20%대 급등, 미국 백악관 알래스카 LNG 투자 언급에 철강주 강세",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UTlBQR3JfQWRmV0dMREZZNzNoQXNGbXZ5TjJJY3dhN1ZnSzVDR1o4VGU3eVJhNWpuYndRalh6M0l3Tk5LMlg0UkYzM0pQSzM0dlpoTjZXRkU2bzk1djhoamlLUkI3V3Z4Z3pHZF84Z1hHNEE?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-14T10:30:36+09:00"
+    },
+    {
+     "title": "[특징주] 백악관 알래스카 LNG 투자 재언급⋯대한제강 24% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44MnlUcGZnYk5zWFRVcWJoaWlYNVFobUY4bXFXZW02bm5taUlXc0piNTEwX1lSa3FrUjhMWEFEMWdFYzAxdmdFNDBfdw?oc=5",
+     "source": "아이뉴스24",
+     "time": "2026-10-14T09:25:34+09:00"
+    },
+    {
+     "title": "철강주 전반적 강세, 대한제강 22%대 급등…포스코스틸리온·현대제철·KG스틸 등 상승",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11SVlRa3k4MVZOVDdfXzhZSWhaZXJlNFFxT0xYdWM2Zmt4anAyQWRxQkJNZmRjRTFXSFUzTnY4ejNRRF9iU3l4ODQxRnpwV3N2al9XdUd5bGdTckZ1V2FMc3p5S1Q4VkRD?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-14T09:31:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대동스틸",
+   "sub": "코스닥 · 048470",
+   "pct": 21.4,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 대동스틸-철강_중소형 테마 상승세에 21.4% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdmhYSWh5cEo0OFF6bkRGQVJqb3hIVm1fcGUtM2NEeThUbHI3OFZBZlRHZ2Rtd2IzM1lBT1ctU0ZCVkNRTmpBRVpFQmdCYW5tRUE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-14T09:33:37+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-14T17:05:25.999941+09:00"
+}
