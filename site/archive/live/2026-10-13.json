@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T07:52:37.606310+09:00",
+ "updatedAt": "2026-10-14T09:37:27.540864+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -411,6 +411,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[오늘의 주요 공시·13일] 신한지주, 롯데손보 주식 2억3908만주 취득 결정",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93WVJVMkh4S3VBcTdLNmg0TklhUzNFS0ZELVd4Um5MbGhibmpXWldIejJ1Q3lxY0N0SjBJWnJSck1QSEZQb01WTjgySWJpSk9lc0U0MWFUZGRZa01pNW9GTE1iZFU1VWctVkxsUWNB?oc=5",
+   "source": "세이프머니",
+   "time": "2026-10-13T17:00:00+09:00",
+   "stocks": [
+    {
+     "name": "신한지주",
+     "code": "055550"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[HD현대일렉트릭] HD현대일렉트릭 주가 급락, 그런데 수주는 2034년까지 밀려 있다?(2026년_2Q)",
