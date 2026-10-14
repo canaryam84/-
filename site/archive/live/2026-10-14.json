@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T00:26:39.239523+09:00",
+ "updatedAt": "2026-10-15T01:03:31.141349+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -789,6 +789,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[마감분석] 후성, 뚜렷한 공시 부재 속 소폭 반등해 1만4100원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92d0lueWx1a0FWT2ZHem1QRGZ3Q0hSUFEzSnZGUS1NVkNhSGoxSHB6bnhuRkNBZ09VaTl6X1JtbXZqUFVPcHVXTDFxMA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T16:24:00+09:00",
+   "stocks": [
+    {
+     "name": "후성",
+     "code": "093370"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[특징주] 롯데손보 인수 발표 후 엇갈린 주가…신한지주 4.71%↓·롯데손보 4.17%↑",
@@ -2154,6 +2168,20 @@
     }
    ],
    "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 한화오션 장중 약보합세 공시 속 숨고르기 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fSWZUU3cxRmZKaDFodzQtMlB3T05ldElPQ2lBdW0zdTZwbnBjYkVEU2gxcGFCNnVuOXdWOVNjWjFFU21hb01HSk5oZw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T10:26:00+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    }
+   ],
+   "thin": true,
    "dir": "none"
   },
   {
