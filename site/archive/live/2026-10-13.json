@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T23:58:02.666606+09:00",
+ "updatedAt": "2026-10-15T05:19:35.412179+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -628,6 +628,20 @@
     }
    ],
    "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "달바글로벌, 뚜렷한 공시 없이 7.75% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96ZkhJLUhOeXB4d1Zjalpydk03a3RmQmFEdW5RWXdpZll6Yk1LN0FLT2VfczJoYlpwNmhub0Z2OHlpQVk4SmdsV1dnaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-13T16:20:00+09:00",
+   "stocks": [
+    {
+     "name": "달바글로벌",
+     "code": "483650"
+    }
+   ],
+   "thin": true,
    "dir": "down"
   },
   {

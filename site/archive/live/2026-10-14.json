@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T04:04:58.223020+09:00",
+ "updatedAt": "2026-10-15T05:19:35.412179+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -3611,6 +3611,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 미국발 반도체 한파에 삼성전자 4.5% 급락…하이닉스도 7%↓",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWVEp2LVl5b3lOTGpfa1JGVE9ySWgyek5zTFkwQXN5QlE2NS00MDhjcUhjalA5Q2FpaTRSUlE3OXY4Z0dyM2hoNjhFQ3ZTVFlTRnc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "2026-10-14T09:22:30+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "한울반도체, 대만 델타전자 자회사에 ‘MLCC 초음파 탐상기’ 공급…日 독점 뚫어",
