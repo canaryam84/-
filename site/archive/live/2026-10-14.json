@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T05:19:35.412179+09:00",
+ "updatedAt": "2026-10-15T07:51:28.655998+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -873,6 +873,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 이수스페셜티케미컬 9.53% 급등 마감하며 9만원선 돌파 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTFo1SlFDVEh6RW5pdWVSZ2w5VFRhZ0lfR0NxZDJiVUdhZjMzSHZoX0ZCeVdfOE1hSHFKLWhkT1AwdUctRTRZYUFSYw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T16:12:00+09:00",
+   "stocks": [
+    {
+     "name": "이수스페셜티케미컬",
+     "code": "457190"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "SK하이닉스, 반등 실패 후 1.7% 하락 마감…6거래일 연속 내려(종합)",
