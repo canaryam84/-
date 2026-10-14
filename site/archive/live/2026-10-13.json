@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-14T19:58:09.172727+09:00",
+ "updatedAt": "2026-10-14T23:58:02.666606+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -2281,6 +2281,20 @@
     {
      "name": "LS에코에너지",
      "code": "229640"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 제일기획, 뚜렷한 공시 없이 장중 1%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVngyV1c3VGo2ZnhVMkxSLTlWa2s0X3RHUW8tOFpNT2puQ18zRVYzRU9RSXZSbVdiV3BZaVp2SG9DaVZTVm1FYjFCOA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-13T10:49:00+09:00",
+   "stocks": [
+    {
+     "name": "제일기획",
+     "code": "030000"
     }
    ],
    "thin": true,
