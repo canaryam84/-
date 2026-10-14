@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T01:03:31.141349+09:00",
+ "updatedAt": "2026-10-15T02:56:36.617137+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -449,6 +449,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "씨에스윈드 주가 급등, '블루웨이브' 아닌 법원 덕분… 2028년 이익 절벽 '주의' ​: 알파경제TV",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RNFdUSTMySGh6empfOFFBQVV2Y2VWempCN0hIMDJFcHFFdlpydGxuajVUZFo1TnExN3hLWGlfTVZFOWlRcVJFZnM0RVNzc1RIamxMbU1LWFpBamdxUDJNMzk2SXN4eW1CSFFUdzJn?oc=5",
+   "source": "알파경제",
+   "time": "2026-10-14T17:38:59+09:00",
+   "stocks": [
+    {
+     "name": "씨에스윈드",
+     "code": "112610"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "김명식 전무, 세미파이브 주식 7000주 ↑…지분율 0.34%",
