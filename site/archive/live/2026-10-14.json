@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T08:54:02.448550+09:00",
+ "updatedAt": "2026-10-15T09:36:50.351283+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -827,6 +827,20 @@
     {
      "name": "후성",
      "code": "093370"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 코스모신소재, 특별한 공시 없이 2.96% 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxbHctdmx0MkI0amNaRzRmbXVUczI4M1ZoQWdvVXBHRmdRRVlQMFp0bFJmY3ROajRDMzJUS25mME1rZG9EbUVJZmlMNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T16:24:00+09:00",
+   "stocks": [
+    {
+     "name": "코스모신소재",
+     "code": "005070"
     }
    ],
    "thin": true,

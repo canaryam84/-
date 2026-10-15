@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T05:19:35.412179+09:00",
+ "updatedAt": "2026-10-15T09:36:50.351283+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -755,6 +755,20 @@
     {
      "name": "산일전기",
      "code": "062040"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[마감분석] LS, 뚜렷한 공시 없이 3.52% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TXzRpVWY0RG9MNHFvVU90YlFyLUtmYmg4VmhEcXg1ZTA5Ymg3ZnBmYXFNVVJSV3ZBVlYzM29oVnRhOWdNeFBnRlBnUQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-13T16:00:00+09:00",
+   "stocks": [
+    {
+     "name": "LS",
+     "code": "006260"
     }
    ],
    "thin": true,
