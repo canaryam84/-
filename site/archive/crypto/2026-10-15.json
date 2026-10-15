@@ -1,0 +1,51 @@
+{
+ "label": "10월 15일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -1.42,
+   "text": "-1.42%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wejBGY2RTS0FMYUJKQkhkNm1leW5kN2tMTWZ4M0MwRUlmcFhLYVR0STcxYm5fYUxQc3VLRnYtS0lIUDB5ejF2SnR1cncwZ3k5ZU5KQ1hlQmhKUEktWW9LZkdmT3c3SVNz?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "월러스",
+   "sub": "가상자산",
+   "pct": 69.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,071만원…업비트 월러스 66% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DczQybDlBT3Bzajk0dktIOWdvWG1nOTBYU1lqMGZPajl2bFpQSWt3U2JWNHpUTDNhYzM0bzRUMGhTc2N1dTgydmFrZ0kwQXpJWVNUMUJBRFNDVnB4OFFNNA?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-15T07:30:13+09:00"
+    },
+    {
+     "title": "코인거래액 25.1% 급감…리플XRP 약세 속 월러스 69% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qbjBEM0VMVnV0OHpTMUZiYUU1eFhuX0tnS2llVV9PNjhoNUIwUnBkMW9DN3VudWtCdTV6anYxcXQtc1c4R0UyUHRzSFgyLXUzTi15OVdSbXJ6cGNsbGlkRTBhSUJMXzVJc183WWEzS3hqUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-15T07:10:01+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Bitway",
+   "sub": "가상자산",
+   "pct": 46.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Bitway 46% 급등·사상 최고가…Walrus도 AI 데이터 호재에 강세",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YSzlNMkpNbzdUQnF5UUFMT1NlT2pGWjdwcmRrOXk0bzd1Q1ViSzlYZEJjbjB5Y0VGOVpOVEo1bGpNUzl0S05fX0pQUzRTWUlrRjRrZlI5V0JuYlMxVW1NU2RKYW1wV3U2MXhXdUo4dTJST2N5?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-14T17:23:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-15T12:26:42.982403+09:00"
+}
