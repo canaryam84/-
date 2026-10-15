@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T10:16:24.364413+09:00",
+ "updatedAt": "2026-10-15T13:14:19.042093+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -1985,6 +1985,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 한미사이언스, 뚜렷한 공시 없이 장중 11%대 급락세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kM2ZIWDcyNE52dWtRakFoWkpQaEM2OFRkZGxubGFUeUtNN1NCN2dYMi1KMzczMkFtWEdZLVRXWk01TWdNdTNnNi1QQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T10:45:00+09:00",
+   "stocks": [
+    {
+     "name": "한미사이언스",
+     "code": "008930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 현대제철, 특별한 공시 없이 장중 2%대 오름세 : 기업주식정보",
