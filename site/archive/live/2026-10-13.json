@@ -1,6 +1,6 @@
 {
  "label": "10월 13일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T09:36:50.351283+09:00",
+ "updatedAt": "2026-10-15T11:29:17.715041+09:00",
  "items": [
   {
    "title": "[상한가 종목] 하이퍼코퍼레이션-서산 이어 바이오인프라 등 마감",
@@ -1989,20 +1989,6 @@
     {
      "name": "삼성전자",
      "code": "005930"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "SK하이닉스 주가, 오늘 왜 급락했나?",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zalp4ZC12OWVaVTZQMThhYWpfTnNreEUtQ1A5Y3phcWp2S19SV0pfRUF3Sk54NHVNM2t2ZUZqQmp2MWotVUtwaFZ0akFuZW9kb0xNSkNpcmtRb2ZYM3BrQTNYXzh4WnMwb3NmUFJDZUg2aGRZV2FF?oc=5",
-   "source": "Investing.com 한국어",
-   "time": "2026-10-13T11:31:00+09:00",
-   "stocks": [
-    {
-     "name": "SK하이닉스",
-     "code": "000660"
     }
    ],
    "thin": false,
