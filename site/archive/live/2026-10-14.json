@@ -1,7 +1,37 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T16:29:53.606236+09:00",
+ "updatedAt": "2026-10-15T17:06:06.983003+09:00",
  "items": [
+  {
+   "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WFZ6bmkxellmRUxWZ3JxNmhzVWFJcnN1OG9QSUgzLUVxQ3MyN1BzbXZLR2U4TVE4aWRPeTFoSGdyejAxYVhVZzVpVUg3SjdfQjJLZXlDY0dLTlVCWGpIX2wxSkEtZ05VdU96ZA?oc=5",
+   "source": "데일리경제",
+   "time": "2026-10-14T22:58:15+09:00",
+   "stocks": [
+    {
+     "name": "대주전자재료",
+     "code": "078600"
+    },
+    {
+     "name": "넥사다이내믹스",
+     "code": "351320"
+    },
+    {
+     "name": "스피어",
+     "code": "347700"
+    },
+    {
+     "name": "SNT에너지",
+     "code": "100840"
+    },
+    {
+     "name": "서울반도체",
+     "code": "046890"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JbThOZmVFdHF2SUtxNVJQWlkzQWI3M2pMQm1OUFN1T292dTVyNjdnWVdpSnZxYVRyTWswZEFZVk8yR3A0WUh3ektZcDBtcGJoS0pXOG15bXJndzlnZ21wVzAtZGZCdw?oc=5",
