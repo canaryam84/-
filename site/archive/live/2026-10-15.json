@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T01:27:06.208707+09:00",
+ "updatedAt": "2026-10-16T04:05:46.505012+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -1943,6 +1943,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 호텔신라, 뚜렷한 공시 없이 장중 2%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiM0JNLTFqM3haRDdhbm90TW8zdnlya0R2X1k1cGVvXzJaeF9SVW9IeEVRcXBsVTdWU3ZzZkJQOUlZUUJPeFF3ZHM3VQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:55:00+09:00",
+   "stocks": [
+    {
+     "name": "호텔신라",
+     "code": "008770"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "홍승표 CSO, S-Oil 주식 1000주 ↓…지분율 0.00%",

@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T00:27:01.622209+09:00",
+ "updatedAt": "2026-10-16T04:05:46.505012+09:00",
  "items": [
   {
    "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
@@ -4715,6 +4715,20 @@
    "dir": "none"
   },
   {
+   "title": "홍라희, 이재용에 삼성전자 주식 2조6000억원 증여…주가 급락일 공시",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ra2NVOU5xZXlQTWdEV1U1MURUYkh1ZDBCcEtndXBfVTViV3V0cnJMSnpqNFc5Wl9vMWxxWnkxOWxQbjI2NXl6MVhRSDVrdF9lWDR0MU5sNkE2azNlOGQwWHZoRWdESzTSAWdBVV95cUxNUWtjVTlOcWV5UE1nRFdVNTFEVGJIdWQwQnBLZ3VwX1U1Yld1dHJyTEp6ajRXOVpfbzFscVp5MTlsUG4yNjV5ejFYUUg1a3RfZVg0dDFObDZBNmszZThkMFh2aEVnREs0?oc=5",
+   "source": "ABC뉴스",
+   "time": "2026-10-14T07:35:09+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
    "title": "[오늘의 증시일정] 프로티아ㆍ세나테크놀로지ㆍ신영와코루 등",
    "link": "https://www.etoday.co.kr/news/view/2635408",
    "source": "이투데이",
@@ -4735,20 +4749,6 @@
    ],
    "thin": true,
    "dir": "none"
-  },
-  {
-   "title": "홍라희, 이재용에 삼성전자 주식 2조6000억원 증여…주가 급락일 공시",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQXU4MUtHNUZsZ0tyLVg3bm1PaVZpNFQtNWRUWmZzQVRkM2dJb3NmZTl4MGMzcmxKNHI4cmpKRVBKdUlGSlFoSHd1bzMxVmpBaXB5VEFQN1V4a0lWX1VZWUxLY9IBZ0FVX3lxTE1Ra2NVOU5xZXlQTWdEV1U1MURUYkh1ZDBCcEtndXBfVTViV3V0cnJMSnpqNFc5Wl9vMWxxWnkxOWxQbjI2NXl6MVhRSDVrdF9lWDR0MU5sNkE2azNlOGQwWHZoRWdESzQ?oc=5",
-   "source": "ABC뉴스",
-   "time": "2026-10-14T07:32:39+09:00",
-   "stocks": [
-    {
-     "name": "삼성전자",
-     "code": "005930"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   },
   {
    "title": "[전일 주요공시] KTㆍLS일렉트릭ㆍ대우건설 등",
