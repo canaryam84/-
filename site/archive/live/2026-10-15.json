@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T04:05:46.505012+09:00",
+ "updatedAt": "2026-10-16T08:53:43.962047+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -441,6 +441,32 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[오늘의 특징주] 뉴인텍·바이오인프라 상한가…멜콘·듀켐바이오에 매수세",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQ3kyV3U3X0hmcXJjcWF2UURmVkJzUEg1NGdhWWMzdUloS2NGcVlWOW5manFiQlJBT1lUajFQVkozU0dIY1l1Vnp3SkNrSWJKdVFkMncySFV2cVhnekQ4UU9Rbk8?oc=5",
+   "source": "https://www.ppss.kr/",
+   "time": "2026-10-15T16:45:48+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    },
+    {
+     "name": "바이오인프라",
+     "code": "199730"
+    },
+    {
+     "name": "멜콘",
+     "code": "179880"
+    },
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[특징주] 에스원, 4500억원 규모 자사주 공개매수·소각에 주가 13% 급등",
