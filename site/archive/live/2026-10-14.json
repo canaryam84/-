@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T17:06:06.983003+09:00",
+ "updatedAt": "2026-10-15T23:58:10.283950+09:00",
  "items": [
   {
    "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
@@ -991,6 +991,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[마감분석] 팬오션 10%대 급등하며 7210원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIbDhHRGhpUnYyUlQ4eWNOMzNUSks0VjZueDRtTEpyRVV3RVNldTVqa3ZBT1ZxVzN4c2FZY0syaWVRN3l5ejB4VldYbw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T16:07:00+09:00",
+   "stocks": [
+    {
+     "name": "팬오션",
+     "code": "028670"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "바이오인프라, 장중 상한가 1981원 기록",
