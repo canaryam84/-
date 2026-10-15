@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T04:05:46.505012+09:00",
+ "updatedAt": "2026-10-16T04:53:39.503236+09:00",
  "items": [
   {
    "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
@@ -2042,6 +2042,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 롯데케미칼, 뚜렷한 공시 없이 장중 소폭 반등세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMMXFBT3d1endhb0ljb3FwbHhTTXdXUWxIRjhhaVROZzRvM2F6U3R6c2k1c25mamgwWjlLT3poQVQ2TDhiUG5nSVIwbw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T10:49:00+09:00",
+   "stocks": [
+    {
+     "name": "롯데케미칼",
+     "code": "011170"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
