@@ -1,5 +1,5 @@
 {
- "label": "10월 15일(목) 정규장 마감 후 보도 기준",
+ "label": "10월 15일(목) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -55,6 +55,40 @@
    ]
   },
   {
+   "name": "듀켐바이오",
+   "sub": "코스닥 · 176750",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[특징주] 듀켐바이오, 키순라 국내 허가 기대에 상한가…치매 진단 수요 확대 주목",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMjFxeUNSakJGdENaVUgtejkwOXZXYzZmb01mT0JUZEVaVFBYM1VIVWRHTjFKX0tpUkpGLVY0OEwtYjkyX2gxeXlVMGg1M1lJei1DRl9BQi02MVJRaHgzMDFyNjBGand4UU1UZg?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-10-15T18:14:56+09:00"
+    },
+    {
+     "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-10-15T18:00:11+09:00"
+    },
+    {
+     "title": "[ET특징주] 치매약 '키순라' 국내 허가 기대감… 듀켐바이오 주가 21%↑",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DU1NqQjJHWXowdVVhM1oxTEM1QU9jMzZ0cnpUU3pNMm9nSkNiMFR3Yy1faF81WWpwQ015MllNMzQ5U0ZPSEZ5YjNHR29Mdw?oc=5",
+     "source": "전자신문",
+     "time": "2026-10-15T11:25:49+09:00"
+    },
+    {
+     "title": "[특징주] 듀켐바이오, 치매치료제 국내 허가 기대감에 19% 급등",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQXgyT0o1YldmOW9YQS1rcV9lSVFiTmJrb1pwU1JRLVk3YmVtUGZCZW1QeF9zUHVvV3RjQ0JTMERyMG1wMUxLb1dxU0VuOHFyMkRULXdvU1VCWXRyMjdpVHF0dGN6Q2E5VkVVQkFwanjSAXBBVV95cUxNakF4Mk9KNWJXZjlvWEEta3FfZUlRYk5ia29acFNSUS1ZN2JlbVBmQmVtUHhfc1B1b1d0Y0NCUzBEcjBtcDFMS29XcVNFbjhxcjJEVC13b1NVQll0cjI3aVRxdHRjekNhOVZFVUJBcGp4?oc=5",
+     "source": "남도일보",
+     "time": "2026-10-15T10:25:00+09:00"
+    }
+   ]
+  },
+  {
    "name": "뉴인텍",
    "sub": "코스닥 · 012340",
    "pct": 30.0,
@@ -86,7 +120,7 @@
    "articles": [
     {
      "title": "바이오인프라 상한가…임상시험 수주 매출 전환이 관건",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZHpWNjdyUnpuVVpDemx2cGhqeWFNSVQxaHNIVGdrX3QyWGJIWmN6UjZzOVpaaV84VkF1d2NZbXdadUtOWmRra3VjWklIU0w4RW53Y0JwRzJlNDVsTExWNWNBOWRSaHBaNWhTZjJn0gFyQVVfeXFMTkJwcXdBUjRxSzRpMHU4RE5wZVI5TDROVzMyWExXM3ZNVkJvM0tHTnZXSDM5bmdtb1RjdE80UkxLUEJWMXJUZk8xeThzTnBlN0dSYUp4cVpCSE5mUndHOTQ2T0pBX3hUbVJ2NjUwdGlTV0dB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CcHF3QVI0cUs0aTB1OEROcGVSOUw0TlczMlhMVzN2TVZCbzNLR052V0gzOW5nbW9UY3RPNFJMS1BCVjFyVGZPMXk4c05wZTdHUmFKeHFaQkhOZlJ3Rzk0Nk9KQV94VG1SdjY1MHRpU1dHQdIBckFVX3lxTE5CcHF3QVI0cUs0aTB1OEROcGVSOUw0TlczMlhMVzN2TVZCbzNLR052V0gzOW5nbW9UY3RPNFJMS1BCVjFyVGZPMXk4c05wZTdHUmFKeHFaQkhOZlJ3Rzk0Nk9KQV94VG1SdjY1MHRpU1dHQQ?oc=5",
      "source": "잡포스트",
      "time": "2026-10-15T14:54:07+09:00"
     },
@@ -108,9 +142,9 @@
    "articles": [
     {
      "title": "유전자 치료제·분석주 줄줄이 하락…엔젠바이오는 상한가",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYLS10aE0zYWh0R01zeHNIM1BFSFlCaEFPQ1ZSUkdIdVN2SDl2bGRIbmJzalhXN082TUlfd0lDbnBZRXB0ZUk0WmlzeUQ3WElENW5takJvd0hKbzAyb2ZiMjRUSmNrY2MxdFZ4Yk9YUktJTHfSAXdBVV95cUxPeVVtcWI4MlE3Q1FIRi04dWRoTE5oTEtudkJOWERuWHVwYmZyRFA0M1pPQ0ZBcERRMlNQVlVXX1VkQXg5M1hqZTlwNVJKN0RMcURTemNsYkJaLTZ3VHoteVZwX2NWY2s4UmNaSjh3Tk55UHBLYXJSSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95VW1xYjgyUTdDUUhGLTh1ZGhMTmhMS252Qk5YRG5YdXBiZnJEUDQzWk9DRkFwRFEyU1BWVVdfVWRBeDkzWGplOXA1Uko3RExxRFN6Y2xiQlotNndUei15VnBfY1ZjazhSY1pKOHdOTnlQcEthclJJ0gF3QVVfeXFMT3lVbXFiODJRN0NRSEYtOHVkaExOaExLbnZCTlhEblh1cGJmckRQNDNaT0NGQXBEUTJTUFZVV19VZEF4OTNYamU5cDVSSjdETHFEU3pjbGJCWi02d1R6LXlWcF9jVmNrOFJjWko4d05OeVBwS2FyUkk?oc=5",
      "source": "핀포인트뉴스",
-     "time": "2026-10-15T15:21:36+09:00"
+     "time": "2026-10-15T15:24:01+09:00"
     },
     {
      "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비",
@@ -137,22 +171,6 @@
    ]
   },
   {
-   "name": "에이엔피",
-   "sub": "코스피 · 015260",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "에이엔피 상한가…PCB 가동률과 운전자본 주목",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Z9IBckFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Zw?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-15T14:55:17+09:00"
-    }
-   ]
-  },
-  {
    "name": "신라섬유",
    "sub": "코스닥 · 001000",
    "pct": 30.0,
@@ -169,24 +187,18 @@
    ]
   },
   {
-   "name": "듀켐바이오",
-   "sub": "코스닥 · 176750",
-   "pct": 21.0,
-   "limitUp": false,
+   "name": "에이엔피",
+   "sub": "코스피 · 015260",
+   "pct": 30.0,
+   "limitUp": true,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 1,
    "articles": [
     {
-     "title": "[ET특징주] 치매약 '키순라' 국내 허가 기대감… 듀켐바이오 주가 21%↑",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DU1NqQjJHWXowdVVhM1oxTEM1QU9jMzZ0cnpUU3pNMm9nSkNiMFR3Yy1faF81WWpwQ015MllNMzQ5U0ZPSEZ5YjNHR29Mdw?oc=5",
-     "source": "전자신문",
-     "time": "2026-10-15T11:25:49+09:00"
-    },
-    {
-     "title": "[특징주] 듀켐바이오, 치매치료제 국내 허가 기대감에 19% 급등",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQXgyT0o1YldmOW9YQS1rcV9lSVFiTmJrb1pwU1JRLVk3YmVtUGZCZW1QeF9zUHVvV3RjQ0JTMERyMG1wMUxLb1dxU0VuOHFyMkRULXdvU1VCWXRyMjdpVHF0dGN6Q2E5VkVVQkFwanjSAXBBVV95cUxNakF4Mk9KNWJXZjlvWEEta3FfZUlRYk5ia29acFNSUS1ZN2JlbVBmQmVtUHhfc1B1b1d0Y0NCUzBEcjBtcDFMS29XcVNFbjhxcjJEVC13b1NVQll0cjI3aVRxdHRjekNhOVZFVUJBcGp4?oc=5",
-     "source": "남도일보",
-     "time": "2026-10-15T10:25:00+09:00"
+     "title": "에이엔피 상한가…PCB 가동률과 운전자본 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Z9IBckFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Zw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-15T14:55:17+09:00"
     }
    ]
   },
@@ -207,5 +219,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-15T17:06:59.492687+09:00"
+ "updatedAt": "2026-10-15T20:39:52.841582+09:00"
 }
