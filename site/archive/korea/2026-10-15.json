@@ -1,0 +1,211 @@
+{
+ "label": "10월 15일(목) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -7.57,
+   "text": "-7.57%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VSWhvV0NUaWkwTzlINjY1d0FVSTYtWHBwZGxuS1dtQUxHcG9OZ0VZRTNQUzh4Z0lJbWRvbGcyeGQ2Vk90VGNKcDNHcFh5Mml6RGNMS1hMcmFQMGx5X3hNZlRvR3hCN1k?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -7.65,
+   "text": "-7.65%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VSWhvV0NUaWkwTzlINjY1d0FVSTYtWHBwZGxuS1dtQUxHcG9OZ0VZRTNQUzh4Z0lJbWRvbGcyeGQ2Vk90VGNKcDNHcFh5Mml6RGNMS1hMcmFQMGx5X3hNZlRvR3hCN1k?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "하이퍼코퍼레이션",
+   "sub": "코스닥 · 065650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "하이퍼코퍼레이션 주가 ‘상한가’...110억 규모 유상증자 결정",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ySGRfQTFUQ1FhSXNFNlBnbE04azlFLThpZEdKbTFmNkN6b1ZuSDFCVE1qUC1DX3I0MlhyYVlKQzBkcmZuZXI4QkxSalZuTjE3MWN4cHBiZk1sa0NyQVRXdk5xSl82Rm8yNUlmYjJ3?oc=5",
+     "source": "국제뉴스",
+     "time": "2026-10-15T11:45:37+09:00"
+    },
+    {
+     "title": "[ET특징주] 하이퍼코퍼레이션, 110억 유증 · 최대주주 교체… 사흘째 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQndKNnRGbGFkUklCU05GMXZlMFQyMjRxbTRRdzRTaE9VZk11LS1uYzNlSzhTUC0xS1JPZEh2VEdwUmZ1QXl6QWgzdTI5Zw?oc=5",
+     "source": "전자신문",
+     "time": "2026-10-15T11:10:00+09:00"
+    },
+    {
+     "title": "[특징주] 하이퍼코퍼레이션, 100억 유상증자로 최대주주 교체… ‘상한가’",
+     "link": "https://biz.chosun.com/stock/2026/10/15/TZIDOVSRFRCY7BE47YK635O3Z4/",
+     "source": "조선비즈",
+     "time": "2026-10-15T09:56:31+09:00"
+    },
+    {
+     "title": "[특징주] 하이퍼코퍼레이션, 100억 유상증자로 최대주주 교체… ‘상한가’ - 조선비즈",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1MwSU8yX2x3ZjFwbjMyc1ZwN3VESWlyd0FPM0pFMEE2S0JKT2U2d0NlSG00b0s0V1R1dlRreFotajdqcEV0TWd2RWE1UzNJMVAzWGRucnBEOThGdzBwSkdhYkVjZFNZcXRfRDBybjJWaHZGZjN1LVVkZ3oyWl9wSnZob2ItOFJNSHfSAYoBQVVfeXFMTk9TMElPMl9sd2YxcG4zMnNWcDd1RElpcndBTzNKRTBBNktCSk9lNndDZUhtNG9LNFdUdXZUa3haLWo3anBFdE1ndkVhNVMzSTFQM1hkbnJwRDk4RncwcEpHYWJFY2RTWXF0X0Qwcm4yVmh2RmYzdS1VZGd6MlpfcEp2aG9iLThSTUh3?oc=5",
+     "source": "Chosunbiz",
+     "time": "2026-10-15T09:56:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴인텍",
+   "sub": "코스닥 · 012340",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "뉴인텍 사흘째 상한가…시총 미달 상폐 절차 유예",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbWUtT0xPLTJJaTJ1dGhKSll0M3ZHbEx6cjNncVBlLUlvaVFudC1qSHpnSGJXV2tQRGxFZEVuVmxuX2RkZ3dSZjFVMDluZVA1VFR0N1JVUFdyTkdvd2tyNg?oc=5",
+     "source": "제주교통복지신문",
+     "time": "2026-10-15T13:23:12+09:00"
+    },
+    {
+     "title": "‘상폐 유예’에 기사회생 기대감…뉴인텍·바이오인프라 등 무더기 상한가",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSaFBwZjczc0FQbFkzejRiTnhrYmtVdDJxQW5DczFneFF3elVNWXhqNTNKd29vZ2ZxcVpNZ2EwWHhtcUxuOVQ0OHFuZlNuWW5zdEM3VTIxWVFLMDZlc1R5ZW1Ud1JXX3M1VnFOYmJLdDhWS3c?oc=5",
+     "source": "마켓인",
+     "time": "2026-10-15T09:31:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바이오인프라",
+   "sub": "코스닥 · 199730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "바이오인프라 상한가…임상시험 수주 매출 전환이 관건",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZHpWNjdyUnpuVVpDemx2cGhqeWFNSVQxaHNIVGdrX3QyWGJIWmN6UjZzOVpaaV84VkF1d2NZbXdadUtOWmRra3VjWklIU0w4RW53Y0JwRzJlNDVsTExWNWNBOWRSaHBaNWhTZjJn0gFyQVVfeXFMTkJwcXdBUjRxSzRpMHU4RE5wZVI5TDROVzMyWExXM3ZNVkJvM0tHTnZXSDM5bmdtb1RjdE80UkxLUEJWMXJUZk8xeThzTnBlN0dSYUp4cVpCSE5mUndHOTQ2T0pBX3hUbVJ2NjUwdGlTV0dB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-15T14:54:07+09:00"
+    },
+    {
+     "title": "‘상폐 유예’에 기사회생 기대감…뉴인텍·바이오인프라 등 무더기 상한가",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSaFBwZjczc0FQbFkzejRiTnhrYmtVdDJxQW5DczFneFF3elVNWXhqNTNKd29vZ2ZxcVpNZ2EwWHhtcUxuOVQ0OHFuZlNuWW5zdEM3VTIxWVFLMDZlc1R5ZW1Ud1JXX3M1VnFOYmJLdDhWS3c?oc=5",
+     "source": "마켓인",
+     "time": "2026-10-15T09:31:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엔젠바이오",
+   "sub": "코스닥 · 354200",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "유전자 치료제·분석주 줄줄이 하락…엔젠바이오는 상한가",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYLS10aE0zYWh0R01zeHNIM1BFSFlCaEFPQ1ZSUkdIdVN2SDl2bGRIbmJzalhXN082TUlfd0lDbnBZRXB0ZUk0WmlzeUQ3WElENW5takJvd0hKbzAyb2ZiMjRUSmNrY2MxdFZ4Yk9YUktJTHfSAXdBVV95cUxPeVVtcWI4MlE3Q1FIRi04dWRoTE5oTEtudkJOWERuWHVwYmZyRFA0M1pPQ0ZBcERRMlNQVlVXX1VkQXg5M1hqZTlwNVJKN0RMcURTemNsYkJaLTZ3VHoteVZwX2NWY2s4UmNaSjh3Tk55UHBLYXJSSQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-15T15:21:36+09:00"
+    },
+    {
+     "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmODFzUl9saldGaUFjOFlDVkxJcGdjNFBST2MtalRCendCWUlFeXFmRU4tZjUybWpGTUdSaEM4ZGtXald4OFBCOE9mdmFhSEsyZmRZNHlZdkRXeWpXSUdsTnBZcmpYS2Q0RklrZmZMSEpFbnY2a1800gF3QVVfeXFMUGY4MXNSX2xqV0ZpQWM4WUNWTElwZ2M0UFJPYy1qVEJ6d0JZSUV5cWZFTi1mNTJtakZNR1JoQzhka1dqV3g4UEI4T2Z2YWFISzJmZFk0eVl2RFd5aldJR2xOcFlyalhLZDRGSWtmZkxISkVudjZrXzQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-15T13:34:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대양금속",
+   "sub": "코스피 · 009190",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마켓줌인] 미국 에너지 인프라 투자 기대감에...대양금속 상한가 등 철강株 ‘강세’",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IWk8yTjFPYUlBaUlybW5xZW9BRGp6SHdRRFBPbWtZbDZWWnlrY184YzlNV0MxVWhPWUV5WVVkZGVEOFkybjFIZjFaV3NNa0NuR3J2c1VsNHcwakZNZGRpOUk5MWdDN2VkbkVmejFrQdIBb0FVX3lxTE1IWk8yTjFPYUlBaUlybW5xZW9BRGp6SHdRRFBPbWtZbDZWWnlrY184YzlNV0MxVWhPWUV5WVVkZGVEOFkybjFIZjFaV3NNa0NuR3J2c1VsNHcwakZNZGRpOUk5MWdDN2VkbkVmejFrQQ?oc=5",
+     "source": "투데이신문",
+     "time": "2026-10-15T13:00:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이엔피",
+   "sub": "코스피 · 015260",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "에이엔피 상한가…PCB 가동률과 운전자본 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Z9IBckFVX3lxTE1GNkJ0Y0pFRTZKTzBQSmQzeEFsQTlZWFdkODNXX01DbzduV1ZMdWczU254cEhEWmZJMGJJaXFwNmFwS1JIRUZUeElKMkdlNkV4cDZ3YWswYWx3MUxnYUl5Ty1CV3RBdWJqY2hqTXBfeDB0Zw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-15T14:55:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "신라섬유",
+   "sub": "코스닥 · 001000",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "신라섬유 주가 상한가 찍고 이탈…8일·13일 상한가 이어 15일 11%대 상승",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZFRMRWE2LUVFcWZibTZNd0JjLUdwbEZMdGpPczVEbV9SM0ZSTUQwS0wyaDBvVDBFRG9jRzhabnF0RDRuWW9pc2R3OXc2ZUdkRmREa1NnN0M4aFRMQ0hyMHl0Nnd6aWtl?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-15T10:56:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "듀켐바이오",
+   "sub": "코스닥 · 176750",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[ET특징주] 치매약 '키순라' 국내 허가 기대감… 듀켐바이오 주가 21%↑",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DU1NqQjJHWXowdVVhM1oxTEM1QU9jMzZ0cnpUU3pNMm9nSkNiMFR3Yy1faF81WWpwQ015MllNMzQ5U0ZPSEZ5YjNHR29Mdw?oc=5",
+     "source": "전자신문",
+     "time": "2026-10-15T11:25:49+09:00"
+    },
+    {
+     "title": "[특징주] 듀켐바이오, 치매치료제 국내 허가 기대감에 19% 급등",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQXgyT0o1YldmOW9YQS1rcV9lSVFiTmJrb1pwU1JRLVk3YmVtUGZCZW1QeF9zUHVvV3RjQ0JTMERyMG1wMUxLb1dxU0VuOHFyMkRULXdvU1VCWXRyMjdpVHF0dGN6Q2E5VkVVQkFwanjSAXBBVV95cUxNakF4Mk9KNWJXZjlvWEEta3FfZUlRYk5ia29acFNSUS1ZN2JlbVBmQmVtUHhfc1B1b1d0Y0NCUzBEcjBtcDFMS29XcVNFbjhxcjJEVC13b1NVQll0cjI3aVRxdHRjekNhOVZFVUJBcGp4?oc=5",
+     "source": "남도일보",
+     "time": "2026-10-15T10:25:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "천일고속",
+   "sub": "코스피 · 000650",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "부동산 자산주 약세 속 천일고속 16% 급등…무슨 일?",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JMEpsUXBBT2RRNFVqYWcyX2ljdUtqT010OExhaXNYeGJVeHpvUUE1V0IxTldOa3ZzbEJ1UXhHYklpVzBxdXBvQi1BSGRralhJNTF2YXlDRDIyZkZEYmFTTHA4Q0xZaDlQa2M5WmdFYUFBWlXSAXdBVV95cUxPY3lTZXNYMnNtaEliVlFNdUhYZ2NhUzN4MGtvRVhjT2ZIZkdYNGs0ZjVYUWdQUWEzelB0dFBnQ3JZenVucEhsbEFQTmVrcF9EcXdfN1kwdVRMRGMwaFBLdWVxa1ZaNThacG5yQThZTWVPaGVEa0JvWQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-15T10:30:44+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-15T17:06:59.492687+09:00"
+}
