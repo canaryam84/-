@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T00:27:01.622209+09:00",
+ "updatedAt": "2026-10-16T01:27:06.208707+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -65,6 +65,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "미원홀딩스 자회사 미원스페셜티케미칼, 21억원 규모 자기주식 취득 결정",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TMUdBZXNJMzRUbHh2cGNWMUJMaVlXU1NMdGZha3ZNYlhXa0tYQ0JiekJwcUpMbk5jUkZKQU11VS1mQ2YxNkxzbUVNejRHUTRab3VhQnlMbjRUOExtbzhTOS1TclY4UXBaTmY0Y0lUNW5HM0E?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T19:40:21+09:00",
+   "stocks": [
+    {
+     "name": "미원홀딩스",
+     "code": "107590"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "신동국, 한미사이언스 지분 매입 '공개매수 의무' 위반 정황…의결권 제한 우려",
