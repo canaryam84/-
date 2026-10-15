@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T23:58:10.283950+09:00",
+ "updatedAt": "2026-10-16T00:27:01.622209+09:00",
  "items": [
   {
    "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
@@ -1859,6 +1859,20 @@
    "dir": "none"
   },
   {
+   "title": "[특징주] 두산우, 뚜렷한 공시 없이 장중 1%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FNlJSeDc2LW0xQXBKZDhIMnkyb0d2RE5EZndmRnE2YnQ3X2RPSE1ZOW5ydnR1TXBqeFBOYl8ybENsalRXMUpqd3V6OA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T10:58:00+09:00",
+   "stocks": [
+    {
+     "name": "두산",
+     "code": "000150"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "[특징주] SK리츠, 뚜렷한 공시 없이 장중 소폭 강세 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oOEkxanpvWHU2cUFVVHNKbFJMcmFvSXNhay1IcTZGTGQxRmx1N0VacUpCdkZjRS05X1NpRkxXZXA3T2QwTkxZOGZGUQ?oc=5",
    "source": "재경일보",
@@ -2095,6 +2109,20 @@
     {
      "name": "카카오페이",
      "code": "377300"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 한화, 뚜렷한 공시 없이 장중 2%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YUtyQm1Dd053OW9yV0Z1elUxUnRBRzI4akIzUXJtRGhEdkZfeEM4U2h6bUxCRmoxSzVIVmxlMXNHOXEzWDljc2xGTQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-14T10:38:00+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
     }
    ],
    "thin": true,
@@ -4249,6 +4277,24 @@
     {
      "name": "SBI인베스트먼트",
      "code": "019550"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]솔브레인, '높은 반도체 비중, 웨이퍼 증가 직접 수혜' 목표가 540,000원 - 상상인증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocFFRQW1oQzhVeUNFSHNTQllqS0hTeXBWWjN2ckNsMjdrb3hvZ1A3dnhkdDhBeFZmZlVJajI1d2ZhSmVKYVh1bVl3VEtNWDc2SWZxd2NwdkloWm5M?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-14T08:32:00+09:00",
+   "stocks": [
+    {
+     "name": "솔브레인",
+     "code": "357780"
+    },
+    {
+     "name": "상상인증권",
+     "code": "001290"
     }
    ],
    "thin": false,

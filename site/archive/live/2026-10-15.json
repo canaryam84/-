@@ -1,0 +1,4168 @@
+{
+ "label": "10월 15일(목) 국내 종목 뉴스",
+ "updatedAt": "2026-10-16T00:27:01.622209+09:00",
+ "items": [
+  {
+   "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uZWdERGxiLXZXa0NRRlFRSXlyU0Rjakh4ellsb1dRLVVkYlRuWWY2aVBwaHBiRHp6cXRnV21hQXdCU1VYblpVNE82MTlCNFoxWDBtOURYeGE1Zw?oc=5",
+   "source": "한국경제",
+   "time": "2026-10-15T22:32:30+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "삼성·SK하이닉스 주가 폭락…中 반도체 추격에 '2029년 공급 과잉' 경고까지",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZXZhOXVpMEU3ZjdESmdwNzZuTTB5RXVjU05LZ3F5QjdvaDZQelFtMTJ3QjFPUVZ1Ml8waVBCUktvRXlOOVRDeHFRVzlHZVhGN2pmLU5HUXIzdmR3?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T22:24:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "“10만원까지 빠져라, 주식 더 받는다”…삼성전자 직원 익명글에 뿔난 주주들",
+   "link": "https://www.mk.co.kr/news/economy/12177162",
+   "source": "매일경제",
+   "time": "2026-10-15T19:51:46+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[주식마감] '상폐 위기감' 속 CJ씨푸드1우 상한가... 에이엔피, 뉴인텍, 듀켐바이오 등 급등",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcVpDRzN1NGJxRGlfZGdNUWtRYzJVdFVEZDJ2dm1LU3VtdnJzLVl5Q1JzQ3RQSDlrOW5icXJMaTJhakpPdlllNXBETDhPOVAzWE95eUR1ZjZPM3VGSUExNXFPZmRLQUItWFE?oc=5",
+   "source": "금강일보",
+   "time": "2026-10-15T19:51:37+09:00",
+   "stocks": [
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    },
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    },
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "신동국, 한미사이언스 지분 매입 '공개매수 의무' 위반 정황…의결권 제한 우려",
+   "link": "https://www.etoday.co.kr/news/view/2636407",
+   "source": "이투데이",
+   "time": "2026-10-15T19:16:00+09:00",
+   "stocks": [
+    {
+     "name": "한미사이언스",
+     "code": "008930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[종목상담 주식민원처리반] 삼성SDI 지분 투자 수혜주 '피노' - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LUkIyc0RpZDlmeGxDRlBjWFlER3plN2MyRWptZG9yUEt6T3RvbGFkMFVSZ0wxT3Y2WF9LSk9qZmRfdHFSbnZLRVBuZUJBM3EybzVDay1tZXVRSVhtMXMwUjM0NTlEaFJ6VVEyTjdB0gFuQVVfeXFMTktSQjJzRGlkOWZ4bENGUGNYWURHemU3YzJFam1kb3JQS3pPdG9sYWQwVVJnTDFPdjZYX0tKT2pmZF90cVJudktFUG5lQkEzcTJvNUNrLW1ldVFJWG0xczBSMzQ1OURoUnpVUTJON0E?oc=5",
+   "source": "머니투데이",
+   "time": "2026-10-15T18:51:13+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    },
+    {
+     "name": "피노",
+     "code": "033790"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "유럽증시, 기술주 우려 속 하락 출발…ASML 주가 6%대↓(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzdlR5OFRWS0I3dDRUbHl6U0I5dGRPS1hWdm5YYXd1M2E0LUQyU01QSVlVRm9tdkdnRUt1ZThaUHJtcmlYT3dpak01R1Z6ZkhVTm9MbmlXUlN5Zy1rT1dHbGZUWXJnRlg1dTVYWDlFVmo?oc=5",
+   "source": "연합인포맥스",
+   "time": "2026-10-15T18:44:13+09:00",
+   "stocks": [
+    {
+     "name": "상보",
+     "code": "027580"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] “증시 급락에도 나 홀로 상승”…유한양행, 렉라자 로열티 100억원 넘길까",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SnNOcjFSN0EwWDhiMEdoTjktZ0syOWNjenhOdVNiM0w4VEhUcGFoT1hKTkMxTzZ2RmNEZkZKQ21LNUdGUHZ4Mi1iVXZPVUdyY0FVMGxmMlM0anNSZzItZg?oc=5",
+   "source": "https://www.theconnectmoney.com/",
+   "time": "2026-10-15T18:25:00+09:00",
+   "stocks": [
+    {
+     "name": "유한양행",
+     "code": "000100"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 듀켐바이오, 키순라 국내 허가 기대에 상한가…치매 진단 수요 확대 주목",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMjFxeUNSakJGdENaVUgtejkwOXZXYzZmb01mT0JUZEVaVFBYM1VIVWRHTjFKX0tpUkpGLVY0OEwtYjkyX2gxeXlVMGg1M1lJei1DRl9BQi02MVJRaHgzMDFyNjBGand4UU1UZg?oc=5",
+   "source": "바이오타임즈",
+   "time": "2026-10-15T18:14:56+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+   "source": "히트뉴스",
+   "time": "2026-10-15T18:00:11+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "원텍, 타법인 주식 취득 지연공시로 불성실공시법인 지정예고",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcUpmRzlqN09YUG5mU3NDbHpPYW15SFlVME1fWkxDNGg2VXpvRUkzNDJwQklHcjdaZWJGWHRNLV9PZTA2Y0Yxb201Nmh4aWVrY19zWEdFNE9zSVYyellWZHFsYXZZTFBCY2szU19IUmtJcmc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T17:48:09+09:00",
+   "stocks": [
+    {
+     "name": "원텍",
+     "code": "336570"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "에이피알, 상장 후 최대 급락…매출 두 배에도 이익률 꺾인 이유",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yUjlmUEN3WkdUNG9oTVNyWmxtZDlrY0RGWDRYNmMyZVY0SG01Wjl5S0tzS0EtcGFnUGFzbkZNYmQxazNhaTNFTURnd2VuOEw3a1JuMGZMUGk0NGhuRkxxUk12alRFWnl3c0RSMdIBbEFVX3lxTE8yUjlmUEN3WkdUNG9oTVNyWmxtZDlrY0RGWDRYNmMyZVY0SG01Wjl5S0tzS0EtcGFnUGFzbkZNYmQxazNhaTNFTURnd2VuOEw3a1JuMGZMUGk0NGhuRkxxUk12alRFWnl3c0RSMQ?oc=5",
+   "source": "블로터",
+   "time": "2026-10-15T17:37:44+09:00",
+   "stocks": [
+    {
+     "name": "에이피알",
+     "code": "278470"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "케이헤드조합, 빛과전자 주식 533만879주 ↓…지분율 4.90%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GU05VUFJMWnZWR0VHNmJRaVNxem5ZTGJfY2lLMmJtOFZRV2Q2VTVrbV9tZ1ZsVFh6SUpiT2RVOXNBMFFnQXZndG9uNE1TdWdUZEFvNmdDbHJxaXoxOFlCbEFXUkhZTllxVWNabHlqa0pKQTQ?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T17:35:41+09:00",
+   "stocks": [
+    {
+     "name": "빛과전자",
+     "code": "069540"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "대주주 한앤코 전량 청약…SK디앤디 유상증자 완판",
+   "link": "https://www.mk.co.kr/news/stock/12177037",
+   "source": "매일경제",
+   "time": "2026-10-15T17:34:15+09:00",
+   "stocks": [
+    {
+     "name": "SK디앤디",
+     "code": "210980"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "흥국생명, SOOP 꺾고 3연승⋯조 1위로 컵대회 준결승 진출",
+   "link": "https://www.etoday.co.kr/news/view/2636381",
+   "source": "이투데이",
+   "time": "2026-10-15T17:34:00+09:00",
+   "stocks": [
+    {
+     "name": "SOOP",
+     "code": "067160"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "시지트로닉스, 8억원 규모 유상증자 실시",
+   "link": "https://www.mk.co.kr/news/stock/12177021",
+   "source": "매일경제",
+   "time": "2026-10-15T17:32:14+09:00",
+   "stocks": [
+    {
+     "name": "시지트로닉스",
+     "code": "429270"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "KS인더스트리, 50억원 규모 유상증자 실시",
+   "link": "https://www.mk.co.kr/news/stock/12177012",
+   "source": "매일경제",
+   "time": "2026-10-15T17:31:24+09:00",
+   "stocks": [
+    {
+     "name": "KS인더스트리",
+     "code": "101000"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "큐로홀딩스, 81억원 규모 유상증자 실시",
+   "link": "https://www.mk.co.kr/news/stock/12177013",
+   "source": "매일경제",
+   "time": "2026-10-15T17:31:24+09:00",
+   "stocks": [
+    {
+     "name": "큐로홀딩스",
+     "code": "051780"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "주가 급락에 성장동력 따진 알테오젠 주주들…박순재 “신기술 도입 검토” - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNU12ZEZ2NXVheHp1RTRuRnVVLTZqZEZZODc3Z0Nyc0Y5bFdLUDdqVXdRMEhGTGR0MmpWMG1RX0MweV9YTmdTUFdOMTA3NHd5TTJnal9abDVzZmlPMnJDLVNxaEpLa1JYQlVpOVdLUTlEV3hYN1FNMWNkYXFHY2ZVa1lsUmtRU03SAZsBQVVfeXFMTTk4WkJ0TkRRRm1ZNVJGX20xX1I3XzJ6dEY0eEJaOEl4UUM3amtUdm8telFmV1NBUzRsNVhoSHJOT3RoWThsWjZFcHZjb1N5RG5SSndTdGs5c0o0bk4tZlRmR2owWGVBQTFFWk1zSC15UHE5YkhqZjhnVzVsQUZPdjc4ekR1VmlzLTB2OUR3VUdsb1dYdGhDVFNtV28?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T17:22:00+09:00",
+   "stocks": [
+    {
+     "name": "알테오젠",
+     "code": "196170"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "삼성전자 주가 급락했지만…이재용 증여세 부담은 여전",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzcUUxRDc0RjlEVFJhcjhXQ1JmYXN2YzI1ckNHRXhtdUozYzhSN0ZUVndqWmRXc3l6MUpzcU1sdjNlT2o5S195dUluVHhwWlU?oc=5",
+   "source": "딜사이트",
+   "time": "2026-10-15T17:19:14+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "김강표 상무, 하나마이크론 주식 1943주 ↓…지분율 0.00%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OSTlMd1MtTFV0TGNQVTBxaUFGbVQ1SDZTV3ExQlJXaHE2NF9lQmFIa2ljbDhvQktEaEVFb2tiVW1vUHFxNkdPSXVOdkFoalBERU5reGxsamV2bm5SX0JMTF9JVnRhYkg4Z3JTeHdiTE9YaUE?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T17:14:32+09:00",
+   "stocks": [
+    {
+     "name": "하나마이크론",
+     "code": "067310"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "주순석 전무, 하나마이크론 주식 2881주 ↓…지분율 0.03%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TWFJaVGhtUnBqWnNnZkxUeS1fV0IxTmtlN3pOa2lqQmg1QXQ1dzQxRWQyc0s4RS1SbW1zYnYyaG9QZU1QVEdDbERoa2lva0FqOEtPaGVJSkdIQjZMQ2JJS3c2RVltanZWY3g4V3dJQ1h2QQ?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T17:09:41+09:00",
+   "stocks": [
+    {
+     "name": "하나마이크론",
+     "code": "067310"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[포토] 농협-CJ프레시웨이, 국내산 축산물 공급 확대 협약",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=05139766645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T17:09:14+09:00",
+   "stocks": [
+    {
+     "name": "CJ프레시웨이",
+     "code": "051500"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "진양곤·김태한 HLB 투톱, 간암 신약 FDA 승인 자신감…“연내 허가 기대”",
+   "link": "https://www.etoday.co.kr/news/view/2636354",
+   "source": "이투데이",
+   "time": "2026-10-15T17:09:00+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[단독] “주가 10만원까지 떨어져라”… 삼성전자 직원 글에 주주들 분통 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaUhtaWE0NDZGX1lEeW03WWxlWDh0ckswYXB2ZkFaem16djBzeWY5VEpvakxmeng0b3dSdml1ckF2SDFia2xlWF9sbENWTkFuV2YySGxOSzVqai1Fcm05U284N1p1Y19XQ005SzRENjRxbThaYWY4TzhkVFBaUXZkODFSZFA0RzMtLUHSAZ4BQVVfeXFMUDVnaWpwV0hDa0JRaGJGcGVWYks1REhUbzJON1NwRHhrYW56bFlWS0NDdy1vZWJnY0JsUjZ1OHlBSzd0SmdSYnItbXZSREU5UnFTVnl5Qnp1X3FMMkV5S2J6YTNsS1hxeXFLZlFTOWxVTWFOTHpuQTlWaUNJalhvR1JOcWY4bTVsMkRndS12QndKYzRHZUZEMldWMlFLNVE?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T17:08:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[급등락주 짚어보기] ‘시총 미달’ 상폐 유예에 희비⋯에이엔피 上ㆍ예선테크 下",
+   "link": "https://www.etoday.co.kr/news/view/2636344",
+   "source": "이투데이",
+   "time": "2026-10-15T16:56:00+09:00",
+   "stocks": [
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    },
+    {
+     "name": "예선테크",
+     "code": "250930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[급등락주 짚어보기] ‘시총 미달’ 상폐 유예에 희비⋯에이엔피 上ㆍ예선테크 下 · 시장 영향은?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuYnlmeXlSV0VSNWZKTlNBeVc3MXhLVm1tajltQUlISnBGeW5FUDJNTmNwd1ZKUWFwemJkbzJDX09TV0RjYnNvVlBEQ0d4aGZrSk12VURINk9BdExN?oc=5",
+   "source": "https://spt.co.kr/",
+   "time": "2026-10-15T16:56:00+09:00",
+   "stocks": [
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    },
+    {
+     "name": "예선테크",
+     "code": "250930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "HLB “담관암 신약 美 상업화 본격화…간암 신약 허가도 속도”",
+   "link": "https://www.etoday.co.kr/news/view/2636310",
+   "source": "이투데이",
+   "time": "2026-10-15T16:55:00+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "미래에셋자산운용(주), 미래에셋글로벌리츠 주식 4만6836주 ↓…지분율 24.94%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xdGRSNWV5ckRHVlNOZkJhZUFpZlVpWmtGUGhNWm9LQ2dSY3gwTFkyWDE3X2VpWkNZUXpRWjVOV1RsWVVNOGlIS0xDUGNMTEhIaWMzeEVFRXNZQXB3YU1sVHBzdmc5Z0x1RVROZEphUWVKd0k?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:49:14+09:00",
+   "stocks": [
+    {
+     "name": "미래에셋글로벌리츠",
+     "code": "396690"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 에스원, 4500억원 규모 자사주 공개매수·소각에 주가 13% 급등",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbldrVlVLUURZUVZFNVp1bWdrcjl2Y3dmTU1wYXJxd1FQMGhVMGwyOHlmbkk5bWJ3S21aSF94bjBtZU9SYVl1TEhqdEl0ajRkYXA5YUFSQXFDMmxiaFNnRF9GR3ZjQWtTUEFjVml3?oc=5",
+   "source": "아시아투데이",
+   "time": "2026-10-15T16:40:25+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "박지훈 부사장, 한일홀딩스 주식 1832주 ↑…지분율 0.04%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QYnN4VGRNN29mYW1KU19KejM0TmRNVGVSY1RINVM1X1pJcGk4ekhpbGdvSFM3V3YzeWxGRUQ1cFBsaG1qWjEtMUdoWDJ6QUhWb0VPN3M1cmlCd2pnUmhZeWdzV3oxeHpldFExLWR5WDlPZw?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:32:29+09:00",
+   "stocks": [
+    {
+     "name": "한일홀딩스",
+     "code": "003300"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 동반 급락…외국인 2.5조 매도에 반도체주 '휘청'",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrUk1PWlRpWlFVMTVhT3h5YlhrRnFGTXg2UW9TWUJPVUJHcUdTQWhFYXMxOFR2QWZySnNqSWZJaVRQYThmb2RUUTRYc0JoZVh4VjZwM25GdGlTNEZTSm56SE9NUHh0UllBaUdGcU5ZaTbSAXRBVV95cUxNVy1WejZNV1dka2pLZFI3YmNBc19JcXFpZEpRZXpLZzh1ejlIZE5VZUhnT2R6U29vY1V1MlpVWHlUUUo5ckM5LWdxTmFvLVA4ZUwzNlpQQUd2SEx3Qnk5anhWT2dKVThZa1J1b2lveFFCRjlocg?oc=5",
+   "source": "산경투데이",
+   "time": "2026-10-15T16:31:28+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "대한항공, 3분기 매출 5조448억 ‘역대 최대’⋯영업익 12%↑",
+   "link": "https://www.etoday.co.kr/news/view/2636330",
+   "source": "이투데이",
+   "time": "2026-10-15T16:30:00+09:00",
+   "stocks": [
+    {
+     "name": "대한항공",
+     "code": "003490"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 코스모신소재, 뚜렷한 공시 없이 10%대 급락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xQkVGUmFTN0hQWXlKNzg0Y1RkTVdSMEJ2RjZ1T2ZEcnNqYWtibFA5akkxTHh1ZFkxN2E4dkpLUmkxMlRnX1lWU0JDMA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T16:28:00+09:00",
+   "stocks": [
+    {
+     "name": "코스모신소재",
+     "code": "005070"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "최민영 상무이사, SIMPAC 주식 2만9781주 ↑…지분율 9.58%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52MFh6Tk1xazJWVC11MzhubFZEMWx1ZmJrbVpxRVVSb0pCUEQtYWNjbVVHZzRBYzNSU2o5MVNpR1JnV25KWkpCMEw3T1V5SWZDaGdYUkNMbUJZaVZvRHNkaUtweXdCRkhWdWlSR2h2bklKOU0?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:22:47+09:00",
+   "stocks": [
+    {
+     "name": "SIMPAC",
+     "code": "009160"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "\"주주가치 높인다\" 이마트, 남은 자사주 모두 소각",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04916726645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T16:21:32+09:00",
+   "stocks": [
+    {
+     "name": "이마트",
+     "code": "139480"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "김기봉 대표이사, 미트박스 주식 12만5995주 ↑…지분율 21.41%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJeFFLdkJJN1pWbUhRUTdqbWwyb25xWTJTYU9xRWtFeGxJeTR2enoxQjBZdkdJZlhNMUQ3MHU4ZVJwUmd4OHpiRUlPc0dKZkNKeDFKTXJNdDNrbndBVTJ3THY5ZWNSZ1JEWXVfREpjZVVZcmc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:20:46+09:00",
+   "stocks": [
+    {
+     "name": "미트박스",
+     "code": "475460"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "LG CNS, 새마을금고 핵심 전산망 최신화한다…2910억 규모 사업 수주",
+   "link": "https://www.etoday.co.kr/news/view/2636315",
+   "source": "이투데이",
+   "time": "2026-10-15T16:20:00+09:00",
+   "stocks": [
+    {
+     "name": "LG",
+     "code": "003550"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "대한항공 3분기 매출 5조488억원 역대 최대…영업익 12% 증가",
+   "link": "https://www.yna.co.kr/view/AKR20261015143600003",
+   "source": "연합뉴스",
+   "time": "2026-10-15T16:18:22+09:00",
+   "stocks": [
+    {
+     "name": "대한항공",
+     "code": "003490"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "이마트, 자사주 758억원어치 소각…당초 계획보다 규모 확대",
+   "link": "https://www.etoday.co.kr/news/view/2636308",
+   "source": "이투데이",
+   "time": "2026-10-15T16:13:00+09:00",
+   "stocks": [
+    {
+     "name": "이마트",
+     "code": "139480"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "SK하이닉스 줍줍…삼성전자는 던졌다 [주식 초고수는 지금]",
+   "link": "https://www.mk.co.kr/news/stock/12176835",
+   "source": "매일경제",
+   "time": "2026-10-15T16:12:22+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "티그리스-파인밸류 컨소, 진코스텍 공모가 36% 급락에도 평가익 '방어’",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UlItUWtuYzVIbjRHT0FiQzhvX0pDaFQ1d1RWVmZhZXBCemp2RnFwdzVicEJxVmlvWDNtN2NoYUxUbWhBTEZsa2U1bEYxZEZOblRRMWNWQTRTXzl5d3hVdno4YmpKQktSMHJoN1N5aw?oc=5",
+   "source": "뉴스톱",
+   "time": "2026-10-15T16:10:59+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "김은주 대표이사, 신진에스엠 주식 4700주 ↑…지분율 14.11%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbzNfMEljVWhtMjRDT1MyUXFxYWhJbDJBX1V6dTBzNmhmemo5c3RGN0JaNVVDbUF3QWZubmhuR0JfZjkxM25QR05pa2FHS3RzRWVreG9LaUlhQWJ3LU12aWlTam93VTF3WW4tYTZJMjNsS1k?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:07:44+09:00",
+   "stocks": [
+    {
+     "name": "신진에스엠",
+     "code": "138070"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "하이닉스 11% 폭락, 삼성전자 9%↓…7월 말 이후 낙폭 최대(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261015045351008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T16:06:43+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[마감분석] 한전기술, 뚜렷한 공시 없이 8.22% 급락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOZDlxeTVQbG1iOFJiWUF2bDk3YlMyVWhWM19PYkZGSnRfR0t6OE9Ra1NVOHl0Q25IOFR0Rm16bzJwazBiTVpWZWJFVQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T16:06:00+09:00",
+   "stocks": [
+    {
+     "name": "한전기술",
+     "code": "052690"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "김한성, 백산 주식 3만5425주 ↓…지분율 7.54%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rbkR2QUpYNHVXcVVkQVVINEh5TkROdDZNMUh3TGY4TC12SXBvdFRsNnNGUzBFSUh0b1ljb3VVVVpWLVZ4cGZITnp3ZEkzb0x4VjRXa1F5QWxDOWF0NFptMHZHRHRjR2lDMmhpM3BaSjVpM2s?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T16:04:05+09:00",
+   "stocks": [
+    {
+     "name": "백산",
+     "code": "035150"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "이마트, 758억원 규모 자사주 소각 결정…\"주주가치 제고\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015138800030",
+   "source": "연합뉴스",
+   "time": "2026-10-15T15:59:31+09:00",
+   "stocks": [
+    {
+     "name": "이마트",
+     "code": "139480"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 입성 첫날 42% 강세 마감…상승폭은 줄어(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261015043951008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T15:47:41+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "주식회사사조시스템즈, 사조산업 주식 2400주 ↑…지분율 30.38%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBcG8zVzZOQ3N1amZmdGFvMlg5UXBzVWlwNnNpYjZyZGZOdnVNRWx5OUozVHR1Y1NWUDFUbndwaVpRbGZ1Ym9PNXNONW1udHBGRGM0d2pPbWZPNlYxbWlQbjJZX3I0UVpvU1hwMllmclNiNWM?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T15:47:29+09:00",
+   "stocks": [
+    {
+     "name": "사조산업",
+     "code": "007160"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "이상헌 부사장, 와이바이오로직스 주식 1000주 ↑…지분율 0.21%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DbVFCZERtdGEyc3VRNUhMNHJVd1pRNE9EMmd2ODZWVTlpSzl2NDZhbm9YZjc4bkhLRXpnQlg2UmlJTGtWZVpWNHE0d1B6bTUwU25xWlZUYlhnenR6WjI1R2JuZC1OYThSaXg3aFYxYXlKUGc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T15:41:48+09:00",
+   "stocks": [
+    {
+     "name": "와이바이오로직스",
+     "code": "338840"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "날개 없이 추락하는 SK하이닉스 주가…120만원대로 ‘풀썩’",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SLVpFbVlwLWFGak9MdHZpMGZETEluemZQMXZsazlNd3ozQkRDTFRDelQ3TF9QRy1fNkdZRkQ1MEpGTkppZVpxXzNMSEY2VjY2dGF3eFJQMWVrZ0VqeTNWMkV1anpFREpBVjd4Wm9B0gFuQVVfeXFMTlItWkVtWXAtYUZqT0x0dmkwZkRMSW56ZlAxdmxrOU13ejNCRENMVEN6VDdMX1BHLV82R1lGRDUwSkZOSmllWnFfM0xIRjZWNjZ0YXd4UlAxZWtnRWp5M1YyRXVqekVESkFWN3hab0E?oc=5",
+   "source": "중부매일",
+   "time": "2026-10-15T15:38:55+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "급락장에 휩쓸린 새내기주…멜콘·진코스텍 상장 첫날 '롤러코스터'",
+   "link": "https://www.hankyung.com/article/202610154326i",
+   "source": "한국경제",
+   "time": "2026-10-15T15:34:36+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    },
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "제테마, 톡신·필러 402억원 규모 독점 공급계약",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04490326645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T15:28:54+09:00",
+   "stocks": [
+    {
+     "name": "제테마",
+     "code": "216080"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "대동, 정부 K-GX 프로젝트 선정…AI 전기 트랙터 개발",
+   "link": "https://www.yna.co.kr/view/AKR20261015129200030",
+   "source": "연합뉴스",
+   "time": "2026-10-15T15:24:16+09:00",
+   "stocks": [
+    {
+     "name": "대동",
+     "code": "000490"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "유전자 치료제·분석주 줄줄이 하락…엔젠바이오는 상한가",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95VW1xYjgyUTdDUUhGLTh1ZGhMTmhMS252Qk5YRG5YdXBiZnJEUDQzWk9DRkFwRFEyU1BWVVdfVWRBeDkzWGplOXA1Uko3RExxRFN6Y2xiQlotNndUei15VnBfY1ZjazhSY1pKOHdOTnlQcEthclJJ0gF3QVVfeXFMT3lVbXFiODJRN0NRSEYtOHVkaExOaExLbnZCTlhEblh1cGJmckRQNDNaT0NGQXBEUTJTUFZVV19VZEF4OTNYamU5cDVSSjdETHFEU3pjbGJCWi02d1R6LXlWcF9jVmNrOFJjWko4d05OeVBwS2FyUkk?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T15:24:01+09:00",
+   "stocks": [
+    {
+     "name": "엔젠바이오",
+     "code": "354200"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "비아트론, 262억 규모 디스플레이 제조용 장비 공급 계약",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04457526645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T15:23:18+09:00",
+   "stocks": [
+    {
+     "name": "비아트론",
+     "code": "141000"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "HLB그룹, 진양곤 의장 HLB제넥스 지분 매수",
+   "link": "https://view.asiae.co.kr/article/2026101515214613715",
+   "source": "아시아경제",
+   "time": "2026-10-15T15:21:47+09:00",
+   "stocks": [
+    {
+     "name": "HLB제넥스",
+     "code": "187420"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "필에너지, 전고체 배터리 조립공정용 장비 공급 계약",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04450966645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T15:21:33+09:00",
+   "stocks": [
+    {
+     "name": "필에너지",
+     "code": "378340"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "큐로홀딩스, 81억원 규모 3자배정 유상증자",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04441126645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T15:19:45+09:00",
+   "stocks": [
+    {
+     "name": "큐로홀딩스",
+     "code": "051780"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "리퀴디아, 유나이티드 테라퓨틱스와 3.8억 달러 특허 분쟁 합의... 주가 26.6%↑",
+   "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218414",
+   "source": "인포스탁데일리",
+   "time": "2026-10-15T15:16:23+09:00",
+   "stocks": [
+    {
+     "name": "유나이티드",
+     "code": "033270"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "이엠앤아이, 고창훈 대표 13만주 장내매수…중수 실적·전고체 성장성 주목",
+   "link": "https://www.mk.co.kr/news/stock/12176750",
+   "source": "매일경제",
+   "time": "2026-10-15T15:12:50+09:00",
+   "stocks": [
+    {
+     "name": "이엠앤아이",
+     "code": "083470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "디와이씨, 46만주 자사주 소각 결정…취득 물량 50% 웃돌아",
+   "link": "https://view.asiae.co.kr/article/2026101515124371976",
+   "source": "아시아경제",
+   "time": "2026-10-15T15:12:44+09:00",
+   "stocks": [
+    {
+     "name": "디와이씨",
+     "code": "310870"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "SK하이닉스, 미국 물가 쇼크에 주가 11% '뚝'...삼성전자도 동반 추락",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMWV4QmREeFRGQklnX0poN0d1Yk5ZM29qV3JCU2d5UHdRYXZVMjlzSWxZbnBzaWo1NWViUGtwMmlrTU96UmJ2WGZR?oc=5",
+   "source": "코인리더스",
+   "time": "2026-10-15T15:10:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "HD한국조선해양, 초대형 가스운반선 4척 수주…6258억 규모",
+   "link": "https://www.etoday.co.kr/news/view/2636251",
+   "source": "이투데이",
+   "time": "2026-10-15T15:03:00+09:00",
+   "stocks": [
+    {
+     "name": "HD한국조선해양",
+     "code": "009540"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "크레오에스지 \"큐로홀딩스 주식 81억원에 추가취득\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015120200008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T14:57:20+09:00",
+   "stocks": [
+    {
+     "name": "크레오에스지",
+     "code": "040350"
+    },
+    {
+     "name": "큐로홀딩스",
+     "code": "051780"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "에이엔피 상한가…PCB 가동률과 운전자본 주목",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtWFh5OEpyWWxCN1BzUktaU3pPSUpmWGdfelhuQXk0NFp3alNJRG1Wdy1iSlR2cmZEYWVYaHpfUnFnSHlsNnAyRERiTnVFYkRtazE4SWp1cW94dC1SUXZNQmpPbXQ1dXJzTXh3ckJn0gFyQVVfeXFMTUY2QnRjSkVFNkpPMFBKZDN4QWxBOVlYV2Q4M1dfTUNvN25XVkx1ZzNTbnhwSERaZkkwYklpcXA2YXBLUkhFRlR4SUoyR2U2RXhwNndhazBhbHcxTGdhSXlPLUJXdEF1YmpjaGpNcF94MHRn?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-15T14:55:17+09:00",
+   "stocks": [
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "바이오인프라 상한가…임상시험 수주 매출 전환이 관건",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZHpWNjdyUnpuVVpDemx2cGhqeWFNSVQxaHNIVGdrX3QyWGJIWmN6UjZzOVpaaV84VkF1d2NZbXdadUtOWmRra3VjWklIU0w4RW53Y0JwRzJlNDVsTExWNWNBOWRSaHBaNWhTZjJn0gFyQVVfeXFMTkJwcXdBUjRxSzRpMHU4RE5wZVI5TDROVzMyWExXM3ZNVkJvM0tHTnZXSDM5bmdtb1RjdE80UkxLUEJWMXJUZk8xeThzTnBlN0dSYUp4cVpCSE5mUndHOTQ2T0pBX3hUbVJ2NjUwdGlTV0dB?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-15T14:54:07+09:00",
+   "stocks": [
+    {
+     "name": "바이오인프라",
+     "code": "199730"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "“최대 80% 할인에 자원순환 체험까지” 대상 ‘존중 바자회’ 성료",
+   "link": "https://www.etoday.co.kr/news/view/2636238",
+   "source": "이투데이",
+   "time": "2026-10-15T14:46:00+09:00",
+   "stocks": [
+    {
+     "name": "대상",
+     "code": "001680"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "디와이씨 \"자사주 46만8573주 소각 결정…약 5.8억원 규모\"",
+   "link": "https://www.hankyung.com/article/2026101541556",
+   "source": "한국경제",
+   "time": "2026-10-15T14:42:32+09:00",
+   "stocks": [
+    {
+     "name": "디와이씨",
+     "code": "310870"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "이엠앤아이, 고창훈 대표 13만주 장내매수",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=04250886645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T14:42:14+09:00",
+   "stocks": [
+    {
+     "name": "이엠앤아이",
+     "code": "083470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "KS인더스트리, 50억원 유상증자…이메디슨에 제3자배정",
+   "link": "https://www.yna.co.kr/view/AKR20261015117000008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T14:40:38+09:00",
+   "stocks": [
+    {
+     "name": "KS인더스트리",
+     "code": "101000"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "큐로홀딩스, 81억원 유상증자…㈜크레오에스지에 제3자배정",
+   "link": "https://www.yna.co.kr/view/AKR20261015116800008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T14:40:05+09:00",
+   "stocks": [
+    {
+     "name": "큐로홀딩스",
+     "code": "051780"
+    },
+    {
+     "name": "크레오에스지",
+     "code": "040350"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "최부연 Director, 디아이티 주식 1270주 ↑…지분율 0.28%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12SmpMNUJBMVVuVk1NSC1qWXZCbFJONWdQLU1ZMllEVWFDRXVpMFM4WjViTVNaNW1ObkRFTlotdUUtTzlTNzRfcWpBcmFqTjZxNEExVFUwekpDcDE1Y3F3MXM4OUFjVlNBQk11YlhSZDNJSTg?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T14:39:29+09:00",
+   "stocks": [
+    {
+     "name": "디아이티",
+     "code": "110990"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성·SK하이닉스 급락에 반도체 ETF도 ‘비명’",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBreHZZNGlYX3lxTVM1UXViZ2RCbTI4bU1SYVVXVGdWWEFhOWVUVFdIN0dLQXBzUXhNQjJGVTJEU25MYmwzZTUyZW42VnpFNHBNNnJaMA?oc=5",
+   "source": "매일경제",
+   "time": "2026-10-15T14:37:29+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "주식회사울프, DKME 주식 17만4704주 ↑…지분율 20.25%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TMmd4alIySVNZUmdMNWNJNXdMbzZOT01pclBiRFltcnNMd0NVd2RsU3EySmhlSzVHSWYzLTZ1NDk4V0JXVlVyYjNzZ2Frd3lES3diVjBINk9Pa0JZQUJPNDgyXy16RU5pbE9RZHNXNXVSTGc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T14:34:47+09:00",
+   "stocks": [
+    {
+     "name": "DKME",
+     "code": "015590"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK이노베이션 목표가 두 달 만에 '반전'⋯\"非배터리가 살렸다\"",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zTDl1MGJjcTQySDRhN0dwd3RMV0F2UnJmRW8zeG5CZTBicEZtcHhMQ1hpbmh5b0x5WWRVeERUQXRvNHBxb1BaNg?oc=5",
+   "source": "아이뉴스24",
+   "time": "2026-10-15T14:30:55+09:00",
+   "stocks": [
+    {
+     "name": "SK이노베이션",
+     "code": "096770"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 40%대 강세…장 초반 공모가 2배 웃돌아",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VN0pnZnJ3ZHJ4NGlES0c2RDktTFNQSFVpWXc2S3dJZkxHLVFyZDYzaWV6eVRpWlh5QlVlQzRSSkRWR0RWWHh0VUNHcjBzMFZyYXc0UElXR0k3QdIBWEFVX3lxTFA3YkVHQXJHOWVzR3pnYXpZSWplYmVxOGxGbEh0cnZ0RnByZmZZdThlbHhuM2JZUnVWeU1YYnd5cExQTEMxTVp0Rlg0alNQNjBZQVFRVTRjQzg?oc=5",
+   "source": "아주경제",
+   "time": "2026-10-15T14:24:57+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "카카오게임즈, 증권사 목표가 상향에 강세…3.07%",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EX3hWTzN5ZzJucVN1Tkw4YkotdGctS2VWWHVEdHlaQ1V1SmVyMGVnaWRoRENfUnBMUmVKS3pXV0trUmd0MXR1eC1aajg3TlBVS2c?oc=5",
+   "source": "매일경제",
+   "time": "2026-10-15T14:20:44+09:00",
+   "stocks": [
+    {
+     "name": "카카오게임즈",
+     "code": "293490"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜",
+   "link": "https://view.asiae.co.kr/article/2026101514191582070",
+   "source": "아시아경제",
+   "time": "2026-10-15T14:20:03+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한국콜마, 3분기 영업익 52% 증가 전망…목표가 18만원 상향",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCTlB3RlhlQi1fYlBzcDBMQzJvZkdvWHpFZ3pjNzRKQUVKUEFyVnoxNEppc0t1NmRFOVV6RDV6aE1MT3ZwdGJyTF9qQ0FsRnlRb0tfcDV0S1lKazZxLU9aQ0o1UTdaVEZnRjZXeGN3?oc=5",
+   "source": "S저널",
+   "time": "2026-10-15T14:15:33+09:00",
+   "stocks": [
+    {
+     "name": "한국콜마",
+     "code": "161890"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "에스원, 4500억원 자사주 공개매수·소각 추진…주가 14% 급등",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91N0FMc0JjVmVvMkJWV2E5U0pFZm9SdkMxcE5ZTExQQ3NoenU5M0V1SnR5enYzdE9GcmhOTE1tNzk1MEk4NDFKTVhTVDdnaGlPZHdkNXFYWUkyVlJNZ0ZzY21fX1JfajFIbXl2NFdabw?oc=5",
+   "source": "이코노뉴스",
+   "time": "2026-10-15T14:13:20+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "SK하이닉스 연동 선물 공매도, 18분간 332만달러 늘어",
+   "link": "https://www.tokenpost.kr/news/cryptocurrency/422689",
+   "source": "토큰포스트",
+   "time": "2026-10-15T14:09:30+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "한화, 美 군함 건조사 오스탈USA 인수 협상 돌입",
+   "link": "https://www.etoday.co.kr/news/view/2636188",
+   "source": "이투데이",
+   "time": "2026-10-15T14:05:00+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "“주택은 지키고 비주택은 넓히고”⋯금호건설, 수주 영토 확장",
+   "link": "https://www.etoday.co.kr/news/view/2636171",
+   "source": "이투데이",
+   "time": "2026-10-15T14:03:00+09:00",
+   "stocks": [
+    {
+     "name": "금호건설",
+     "code": "002990"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "코스피 폭락 왜? 삼성전자·SK하이닉스 급락 뒤엔 AI 회사채 경고…반등은 언제",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wTUdOQXNqZ0tnaXJuS1JRaHRpTkFBZG14TXkybzc5UHRyakpKZ1hrNEcwQ3VCbnNjeE1iaHRDT1dqM0Z3M3pCb0gta0l6X09NZ1dxVnhZM1NXSkZFaWtjYlFjMHI1OVJfYXdmQTFhTGFYdw?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-15T14:00:56+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 라온시큐어, 코스닥 급락 속 피지컬AI 보안 과제 선정에 18.40% 껑충",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vcTJEYmw2ZVhXRjdycUNWNzBCSWppVGp1Q2RsVWlqV191ZlA2T2lfTmNhN09DaHlQZF9kQWgwRmpvOWJFbkJsS3dhcWd4VGU5ZW5za1kwajhYVm53eWpCLXJuaFI4ZGdaUUJ1ZNIBcEFVX3lxTE1qaDJHZjBWbmhFQTdHenBzUk00LUFTWWcta3BlenN5cUFZODJWOENqdkItdVdDRURsMGQ0SFlNS0phZGxKQ2Q5U3EzWGNUUWhqeHZQQmRBRVBlWkdFcDlkSWNHcEpTS2pVTlFKa0tZLXM?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T13:54:17+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 라온시큐어, 정부 ‘피지컬AI 보안’ R&D 주관사 선정에 20%대 급등",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuc2JiREgtdzdyclZOTFRBV0FZNUpQZDNqR19ZM1ZvYTFtQzVOVFU0bjEzRWtOM09HSEppbHM0VHl0U3FHN04wR0kzRVU1aUZscHBreHRYRDZRNlFkUlhfVzNZTkxZWHZ6bkYtMw?oc=5",
+   "source": "와이드경제",
+   "time": "2026-10-15T13:54:17+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "디와이씨, 자사주 46만주 소각 결정…신탁 취득 물량 50% 상회",
+   "link": "https://www.etoday.co.kr/news/view/2636199",
+   "source": "이투데이",
+   "time": "2026-10-15T13:54:00+09:00",
+   "stocks": [
+    {
+     "name": "디와이씨",
+     "code": "310870"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 에스원, 4500억 규모 자사주 소각 결정에 12%↑",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vV3Bnc3JrWFlRckY4bGZDQm9HWVBhNFdkS0FScTAxN0xmVnl1ZWpyU08tazIyOXZ5ODU2S3hxbGRMMmFmMWZzbVhJOFRCRUFiWjNiblNJZGdfdGVDT2JXUW9kREZ2MEFNZ2ExY21HTk1HSGfSAXNBVV95cUxPb1dwZ3Nya1hZUXJGOGxmQ0JvR1lQYTRXZEtBUnEwMTdMZlZ5dWVqclNPLWsyMjl2eTg1Nkt4cWxkTDJhZjFmc21YSThUQkVBYlozYm5TSWRnX3RlQ09iV1FvZERGdjBBTWdhMWNtR05NR0hn?oc=5",
+   "source": "뉴스웍스",
+   "time": "2026-10-15T13:53:44+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주]삼성바이오로직스, 3분기 실적 기대 속 5.58% 오름세…목표가 195만 원 유지",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZnlBS29mMExBZ2xJN1JjeEp5MjRHR0F5NjNad3RQczllRjZnTEY1UlVJOVROTkNvM0NLM08wczFrTzlETVFNRkJOMDU3QTAxQy1laU9xUVpRVW9Sc25LclJtcURibjJNTUQ4M9IBcEFVX3lxTFBrMnhXc0RGdW1nVjl1aFRveThzRXdBSS1md3dVV2FMVVZMZUctSGxXQVQxVG1mV2FWdUpxTVFySXh2b0pPSHh0SERnT28yR3ZSWDRIaE04ZHdRdTc5RFN0SkRqVlFpVUtmUThwbmcwdjI?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T13:50:51+09:00",
+   "stocks": [
+    {
+     "name": "삼성바이오로직스",
+     "code": "207940"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmODFzUl9saldGaUFjOFlDVkxJcGdjNFBST2MtalRCendCWUlFeXFmRU4tZjUybWpGTUdSaEM4ZGtXald4OFBCOE9mdmFhSEsyZmRZNHlZdkRXeWpXSUdsTnBZcmpYS2Q0RklrZmZMSEpFbnY2a1800gF3QVVfeXFMUGY4MXNSX2xqV0ZpQWM4WUNWTElwZ2M0UFJPYy1qVEJ6d0JZSUV5cWZFTi1mNTJtakZNR1JoQzhka1dqV3g4UEI4T2Z2YWFISzJmZFk0eVl2RFd5aldJR2xOcFlyalhLZDRGSWtmZkxISkVudjZrXzQ?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T13:34:55+09:00",
+   "stocks": [
+    {
+     "name": "엔젠바이오",
+     "code": "354200"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "뉴인텍 사흘째 상한가…시총 미달 상폐 절차 유예",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbWUtT0xPLTJJaTJ1dGhKSll0M3ZHbEx6cjNncVBlLUlvaVFudC1qSHpnSGJXV2tQRGxFZEVuVmxuX2RkZ3dSZjFVMDluZVA1VFR0N1JVUFdyTkdvd2tyNg?oc=5",
+   "source": "제주교통복지신문",
+   "time": "2026-10-15T13:23:12+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "뉴인텍 3거래일째 상한가…동전주 기준은 별도",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByd01oX01ERmQxcWQ4ZXAydWpna2VKNnRucUNlZFB1WXN1RXcxbTFmUlVxSF80QUN5UnJKM3ktRUNpcWVtaGtwOFNFZDlkejhjZGRBSFoxTXZaNVd4dkNUekp1WUwyUQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-15T13:22:59+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "(주)우신산업, 아진전자부품 주식 21만5500주 ↑…지분율 14.17%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ubXNCeDhmVDdzMVREMFF3dGRzVFFZVFU1UEJhS2JJU2xneDR2SU5jUGt4YzVlanBNNXAtRG9jRzNBajI4QlJxTFp2TEl1MXVZRjVUb1Y4NHZIb3BkSUZoYngzSnR5NFJQX1hKN0NfQ3VOX0U?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T13:18:07+09:00",
+   "stocks": [
+    {
+     "name": "아진전자부품",
+     "code": "009320"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] OCI홀딩스, 2027년 신규 고객사 매출 본격화 전망",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55bGhnY2pNQU0zemdidjNIX0tLMTJVc0QyMll2ZW4tM1RNWGcxNnVrbk5XYktpLUZwSXd0Y0p3RUcyci1mM3dWM2ZYOVR1eUVtanNGMWVDTERXSEVBZURJbWRQY3pqcFo5Rnc?oc=5",
+   "source": "뉴스티앤티",
+   "time": "2026-10-15T13:14:31+09:00",
+   "stocks": [
+    {
+     "name": "OCI홀딩스",
+     "code": "010060"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[마켓줌인] 미국 에너지 인프라 투자 기대감에...대양금속 상한가 등 철강株 ‘강세’",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IWk8yTjFPYUlBaUlybW5xZW9BRGp6SHdRRFBPbWtZbDZWWnlrY184YzlNV0MxVWhPWUV5WVVkZGVEOFkybjFIZjFaV3NNa0NuR3J2c1VsNHcwakZNZGRpOUk5MWdDN2VkbkVmejFrQdIBb0FVX3lxTE1IWk8yTjFPYUlBaUlybW5xZW9BRGp6SHdRRFBPbWtZbDZWWnlrY184YzlNV0MxVWhPWUV5WVVkZGVEOFkybjFIZjFaV3NNa0NuR3J2c1VsNHcwakZNZGRpOUk5MWdDN2VkbkVmejFrQQ?oc=5",
+   "source": "투데이신문",
+   "time": "2026-10-15T13:00:40+09:00",
+   "stocks": [
+    {
+     "name": "대양금속",
+     "code": "009190"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "하이퍼코퍼레이션 3거래일 연속 상한가…110억 유증 결정",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sVm1MWnlkVzBudmhLZWlMcVJwSXJnbGxHZ014RGxMaG52c2haS1I1NWM0NG45eEtaeEtielFoYmVaSG9lNzlabUJoU21Gb0hMR1g2eVFXODZ3ekdHSmx2NmNOTmM5dw?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-15T12:49:12+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "코스닥 8% 폭락에 서킷브레이커…20분 거래 중단(상보)",
+   "link": "https://view.asiae.co.kr/article/2026101512365111295",
+   "source": "아시아경제",
+   "time": "2026-10-15T12:36:52+09:00",
+   "stocks": [
+    {
+     "name": "상보",
+     "code": "027580"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성바이오로직스 주가 상승 \"3분기 실적 시장 기대 부합\"",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeFgwR2pobUNCWnNxQThDcVhBS2xfNk9wMXRxVTdBby1qcFBncDJ6VFQ3ci1RV2MtOU9uQWVWLXhWaFFlRExOZ3FiVG1tS3pXY1VMQWhqU0Zfa3VNTF9QZThOa1pCTnRWZGlRSmdR?oc=5",
+   "source": "국제뉴스",
+   "time": "2026-10-15T12:36:05+09:00",
+   "stocks": [
+    {
+     "name": "삼성바이오로직스",
+     "code": "207940"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자 팔고 '이 종목' 샀다...급락장서 초고수들의 선택은",
+   "link": "https://www.hankyung.com/article/202610153772i",
+   "source": "한국경제",
+   "time": "2026-10-15T12:28:49+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "하이퍼코퍼레이션, 110억 유증 후 3거래일째 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fSTk0R3dRVHIwMWJGclhTVkdabkVCbHBpajhMU0tjQjBMb1Q4T1NQV2dFa3Q1WUx4NTZaT2NqRUZMNVJ0ekJrMVIwSHlSU092Z3h0QXg2V0ZhNllQakVEMA?oc=5",
+   "source": "제주교통복지신문",
+   "time": "2026-10-15T12:15:03+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVd4UlcyOERaZC1leldsOGJPU1hRTmR5UU5RS2YtRXlfVkRYOGhMYTBCckVEU0tmZlZVRzZWdXNHSUlhZnQ1cnlTN2p5U1NWQzIwNXVqSFlBLVA0VnVNek9tV3RYYWNiQm1wUGtnRnJzOERQTnppUDJweXd0Z3hkdWtCNA?oc=5",
+   "source": "인베스트조선",
+   "time": "2026-10-15T11:59:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "증권사, 한화솔루션 목표가 4만1000원 하향…투자의견은 '매수' 상향",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcDBQbDhQN3duQnNBMVBCWjdHOHZQRmVZTnNoTHR0bC1QaXdxTUowejZDTW5ESU5aWmRsTDV3RWJQeHNtTFMzRHc0OWJ4RlI3VjN2dWNuM29XcXlET1JPd1U2TFY4TEFiWTNBcg?oc=5",
+   "source": "센머니",
+   "time": "2026-10-15T11:54:00+09:00",
+   "stocks": [
+    {
+     "name": "한화솔루션",
+     "code": "009830"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "고기영 대표이사, 금비 주식 55주 ↑…지분율 11.89%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZXdOd0ltOHRHTF9CLWhyUDFYZTdKeDk4NExnS2JuNjBmcUVuYmE5S1BGZGVVYllmdXMzNVg1dlJVb0psd2dqNElocG9IcFRhUkNwQkwwZjdweVMxVG5KbnRoNGFzZUU5ZzRhZWh0TUttZkE?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T11:48:07+09:00",
+   "stocks": [
+    {
+     "name": "금비",
+     "code": "008870"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "하이퍼코퍼레이션 주가 ‘상한가’...110억 규모 유상증자 결정",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ySGRfQTFUQ1FhSXNFNlBnbE04azlFLThpZEdKbTFmNkN6b1ZuSDFCVE1qUC1DX3I0MlhyYVlKQzBkcmZuZXI4QkxSalZuTjE3MWN4cHBiZk1sa0NyQVRXdk5xSl82Rm8yNUlmYjJ3?oc=5",
+   "source": "국제뉴스",
+   "time": "2026-10-15T11:45:37+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 외국인, 삼성전자·SK하이닉스 '팔자'…기관은 '사자'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41clFMUE1hT3JnMHF6Z1pjaHB2NjVhb2h6WXJicEdWWlhaeHRBa2NzWmE5OG1rVjN6TDBud3M0eklZbjVLb2w0Z012Q3E2U3JEVkR2ZFhjZExkNFUwcThpV09GTVZMQ2xkMkE?oc=5",
+   "source": "뉴스티앤티",
+   "time": "2026-10-15T11:32:34+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "대한전선, 미국서 대규모 수주…영국 현장엔 외통위원 방문(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261015033151003",
+   "source": "연합뉴스",
+   "time": "2026-10-15T11:29:49+09:00",
+   "stocks": [
+    {
+     "name": "대한전선",
+     "code": "001440"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[ET특징주] 치매약 '키순라' 국내 허가 기대감… 듀켐바이오 주가 21%↑",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DU1NqQjJHWXowdVVhM1oxTEM1QU9jMzZ0cnpUU3pNMm9nSkNiMFR3Yy1faF81WWpwQ015MllNMzQ5U0ZPSEZ5YjNHR29Mdw?oc=5",
+   "source": "전자신문",
+   "time": "2026-10-15T11:25:49+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "에스엠벡셀 주가 급등…저궤도 위성 배터리 기술 확보",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3ZGhnem5BcUY5VTlOVTNza09MUy1feHBfUzlVdlNzakpoakhHdkI1Q2xvRnk3VEplcnlYTnpTbFpLRkUzUWo5TldPcVpFQTNUR3c5cG5JYlphTF9nYmZQUg?oc=5",
+   "source": "제주교통복지신문",
+   "time": "2026-10-15T11:23:06+09:00",
+   "stocks": [
+    {
+     "name": "에스엠벡셀",
+     "code": "010580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[투데이’s 특징주] 반도체 공정 기업 멜콘, 코스닥 상장 첫날 77%대 ‘강세’ By 투데이코리아",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ySVhoNTFGMzZ0clNGX0QyV2xNeE9EVnMzZmhaSVlXbDlJak53OW9wcDd0Ym85bHl6QVJTcE1keElsUTAzcVljX0pBaEdzWHJmd0VtdWZUYTI4UVVuV3pBTDNfa2h1cGF5bThlcmVvdVU?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-15T11:23:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK하이닉스 주가 장중 10%대 급락, '매크로 악재·AI 수익성 우려'에 삼성전자도 9%대 내려",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XMFFXOWlmenpzUzBaU3dyLW1KQ3NiTldSbDdvaFdSc1NaMktZOXliRFQwMExZbkRjOUMzY1gwX0d5RG5TV1A1NUJINFdjTXc0SkloeWpUM3dIWGRmV3lQQng0cWtsYUdfQVc1N3d3WTV0TjQ?oc=5",
+   "source": "비즈니스포스트",
+   "time": "2026-10-15T11:22:45+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 80%대 '급등'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4UXFHMl9YWUoxRnJvTThOTnJlVW9ZYmhVaV9zWE5FVnRCX295WDBnbWtnMFlOX3cwdzBhUzZVQW9TcGdOR0s1WGxueEo4N19va3RiM1dyZXhsdWpDMFV2c0JNbEg0dXRHRUE?oc=5",
+   "source": "컨슈머타임스",
+   "time": "2026-10-15T11:21:54+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전자 주가 급락에도 KB증권 'W자 반등' 전망 : 한국증시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JWXQ2MzJfVm40MV9vYjNoaHBQbkk3QTk1ZFRRSTNyLV9MYm1VYm5UV1huZWRVbEdfcU14QndnVGYxV2VJNU03bFYwWQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T11:20:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 데뷔 첫날 강세…\"하반기 실적성장 본격화\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSaXoyVTlPM2VneWhHRV84Q0dfaE1KTFpVa05kODJGQW9hSWJMZGpwNmV3OWpuMDltcXRtY1d5cEVSQW5OTWo1Ry1OdHZNUkNLXzYzZWdRYmRIMkZSQ2lDTUd2WjVtV0lSTFU4LVNHUks?oc=5",
+   "source": "비즈트리뷴",
+   "time": "2026-10-15T11:18:16+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] LG에너지솔루션·LG디스플레이, 75억원대 배임 혐의…내부통제 도마",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNk9BWHZXWTNXX3Btc2NBZVNjRjF5SjVMQnVIak9pa3RUYnc4My1PaDZ1UUtIY25HRUtmR0NlVnNsZDlIek5jMlZJZzlocjNpVUNxYWUxTUQwMUhsdmpsMzRSQlEzWEw3YUJjd2xfTWI?oc=5",
+   "source": "비즈트리뷴",
+   "time": "2026-10-15T11:18:00+09:00",
+   "stocks": [
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    },
+    {
+     "name": "LG디스플레이",
+     "code": "034220"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[1015시황레이더] LG화학, 양극재 부문 실질적 실적 회복 지연 및 자회사와의 사업 연계 부족 분석 등",
+   "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218411",
+   "source": "인포스탁데일리",
+   "time": "2026-10-15T11:17:52+09:00",
+   "stocks": [
+    {
+     "name": "LG화학",
+     "code": "051910"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "유니온바이오메트릭스 대표, 자사주 4만주 매수…역대급 수주 이어 ‘책임경영 강화’",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=03535846645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T11:15:48+09:00",
+   "stocks": [
+    {
+     "name": "유니온바이오메트릭스",
+     "code": "203450"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 삼성전기, 美 물가 충격·AI 수익성 우려에 15%대 급락",
+   "link": "https://www.etoday.co.kr/news/view/2636135",
+   "source": "이투데이",
+   "time": "2026-10-15T11:15:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "SK하이닉스 주가 10% 급락…美 반도체주도 동반 약세 : 한국증시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9peUk4dUNHSXJqRzVXdkY3eEhwQzdGOWU5RzFQakZUOEtUZ1VqRDRqQmdtczJhUzkxV040clFabEIzTVJ3U1o0eTI5WQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T11:15:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 +75%대 급등",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wdmhsY0RUNDcxQ25qRjlGY1VJVHBwQ0pLLWxuaXFZSDMwTndwSjdKUmk4OTdWNV9XYmtZaUFnRFFHUGE5c2s2UWhQbnc1UlJ3dEQyWUdNQ3NfdjhQZ1ZoUmxIaGJwZ2VUWWNLWDJn?oc=5",
+   "source": "전국매일신문",
+   "time": "2026-10-15T11:12:33+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[ET특징주] 하이퍼코퍼레이션, 110억 유증 · 최대주주 교체… 사흘째 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQndKNnRGbGFkUklCU05GMXZlMFQyMjRxbTRRdzRTaE9VZk11LS1uYzNlSzhTUC0xS1JPZEh2VEdwUmZ1QXl6QWgzdTI5Zw?oc=5",
+   "source": "전자신문",
+   "time": "2026-10-15T11:10:00+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "더현대 서울에 달 탐사 로봇 떴다…현대백화점, 우주 테마 팝업",
+   "link": "https://www.etoday.co.kr/news/view/2636131",
+   "source": "이투데이",
+   "time": "2026-10-15T11:08:00+09:00",
+   "stocks": [
+    {
+     "name": "현대백화점",
+     "code": "069960"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전자 주가, 오늘 9.2% 급락한 이유는?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPV2RURmc5OTVGU3hjc25lNkY2WFFnLWxmTnhyZU82S185aU9PUDA0aEc0aG54VHhWLUdURkVDNmZXUE0yOFJoS2xxZS1zSnQ1TXNQVUVvc2xIVU5sR1FqQWZMbnBveS01WlhfT0lUbFNoNFNPdWhr?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-15T11:06:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "SK하이닉스 주가, 오늘 왜 급락했나?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PV05VSFN3YUgwMmpxeVA0Z2pFbGY5T0x1SnVxVk1GYjhKMjVSYkVGbjBPdjNIY21nUFduTG41OF9xb0s0M2d6cTN3S3hFdU9NUmszZ0tVLXVpbFdaMDlIT0VUdGpmSWZxaEp4SXdUckZudVZ4cG5R?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-15T11:06:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]카카오게임즈, '기업가치 정상화를 위한 모든 변화 시작 ' 목표가 12,000원 - 한화투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12ZUtsRGVWNTNnWFE2SmhuYVM4WEdTZlJNM3VWVG1rbS04cHd3YVlxcVZtRkxkdl9pTXJYVGxGQVNuZzNrQ2hZQTFadi1LLVpxaUlWd09PdW1fUC0t?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T11:03:00+09:00",
+   "stocks": [
+    {
+     "name": "카카오게임즈",
+     "code": "293490"
+    },
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "천일고속 주가 전일 상한가 이어 12% 이상 급등…고속버스터미널 재개발 테마 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IT1hmY0tBcnlKR3FVaVVVVUpqSFY3cndmNFlUNjFKYmRYZ3lXUHZ6M3BmY25LNVZPeklZcWFsZzdORms3ajBFU1V2bERJaWVuOHRhYmNwRTNuQjVuTmtVMEtHRTFVTkp5?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T11:00:58+09:00",
+   "stocks": [
+    {
+     "name": "천일고속",
+     "code": "000650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한미약품, 비만약 ‘에페’ 가격 공개 후 7%대 급락",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tYmlJSDNWVkhCZ3pYSUV1VHNua2o3VmJqRzktc21iSmxZZjFPdFNwWEZBZUxueGJDeDBINVBpckF0RS1HV0JuYU5JLUFaQWtBNTNLbTJNUk1Qdw?oc=5",
+   "source": "한국경제",
+   "time": "2026-10-15T11:00:04+09:00",
+   "stocks": [
+    {
+     "name": "한미약품",
+     "code": "128940"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "SK이노베이션 주가 2.63% 하락…IBK투자증권 목표가 21만원 상향, 윤활기유 공급망 경쟁력 주목",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWm15R044ekc4NmNDSWN6Qng2Q2IyWlVWS1pZdjYzYVZ3VzRvc2lHQ1dXSGxMNG9UY0JsbWZtb0FabWZvRk9lTmZrVVJVZURicVBrejM1N3VCOTNGMlNsektuZFc3Yzg?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:59:09+09:00",
+   "stocks": [
+    {
+     "name": "SK이노베이션",
+     "code": "096770"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "한화엔진 주가 7% 급락, 3만7050원…SK증권 목표가 낮췄지만 육상발전 엔진 성장 기대",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aZ2xQVmpVcXNjX0xORGxZLUh6ZXlZSlB3eU1FRUs2SXd2Y1JwRmsxTTRCRkI5dlF3T2UwN0g4XzdlYXNDRUo3el85MjdWWlBBVWtnQlhKLUhxeG54SXlUZFVCWEVmMW43?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:58:24+09:00",
+   "stocks": [
+    {
+     "name": "한화엔진",
+     "code": "082740"
+    },
+    {
+     "name": "SK증권",
+     "code": "001510"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "삼천당제약 주가 6.99% 급락…19만1600원으로 밀려, 반려동물 구강보조제 유통 확대 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NU1R6NlhKcXM1LUE5b2VsWkVEZHYyTTVpU3hKNFYzQV81MWk1LWpzTks2bV90RlJMVFlQeWZpeVlFbzlWRDdGWkh0Sm1GQTJZUS1ONXkyOGpELVY3S0t4ZTE5Rl84Z0Y0?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:57:33+09:00",
+   "stocks": [
+    {
+     "name": "삼천당제약",
+     "code": "000250"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "신라섬유 주가 상한가 찍고 이탈…8일·13일 상한가 이어 15일 11%대 상승",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZFRMRWE2LUVFcWZibTZNd0JjLUdwbEZMdGpPczVEbV9SM0ZSTUQwS0wyaDBvVDBFRG9jRzhabnF0RDRuWW9pc2R3OXc2ZUdkRmREa1NnN0M4aFRMQ0hyMHl0Nnd6aWtl?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:56:07+09:00",
+   "stocks": [
+    {
+     "name": "신라섬유",
+     "code": "001000"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "바이오인프라 5거래일·뉴인텍 3거래일 연속 상한가…에이엔피·하이퍼코퍼레이션도 가격제한폭 도달",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zNmYwWERfMGpfVHFTMnU1RUQ1cllFWW0xRWdNYkFTYUtCVnhOVHJ3LUtKZ1oyYk5INlRhLXZIRWVncTBlSE83by05bm1VZ2pPbGk3SUF0REJoajlLaTAzUllFUDZYeHRf?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:55:16+09:00",
+   "stocks": [
+    {
+     "name": "바이오인프라",
+     "code": "199730"
+    },
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    },
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    },
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "홍승표 CSO, S-Oil 주식 1000주 ↓…지분율 0.00%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51eDl3MFM1X1FDbS1qLU5oQkhkRnlfZU5tYzMwdUY2VnZqY25FRDFLSmRQY2k1N0ZuaUc0NWF4MlhsbENmbEE3ajBvZlZKSUw4X2xmNDNxN05HLXNWMDNlLU9wTVhhbEtlTi04RkZvU2JLSVE?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T10:52:53+09:00",
+   "stocks": [
+    {
+     "name": "S-Oil",
+     "code": "010950"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전기, 장중 14% 급락…118만원대로 추락 [특징주]",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR1U1bkUtZDBfVHFMMVM4dnVabGtFU3VDNHdyb0JsbWJGNFhZbTVvdG94djcxYXRjM2VtS0ZCR3VBSUNYVWU0OVkyN2FCZ29XeExhVmNkT20wVkZHQThLRkcwWTY4ODQzaDM2eG93d05xM2xtQTlKQlhSVHl5S1VQLTNHLVdVd1pfdC1HLUNkRTB1WWpISmFqYVBoMUpOQkRPbnRMMzJnVjdyUmtQemlDZE91RTRiV1NxZ0cwa04yUEdhTkVaUVdtZW8yNmRQY1VvRmY3M0Uwc2JHMnBvMzR3THpQM04xWW1qNHd2QlgxV2R3cTRWMW5BNQ?oc=5",
+   "source": "데일리안",
+   "time": "2026-10-15T10:48:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "미래에셋생명, 뚜렷한 공시 부재 속 장중 5%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xTTRuSF9YVkxXYU1VWmZVUTVxNUNJdy1mZERFUjJpaERzNDBvUUM3V1NHemFhSDBPenl6Rmt0cVRDUThvY3h1M3dwNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:47:00+09:00",
+   "stocks": [
+    {
+     "name": "미래에셋생명",
+     "code": "085620"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] GS건설, 뚜렷한 악재 공시 없이 장중 4.70% 하락 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tNU1YZEhRb3FKR3N0SkZvdmtrMjgyejVhbHJDUVJsUFVSNVN4QWZtQkdaUUlXY2Zsem93ZFJLR0dzTmh0MExfMDdaZw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:46:00+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]산일전기, '멀리 볼수록 저평가' 목표가 270,000원 - 미래에셋증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jY2NoUVdfN3Y5czZpQ1kwYzJEQmxUVTNsbWN2MFJlXzVKeVVsYXNqSllRYmtkQXFLY3ROTWZvUEppcnZjMEtoOXd0VU5YYUI5QWhUTklid0JmMlVw?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:45:00+09:00",
+   "stocks": [
+    {
+     "name": "산일전기",
+     "code": "062040"
+    },
+    {
+     "name": "미래에셋증권",
+     "code": "006800"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] CJ제일제당, 뚜렷한 공시 없이 장중 소폭 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CdnZPM1A2LVhOWWttWmRVTEdZVkd1UTkwck1xRm9vNUx0S1JBQlozTEsxY0lvaGlFbC1zcGJuNWg1QnI0M255OXNkcw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:44:00+09:00",
+   "stocks": [
+    {
+     "name": "CJ제일제당",
+     "code": "097950"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 한미사이언스, 뚜렷한 공시 없이 장중 2%대 하락세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HZzVmdFE0TVpNQ2M5OUJkZmhNWmlQZEM2TmZnckhPMmF2b0JqVFB6SzhxR2xRQ0JfUWxnaU1SaWxQS3dtUjhkWlJYRQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:42:00+09:00",
+   "stocks": [
+    {
+     "name": "한미사이언스",
+     "code": "008930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "삼성전자, 최근 주가 하락은 과도...창신메모리 기술격차 최대 7년",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGVjUwdmxLQVFxeEJtVzdGaVp6T2hHWkxsbFBTeHdOa0cwa1F2d0FLNmlJcHZPS1lYXzN6UXN2Vk84NTZQRjAwa280MXN0RWJzcFY3Ni1ibVZXa1VkdldfWQ?oc=5",
+   "source": "증권일보",
+   "time": "2026-10-15T10:40:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[투데이's 특징주] 반도체 공정 기업 멜콘, 코스닥 상장 첫날 77%대 ‘강세’",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PQy1zaFl0Z29BM1kwTHI5VzlVSGZrUGJNRjRRbEVhaGwyYm9VT2s4MHprSjJzaWlEbWw5dkhuR3dVWmZFaERvS3VDd05ZaWVmeXVWbVctcUdjaEY2LU5tU05YTEw1VTJibmR1aGd2a1I?oc=5",
+   "source": "투데이코리아",
+   "time": "2026-10-15T10:34:20+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[속보] 하이퍼코퍼레이션 주가 3거래일 연속 상한가…15일 750원 도약, 유상증자 소식 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ZGJIUzFndmowYmRSQU9kN3dGMl9ieGhmR3pvQnZraVJWc0taQVRxZ1pGdTJMQThwY0szSkNxZ19fa3JaeEJJZ2hNamF5ajE1UVhNamtoRDZrUFdMMEtvaWlzQmU2TmZ3?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:33:43+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자우 줍줍…삼성전기는 던졌다 [주식 초고수는 지금]",
+   "link": "https://www.mk.co.kr/news/stock/12176502",
+   "source": "매일경제",
+   "time": "2026-10-15T10:33:12+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주]에스엠벡셀, 저궤도 위성용 배터리 기술 확보에 18.35% 올라…2900Wh급 팩 시험 통과",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zZFVXSDM0VHNwMW9zNkQwLVlyTkNnS1czeHBRS2ltcE1SWjhZWkFrNUNzWThsRGNlRks4SkdZUURFNTQ3V0ZuVVYzSGtCSWU3dnMxbXJNV2dWbFE3a09VZkxoaXhKR0dTdDhIWNIBcEFVX3lxTE84YXh0V2UyVktWT2lJelA0VnpKMEstaG0tUVZBa1ZYZnVseGZEek5zcjAxR3J2OGJfWXphQmZxeVFSbTBJeXJ0MW9JLU1VVGNXRlFJdGQ4cE82b1hFSFJVeWdjeWY3UHZtOWdRTENMa0Q?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T10:32:33+09:00",
+   "stocks": [
+    {
+     "name": "에스엠벡셀",
+     "code": "010580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "부동산 자산주 약세 속 천일고속 16% 급등…무슨 일?",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JMEpsUXBBT2RRNFVqYWcyX2ljdUtqT010OExhaXNYeGJVeHpvUUE1V0IxTldOa3ZzbEJ1UXhHYklpVzBxdXBvQi1BSGRralhJNTF2YXlDRDIyZkZEYmFTTHA4Q0xZaDlQa2M5WmdFYUFBWlXSAXdBVV95cUxPY3lTZXNYMnNtaEliVlFNdUhYZ2NhUzN4MGtvRVhjT2ZIZkdYNGs0ZjVYUWdQUWEzelB0dFBnQ3JZenVucEhsbEFQTmVrcF9EcXdfN1kwdVRMRGMwaFBLdWVxa1ZaNThacG5yQThZTWVPaGVEa0JvWQ?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T10:30:44+09:00",
+   "stocks": [
+    {
+     "name": "천일고속",
+     "code": "000650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "대한광통신·RFHIC·한미반도체 등 주가 급락…기술주 동반 약세, 미국 PPI에 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wYjA0REt5SVJvRlVlMG9veHJuQWZjZHNUajlBc0gxeWN1Z1BnUlJtbVhJWjVKVGdCeUp0SGlFY2V4OGYybThWdV9aTXpGWjMxOGE1bFNjWkxESm1KMjZZclFRdHdJQ1I1?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:28:49+09:00",
+   "stocks": [
+    {
+     "name": "대한광통신",
+     "code": "010170"
+    },
+    {
+     "name": "RFHIC",
+     "code": "218410"
+    },
+    {
+     "name": "한미반도체",
+     "code": "042700"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "코스피·코스닥 동반 급락…SK하이닉스 폭락 속 증시 휘청 > 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9va09Hc3ZiWUZvR3pxQnVia1ZJVDljYWhheDdNRVNSa21LY3E1WGVUcHNmVWVNMzBHakF4dHVrOTNpNGsycWZsdC1yWXdyNHgzRUl0X2RQdTktQ05WUmZKLWp6Y1d5Y3RxWFQ3NQ?oc=5",
+   "source": "지데일리",
+   "time": "2026-10-15T10:28:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "효성중공업, 실적 부진 우려에 장 초반 13% 대 급락",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nLVBsVG9HRzN1TW5xTWhMRm0zbVNtZTVDLTQzN2Z6aUYxSVdCZFhpTWw3V3lISGpaQ1QyNHlHenIxS1l4enhrQUhwRVZTbktCZ3lkMWM3QVpwX3o3czhaNE14eldjeTkw?oc=5",
+   "source": "https://www.2news.co.kr/",
+   "time": "2026-10-15T10:26:00+09:00",
+   "stocks": [
+    {
+     "name": "효성중공업",
+     "code": "298040"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 듀켐바이오, 치매치료제 국내 허가 기대감에 19% 급등",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bVhaeFdCcmt6Smd3VkgtREJ0UnJ0NUNnZHFhSjB6ejVQeENPdG1CQ01ZWEpCZ3hLby1Tc292bnlTek1PXzg2TmtPMy1sZnV2d2ROMDBoMUFzTkhQdzJ6Qmctdk1POXlwMURuMNIBcEFVX3lxTE1qQXgyT0o1YldmOW9YQS1rcV9lSVFiTmJrb1pwU1JRLVk3YmVtUGZCZW1QeF9zUHVvV3RjQ0JTMERyMG1wMUxLb1dxU0VuOHFyMkRULXdvU1VCWXRyMjdpVHF0dGN6Q2E5VkVVQkFwang?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T10:25:00+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "강원도·사조씨푸드, 동해안 참다랑어 상생협력 MOU",
+   "link": "https://www.yna.co.kr/view/AKR20261015059500062",
+   "source": "연합뉴스",
+   "time": "2026-10-15T10:24:28+09:00",
+   "stocks": [
+    {
+     "name": "사조씨푸드",
+     "code": "014710"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]KT&G, '이번에도 호실적' 목표가 250,000원 - 다올투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5WF9FYzNwMDI1WTZrcEFaR2tiVlBFT3ZPN1ZhbHlZQTlLYXZqSDQyT0tfRGVBenB6UWNRRlBPc0N6UWZ5VUI3Rnc0MXlENEttakpFZ0xBX1UzV29l?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:24:00+09:00",
+   "stocks": [
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "에스엠벡셀 주가 급등...저궤도 위성용 배터리 제조 기술 확보",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rODB0MXYzbTVyQjZYR1lQZFl2UTVxNWFxVTNndkx2LVVSZFRHMmd6QThkSUpVR1ZkWnRLMkNhS0Q5N3FLRHVKanpaeEM4bUhvVWJsT0xqQjltUllvSVk5OVJGbk9qcVFoczFQVmh3?oc=5",
+   "source": "국제뉴스",
+   "time": "2026-10-15T10:23:07+09:00",
+   "stocks": [
+    {
+     "name": "에스엠벡셀",
+     "code": "010580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 에스엠벡셀, 위성용 배터리 기술 확보에 이틀째 '급등'",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wVF95d0h3U0RzUVp3NTMxOEFZME0yMGt2NUtSbzU2SXBLSDctTXBDZ1BzTTFZNlppM3dDaGV3MC1qemJDSGFmdE1xOTI2cWhkeUF4VlcyQWNVY1ls?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:23:00+09:00",
+   "stocks": [
+    {
+     "name": "에스엠벡셀",
+     "code": "010580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "(주)제이플래닝, 포커스에이아이 주식 77만4293주 ↑…지분율 13.05%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVVFpeTVfNTNsaFRqZHdjR0VlczNWbkQzYkZSWFZsVE9JTDdub3ZWdGpqdW4tZU5lR281dWRqTHR6MlJPRVBITmhMckZpSDV5SHdkMk5ZRkJxU0pVSzVGOHQ4ZzBob3dobGdPOENZTTJMalk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T10:21:07+09:00",
+   "stocks": [
+    {
+     "name": "포커스에이아이",
+     "code": "331380"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 진코스텍, 코스닥 이전상장 첫날.. 17%대 '급락'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVFwVldNRVJQbjRxN2lWSlMxOWNWaDNzbmVkV1pZNGs0MkFBVU1lWW9tTmxXaUc0VF9aNHEzR2d6ZmpHakMtaXRzRUxVemt3UjVSQk9KTkozbS0wcVdpOE45MU5KdGhaN2owd1lMdXljbEVuVnBJVkhGUkFRSHh4MGQ2MHRkU2hz?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-15T10:20:57+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 뉴인텍, 3거래일 연속 상한가…상폐 절차 유예에 관련株 강세",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wR3RodUQwVnZuS1ZYanNlaG1ISVBJTGVna1RYakJhcHkwZE1aWXlQbGFLc0RxekdVWjlEX1JfM25PNDk1dU5VM1FUTURFTGZudmF5S0VSTV96bnZM?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:20:00+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 삼성전자우, 특별한 공시 없이 장중 9%대 급락세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EUUpCck5VNGRGRDV5SlVRMENCSVJ6N2JVTFhrX3FYRE9teUFSRjcwMHQ0U1cwUk5FRFRHRnk5ZUVxWFBSOEdYNXRlVQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:20:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMENXVzhKbzdKMUc2WFdsaEYtWG5pWnhPajFMUU9abEp3QzVJZUlwNGNWcWdIZUxLeldON3UxaWlyUmpzeDJaMlpiSGF1c1Q3RGk2Q040SEd3bUZiNWhGZTg0NS1GWGh0SFdNUdIBcEFVX3lxTE1UTWp2SlUtT3FURVphTERpMzNvM0J5TVRRUjg4bWJ3Mk9lVXpIbUFsZnhwYVZiTnpmNFZXbmFyUDBBWW5paG9LLUl6QThBRkJtSFAxa2RnQlhpVGNsUTlUdjJFcC1kNUVDOGd2UWd6eVk?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T10:18:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[속보] HLB 주가 4만원대 흔들…HLB바이오스텝 11% 급락, 계열 종목 동반 약세",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uNV9wbnRxdVA2NDJncF9UZ2RtZmNVR1o4SlVXNVpISVhOcElIN21lWDhFT2lJaW8zMlZiZFBxMnFXNFQwM2pydGJ4N2JGMERIOVcwU1BWNGU0Sms5dm01Q2FteVVGOUcx?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:17:20+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
+    },
+    {
+     "name": "HLB바이오스텝",
+     "code": "278650"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 반도체 환경제어 멜콘, 코스닥 첫날.. 69%대 '강세'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmJscE9FYzBzaEVmOE9CdE9mRnFmdEZzZTNPR1FhNkZKNlloY2V1NmQ5SGdvR1JISzdDTkpfY1FVUnp4bzBEcTlHZXlxV2hheUNrMG42ZHVNajJIdlQ3REEyY2dkZ1VZR0xHUW1KTU92LU85c0xMUWZlWUhTQjJQX210VmxxOEw3?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-15T10:14:13+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "美물가쇼크·AI기업부채 우려에 SK하이닉스 장중 10% 급락…도로 120만닉스로",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zRFJuT2U3bG8xRVQxemlnTkhkbFZtNHZWQ2NtYVRKeHhraW43eUZJSVg5TS0yZTVzX29ZOTRpVXRIWXduVl9VeFVsd3haSnRxOW1FODZXNmJSbDdkdlRRS9IBeEFVX3lxTE9pUngxLWxQWjFhOTRMUy1mcExQbmJqQTU5dlJ3Rm1POHE2RDM0Zi1CM2lUZnNxZFFXYVFETHVzWU9VYmFySEVsWUd0M3JqM1Fneks1WnFlYjR1cC1iMjZyTXRleUhBd1BkYUFUc3YwNXl6OUNGT2RpcA?oc=5",
+   "source": "뉴시스",
+   "time": "2026-10-15T10:08:23+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "두산에너빌리티 주가 7%대 급락…6만4200원으로 밀려",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrZncwZFRjNDdLN3c1bUpvRWhTc1RZVkdRc0lRNHljTENFa1RTeXZzZGxxNFRyNERHMEJYeUdmSzJZTGNsQVpyV1Rva0JEVk5DYUlId09kaGFqakNZd21MT25UdTAwSVQ3?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-15T10:07:14+09:00",
+   "stocks": [
+    {
+     "name": "두산에너빌리티",
+     "code": "034020"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "(주)지본, 파루 주식 20만3263주 ↑…지분율 24.00%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1NGl5cHFlOTNPT0EwdUo5c0MtaEVJbm93QktKcnZRQmFJaVBxWWpqcm5CM29DbG5PV2NaYlRXeC01RDBwTEZmV3dlRF80Y1piZUhYYUhsRDhQenVONVZpdmhxelR1M1hnanBhWlJzUnJ5UQ?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T10:05:42+09:00",
+   "stocks": [
+    {
+     "name": "파루",
+     "code": "043200"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]엘앤에프, '환율과 리튬가로 3분기 적자전환' 목표가 100,000원 - LS증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQXlza2FaRTNLeU9rQUh2YWQ2LUpadzlwWHFUQ3FlOFExTmtyYXJSUkU3Z24yeE54MWNFMFY3WC1rWFJoUElZdV9yY0g1dXozZmNKZ0pGZGpmMW5x?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:05:00+09:00",
+   "stocks": [
+    {
+     "name": "엘앤에프",
+     "code": "066970"
+    },
+    {
+     "name": "LS증권",
+     "code": "078020"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 멜콘, 상장 첫날 74% 급등…진코스텍은 19%대 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Tc0plS1l4RTJqR19PcHBlTjBBY08yUVB5b2N5Q0s1dXY5WmYyeEF3MFJQWGhJNzdrX1ZRWk0yNFhvcFEycVhZd2dDWkRseVlMb181SjNIQ3dGYXFPd0tXOA?oc=5",
+   "source": "메트로신문",
+   "time": "2026-10-15T10:04:25+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    },
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 입성 첫날 두자릿수 급등",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Na1lHQlE5UmY5eDJLWjUyeVpxZ3Jsb243SnVfVEFFbzdTSklEQVhmaVJBSENmY3E5VkpKZk9lQlJuU0VpVUFNUkJOc08yR1M1ai1fSUlQY2pFaVU?oc=5",
+   "source": "에너지경제신문",
+   "time": "2026-10-15T10:00:02+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 효성중공업, \"건설 부문 부진\".. 12%대 '급락'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3pGV0dKNzZvSkRPRWlqeEtnYjkxZ3VHR3YzRkUwemxSOEhWT09INnI4VzJuR0N2YlRqQTBBYnJTYkNGajgyTHBQOXo1cjYtRFB1czNpQjZ0eFk3YmxzUDQ4OEctcnJwQVBKRktmM2twVkNOTDl1TlNPQ3RCNjd2ZnFWUVI3R2Vn?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-15T09:58:21+09:00",
+   "stocks": [
+    {
+     "name": "효성중공업",
+     "code": "298040"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "한솔제지, 산업부 AI팩토리 구축 지원사업 선정",
+   "link": "https://www.yna.co.kr/view/AKR20261015042700003",
+   "source": "연합뉴스",
+   "time": "2026-10-15T09:57:02+09:00",
+   "stocks": [
+    {
+     "name": "한솔제지",
+     "code": "213500"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 하이퍼코퍼레이션, 100억 유상증자로 최대주주 교체… ‘상한가’",
+   "link": "https://biz.chosun.com/stock/2026/10/15/TZIDOVSRFRCY7BE47YK635O3Z4/",
+   "source": "조선비즈",
+   "time": "2026-10-15T09:56:31+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 하이퍼코퍼레이션, 100억 유상증자로 최대주주 교체… ‘상한가’ - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05bGc2Y3RpMVR0ZVFBejBobVZvSnJPYkR0dWFNREIzWElRdXJ0YVV2U3dJUjFYTFpKcm4zSnowdVp1X0RUdE5fUm02d0tObnVSMTJBR2JMeGpZWHFNNTkycUtTN2lmZS0xMHU4dDh4amlCVkdiQ2fSAYoBQVVfeXFMTk9TMElPMl9sd2YxcG4zMnNWcDd1RElpcndBTzNKRTBBNktCSk9lNndDZUhtNG9LNFdUdXZUa3haLWo3anBFdE1ndkVhNVMzSTFQM1hkbnJwRDk4RncwcEpHYWJFY2RTWXF0X0Qwcm4yVmh2RmYzdS1VZGd6MlpfcEp2aG9iLThSTUh3?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T09:56:00+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "'코스닥 상장' 멜콘 주가 86% 급등...반도체 공정 기업",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwT0duNl9Ka1I4R3RXQnhTR3NHbHBSYkNjNHlDa3BYVHcxSk1uZEJQeXBBb3ZNWHlnbktabXVVTHRKN0tHeWkxQmFyMXZ0cjlHVC1RZk1HZ3pEeUhnSW1YSllQXzhYRWowMFRRbnF3?oc=5",
+   "source": "국제뉴스",
+   "time": "2026-10-15T09:50:31+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 70%대 급등",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xODhZNFZCV1Iyd2xYSDRZYkpYRW5LSGVDQ19JejdkMmo5dWVwTWtia0RFbnJGdEVYLTRadk9pNlo3b1pvT1ozczIxTG9Jc3BOVW05ZGhyalN1QUlr?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T09:46:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 3대 지수 모두 하락.. '급락'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2xQOTRYbXloVzdqTWhrSlQzUnVvUDJoM2VpWGpWcHNVcUJLSi03VlI0QnVib0NnaHNYeUkyTExKVmdmbi1kZ2ZVVFA0aVNJYWFKTXN2WjNIaUlNN3E0NUJlbklTV0dwVkhSckVYSE5jUDlOMUs1ajctRWdyRllwYzBpMW5EUFJR?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-15T09:45:39+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "카카오, 커머스 지연·인적분할 불확실성…목표가↓-LS",
+   "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218407",
+   "source": "인포스탁데일리",
+   "time": "2026-10-15T09:45:29+09:00",
+   "stocks": [
+    {
+     "name": "카카오",
+     "code": "035720"
+    },
+    {
+     "name": "LS",
+     "code": "006260"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "멜콘, 코스닥 상장 첫날 80%대 '급등'",
+   "link": "https://www.hankyung.com/article/2026101532646",
+   "source": "한국경제",
+   "time": "2026-10-15T09:44:57+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 듀켐바이오, 릴리 치매치료제 국내 허가 기대감에 10%대↑",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/3AFZA4I4UVF5PO7EYZSCP3M4CE/",
+   "source": "조선비즈",
+   "time": "2026-10-15T09:43:47+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 듀켐바이오, 릴리 치매치료제 국내 허가 기대감에 10%대↑ - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmdiZTJvYk1tZEdWWUl1d0dOMHJhMy1JMW1CMmdaVEVjVjZoNFBtTmVaWFVQYTRpM3BCWkp2cEJlODN0LTMyOWJDRWdZRFZQUzVnc21iaUpCVWdOVklyMElGZzZOVENiMDJoLVhiQlVsQS1MTlNsMHVsQnBhcVFzOGxQd2h2b0Vr0gGcAUFVX3lxTE1IWVd6RTF3YU5KM0ZlbDcyRmxFQ0pQYXFsQnhJeFRZUzB0bmlwMTc2dWdRS1JkM25QeW9TTEg1Tjhvc2xxM0pKY0h5aHcwbGNvcFc4aHQ0WjhTaDVLc2prTzFBdTZERXZaUTlRTm93TlRIR3F5Mm9wblVnOWFfSWdiWHljdFdIX0hCTUlyTjMxR3lrM1dKSUIwZ0RvUw?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T09:43:00+09:00",
+   "stocks": [
+    {
+     "name": "듀켐바이오",
+     "code": "176750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 에스원, 4500억원 자사주 취득 결정.. 9%대 '강세'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkFFM1hUd2ExM0hqdVVOQTdDWVk5bDJINDZBUmMwcUZpVzNtU1JQSWt1aWQ5ZFJhOVJjMTlhSlgxV1ZUWDNWb01xbW56TFhOdGhTSnpCT2gxT0hmUmJ2LVJpMFVMSExWRng0U2ZPNjN1dFVKMG5aLW1kRHpFR3EwVkZ1YnJpck5i?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-15T09:38:59+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주]CJ ENM, 중동 24개 지역 ‘티빙관’ 개설 부각에 7.11% 상승…신작 13편 공급",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTGxfbU80d2djR3BoRm5zS3IzS28xQUxnbGd5MlZZTnBmcHhCMnQwR1FvRmtTMFY4Mkt4bGo3ZEJFVWVzQXJYYjFIbDNEOVhXWEstc2twZDFwYjdSZk5lWW0wem9QUGZvUFNmSmd2T0TSAXBBVV95cUxOX0xsX21PNHdnY0dwaEZuc0tyM0tvMUFMZ2xneTJWWU5wZnB4QjJ0MEdRb0ZrUzBWODJLeGxqN2RCRVVlc0FyWGIxSGwzRDlYV1hLLXNrcGQxcGI3UmZOZVltMHpvUFBmb1BTZkpndk9E?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T09:38:47+09:00",
+   "stocks": [
+    {
+     "name": "CJ ENM",
+     "code": "035760"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "신영證 한국콜마, 계절성 완화 흐름…목표가 13% 상향",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DZFo4NzZmdWRJLXF0SlZycVdCc014dV9CQWpSSm5zdEg0Q3MtUkZLSFFmRS0yTmUwZXVPUndfQVRrcW5JYkw4bDNEZE41am0yeURFaW1SRE_SAVhBVV95cUxPQ2RaODc2ZnVkSS1xdEpWcnFXQnNNeHVfQkFqUkpuc3RINENzLVJGS0hRZkUtMk5lMGV1T1J3X0FUa3FuSWJMOGwzRGRONWptMnlERWltUkRP?oc=5",
+   "source": "아주경제",
+   "time": "2026-10-15T09:37:07+09:00",
+   "stocks": [
+    {
+     "name": "한국콜마",
+     "code": "161890"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 장 초반 70%대 급등",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/YISUJA24Y5H3HOOOZ5YMS2BW4M/",
+   "source": "조선비즈",
+   "time": "2026-10-15T09:35:07+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 장 초반 70%대 급등 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHA3UmJmdmFnRHF0X1ZaTHJiMW84ZFNMWVhTbS1rVDhNeEhzNnZoSWJ3b1VDNkFITXBEVFhjZzAtblV4bDhDcEREN1g5SjNxMzFrd1hqb0xOSFd3ODBpakZEQUFfZzBHeDdqcEo3NmRnVXg3WmVSY2daOGVaMGlUbC04VnFZTDE50gGcAUFVX3lxTE9WWEFod18yZkx6ZUtiSEd1NTFZazdpYUJCcERMRDhoZVkyMWFUNlZUSW53UGZtcWd1cFlXalZ6X3FHckc0c0xaaVJrWFNuQk9pTzFCY2FtamRsWkFFQ1lwdjQyS1ktdnFCc3NvZUdEVkY2dHpPQlMxMVlFbGtIVmZLd1pqdHBIeEdJcElvQ3hXNXg2SUJ1V0p0aUxiaw?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T09:35:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
+   "link": "https://www.yna.co.kr/view/AKR20261015045300008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T09:34:29+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 효성중공업, 3분기 실적 우려에 12%대↓",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NMXBEY3piUWNLMzZUOGR4S3ZOWjlvMnhzdmRRSUhfa1FkVHJIRkh1clYyRmg4R1IzNjloclUyZVdZM1hSZEJLSF90NA?oc=5",
+   "source": "아이뉴스24",
+   "time": "2026-10-15T09:34:15+09:00",
+   "stocks": [
+    {
+     "name": "효성중공업",
+     "code": "298040"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 에스원, 4500억원 규모 자사주 취득·소각 예정 결정에 강세",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FQlFZYzJWekFqa1pxdnJlRzVFMUVJTHBoM2VhS0ItaTZrX0pMRGo2Qmt3TzV4c1RZZlc1S2VOYlBnRU5sbE5oblFKZlIyVmJJWVVTa295bE8xNWswcHJNT1dsUQ?oc=5",
+   "source": "에너지경제신문",
+   "time": "2026-10-15T09:33:34+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 美 CPI 충격·AI주 약세…삼성전자·SK하이닉스 급락",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TWVhuaUFITERRUVlEZE5xYmx1QkVZQzVLblZuUjJ1QXZudmJVNlYyQTFPT1JOd2ZfR2JfazJrYzIybHd4d2FEOS1teVRkRlVuclVJX0o3cVJrWWpVb0YxNUR4UQ?oc=5",
+   "source": "에너지경제신문",
+   "time": "2026-10-15T09:33:01+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주]에스원, 4천500억 자사주 공개매수에 9.56% 상승…보유분 소각도 추진",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dVIxRnRtVkk1cVo1QWZqc2F6ems5cW5rVlZLWVFITVA0NUNsMFNIMFpRdTBCVzBDNUVQNVlGLTJVS2MwY0xSaEpacmRod3lIaUtrdDlCYmJFN1N5Z1Q0Yjg5dXUtWXJPRXpYSdIBcEFVX3lxTFBBRlQxeTgzRjZDdHg0cFUzZG01MkpXMmdLdDQzNVNMMnRJa0lRTVFESGFzOWdpemFSQXJoMVFpaUZreXkwdWFINDJNclVSSXkzRUJQZEFzcmYycXJmTi1IdjFzWjFCU0FCeDZqeFVZdG4?oc=5",
+   "source": "남도일보",
+   "time": "2026-10-15T09:31:54+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "‘상폐 유예’에 기사회생 기대감…뉴인텍·바이오인프라 등 무더기 상한가",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02932326645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T09:31:17+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    },
+    {
+     "name": "바이오인프라",
+     "code": "199730"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 4500억원 규모 자사주 취득 결정에…에스원 9% 강세",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/UWCMHXEQVNFCLFDGW4SOQSW3ZQ/",
+   "source": "조선비즈",
+   "time": "2026-10-15T09:29:14+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 4500억원 규모 자사주 취득 결정에…에스원 9% 강세 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEdGR1dndUVseGhUYk1hRWctQVA0VXNERDlUVnJhbUticEw4Wm9CVjVaSml5cXlqcE9iMkkxRG5KbzYxOEQ1UUJGZl9peWJ2V0FZVXdsOE9FdzdJUVQxVWUtcUVxTEM2ZDJKNWdxSVc3bkd2T3VSakJjc1ltVWl2M0FTczdwOEph0gGcAUFVX3lxTFAtQ0YzUGxGblRRdURXVkZDTERZLXVTNzF5STRfWlVIazZJTm9YUmx1alBwb2lvNmNQcm1EMDdEYkhJcW9jU1Y1MjBpXzBEOGl0TGJ5OE96MEJKVWxKamNqRDJuWFN5bjNKZ1VjN2VJRGpBWGhiYUpPX1Y4eDhOaWZSQkljN1YwZ3gwNnZVbGVCZ3FYSWN3LWlSRlk3NA?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T09:29:00+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[MK시그널] 한국화장품제조, K-뷰티 수출 호조에 따른 OEM/ODM 가치 부각 등에 주가 상승세... MK시그널 추천 후 상승률 17.44%",
+   "link": "https://www.mk.co.kr/news/stock/12176443",
+   "source": "매일경제",
+   "time": "2026-10-15T09:28:37+09:00",
+   "stocks": [
+    {
+     "name": "한국화장품제조",
+     "code": "003350"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 입성 첫날 70%대 강세",
+   "link": "https://www.yna.co.kr/view/AKR20261015043900008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T09:28:35+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "SK하이닉스-삼성전자 주가 급락…코스피 매도사이드카 발동",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HNjlhRGh3Tnc0MWZRUEtKeWVaUHN2OGFfVEFyOEhrZnlzMlFvNWFZZlpGVHhPMERObTdkcF81ZzlrN2lGcnA3clBBOXJYVWlGRVdaZWtBbndxdkpOX3JRNjlzTElFeWdkMXdxYzNn?oc=5",
+   "source": "국제뉴스",
+   "time": "2026-10-15T09:27:23+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[MK 골든크로스 돌파종목 : 스튜디오드래곤(253450) & 이퓨쳐(134060)]",
+   "link": "https://www.mk.co.kr/news/stock/12176440",
+   "source": "매일경제",
+   "time": "2026-10-15T09:26:06+09:00",
+   "stocks": [
+    {
+     "name": "스튜디오드래곤",
+     "code": "253450"
+    },
+    {
+     "name": "이퓨쳐",
+     "code": "134060"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "미래에셋證 \"산일전기, 멀리 볼수록 저평가…목표가 8% 상향\"",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fa2t4WEtrbzQ4Nms4N0RYX0FGaXIwQTdfbEpzYTFIWk5PVmJ6YTZ2YUNzTDlBanVWLUNQbER3RVFMUEJWRUcyOHk0UXFReUdmN0N2ZnYzZU93OC13OVhv?oc=5",
+   "source": "뉴스1",
+   "time": "2026-10-15T09:25:27+09:00",
+   "stocks": [
+    {
+     "name": "산일전기",
+     "code": "062040"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "코스피·코스닥 6% 급락…동반 매도 사이드카 발동(상보)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ha0ZibkRzY1doTThtUGRhUVlsMXRmeHJmcU44M0JDcm9wUzlmREtWU0lmTDIwbDB2aDU2LUVkUDR3UndIYmJmZHpnTUpmV1N1SF9VVTV1dVFHT3ZkYW9N?oc=5",
+   "source": "뉴스1",
+   "time": "2026-10-15T09:23:19+09:00",
+   "stocks": [
+    {
+     "name": "상보",
+     "code": "027580"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "하이퍼코퍼레이션 주가, 상한가... 왜?",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DRkk4Ui1BOGFIWHFIOXpyZmg5aHd0ZWwtMFAxcFMzYmtNbjhyUXdmXzIzbFJfME84OGdlRzhuUVJ5LW5jQ0x2U0I2SWdrYjRRb045MVVCQWxKMmwyUVBOWWlMdFZZbGNBQWc?oc=5",
+   "source": "금강일보",
+   "time": "2026-10-15T09:19:30+09:00",
+   "stocks": [
+    {
+     "name": "하이퍼코퍼레이션",
+     "code": "065650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전기 등 기판주 급락…미국 물가 충격 영향 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LV2dWanBEM1YtY2tjaGZnUGhySEhIQzVTVmdFbnJNcHY4Q0IydTd0cS1Qa2JRNEdjWndVTzVxWTlaemZIMVYwbzJMWHp5TFVwOUU0VEZRNnlScG4taV9wZHlxVHFZUF940gFuQVVfeXFMTW8xWGZaX1cxc0wwcHBreXJZRjFidmVKYmF3VU9ydEI4NVpiUlhaRGw4ZUxhdVZ3dV9TWXBtd2xDZ0xVMDJaNlZ0enkyN3dnNmxSNHpyQ0kxV0hhSnlZa3pCYVVKbS1XOW1OMTVOYkE?oc=5",
+   "source": "머니투데이",
+   "time": "2026-10-15T09:19:12+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "코스피, 장초반 5700선까지 후퇴...SK하이닉스 시총 1000조원 하회",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2eVZGd3BseVFGWGI1blU5UmtfQkxUQ1lXNVpqMlU0c3Q0NEtKV3F1dF80a01rNkpjNE5IbjhtYXExTDdBZ1pORmE5Z2MyckNpZUNSMjRwWXBsUGhNNS1QaVJWZm1IcEpidlpTelJjOTEwLWo3ZERJ0gF3QVVfeXFMUDZ5VkZ3cGx5UUZYYjVuVTlSa19CTFRDWVc1WmoyVTRzdDQ0S0pXcXV0XzRrTWs2SmM0TkhuOG1hcTFMN0FnWk5GYTlnYzJyQ2llQ1IyNHBZcGxQaE01LVBpUlZmbUhwSmJ2WlN6UmM5MTAtajdkREk?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T09:18:51+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "권태일 대표이사, 유라클 주식 500주 ↑…지분율 2.17%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZkxzd3JuNVZKdjNmOW1mbnEwallaY1phV2IyMTNRNWQwdDQxVVNEaEd4aEloZ1BQMWxrRERUZEJObE1vUWwzT2xhMTZaekZyTEhaeURtdVIyc0sxajBBd1NSUWlIUmh0MndxbTI1T1htVmM?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T09:18:11+09:00",
+   "stocks": [
+    {
+     "name": "유라클",
+     "code": "088340"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 美 CPI 쇼크⋯삼성전자 5%·SK하이닉스 6% '급락'",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUWcyYmd2a2owelI1SnFIZG9BaUJiVGV6ZHdNZVNMdllEWmtGT1VxZTdteXdscU5Eb0ZWTW54YnJhSTM3bHpoT1RJbw?oc=5",
+   "source": "아이뉴스24",
+   "time": "2026-10-15T09:16:35+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "리퀴디아, 유나이티드 테라퓨틱스와 3억8100만달러 소송 합의…주가 급등",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uZWpmeTlZcG1qejRBaWw0UVlDR1pVd0JKQjIxS3JsQU8wTEFwMmdZN05lNzI2UW5ha0ZkYVpSRlFvTXpuOW5jQi0yaC0wU09wU2lQTkpwNGp3VE5GWXdUblg2b2dWOVVydm1jaQ?oc=5",
+   "source": "메디컬투데이",
+   "time": "2026-10-15T09:15:41+09:00",
+   "stocks": [
+    {
+     "name": "유나이티드",
+     "code": "033270"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주]또 다시 고개든 AI 수익성 의구심…삼전·SK하닉 7%·삼성전기 9% 동반 폭락",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zWkRiM0lBRHZSQ3hpd2ZfbEZhWks0ZW81Mmx4cUt2dHp4VEVNUW96anNsY01LTGdvVDFBaUhJa2tMRHVDVS0yRnZLb0ljNi1KUFlLWU1LUWrSAVhBVV95cUxPM1pEYjNJQUR2UkN4aXdmX2xGYVpLNGVvNTJseHFLdnR6eFRFTVFvempzbGNNS0xnb1QxQWlISWtrTER1Q1UtMkZ2S29JYzYtSlBZS1lNS1Fq?oc=5",
+   "source": "아주경제",
+   "time": "2026-10-15T09:15:19+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "에스원, 4500억원 규모 자사주 취득 결정에 강세",
+   "link": "https://www.hankyung.com/article/2026101531276",
+   "source": "한국경제",
+   "time": "2026-10-15T09:14:55+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "“SK가스, 올해 최대 실적 전망…다음 모멘텀은 주주환원”",
+   "link": "https://www.etoday.co.kr/news/view/2636010",
+   "source": "이투데이",
+   "time": "2026-10-15T09:12:00+09:00",
+   "stocks": [
+    {
+     "name": "SK가스",
+     "code": "018670"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "진코스텍, 코스닥 이전상장 첫날 약세",
+   "link": "https://www.hankyung.com/article/2026101531066",
+   "source": "한국경제",
+   "time": "2026-10-15T09:10:08+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 美 물가 충격에 반도체주 급락…삼성전자 6%·SK하이닉스 7%대↓",
+   "link": "https://www.etoday.co.kr/news/view/2636003",
+   "source": "이투데이",
+   "time": "2026-10-15T09:08:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "대한전선, 미국서 대규모 초고압 전력망 프로젝트 턴키 수주",
+   "link": "https://www.yna.co.kr/view/AKR20261015033100003",
+   "source": "연합뉴스",
+   "time": "2026-10-15T09:04:04+09:00",
+   "stocks": [
+    {
+     "name": "대한전선",
+     "code": "001440"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 멜콘, 코스닥 상장 첫날 공모가 대비 120% 상승 출발",
+   "link": "https://www.etoday.co.kr/news/view/2635979",
+   "source": "이투데이",
+   "time": "2026-10-15T09:04:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "대한전선, 美 대규모 초고압 프로젝트 턴키 수주…현지 공략 가속",
+   "link": "https://www.etoday.co.kr/news/view/2635996",
+   "source": "이투데이",
+   "time": "2026-10-15T09:03:00+09:00",
+   "stocks": [
+    {
+     "name": "대한전선",
+     "code": "001440"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 삼전닉스, 프리마켓에서 6~7% 급락 …SK하이닉스 시가총액 1000조 하회",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/OAF5BW7RPJFENPC6PSER35KI4M/",
+   "source": "조선비즈",
+   "time": "2026-10-15T09:01:54+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 진코스텍, 코스닥 상장 첫날 공모가 대비 17% 상승 출발",
+   "link": "https://www.etoday.co.kr/news/view/2635993",
+   "source": "이투데이",
+   "time": "2026-10-15T09:01:00+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 삼전닉스, 프리마켓에서 6~7% 급락 …SK하이닉스 시가총액 1000조 하회 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBVcU5UNzJhejlkRXdFSTNjekNWd1NoWmVPTmw1QlpfSVVoSC1tWXZRVVhUdGdnZ05HNzVMUTZSeFcwYzZReTVsbUcwdWlqX1JLa1dKLXNkdFhPenpEbk9GRW5TRVhOQ2JIQzJtZVhnODI4cm00Z2d6YmdVSHZzUzB5M0VyNFMw0gGcAUFVX3lxTFB2NURJd1Q0WDZEd0xuVzNRMWRwS2V1Mk5LUFBoLUo5SW02UWJnRWtpU3pKZXNJYkpWODZfV04xMC1TUks3aTFJanl6dUNLREJUOUhLTDNBRExqNVU5Y0tXWVg0ZWhBWXZHeGNtSGl1cXMtLU1ybENPejZwMVhDRHc5bEpwUXBNYm1SQmV0b0Z4b1A3cVVkZXFWWjRDeA?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T09:01:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "설탕 30% 단맛에 당류는 1%…삼양사 ‘케스토스’ 일본 첫선",
+   "link": "https://www.etoday.co.kr/news/view/2635911",
+   "source": "이투데이",
+   "time": "2026-10-15T09:00:00+09:00",
+   "stocks": [
+    {
+     "name": "삼양사",
+     "code": "145990"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[셀리드 줌업] 1년 전 회사發 \"백신생산\" 주가급등…시세조종·부정거래 논란④",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NVRtRE9PZENJLXRkdTBJcjBOMEpSdkZlOFNubWNqeU0yTE1ld1pkUTYyQ0kxRldaeXNWekdIZXJSZHRFVVdTSlZHUlF0Vlgxd1JZYTE2UDVLN0VhTWFlcVF0ckJLb0Ew?oc=5",
+   "source": "녹색경제신문",
+   "time": "2026-10-15T09:00:00+09:00",
+   "stocks": [
+    {
+     "name": "셀리드",
+     "code": "299660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "대한전선, 美 초고압 전력망 턴키 수주…시장 공략 가속",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02788006645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:57:50+09:00",
+   "stocks": [
+    {
+     "name": "대한전선",
+     "code": "001440"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "신영證 “한국콜마, 용기 수급 문제에도 3분기 호실적 예상…목표가 상향\"",
+   "link": "https://biz.chosun.com/stock/2026/10/15/2GOVX5WHXRH6VODUISP2DBRDY4/",
+   "source": "조선비즈",
+   "time": "2026-10-15T08:56:04+09:00",
+   "stocks": [
+    {
+     "name": "한국콜마",
+     "code": "161890"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "신영證 “한국콜마, 용기 수급 문제에도 3분기 호실적 예상…목표가 상향\" - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkb0dFQVRCVDNmem9MSTlPZklMY0ZUTFhkLTRTUDZPVE1uYndEUllvZ3ZQcF8tYXg4MzNlY0Z4VV94ZmhyaVZnMk05d3NvMElHNzBKTGJlRnp5SEtlX19ZUXliQnVaS0JiNmFsb2RvNlRWZlBfZlHSAYoBQVVfeXFMTUU5YVNBelAwZHJxZEl4Ti1kRkVoVzJiOWhRYzFEbjFlYldpdFBYZTdOcTN5RWpZTlk5bDUxSndkN0szSXRsRlFnQVZKWEQzZFVtWnFlanQ4aGdWaTV6NG5Rbm8wczBObjU3dmhqMUtpOGlpTkJiVG5vOGVCaVlERk9YdDIwTGo3Z1Vn?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T08:56:00+09:00",
+   "stocks": [
+    {
+     "name": "한국콜마",
+     "code": "161890"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"GS건설, AI 데이터센터 수주 기대\"...목표가 30% 상향",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbHZlX3l0TVFlN0ZkWU1kVnczcVJFWWFDeEhXcVpnODZRQTk2S1B4a1dYaWJJZ0h2elNzT0s4TkIxbjUzSC0tY0drbGpzdzZBNnFmY1d5akR6UQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "2026-10-15T08:55:22+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 美 반도체주 급락 여파…프리마켓서 삼성전자 6%·SK하이닉스 7%대↓",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XV3ZmR1pSQXQ4NGdaeFUzMTFGQ0JFY19vQlpkZ1pvUzNhRjZOdUV6Z2U5R2FHRGNfei1iWEJTRlJrQ1VWUlJmMkVHdFMtd0k4NEhPOEI2VlNhdWtn?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T08:53:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "초고수의 선택은 SK하이닉스…삼성전자·LG엔솔은 순매도",
+   "link": "https://www.hankyung.com/article/202610152923i",
+   "source": "한국경제",
+   "time": "2026-10-15T08:51:21+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "삼전닉스 프리마켓서 동반 급락…SK하이닉스 시총 1000조 원 하회",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jS3UweFNwX0NJS2h4MnVKZTVaMFlFMnhMdFdaZVFRSHRtcnM5ZTgzSVQwbU96eHdqMGJucHJoRE50SXhaOVZsLUduNmUtbnFvYzQxcVRCNWkwdXdRY0c3a0FSN0tyMW14dEtlVWdMbGUzRkt2?oc=5",
+   "source": "부산일보",
+   "time": "2026-10-15T08:44:22+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "美 CPI 충격에…삼성전자 6%·SK하이닉스 8% 급락",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02728966645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:43:05+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "독립리서치 불릿 \"하이로닉, 美 FDA 허가·소모품 반복 매출 확대…최대 실적 전망\"",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02725686645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:43:01+09:00",
+   "stocks": [
+    {
+     "name": "하이로닉",
+     "code": "149980"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "연기금이 한 달째 샀다…LS에코에너지, 9% 급등",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjY1RpaTdwbkpIVVN1V0FWSlcxMW9KeEJSOG9KMEd6WWJTZE15SlJpbDNJMHZYN2hFQWhvRE00M3BUOVBEZXUtVVNsM2Z4Z0sxdUxiX1N0bXBIakpJeG5iaVUxR0I2UGVveGc?oc=5",
+   "source": "더스탁(The Stock)",
+   "time": "2026-10-15T08:35:08+09:00",
+   "stocks": [
+    {
+     "name": "LS에코에너지",
+     "code": "229640"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]HMM, '3Q26 Pre: 호시절 보내는 중' 목표가 24,000원 - 하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sb3NLVjIyeGJsTDNsTlJpVkl6dHM4M2FVUGowY3J5S2V3eTN1SGFvV0VXNG1rNGxJRXVMbjBHblBIOFhuN0NxSWVXbUtEaUtPRmFWQlZLcjFGMUNf?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T08:35:00+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]삼성SDI, '미국 ESS 시장 점유율 확대 기대' 목표가 900,000원 - 다올투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTmJnUFVELVNvUkQ3RkFKaUptQ3lrQlRJR2hpM2VyWmxScERQNWZHRWRaMEZsQ1JsSEJzOGdGcEVJWHNjY1JSUF9pZGtjZllueHJoRFhzOUNQVXlN?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T08:35:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    },
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "DS증권, CJ프레시웨이 목표가↓…\"3분기 실적 기대치 하회전망\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015025800008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T08:34:05+09:00",
+   "stocks": [
+    {
+     "name": "CJ프레시웨이",
+     "code": "051500"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[클릭 e종목]\"한화엔진, 눈높이 조정구간…목표주가 하향\"",
+   "link": "https://view.asiae.co.kr/article/2026101508331065245",
+   "source": "아시아경제",
+   "time": "2026-10-15T08:33:10+09:00",
+   "stocks": [
+    {
+     "name": "한화엔진",
+     "code": "082740"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[속보] SK하이닉스, 프리마켓서 7%대 급락...시가총액 1000조원 붕괴",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02VUl4VUlINi1pb1ZvZ04ycFh4SUhEdVc0RW9OTEtFLXVwakEydkNLSHUzcERQQjNfZHpyZ0ZrWVJ0d2FtOGl6em5FYjZBZlhIS0lsUFZHQ1BUOFlyYm04dUtRa1pxaWFVMUpvRE5kcXVLNmdrWjVj0gF3QVVfeXFMTTZVSXhVSUg2LWlvVm9nTjJwWHhJSER1VzRFb05MS0UtdXBqQTJ2Q0tIdTNwRFBCM19kenJnRmtZUnR3YW04aXp6bkViNkFmWEhLSWxQVkdDUFQ4WXJibTh1S1FrWnFpYVUxSm9ETmRxdUs2Z2taNWM?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T08:32:45+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "신한증권 \"현대건설, 원전 수주 불확실성\"…목표주가 하향",
+   "link": "https://www.yna.co.kr/view/AKR20261015025400008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T08:32:38+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[기로의상장사]디티앤씨알오⑤수상한 '계약자산' 뇌관 터졌나…수십억 손실 발생",
+   "link": "https://view.asiae.co.kr/article/2026101414424683430",
+   "source": "아시아경제",
+   "time": "2026-10-15T08:32:00+09:00",
+   "stocks": [
+    {
+     "name": "디티앤씨알오",
+     "code": "383930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "SK증권 \"KT, 4분기 실적 반등 가능성…지금이 매수 적기\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015025300008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T08:31:34+09:00",
+   "stocks": [
+    {
+     "name": "SK증권",
+     "code": "001510"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "넥사다이내믹스, 311억 규모 대형 AI 서버 공급계약",
+   "link": "https://view.asiae.co.kr/article/2026101508310312685",
+   "source": "아시아경제",
+   "time": "2026-10-15T08:31:03+09:00",
+   "stocks": [
+    {
+     "name": "넥사다이내믹스",
+     "code": "351320"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[온체인 주식선물] SK하이닉스, 정규장 종가보다 5.79% 할인",
+   "link": "https://www.tokenpost.kr/news/insights/422550",
+   "source": "토큰포스트",
+   "time": "2026-10-15T08:30:13+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "'유니켐 인수 추진' 美 루미아, 로봇 손 적용 ‘전자피부’ 기술 공개",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02673206645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:30:03+09:00",
+   "stocks": [
+    {
+     "name": "유니켐",
+     "code": "011330"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한미약품, 3분기 실적 눈높이 낮췄지만…“신약·비만약에 주목”",
+   "link": "https://www.mk.co.kr/news/stock/12176373",
+   "source": "매일경제",
+   "time": "2026-10-15T08:28:06+09:00",
+   "stocks": [
+    {
+     "name": "한미약품",
+     "code": "128940"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "하나증권, HL만도 목표가↓…\"원가 상승에 3분기 실적 부진\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015025100008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T08:28:01+09:00",
+   "stocks": [
+    {
+     "name": "HL만도",
+     "code": "204320"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "DB증권, 한화솔루션 목표가 하향·투자의견은 상향…\"낙폭 과대\"",
+   "link": "https://www.yna.co.kr/view/AKR20261015021800008",
+   "source": "연합뉴스",
+   "time": "2026-10-15T08:23:37+09:00",
+   "stocks": [
+    {
+     "name": "DB증권",
+     "code": "016610"
+    },
+    {
+     "name": "한화솔루션",
+     "code": "009830"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "“현대건설, 원전 수주 지연…목표가 14만원으로 하향”-신한",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02637126645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:22:34+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "‘하이드로겔 화장품 ODM’ 진코스텍, 코스닥 이전상장[오늘상장]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02633846645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:22:00+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "\"하이로닉, 美 FDA 허가·소모품 반복 매출 확대 전망\"",
+   "link": "https://view.asiae.co.kr/article/2026101508215071195",
+   "source": "아시아경제",
+   "time": "2026-10-15T08:21:51+09:00",
+   "stocks": [
+    {
+     "name": "하이로닉",
+     "code": "149980"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "‘반도체 초정밀 환경제어’ 멜콘, 코스닥 입성[오늘상장]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02614166645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:20:28+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "넥사다이내믹스, 311억 규모 AI 서버 공급계약… 전년 매출 2.4배 ‘잭팟’",
+   "link": "https://www.etoday.co.kr/news/view/2635962",
+   "source": "이투데이",
+   "time": "2026-10-15T08:19:00+09:00",
+   "stocks": [
+    {
+     "name": "넥사다이내믹스",
+     "code": "351320"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "“현대백, 환율 하락·해외여행 증가”…대신증권, 목표가 17만원 ‘하향조정’",
+   "link": "https://www.mk.co.kr/news/stock/12176369",
+   "source": "매일경제",
+   "time": "2026-10-15T08:17:45+09:00",
+   "stocks": [
+    {
+     "name": "대신증권",
+     "code": "003540"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "LG에너지솔루션, ESS 성장 기대…목표가 51만원으로 상향",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lLUxlY3NnekN6c2FzQTNqSXZaTkpUVDJhc3l3TkdSQmwtcHRmckVfbFFXWGtOYjlGdjhwNHZuUGg1cjNYeU9RbVY4Z3NfY0JhYzhTN2NNY0d0UQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "2026-10-15T08:14:20+09:00",
+   "stocks": [
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "LS \"이수화학, 3분기 영업익 400억원 전망⋯비화학 부문도 흑자전환\"",
+   "link": "https://www.etoday.co.kr/news/view/2635954",
+   "source": "이투데이",
+   "time": "2026-10-15T08:14:00+09:00",
+   "stocks": [
+    {
+     "name": "LS",
+     "code": "006260"
+    },
+    {
+     "name": "이수화학",
+     "code": "005950"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"한화오션, LNG선 매출 비중 올해 70%→내년 40%까지 감소\"-IBK",
+   "link": "https://www.hankyung.com/article/2026101528926",
+   "source": "한국경제",
+   "time": "2026-10-15T08:13:29+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "\"제주항공 하루에 23% 올랐다\"…3분기 의외의 실적주는 [분석+]",
+   "link": "https://www.hankyung.com/article/2026101528356",
+   "source": "한국경제",
+   "time": "2026-10-15T08:13:11+09:00",
+   "stocks": [
+    {
+     "name": "제주항공",
+     "code": "089590"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "KB證, “삼성전자, 中창신메모리 기술보다 5~7년 앞서⋯저평가 매수 기회”",
+   "link": "https://www.etoday.co.kr/news/view/2635950",
+   "source": "이투데이",
+   "time": "2026-10-15T08:10:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"신세계, 4분기 성수기 효과 기대…목표가는 하향\"-대신",
+   "link": "https://www.hankyung.com/article/2026101528826",
+   "source": "한국경제",
+   "time": "2026-10-15T08:07:52+09:00",
+   "stocks": [
+    {
+     "name": "신세계",
+     "code": "004170"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "삼성 계열 에스원, 자사주 소각에 NXT서 10%↑…주주환원에 시장 화답 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tX3RYbEhoR2k1QXFwb2FKSHJTSDNvdlhzb3lxVlJpVUduSlA1M0szWW41VXZyQXhzTWl4TFd1dG5FcTNpbTJUcUJXZ2ZQRDhwZVg0N3ppaDlJTk8zampGZ3gtMmJVSmllcGE0LTZPTFRCd2tx?oc=5",
+   "source": "연합인포맥스",
+   "time": "2026-10-15T08:05:44+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "판매 늘어도 원가 부담…“기아, 3분기 실적 기대치 밑돌 ”",
+   "link": "https://www.mk.co.kr/news/stock/12176365",
+   "source": "매일경제",
+   "time": "2026-10-15T08:05:25+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "\"HL만도, 원가·환율 부담에 3분기 실적 둔화 우려…목표가↓\"-신한",
+   "link": "https://www.hankyung.com/article/2026101528686",
+   "source": "한국경제",
+   "time": "2026-10-15T08:04:28+09:00",
+   "stocks": [
+    {
+     "name": "HL만도",
+     "code": "204320"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "LG화학, 양극재 사업 실질 회복 어려워…목표가 31만 하향-메리츠",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02528886645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T08:03:46+09:00",
+   "stocks": [
+    {
+     "name": "LG화학",
+     "code": "051910"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[전일 주요공시] 동양고속·LG에너지솔루션·위메이드 등",
+   "link": "https://www.etoday.co.kr/news/view/2635946",
+   "source": "이투데이",
+   "time": "2026-10-15T08:03:00+09:00",
+   "stocks": [
+    {
+     "name": "동양고속",
+     "code": "084670"
+    },
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    },
+    {
+     "name": "위메이드",
+     "code": "112040"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "\"S-Oil, 영업익 절반 책임진 윤활기유…목표가↑\"-IBK",
+   "link": "https://www.hankyung.com/article/2026101528546",
+   "source": "한국경제",
+   "time": "2026-10-15T08:01:50+09:00",
+   "stocks": [
+    {
+     "name": "S-Oil",
+     "code": "010950"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한 달 새 20% 빠진 한화오션...\"반등 열쇠는 함정·해양플랜트 수주\"",
+   "link": "https://www.hankyung.com/article/202610141706i",
+   "source": "한국경제",
+   "time": "2026-10-15T08:00:05+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "“삼아알미늄, ESS 빅사이클 최대 수혜…목표가 10.2만원 신규 제시”-신한",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02479686645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T07:55:37+09:00",
+   "stocks": [
+    {
+     "name": "삼아알미늄",
+     "code": "006110"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[오늘의 증시일정] 진코스텍·메디콕스·에이전트AI 등",
+   "link": "https://www.etoday.co.kr/news/view/2635940",
+   "source": "이투데이",
+   "time": "2026-10-15T07:54:00+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    },
+    {
+     "name": "메디콕스",
+     "code": "054180"
+    },
+    {
+     "name": "에이전트AI",
+     "code": "060900"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "HT로보틱스, 북미 ESS 엔드플레이트 누적 생산 200만개 돌파…美 공급망 점검",
+   "link": "https://www.etoday.co.kr/news/view/2635930",
+   "source": "이투데이",
+   "time": "2026-10-15T07:54:00+09:00",
+   "stocks": [
+    {
+     "name": "HT로보틱스",
+     "code": "396300"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "\"효성중공업, 건설 부문 일회성 비용에 '어닝 쇼크' 우려…목표가↓\"-유안타",
+   "link": "https://www.hankyung.com/article/2026101528216",
+   "source": "한국경제",
+   "time": "2026-10-15T07:54:00+09:00",
+   "stocks": [
+    {
+     "name": "효성중공업",
+     "code": "298040"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[전날 애프터마켓] 대양금속 상한가…삼전·SK하닉 소폭 상승",
+   "link": "https://www.etoday.co.kr/news/view/2635938",
+   "source": "이투데이",
+   "time": "2026-10-15T07:52:00+09:00",
+   "stocks": [
+    {
+     "name": "대양금속",
+     "code": "009190"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "LG에너지솔루션, 3분기 '어닝 서프라이즈'…목표가 51만원↑-메리츠",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02469846645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T07:51:25+09:00",
+   "stocks": [
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한투證 “에이피알, 과매도는 곧 매수 기회… 목표가 52만원 유지”",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/MCMCYPGLEBCNFLLZEJICVMPO7Q/",
+   "source": "조선비즈",
+   "time": "2026-10-15T07:51:24+09:00",
+   "stocks": [
+    {
+     "name": "에이피알",
+     "code": "278470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한투證 “에이피알, 과매도는 곧 매수 기회… 목표가 52만원 유지” - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBwSklSVjljRWJENTg3R3J6TGVBVk41T25hb194Z1FyS21mVmFVQndBZHlkMHp3anFqbGpNeGZmMkVVS3VuX2EtaC15VnVvSTFfRDVrQzRCTEtrYnkwZXFLdUl3NVp3eFVlRlh1NERxODcybEliUEk0cUdZR2VUMndjV1p0RVNhTXVJX1ZoX1Rka3BBcHA4d0JOdjbSAZwBQVVfeXFMTjJQcEpJUlY5Y0ViRDU4N0dyekxlQVZONU9uYW9feGdRckttZlZhVUJ3QWR5ZDB6d2pxamxqTXhmZjJFVUt1bl9hLWgteVZ1b0kxX0Q1a0M0QkxLa2J5MGVxS3VJdzVad3hVZUZYdTREcTg3MmxJYlBJNHFHWUdlVDJ3Y1dadEVTYU11SV9WaF9UZGtwQXBwOHdCTnY2?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-15T07:51:00+09:00",
+   "stocks": [
+    {
+     "name": "에이피알",
+     "code": "278470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "HMM, 3Q 호실적에 목표가↑…내년 운임 하락 우려에 투자의견은 '중립'-하나",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02440326645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T07:43:53+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[증시키워드] 삼성·SK 차세대 반도체 청사진 공개…원전·배터리 등 주요 테마주 눈길",
+   "link": "https://www.etoday.co.kr/news/view/2635936",
+   "source": "이투데이",
+   "time": "2026-10-15T07:42:00+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한화오션, LNG운반선 발주 강세 전망…'매수'-IBK",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02414086645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T07:38:32+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "에스원, 자기주식 소각 목적 454만주 공개매수 결정",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MT1M0ckhKYVp6M0YzUUVESTB2dmx1b3JzTEpMVGppamx1NDhvaGE5Yzl2TkdmNVQ5RHRNdUgxREVFN0FOQ3hJaUdJekdPSkhsSTN3YkEzcnVKQTd3cmZlc3lGNE14Sk1ZMGE3N294d1Q4OHc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-15T07:38:24+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "임상신청 반려에 올릭스 14% 급락·로킷헬스케어는 52주 신저가[바이오맥짚기]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02286166645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T07:02:03+09:00",
+   "stocks": [
+    {
+     "name": "올릭스",
+     "code": "226950"
+    },
+    {
+     "name": "로킷헬스케어",
+     "code": "376900"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[클릭 e종목]“하림지주, 자산개발 기대감…목표가↑”",
+   "link": "https://view.asiae.co.kr/article/2026101419002655772",
+   "source": "아시아경제",
+   "time": "2026-10-15T07:01:00+09:00",
+   "stocks": [
+    {
+     "name": "하림지주",
+     "code": "003380"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "국제유가, 아람코 피격ㆍ이란 유조선 표적전술에 상승⋯WTI 1%↑[상보]",
+   "link": "https://www.etoday.co.kr/news/view/2635918",
+   "source": "이투데이",
+   "time": "2026-10-15T06:59:00+09:00",
+   "stocks": [
+    {
+     "name": "상보",
+     "code": "027580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "LG, 두산 꺾고 준플레이오프 진출…예매·일정은?",
+   "link": "https://www.etoday.co.kr/news/view/2635924",
+   "source": "이투데이",
+   "time": "2026-10-15T06:31:00+09:00",
+   "stocks": [
+    {
+     "name": "LG",
+     "code": "003550"
+    },
+    {
+     "name": "두산",
+     "code": "000150"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] DN오토모티브, 급락 뒤 이틀째 반등… 노동자 킬레이션 주사 투약 의혹에 사법 리스크 부각",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YS0p6UUl1WHUxVXlqSThCNWFBVXkzZlhJSzJ6TG82XzgwTmF2eF9BQ2k0Y1ZNbmtOOGZmcUNRNWVrRzFWSjBUZjQwc0Z6RGIxZkFna2pLbUVQLUFsN2wzMg?oc=5",
+   "source": "www.theconnectmoney.com",
+   "time": "2026-10-15T06:26:00+09:00",
+   "stocks": [
+    {
+     "name": "DN오토모티브",
+     "code": "007340"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[Company Analysis] [국제약품] 제약·진단주 상승에 ‘국제약품’도 관심↑ … 테마 열풍 넘어 실적 개선할까",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vbGs2cXhqTXpNSGRKSEhRSUc5Znh1UjktUG9JdVp4SEFWRERjUGZIUmVnSFVQV0FfMWN3YndYQXJWMm9rLURuVTV0WVZTV2pFTE1kMkRTTmdTcUxBb3ZNV3pmOFR0Y2V5WTJPX1hsdw?oc=5",
+   "source": "비즈니스리포트",
+   "time": "2026-10-15T06:10:00+09:00",
+   "stocks": [
+    {
+     "name": "국제약품",
+     "code": "002720"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "반토막 하이브, 주가와 딴판인 실적…'BTS 공백' 5세대가 메웠다",
+   "link": "https://www.etoday.co.kr/news/view/2635815",
+   "source": "이투데이",
+   "time": "2026-10-15T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "하이브",
+     "code": "352820"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "‘6000피 붕괴 위기’ 삼성·SK 시총 657조 증발…LG는 현대차와 시총 뒤바뀜",
+   "link": "https://www.etoday.co.kr/news/view/2635814",
+   "source": "이투데이",
+   "time": "2026-10-15T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    },
+    {
+     "name": "LG",
+     "code": "003550"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[1015주요일정] 멜콘·진코스텍, 코스닥 시장 신규 상장 예정 등",
+   "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218392",
+   "source": "인포스탁데일리",
+   "time": "2026-10-15T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "멜콘",
+     "code": "179880"
+    },
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전자 주가에 대한 생각[김학균의 투자레슨]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01626886645613248",
+   "source": "이데일리",
+   "time": "2026-10-15T05:00:04+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "107조 벌어도 삼성전자 급락…외국인 이틀 새 코스피서 5.7조 던진 이유 [숫자 뒤의 진실]",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4U0N5Qy16V1lDTzBVRFFDeFN6SW1BOU00NGJlSmlEWU56S3JidHZxalpzQ3ZUdkM0UXNILW5mMDRwZ2lGVDZWOEhOTm91enNGeXJ6dtIBVEFVX3lxTFA4U0N5Qy16V1lDTzBVRFFDeFN6SW1BOU00NGJlSmlEWU56S3JidHZxalpzQ3ZUdkM0UXNILW5mMDRwZ2lGVDZWOEhOTm91enNGeXJ6dg?oc=5",
+   "source": "세계일보",
+   "time": "2026-10-15T05:00:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "“삼성전자만 바라봤는데 177% 폭등”…두 달 반 만에 3배 뛴 반도체株, 더 오를까",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSmxOdEpnVUxPdlpUVFhKR1JPX1NEOWVSZFZJckh1R2cwS09UbU1GdWhrS0RQZ0tyVUoybk4yQzhPUTl5UXVnRFpBd3VNcUxmalpVU0Vpd3l5R1ZTN053U0xhZ2htRzhJNGc1Qw?oc=5",
+   "source": "데일리25",
+   "time": "2026-10-15T04:42:34+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "에이피알, 역사적인 주가 급락의 배경은",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHpubG91cFpleGEtd3cwQ1RpVzc0WDFpQVllR0ZtZGlJa1ZrOXZzTFNlWTFPdmNaUXJxTWFKNFNKSWstd2hzSTg0ZHE3QU1KZXNUdE1FT296SGhwM2dPc1lOZ1JYVlRCOXV6TTQwZ2RxaWlwNE15VHpGc3lkS3NvWnhHdmp1Ym1vUnZBN3NmYzEwbklodTQ5Qw?oc=5",
+   "source": "데일리바이트(DAILY BYTE)",
+   "time": "2026-10-15T00:01:06+09:00",
+   "stocks": [
+    {
+     "name": "에이피알",
+     "code": "278470"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  }
+ ]
+}
