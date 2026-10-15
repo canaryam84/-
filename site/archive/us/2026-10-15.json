@@ -1,0 +1,53 @@
+{
+ "label": "미국 10월 15일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 1.08,
+   "text": "+1.08%",
+   "exact": true,
+   "source": "MTN 머니투데이방송",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IQ1ZscDFpQ0FYLXpXM1FjelozMDNHd0dhMUI0RXNqc1RuNW5Ja0ZWbDNHMFRoRlpIUnI0cm9WV2dlYTN6M2Znd2hPZnlVTEE4SGJJekh6Q29YLXNOQ3hSbjRJME8?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.08,
+   "text": "+0.08%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRLW9pQjNWY2J0MFJWbmxOTnBKOFFqZnFyQ1hGR2dtSTlLZWdjWHV4bEdqSW5OTnI2S2dfNzdTU2VTWTQ0ajlPaC1lZTRoTkph?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Laureate Education",
+   "sub": "LAUR",
+   "pct": 79.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Laureate Education surges 79% after Fair Value signal identified opportunity",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1JMU0lvNDBzandzTGI4cFFBSDMzMGlmM0pOYl8zWnhQOHd3bTNnQ0phOGgwbm5oMk4tMk1seWNUeFpaQUFNaFZralFxN2EzN1Jib1VFU01uMTlYLUp4Mm5jdlVxSWVONzhpOTlzVTZISWxxRGRLVkxaUW9GZjgxOFJBSGo5cWc3eFZaeEo1MmpKQ092RzcxcWswTlliV01LZndTUkJnaXJidXJGRkhyVkJmOTNTWUZVSDZYYTh4bUFaWWo4YzJFN3M0dzRTNG96UEE?oc=5",
+     "source": "Investing.com",
+     "time": "2026-10-15T20:46:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Natera",
+   "sub": "NTRA",
+   "pct": 76.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Natera stock surges 76% after long-term breakou...",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2JZdjhLUmVPcFVTWndUUmFLYVZLVWRwaGl0Y2h1a0k0ZFFIT0RZTUpnelpOX0hSR2tWUkx6ZlRfcURLb1Zzb0xpekZoRGVHaHBwQnVVU1FGLWMxSnBYSjVhQVBHZkN1RXNIUzdBNEQ4Zm5YNFZRUW5wYzFVb1l0MXRycEpEaWs5TU9DcUItZw?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-16T06:04:58+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-16T07:24:51.127738+09:00"
+}
