@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-15T13:14:19.042093+09:00",
+ "updatedAt": "2026-10-15T16:29:53.606236+09:00",
  "items": [
   {
    "title": "프롬바이오 2455원·뉴인텍 600원 상한가 마감",
@@ -477,6 +477,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "백창기 전무, 세미파이브 주식 5800주 ↑…지분율 0.04%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5adHBNdElOd2JacV9JWFcwSkRIc01hbVIyVHVsbkh6cFpFb3ZzR3drTF9rUDU4N2tQUE5BUFUwTmROZ1lRNVQwdVoyeTM0VTgzZFl5Uk5Iak9hMV9uOUl6MHMwMDFGQUhCRGJGQjkxQV83dEk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-14T17:37:53+09:00",
+   "stocks": [
+    {
+     "name": "세미파이브",
+     "code": "490470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "김명식 전무, 세미파이브 주식 7000주 ↑…지분율 0.34%",
