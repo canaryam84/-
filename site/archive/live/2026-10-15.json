@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T18:58:55.877514+09:00",
+ "updatedAt": "2026-10-16T22:09:54.058380+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -2147,6 +2147,20 @@
    "dir": "down"
   },
   {
+   "title": "부동산 자산주 약세 속 천일고속 16% 급등…무슨 일?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jeVNlc1gyc21oSWJWUU11SFhnY2FTM3gwa29FWGNPZkhmR1g0azRmNVhRZ1BRYTN6UHR0UGdDcll6dW5wSGxsQVBOZWtwX0Rxd183WTB1VExEYzBoUEt1ZXFrVlo1OFpwbnJBOFlNZU9oZURrQm9Z0gF3QVVfeXFMT2N5U2VzWDJzbWhJYlZRTXVIWGdjYVMzeDBrb0VYY09mSGZHWDRrNGY1WFFnUFFhM3pQdHRQZ0NyWXp1bnBIbGxBUE5la3BfRHF3XzdZMHVUTERjMGhQS3VlcWtWWjU4WnBuckE4WU1lT2hlRGtCb1k?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-15T10:39:11+09:00",
+   "stocks": [
+    {
+     "name": "천일고속",
+     "code": "000650"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 맥쿼리인프라, 뚜렷한 공시 없이 장중 9550원 약세 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VV3JsdjVwUU5iOVJPdHY1aFNfdjdHVWFPSzg4SGRodXZnQWlsd1dtNFllVi04bTZEaGRGd3RTZWlUX0J3dHVPejFtUQ?oc=5",
    "source": "재경일보",
@@ -2218,20 +2232,6 @@
     }
    ],
    "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "부동산 자산주 약세 속 천일고속 16% 급등…무슨 일?",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JMEpsUXBBT2RRNFVqYWcyX2ljdUtqT010OExhaXNYeGJVeHpvUUE1V0IxTldOa3ZzbEJ1UXhHYklpVzBxdXBvQi1BSGRralhJNTF2YXlDRDIyZkZEYmFTTHA4Q0xZaDlQa2M5WmdFYUFBWlXSAXdBVV95cUxPY3lTZXNYMnNtaEliVlFNdUhYZ2NhUzN4MGtvRVhjT2ZIZkdYNGs0ZjVYUWdQUWEzelB0dFBnQ3JZenVucEhsbEFQTmVrcF9EcXdfN1kwdVRMRGMwaFBLdWVxa1ZaNThacG5yQThZTWVPaGVEa0JvWQ?oc=5",
-   "source": "핀포인트뉴스",
-   "time": "2026-10-15T10:30:44+09:00",
-   "stocks": [
-    {
-     "name": "천일고속",
-     "code": "000650"
-    }
-   ],
-   "thin": true,
    "dir": "up"
   },
   {
