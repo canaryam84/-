@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T01:20:40.548695+09:00",
+ "updatedAt": "2026-10-17T04:51:10.099756+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -577,6 +577,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "임오식 회장, 진도 주식 9만6757주 ↑…지분율 8.46%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OUJEZmRCeWJZbVRXVnZGOHNpcmFNMS04NU5kWTJKLVl0TVhuTktCVTFha2VnVmdvZEkzWjBreC0td2R3Rl9qSTV6WjFrRHN3bmZGMmxjUFhuTHhQZEo3SVNQN1ZnQS10ejFGbWN4MUE0VE0?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-16T16:10:20+09:00",
+   "stocks": [
+    {
+     "name": "진도",
+     "code": "088790"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "랑시코리아주식회사, 아가방컴퍼니 주식 29만5059주 ↑…지분율 34.62%",
@@ -2057,6 +2071,20 @@
     {
      "name": "휴스틸",
      "code": "005010"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "특징주, 효성-풍력에너지 테마 상승세에 5.4% ↑",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13a0NrVVBtNWExbjBtanBUbWxFdlUwMEpXUHV0RTh0XzRQVHFJXzlCZUxxUHA2dFBaLXQzOXhrTndjRXBOZlY3OTFwbDFRYm1YRXc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "2026-10-16T10:36:05+09:00",
+   "stocks": [
+    {
+     "name": "효성",
+     "code": "004800"
     }
    ],
    "thin": false,
