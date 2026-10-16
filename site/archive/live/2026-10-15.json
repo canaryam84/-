@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T16:26:38.905651+09:00",
+ "updatedAt": "2026-10-16T18:58:55.877514+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -727,6 +727,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] 한국항공우주 공급계약 공시 속 4.68% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XWUZOTXdMZUx0eHVva29GSmpwZU5qdW91ODlvU050QlhpNmZtTE5FVVdLM05LY0c2OXlXTk52OGN0VjhaeEhpellDYw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T15:56:00+09:00",
+   "stocks": [
+    {
+     "name": "한국항공우주",
+     "code": "047810"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 멜콘, 코스닥 입성 첫날 42% 강세 마감…상승폭은 줄어(종합)",
