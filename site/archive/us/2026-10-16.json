@@ -1,0 +1,39 @@
+{
+ "label": "미국 10월 16일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.34,
+   "text": "-0.34%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVlEU1ZXX2Y1OEVvOXRSYl9nZFBqblhGWG14Z3ZKY1U1bkpLeGZwd25nNndYNUUxeGlkOUNMRWhkOTA2RDZHWnZhWTRiSFFQMi1rcG96QUdWbUtOUmF1ZXdSR0dOZnJySzVKeVYwV0hTcmNBaElHYXFFQ04zb0U1MEsyeWQ0WV81ZkExaWM5a1VEXzhPSW56WjZHVFRYVzNiTjBjRTdqQXdPaVhtWGc0X0U5SGI2N0pIeHlzMFVxUXh6UmlxWG93?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -2.15,
+   "text": "-2.15%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZV3dDYVNudVpxR1FKM2ZZblNWQXdZZEtaRk5NdmpWMVV2UjNPbWl3ZUY0SGdOZEU1QXFZMzNHamdnSlpPWGc5d0RMdkZwbUpo?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Exascale",
+   "sub": "XLAB",
+   "pct": 73.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Exascale shares jump 73%: The cash test behind its GPU deal",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hUjd5QmpHenZMd3VGWFRWZXpHVzAtUXdRbWhrRFNiNkJHOHZvOEdfLURRdXY1Qi01RGl5WXd6YnEzbU4yelJueE9IUzRQLVFGTGJxZEUyalZ3X2xyMGFoNFRCdk0?oc=5",
+     "source": "Techi",
+     "time": "2026-10-17T05:39:01+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-17T07:24:12.496952+09:00"
+}
