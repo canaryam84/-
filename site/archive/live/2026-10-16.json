@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T05:11:53.369273+09:00",
+ "updatedAt": "2026-10-17T07:52:36.679241+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -808,6 +808,20 @@
     }
    ],
    "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[마감분석] 하나금융지주 강보합 마감 속 기업설명회 공시 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56aWU0N3FFb0tuUVBrNVp5TkM2OXAySzNLdTFPZ2EtZDQzMVRmZWtEbmhna04xZXFfN2RqZ1JwaWstMGx1VC1IcS14Yw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T15:49:02+09:00",
+   "stocks": [
+    {
+     "name": "하나금융지주",
+     "code": "086790"
+    }
+   ],
+   "thin": true,
    "dir": "none"
   },
   {
