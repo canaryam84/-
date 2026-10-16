@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T04:51:10.099756+09:00",
+ "updatedAt": "2026-10-17T05:11:53.369273+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -479,6 +479,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] IPARK현대산업개발 2.88% 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uSFNjQVNJdERhdXhjRWZ0YlZRTDVtelR5em12eWRreXZtV2k2MDV6MFN6Z1B4dDlWWFowSnNCekIyQm1QM3ltSWhZQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T16:22:42+09:00",
+   "stocks": [
+    {
+     "name": "IPARK현대산업개발",
+     "code": "294870"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[마감분석] 아시아나항공, 소송 제기 공시 속 8.79% 급락 마감 : 기업주식정보",
