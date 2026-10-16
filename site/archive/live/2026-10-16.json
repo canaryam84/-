@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T07:52:36.679241+09:00",
+ "updatedAt": "2026-10-17T08:52:23.272471+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -1469,6 +1469,20 @@
     {
      "name": "SK하이닉스",
      "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "시장금리 급등에 보험주 목표주가 하향…현대해상 12.7% 낮춰",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RMG05UmdUNUNOTFEyc0dfaWs3ZU0zbE50OTJoZ19JamV4XzdmOEtpVjBXSlE0Q1hGeUNhOElUbUN0eEJzUWplM1JQN0k4WGRZczdWSEdBUTl1M2xPLVdwRmtHR1BRaHlBSGZV?oc=5",
+   "source": "https://www.diarypoint.com/",
+   "time": "2026-10-16T12:26:00+09:00",
+   "stocks": [
+    {
+     "name": "현대해상",
+     "code": "001450"
     }
    ],
    "thin": false,
