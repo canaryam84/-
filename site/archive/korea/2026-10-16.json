@@ -1,5 +1,5 @@
 {
- "label": "10월 16일(금) 정규장 마감 후 보도 기준",
+ "label": "10월 16일(금) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -49,6 +49,28 @@
    ]
   },
   {
+   "name": "리브스메드",
+   "sub": "코스닥 · 491000",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[주식] 리브스메드, 수술 로봇 '스타크' 허가 목표...상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0VHBTTkpjVTFGUnpOZDNWU21tZF9GNU1OUWtfUWlpZHFIenhYc1hMbkhEZzNQN0ZpWDdNQnhTelo3b0RCWW9oM3RWZE5VZlZEcW5tWGJncjdROUVYN1NZdFhZWWtqcUlWTXFJ?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-10-16T18:51:08+09:00"
+    },
+    {
+     "title": "리브스메드 주가, 10월 16일 43,600원 28.24% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VdlZ1ajhpX1J5TEc5S0ZMVmNhVDZLaEt6TUpuQW9KNHhmaFVRT25Rd3hIeDlOckpQdGpjZmpSdlBGNlFvT3pTMFRvSlZLRHN3dE1UVXBqQlN5N01Bd2Nad0tSdmNDN2lENFQyWWx5Ukg5UQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-16T15:54:36+09:00"
+    }
+   ]
+  },
+  {
    "name": "다이나믹솔루션",
    "sub": "코스닥 · 290660",
    "pct": 30.0,
@@ -71,6 +93,22 @@
    ]
   },
   {
+   "name": "엘앤씨바이오",
+   "sub": "코스닥 · 290650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 엘앤씨바이오 상한가 도달…KRX·NXT VI 잇따라 발동, 유상증자 청약률 103.92%",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94VENoSnJUZVUwOFZ5Mkg5VUpFTnFuaXNFNVZPaVBOd1QweFVLY0NxTnBxbzBrU3BmRXdhb2FBVnNndzU2S3R4XzNHR0VpV3V1aElsdFBZa1V5Y081MVA1b2hvYVV3ZlFa?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-16T14:30:46+09:00"
+    }
+   ]
+  },
+  {
    "name": "한국비티비",
    "sub": "코스닥 · 219750",
    "pct": 30.0,
@@ -87,22 +125,6 @@
    ]
   },
   {
-   "name": "리브스메드",
-   "sub": "코스닥 · 491000",
-   "pct": 28.24,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "리브스메드 주가, 10월 16일 43,600원 28.24% 급등",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VdlZ1ajhpX1J5TEc5S0ZMVmNhVDZLaEt6TUpuQW9KNHhmaFVRT25Rd3hIeDlOckpQdGpjZmpSdlBGNlFvT3pTMFRvSlZLRHN3dE1UVXBqQlN5N01Bd2Nad0tSdmNDN2lENFQyWWx5Ukg5UQ?oc=5",
-     "source": "톱스타뉴스",
-     "time": "2026-10-16T15:54:36+09:00"
-    }
-   ]
-  },
-  {
    "name": "삼아알미늄",
    "sub": "코스피 · 006110",
    "pct": 17.0,
@@ -112,7 +134,7 @@
    "articles": [
     {
      "title": "[특징주] 삼아알미늄, ESS 사이클·반발매수 기대…17%대 상승",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDc080T3h2bzljdUU5R2NERWJHTXA3OWRLdkVhNEJQMXl4djIzdVJFaTZfdGh4MmdKSDFEX052Q1JZd0JYZG1vTzdlWlZaQkU1UURGbVJ4Ml_SAVhBVV95cUxQQ3NPNE94dm85Y3VFOUdjREViR01wNzlkS3ZFYTRCUDF5eHYyM3VSRWk2X3RoeDJnSkgxRF9OdkNSWXdCWGRtb083ZVpWWkJFNVFERm1SeDJf?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13TmRuYXFjZDZsY0thbnZCZ2hHc2NIWkE5WUZMeDFGWUlSZGx1MFdxWUpoQnlBWGN0M0NVdlVtYk9sR2pBWk8tX0lTVXdBc2llWTY4LVJVOGg4Z9IBWEFVX3lxTFBDc080T3h2bzljdUU5R2NERWJHTXA3OWRLdkVhNEJQMXl4djIzdVJFaTZfdGh4MmdKSDFEX052Q1JZd0JYZG1vTzdlWlZaQkU1UURGbVJ4Ml8?oc=5",
      "source": "아주경제",
      "time": "2026-10-16T13:56:33+09:00"
     }
@@ -135,5 +157,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-16T17:05:14.633167+09:00"
+ "updatedAt": "2026-10-16T20:39:43.886212+09:00"
 }
