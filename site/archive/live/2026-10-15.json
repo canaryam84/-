@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T10:51:07.220379+09:00",
+ "updatedAt": "2026-10-16T14:29:57.237943+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -1018,6 +1018,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "뉴인텍 상한가…전기차용 커패시터 수요와 재무구조 점검",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QR0VKN0pTenFBcVl5VmN6MnRnRGxVM0E2SzFTcVZKUU5xbUV4VTZvbThDZTlod3Q2Y1dZZUJCLUdVUW5uOWkxdkluOVNxVEVOVktvM2d3bkxRYndOWFY5MHBnR1UwWjdOSkgyMlFmRXBkd9IBckFVX3lxTE5QR0VKN0pTenFBcVl5VmN6MnRnRGxVM0E2SzFTcVZKUU5xbUV4VTZvbThDZTlod3Q2Y1dZZUJCLUdVUW5uOWkxdkluOVNxVEVOVktvM2d3bkxRYndOWFY5MHBnR1UwWjdOSkgyMlFmRXBkdw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-15T14:53:20+09:00",
+   "stocks": [
+    {
+     "name": "뉴인텍",
+     "code": "012340"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
