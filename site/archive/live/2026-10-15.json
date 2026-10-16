@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T14:29:57.237943+09:00",
+ "updatedAt": "2026-10-16T16:26:38.905651+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -2130,6 +2130,20 @@
     }
    ],
    "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 맥쿼리인프라, 뚜렷한 공시 없이 장중 9550원 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VV3JsdjVwUU5iOVJPdHY1aFNfdjdHVWFPSzg4SGRodXZnQWlsd1dtNFllVi04bTZEaGRGd3RTZWlUX0J3dHVPejFtUQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:37:00+09:00",
+   "stocks": [
+    {
+     "name": "맥쿼리인프라",
+     "code": "088980"
+    }
+   ],
+   "thin": true,
    "dir": "down"
   },
   {
