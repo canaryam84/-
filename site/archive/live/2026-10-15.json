@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T08:53:43.962047+09:00",
+ "updatedAt": "2026-10-16T09:36:31.209286+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -2173,6 +2173,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 현대글로비스, 뚜렷한 공시 없이 장중 2%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtVWJudUhhUmJCMmg0cXRZQktlbHptcWhWbmI5OGlMZnpEUWVielFwX3FHejE5R2VIcGY0NllEUERDVHRwV2NqdGloaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T10:29:00+09:00",
+   "stocks": [
+    {
+     "name": "현대글로비스",
+     "code": "086280"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "대한광통신·RFHIC·한미반도체 등 주가 급락…기술주 동반 약세, 미국 PPI에 촉각",
