@@ -1,6 +1,6 @@
 {
  "label": "10월 14일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T12:03:17.917951+09:00",
+ "updatedAt": "2026-10-16T13:55:56.683978+09:00",
  "items": [
   {
    "title": "[주요공시] 티피씨, 대주전자재료, 넥사다이내믹스, 스피어, SNT에너지, 서울반도체 외",
@@ -1177,6 +1177,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[주가] 10월 14일 주요 제약·바이오·기기 5% 변동 현황 - 프롬바이오 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MZGVkNlgtaVhydlZCei1UQl9ZdnlaaVJWNERzSnhBSDFoTEtPLVB3R1VBM2lRNXZJSFlsUnd5akFWSlhhS2M2V3JkcS10aXBpeW1zTGhkRFVkbnptVUZ0TnI5X0xBcTA0bW5Z?oc=5",
+   "source": "메디파나뉴스",
+   "time": "2026-10-14T15:38:35+09:00",
+   "stocks": [
+    {
+     "name": "프롬바이오",
+     "code": "377220"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "하이퍼코퍼레이션, 110억원 유증 공시 뒤 장중 상한가",
