@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T22:09:54.058380+09:00",
+ "updatedAt": "2026-10-17T00:20:41.175223+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -597,6 +597,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] 케이씨텍, 확인된 공시 없이 11.88% 급락 9만9400원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ON0U4T0FReXExemJBU0VqMjVVanhrMUtEU1FmcVpzeDZkdzZnOExUN0dlNDA0Y19XbDJsSnZWaXZZRmRTQjFRU2Vuaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-15T16:20:00+09:00",
+   "stocks": [
+    {
+     "name": "케이씨텍",
+     "code": "281820"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "대한항공 3분기 매출 5조488억원 역대 최대…영업익 12% 증가",
@@ -3477,6 +3491,24 @@
     {
      "name": "다올투자증권",
      "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]한화솔루션, '늦었지만 채워지는 내실' 목표가 41,000원 - DB증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LYjZWUWN5NEpNeFpuZzEyNFB6TkRrbnBSNGhWbWpvOWE5dUF2NndrOHBFMUxHNmNFV0M2QVNFS1A2bkdTRG5nNHRjS1NCU3FPZGR6M2dPT09Na0xr?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T08:35:00+09:00",
+   "stocks": [
+    {
+     "name": "한화솔루션",
+     "code": "009830"
+    },
+    {
+     "name": "DB증권",
+     "code": "016610"
     }
    ],
    "thin": false,
