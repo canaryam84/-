@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-16T09:36:31.209286+09:00",
+ "updatedAt": "2026-10-16T10:51:07.220379+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -1561,6 +1561,24 @@
    "dir": "up"
   },
   {
+   "title": "DB증권, 한화솔루션 목표가 4만1천원 하향...투자의견 ‘매수’ 상향",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZ1RSRGVHai14XzRvUHgxb2poUEI5d2VjLVlFNjRJUFk3amhUeXdtaTEtbEpEWXJmeGxmVnJYSEFYMnVYVmdIX211X25STWFCRVN5ZjB4dDE5UlpHdXp1ekpPYnY?oc=5",
+   "source": "www.ppss.kr",
+   "time": "2026-10-15T11:40:33+09:00",
+   "stocks": [
+    {
+     "name": "DB증권",
+     "code": "016610"
+    },
+    {
+     "name": "한화솔루션",
+     "code": "009830"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 외국인, 삼성전자·SK하이닉스 '팔자'…기관은 '사자'",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41clFMUE1hT3JnMHF6Z1pjaHB2NjVhb2h6WXJicEdWWlhaeHRBa2NzWmE5OG1rVjN6TDBud3M0eklZbjVLb2w0Z012Q3E2U3JEVkR2ZFhjZExkNFUwcThpV09GTVZMQ2xkMkE?oc=5",
    "source": "뉴스티앤티",
@@ -3057,6 +3075,20 @@
    "link": "https://www.hankyung.com/article/2026101531276",
    "source": "한국경제",
    "time": "2026-10-15T09:14:55+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "3분기 반등 성공한 에스원, 전체 주식 23% 소각 초강수",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5SlZta29sdFBmaUEwZ09WR3c1VWQzekhiNTlJOVItVzVqSERMbjFmd2xxdGpNVmVsZDZobkJiT3U1eDlwb0IyWWpicHhXTXRObUwxMkR4bmRWa3d1bjlJRWZ5Wm16TjBGb181V9IBb0FVX3lxTFBWX1FRcW5IQWU3ajJfU1A0WGlIYjI0YTY2anFXMy1tNHRWWlNMMFlsTDlBQmVnY2tBc2ctZmM2U205VUJQV1BDLVduUlh5NXI3akVvQndzcF9rZFphbmVubDV4Y08xM3ZWSGJhQ01VQQ?oc=5",
+   "source": "한스경제",
+   "time": "2026-10-15T09:12:50+09:00",
    "stocks": [
     {
      "name": "에스원",
