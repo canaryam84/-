@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T00:20:41.175223+09:00",
+ "updatedAt": "2026-10-17T01:20:40.548695+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -939,6 +939,24 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[오늘의 특징주] TS트릴리온·에코앤드림 상한가…AI 데이터센터·배터리 소재 투자 기대",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mdTh4Tkt0X1RTSlpvQUhWNjdQU05JVEVSMk44S284TUd3Zk9CWnhpNGlnWldLMVpMSVdRcS1Qb0dXbmZ1UzhITDVoeVRQZkJNcGxrUkx1c25ZNGJGOWlXcnU4ZlE?oc=5",
+   "source": "https://www.ppss.kr/",
+   "time": "2026-10-16T15:04:03+09:00",
+   "stocks": [
+    {
+     "name": "TS트릴리온",
+     "code": "317240"
+    },
+    {
+     "name": "에코앤드림",
+     "code": "101360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[BioS]HLB 베리스모, 고형암 ‘CAR-T’ 전임상 결과 “SITC 공개”",

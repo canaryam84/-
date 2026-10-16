@@ -1,6 +1,6 @@
 {
  "label": "10월 15일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T00:20:41.175223+09:00",
+ "updatedAt": "2026-10-17T01:20:40.548695+09:00",
  "items": [
   {
    "title": "주가 폭락했는데…\"누가 물리래?\" 삼성전자 직원은 환호성, 왜?",
@@ -2574,6 +2574,24 @@
     }
    ],
    "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]GS건설, '내실을 다지는 3분기' 목표가 50,000원 - LS증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MR0F4bFhhQVF1N01DUXRTMHBqZUpVY1VVYjRiUGhsb1AtbFhXWFBaOXJ4NFY3WVNnelpHRlo0VTFmbWpQN0dyTF9oUEh2dnE5QlBTUVRNaVJ1UEN1?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-15T10:00:00+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    },
+    {
+     "name": "LS증권",
+     "code": "078020"
+    }
+   ],
+   "thin": false,
    "dir": "none"
   },
   {
