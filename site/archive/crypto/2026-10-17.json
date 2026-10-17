@@ -1,0 +1,31 @@
+{
+ "label": "10월 17일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.37,
+   "text": "-0.37%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KTWNqQkJlYVc0cnVIcFcweXhuQm5FQ1ItVUdVSlk2dHFKOE5fNGhwcFZVUTRHaUhWcFBNcUFraV9URmttb0duU2E3UENueDBFTlN3dEpkeWdCVzc4anVIMWkzRHl4SWky?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "LayerZero",
+   "sub": "가상자산",
+   "pct": 22.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Injective 29%·LayerZero 22% 급등…NEAR도 두 자릿수 강세",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CaEQ0NnR3bjNfYzEyVnJaeVhXSmlOSmRpYkZHU0VwM0EtUnEyVVlaN3F1MUlFUXBQRHVWclFWdXJXSElFcTVRN013UEtnQ1lyRkE0RnB0MXRkeXJYS25LWjlnRlJRcjZXalVDMnRR?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-16T16:17:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-17T12:24:01.581400+09:00"
+}
