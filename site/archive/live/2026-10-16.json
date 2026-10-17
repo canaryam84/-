@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T14:49:03.057640+09:00",
+ "updatedAt": "2026-10-17T18:13:25.872369+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -1065,6 +1065,20 @@
     {
      "name": "달바글로벌",
      "code": "483650"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[ET특징주]TS트릴리온, 2.3조원 천안 AI데이터센터 공동개발 추진에 상승세",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfTUZ5dkFYZ3NaWFZQd1FBSzNnWDJ0aFh2OXpFWHlLTVAzeURFbkhUcmo2Ty1Fb2MyN2lqSjBOX25kdG1hS3FjSUNwSnhSdw?oc=5",
+   "source": "전자신문",
+   "time": "2026-10-16T14:51:22+09:00",
+   "stocks": [
+    {
+     "name": "TS트릴리온",
+     "code": "317240"
     }
    ],
    "thin": false,
