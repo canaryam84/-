@@ -26,11 +26,17 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 3,
+   "newsCount": 4,
    "articles": [
     {
+     "title": "[오늘의 특징주] TS트릴리온·에코앤드림 상한가…AI 데이터센터·배터리 소재 투자 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mdTh4Tkt0X1RTSlpvQUhWNjdQU05JVEVSMk44S284TUd3Zk9CWnhpNGlnWldLMVpMSVdRcS1Qb0dXbmZ1UzhITDVoeVRQZkJNcGxrUkx1c25ZNGJGOWlXcnU4ZlE?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-16T15:04:03+09:00"
+    },
+    {
      "title": "[특징주] 2조 규모 AI 데이터센터 공동개발…TS트릴리온 상한가",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnV2RkYk52YUN3NFBsQVF5dkdEVmlRTzVBUFlwZTF0QVZvLWtxVURXeFhoZ0E1S3EycGlsMEhUa1JZQmI4N0l5R3Zici1lanM0U2ZKOTNMa3dWWFI0YjJPTnlwakZ3YktFajVMdzVndk5mdw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wWVVLQ0RaN29yRTVlelVicHFqYWJHT01LUDh2TVF0V2xIODd2VzgzbEpDUlpHNURUdWd6NXRRb2lwRVVYNEdDUURaMjhyS05RbHpiNw?oc=5",
      "source": "이투데이",
      "time": "2026-10-16T09:13:00+09:00"
     },
@@ -42,7 +48,7 @@
     },
     {
      "title": "[급등락주 짚어보기] TS트릴리온, AI데이터센터 추진에 상한가⋯대양금속 이틀째 上",
-     "link": "https://www.etoday.co.kr/news/view/2636806",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xenJxeUxjS0I2YkV6YkxaWUh2XzgzWVhQZHJpQ20tdHhFVWh1SUkya1V6ZnFPaFlEZGhXMFR6ZEk2aVd4V2J4bTdrdXVES256U3lxYw?oc=5",
      "source": "이투데이",
      "time": "2026-10-16T16:46:00+09:00"
     }
@@ -93,6 +99,28 @@
    ]
   },
   {
+   "name": "에코앤드림",
+   "sub": "코스닥 · 101360",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] TS트릴리온·에코앤드림 상한가…AI 데이터센터·배터리 소재 투자 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mdTh4Tkt0X1RTSlpvQUhWNjdQU05JVEVSMk44S284TUd3Zk9CWnhpNGlnWldLMVpMSVdRcS1Qb0dXbmZ1UzhITDVoeVRQZkJNcGxrUkx1c25ZNGJGOWlXcnU4ZlE?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-16T15:04:03+09:00"
+    },
+    {
+     "title": "[특징주] 에코앤드림, 내년 전구체 역대 최대 출하 목표에 16%↑",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44YzQ0cXdNY2cxelhWQ3k4bm1GdjlEU0tyMGpJaUJtd3JmbWVocDl6S3c3M2dYeFloX1FCYnZmYUFCT2l1UUhIb1VJemRTeXplVWtVc2ZGR3ppNS0w?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-16T10:43:00+09:00"
+    }
+   ]
+  },
+  {
    "name": "엘앤씨바이오",
    "sub": "코스닥 · 290650",
    "pct": 30.0,
@@ -125,6 +153,38 @@
    ]
   },
   {
+   "name": "한화갤러리아",
+   "sub": "코스피 · 452260",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한화갤러리아우 상한가…보통주와 가격 차이 확대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42U05CM1pMeWpycU9jYTMxWDlQelhscW54SXpDSmJhVTRxSkx5V3VNSVk4Q05pSDlfX0FqcnNtVXR3NWhCSGgtM1NHcU82Qy1JUDNXTUFpY0JBUzBiT3l0cjh6TjdHcmU5RTh4SlVaYTJIQdIBckFVX3lxTE42U05CM1pMeWpycU9jYTMxWDlQelhscW54SXpDSmJhVTRxSkx5V3VNSVk4Q05pSDlfX0FqcnNtVXR3NWhCSGgtM1NHcU82Qy1JUDNXTUFpY0JBUzBiT3l0cjh6TjdHcmU5RTh4SlVaYTJIQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-16T14:44:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "우리로",
+   "sub": "코스닥 · 046970",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "우리로, 24%대 급등…새주 흐름 '주목'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2MzFFMGFtNGNXSEk4cXQ5TU9wU1VFTks2b25jeF93NlR3M2lsaGFQZXFBSHNhQTVrckpkbGg4T1ZNcXozTGJiN0ZmTk83bEZScHd5NHk5Njg5cVlfY2lRTlFTRFFjOGRz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-17T00:41:00+09:00"
+    }
+   ]
+  },
+  {
    "name": "삼아알미늄",
    "sub": "코스피 · 006110",
    "pct": 17.0,
@@ -134,28 +194,12 @@
    "articles": [
     {
      "title": "[특징주] 삼아알미늄, ESS 사이클·반발매수 기대…17%대 상승",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13TmRuYXFjZDZsY0thbnZCZ2hHc2NIWkE5WUZMeDFGWUlSZGx1MFdxWUpoQnlBWGN0M0NVdlVtYk9sR2pBWk8tX0lTVXdBc2llWTY4LVJVOGg4Z9IBWEFVX3lxTFBDc080T3h2bzljdUU5R2NERWJHTXA3OWRLdkVhNEJQMXl4djIzdVJFaTZfdGh4MmdKSDFEX052Q1JZd0JYZG1vTzdlWlZaQkU1UURGbVJ4Ml8?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDc080T3h2bzljdUU5R2NERWJHTXA3OWRLdkVhNEJQMXl4djIzdVJFaTZfdGh4MmdKSDFEX052Q1JZd0JYZG1vTzdlWlZaQkU1UURGbVJ4Ml_SAVhBVV95cUxQQ3NPNE94dm85Y3VFOUdjREViR01wNzlkS3ZFYTRCUDF5eHYyM3VSRWk2X3RoeDJnSkgxRF9OdkNSWXdCWGRtb083ZVpWWkJFNVFERm1SeDJf?oc=5",
      "source": "아주경제",
      "time": "2026-10-16T13:56:33+09:00"
     }
    ]
-  },
-  {
-   "name": "에코앤드림",
-   "sub": "코스닥 · 101360",
-   "pct": 16.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "[특징주] 에코앤드림, 내년 전구체 역대 최대 출하 목표에 16%↑",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44YzQ0cXdNY2cxelhWQ3k4bm1GdjlEU0tyMGpJaUJtd3JmbWVocDl6S3c3M2dYeFloX1FCYnZmYUFCT2l1UUhIb1VJemRTeXplVWtVc2ZGR3ppNS0w?oc=5",
-     "source": "뉴스핌",
-     "time": "2026-10-16T10:43:00+09:00"
-    }
-   ]
   }
  ],
- "updatedAt": "2026-10-16T20:39:43.886212+09:00"
+ "updatedAt": "2026-10-17T16:56:35.033444+09:00"
 }
