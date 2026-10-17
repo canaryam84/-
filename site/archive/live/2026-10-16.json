@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T18:13:25.872369+09:00",
+ "updatedAt": "2026-10-18T00:11:35.295596+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -481,6 +481,20 @@
    "dir": "none"
   },
   {
+   "title": "[마감분석] 오리온홀딩스, 특별한 공시 없이 소폭 반등해 2만2650원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVjNZSTAwUGJ6SnFmY2VCaHZVeFg3Q1gyd3JnUFR3UDRTY2IzOVRPaWluSGNnZXJjQUZPSUdxWkgyd3Z6UmhsX3U4NA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T16:23:27+09:00",
+   "stocks": [
+    {
+     "name": "오리온홀딩스",
+     "code": "001800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[마감분석] IPARK현대산업개발 2.88% 상승 마감 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uSFNjQVNJdERhdXhjRWZ0YlZRTDVtelR5em12eWRreXZtV2k2MDV6MFN6Z1B4dDlWWFowSnNCekIyQm1QM3ltSWhZQQ?oc=5",
    "source": "재경일보",
@@ -681,6 +695,20 @@
    "dir": "up"
   },
   {
+   "title": "[마감분석] 유한양행, 뚜렷한 공시 없이 5.24% 반등하며 8만 원대 회복 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41c3JFdVRWdmVrYlRBMHZ6blUwUGozUE9FY09YalNBM19VR1h2ME5yclNTLUpSREtDV1ZJUWlmaVdDanI2UmFSN1ZBSQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T16:01:00+09:00",
+   "stocks": [
+    {
+     "name": "유한양행",
+     "code": "000100"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 화장품주, 저가 매수세 유입에 반등…달바글로벌 8.32%↑",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVjM3SFdRRHBjV2xqZ2FNaG9NMXhPNng4RWtjanVSN3JWQXhEZjlyM2tGb0Q0cXBRU3QzV2JRUl84SnV5OFVXTlA4S2s4Q2NURWZyME9ucUpHTElUUTlaZm9OWFlLWDVoeHc?oc=5",
    "source": "https://www.moneystorm.kr/",
@@ -692,6 +720,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 아모레퍼시픽 5.22% 급등 13만9200원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CTWZxMXRBS0t0alRHcE00VFU1ZXZCbHRpX25jY2tDcU10dXlpVURmSXNiWkU1NGtYYnEzV3JrMzQ4VzkyaXdNSkg0dw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T15:58:00+09:00",
+   "stocks": [
+    {
+     "name": "아모레퍼시픽",
+     "code": "090430"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
@@ -1113,6 +1155,20 @@
    "dir": "down"
   },
   {
+   "title": "뉴보텍, 5 대 1 주식병합 결정…액면가 2500원 변경",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ELW9Ec3B2dFphWUs1VjZHU0pmd0Vic1NBMTRrZnJycUtsWW1qWVdlTVlrUEtKYmtoMUVpMXR5eU1PNUJhTUdtOFdWSUNucFB4eHViNUVjSHJKUllkZENHWU90YUJhQ1ZBS3J5ekE1N3gyYzQ?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-16T14:49:21+09:00",
+   "stocks": [
+    {
+     "name": "뉴보텍",
+     "code": "060260"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
    "title": "한화갤러리아우 상한가…보통주와 가격 차이 확대",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42U05CM1pMeWpycU9jYTMxWDlQelhscW54SXpDSmJhVTRxSkx5V3VNSVk4Q05pSDlfX0FqcnNtVXR3NWhCSGgtM1NHcU82Qy1JUDNXTUFpY0JBUzBiT3l0cjh6TjdHcmU5RTh4SlVaYTJIQdIBckFVX3lxTE42U05CM1pMeWpycU9jYTMxWDlQelhscW54SXpDSmJhVTRxSkx5V3VNSVk4Q05pSDlfX0FqcnNtVXR3NWhCSGgtM1NHcU82Qy1JUDNXTUFpY0JBUzBiT3l0cjh6TjdHcmU5RTh4SlVaYTJIQQ?oc=5",
    "source": "잡포스트",
@@ -1195,6 +1251,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]LG유플러스, '내실은 깊게, 성장의 폭은 넓게' 목표가 21,000원 - 삼성증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mV3AxM1ZNS29lUEtFcUlCaFkyNzhLVlprOXB0NjVTVEN5bnRNVU9aYXN4TDNqSjhwd0g3U0RoSVp1dGYwc2ViNFZGUFl0RExfWWVDOXBMYzVRbjNt?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T14:30:00+09:00",
+   "stocks": [
+    {
+     "name": "LG유플러스",
+     "code": "032640"
+    },
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "곽노정 “올해 성과, 협력사와 함께 만든 결실”…SK하이닉스, 3만명 초청 감사 행사",
@@ -1679,6 +1753,20 @@
     {
      "name": "현대위아",
      "code": "011210"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] HD현대마린엔진, 특별한 공시 없이 장중 3.98% 상승 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yelRDSVM3ZFFpRUNHZXJwM3pTb29oZ0o4RWZLQjVuekdFMlR3TmpoeVNzVS1pYUF6VmNsQzB2YjN2NWYtZTRVeFpDTQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T10:58:00+09:00",
+   "stocks": [
+    {
+     "name": "HD현대마린엔진",
+     "code": "071970"
     }
    ],
    "thin": true,
@@ -2365,6 +2453,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] LG에너지솔루션, 횡령·배임 공시 속 장중 1%대 상승 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXTmwwMVR6ajB0VlI4M3FSTF82dEtGV09wRzJYeUlETWt1eV91M25ZSXhpZ0lTamtaOFZPWXE0YkRqVWtEOVZtMm11bw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T10:21:00+09:00",
+   "stocks": [
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "“화장품주, 조정 과도했다”…에이피알·달바글로벌 7%대↑[특징주]",
    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQUlE5aVV5Unc5bWhJVEppcWwyZ0FzY2YwZndEM1J1NHRUMTdBMFRUSHJoeEg0czRpVktsLUQ3RDVucURyYjZpWjRWR1J2S3ZTYlExbXN6VHNJZVlBQXlFTDRMNHNhOW04aXpvT1hObXdOMWRka2ZyZDJ6X09OZ1VoUk9iYU0tSUl1MGlFZnBhTUpXVHZwN2dxZ2NPakhMZ005V2ZSZFplTnk0OEEtdGxmaGstM0VyanhBSTBTWDRwamMyOHk4ZkM4OUhhVWFmZTBRYmZnWVdLUkRBNS1hX0NrVnpFTm9JOVRMZ1JVY0ZfcTVrVzhZTmhSWS0tVjBkdVVQNVh0UnJDV0Y2X0ZtMm1QME16dEFuQkZUbE05ZGZVaXI5Z0NDR2xvNXRGWUI4UWYxMnhtYVE2bVU?oc=5",
    "source": "데일리안",
@@ -2521,6 +2623,20 @@
    "dir": "down"
   },
   {
+   "title": "[리포트 브리핑]LIG디펜스앤에어로스페이스, '3Q26 Preview' 목표가 1,000,000원 - 유진투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBELW1IeFF1MmJzLVhwWkN3RENmNm9vejFDN05wZjQzUDM1TXQ4aU9DNXA0czk3dW0xaDFtcF9uaHR3bE1Wc0pHVk9IY0puZV9pLVZpLVc5dlBqTEE2?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T10:07:00+09:00",
+   "stocks": [
+    {
+     "name": "LIG디펜스앤에어로스페이스",
+     "code": "079550"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "전원책 \"SK하이닉스 주가 급락, 광주 반도체 공장 추진 등 리스크 영향\"",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UlI3SDdzMGRLdkJ4RUJhSkFqZWNsTzhMblRubHU4ZFFIam5XU0V5bVZvdWt5WmpCSWUzdFJXb0pKXzB4a2ZaVUJEUHo2VmtQZmNLWWxzMzJsT05QWlBkUktTR25oSld1eEJnQw?oc=5",
    "source": "프리진경제",
@@ -2633,6 +2749,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]달바글로벌, '불리한 환에도 효율화 지속' 목표가 310,000원 - 다올투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MVGgtSzFvYUJEX0lPcXdwdXZOb0lDT0NGZ3ROc0U3eU9keEowWGU5VmFPdXdVcWtnTnpFR2gwYUlmWUVNaHMxR1dIUXUtaFFTVlo1SFdLUmVVLUNF?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T09:57:00+09:00",
+   "stocks": [
+    {
+     "name": "달바글로벌",
+     "code": "483650"
+    },
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "\"실적 멀쩡한데 주가만 패닉\"… KB증권 \"삼성·SK 급락은 과도한 공포\"",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15a3ZYX3FlLU1saDJLZnNNZW9pWUVlaGN6NTc5Q2ZFQWVjS1FUMG5sMU44RW1WY2tGakdIamktUVVCeW9qQlcwNnpINVY4SlBxMHF6MnJwbVhKeEg4TG9ud3owQ3A?oc=5",
    "source": "디지털데일리",
@@ -2689,6 +2823,20 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]DB손해보험, '투자손익 부진. 향후 관건은 포르테그라' 목표가 220,000원 - iM증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pTkxpRmRiWDNHRHdGZVo5a1Vha2JuVTF1YVdTTHFZNzA1SGlocjFOblFsNGcxb2NYUlBtM3p5ck8teUNsQ1dsakZzNnBndkNpbG5FWGVmQTVGb29q?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T09:47:00+09:00",
+   "stocks": [
+    {
+     "name": "DB손해보험",
+     "code": "005830"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
    "title": "[리포트 브리핑]한화손해보험, '해약환급금준비금 제도 개선 여부가 관건' 목표가 8,000원 - iM증권",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96b3lpODJEY1B5aFpfYnAwaFRpUWxUTlNYNmVLVGRiazNmelNiclljTnRreWhfZ282QW1Cb3hVYWhXemdXNG15TWJXWlVuZ0YwYXRuY01WVHROa2JB?oc=5",
    "source": "뉴스핌",
@@ -2697,6 +2845,20 @@
     {
      "name": "한화손해보험",
      "code": "000370"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]현대해상, '내년 실손과 자동차 개선 여부가 관건' 목표가 58,000원 - iM증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpMDJVeVE5OHVIbkhxb29hMmYxM1cwZzRTS2xydGt2bHZ0VnFtUGdtTHNzVDNDeDZuaFhjTlFwbTB5YUtQNGNFUFRaeGo4dHQxQnNFdW5feFhScTNK?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T09:46:00+09:00",
+   "stocks": [
+    {
+     "name": "현대해상",
+     "code": "001450"
     }
    ],
    "thin": false,
@@ -3693,6 +3855,24 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]삼성E&A, '수주는 이미 초과 달성, 실적도 순항 중' 목표가 73,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1abmtMa084Znh1X2t2TGY4TjIxZkhjTHVPa3NvbTRLcXR2Ty16Z0VxWm1vMDRuZ3pHdUV1MHN2b1Y3Y0tURk1Tb2Z3YWE2eXFrQlNpUTI0VlFuYWlf?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-16T08:34:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "삼성증권 \"대한항공, 별도 기준 매출·영업익 성수기다운 실적\"",
    "link": "https://www.yna.co.kr/view/AKR20261016024700008",
    "source": "연합뉴스",
@@ -4083,6 +4263,20 @@
    "dir": "up"
   },
   {
+   "title": "DB證 “DB손보, 3분기 주주환원·자회사 실적 확대 전망… 목표가 13.1%↑” - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFl2YzJudmxscnBrWVllY2pVU1d5ci1Cc3pfMjRKTVZheFlzR0VtR0FUZnpnbE41eGwtUjZyN3pMSElUejZmMDR0c0NXblVfUHM4ZE5IVFp5aGFXZmVjczBPOEdfTE5JdXBENVFTTGdTVkVzSEF5dzRtXzdadTU4MGdNc0Z4VnNK0gGcAUFVX3lxTE9JdnFKVHpSbDRWc3FoUXA0bEhMWDlyUnI4eGpKaW5RMjV1SGktUmF5ZDlQTlRzSld3VzNWNkE0WHZoWFlacmlTc1FMRXlzSGI1Rml6Z3dTdzVDYWw5Sk9kc0pxdmFYMGpZT2N2Tnh1RHpNSlVZeWtrVUVmVnpmcU11MFlMdkhmdEh5UjFLNDFuMGd1a3J3YncwU2RpNA?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-16T07:47:00+09:00",
+   "stocks": [
+    {
+     "name": "DB",
+     "code": "012030"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "SK證 “메모리株, 극단적 다운턴 선반영⋯지금이 매수 적기”",
    "link": "https://www.etoday.co.kr/news/view/2636454",
    "source": "이투데이",
@@ -4237,6 +4431,20 @@
     {
      "name": "상보",
      "code": "027580"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[속보] 에스엠벡셀 상한가 도달…VI 두 차례 발동되기도",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udzdIZU1nTFU3alJkMTI5ZDV5YkpXZmJkYzJNNGVEWkNJQ01SYV80UkxwMEk0ZkZwYkkzeFdqTWJtX2ttdUJ0YWMyS1BFOEREUTJnSHRTam9kTDhTRE4xNF9zNTdKaWRW?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-16T05:49:01+09:00",
+   "stocks": [
+    {
+     "name": "에스엠벡셀",
+     "code": "010580"
     }
    ],
    "thin": true,
