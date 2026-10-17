@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-18T00:49:14.395377+09:00",
+ "updatedAt": "2026-10-18T04:12:10.413001+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -867,6 +867,20 @@
    "dir": "up"
   },
   {
+   "title": "[마감분석] HD한국조선해양, 수주 공시 속 26만5000원 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01TjctRVZDMndpNDFHbDk2Tk0xWFVkdlliajE4QmJTbXNQeDl5RnBrWFdkRzRBZW1xeTRCZm5mR0hxRmsyS3hoUFJmOA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T15:51:53+09:00",
+   "stocks": [
+    {
+     "name": "HD한국조선해양",
+     "code": "009540"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[카드뉴스]원텍② 늑장 공시 이어 자금사용도 공시와 불일치…'공시 신뢰성' 의문",
    "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218434",
    "source": "인포스탁데일리",
@@ -1341,6 +1355,20 @@
    "dir": "up"
   },
   {
+   "title": "하이젠알앤엠, 자기주식 7만6500주 처분 결정",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56ZDhBWDNuMjh6UFFDUU1qbUpnUkVaa2hDbFUxOTZJLU5fLUVoNEdLVXN2UkQ4Vmo1ZGhfTG5ibkRGWkw3SVNqc20wYzh0RmZaQjFCY2FmakQwZGdpS3FESW5RMTlUazN3NGxYdjY2Q0cyc3M?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-16T14:17:49+09:00",
+   "stocks": [
+    {
+     "name": "하이젠알앤엠",
+     "code": "160190"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "노머스, 20억원 규모 자기주식취득 신탁계약 체결 결정",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CbEsyLXRMQ0lQS05HVHlIZWFZaFFMMlhGbm04dlVzdjdGT3BfTGo5OERLQWlKTFFKQWFvMlBzclVtbGdOZ1V3SGFrRWtORk9QQVVnVmw4VzBKNXdXdm81Y0dHQXBwcjk4bXd3Qk5xT1pPc00?oc=5",
    "source": "데이터투자",
@@ -1413,6 +1441,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "피에이치에이, 70억원 규모 자기주식 취득 신탁계약 체결 결정",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iU3VSczVrRzJ4NlhFcUR4ZUFNS05HcTExUDBKUUU4ZEpYTHRmMktPLW1mdlNtV0p3NzdDSVJvdmNlMXhWTEY3anZFZzN0MTkyUTNkM2pmdUZJRDlGMnR5WjFCZ3p4OGJjMVlDVVFtanJSN0E?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-16T14:05:19+09:00",
+   "stocks": [
+    {
+     "name": "피에이치에이",
+     "code": "043370"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "우진엔텍, 신한울 1·2호기 노외중성자속감시계통 정비용역 계약 체결",
