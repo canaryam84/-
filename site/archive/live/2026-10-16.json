@@ -1,7 +1,21 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-18T04:12:10.413001+09:00",
+ "updatedAt": "2026-10-18T06:11:35.882569+09:00",
  "items": [
+  {
+   "title": "신동국 한미사이언스 담보 1956억, 유지비율 200% 넘었나... 대량보유보고서 공시 분석해보니",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xaE5lS1piNFFlMDlDLU5PbUpya3IyVzlSUXZiSHNtekI4c092cXpkOFNLckExOXBDRUNIcDYwVUJfbUg2Zl9BYUVLMGphVEQ0TnMzXzdFRVRrUGxzeWowWTZvWG1ubm1GRmd5QUhBRllEa0HSAXNBVV95cUxPcWhOZUtaYjRRZTA5Qy1OT21KcmtyMlc5UlF2YkhzbXpCOHNPdnF6ZDhTS3JBMTlwQ0VDSHA2MFVCX21INmZfQWFFSzBqYVRENE5zM183RUVUa1Bsc3lqMFk2b1htbm5tRkZneUFIQUZZRGtB?oc=5",
+   "source": "더 이코노미",
+   "time": "2026-10-16T22:59:05+09:00",
+   "stocks": [
+    {
+     "name": "한미사이언스",
+     "code": "008930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nR1R3UmcybXZfbnc1QWtyaV9kb2tvaDczSlNJVm1yWWpwX0trb19NYktNdlpvTWV6S1RWSHlscWprQVZDTG52NXRBNA?oc=5",
