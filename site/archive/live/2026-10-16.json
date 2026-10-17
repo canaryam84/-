@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T08:52:23.272471+09:00",
+ "updatedAt": "2026-10-17T12:38:04.310090+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -923,6 +923,20 @@
    "dir": "down"
   },
   {
+   "title": "LS전선·LS일렉트릭 실적 주목 속...LS 주가 '장중 급등'",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hV1JNZExkb0NJUWcwWmdaNUZQR3dKd3VCd05ZNDY5NllaMk91aXlQQWlpcE9Vb0ZTTG9WbTI1ZGZaVmlKckozdG4weW1BV3pQY3pTVUNLUXdqdlRVN081dEZyWTEyQnIxazlLMk0xNDRGUTTSAXNBVV95cUxPYVdSTWRMZG9DSVFnMFpnWjVGUEd3Snd1QndOWTQ2OTZZWjJPdWl5UEFpaXBPVW9GU0xvVm0yNWRmWlZpSnJKM3RuMHltQVd6UGN6U1VDS1F3anZUVTdPNXRGclkxMkJyMWs5SzJNMTQ0RlE0?oc=5",
+   "source": "초이스경제",
+   "time": "2026-10-16T15:28:23+09:00",
+   "stocks": [
+    {
+     "name": "LS",
+     "code": "006260"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "권용택 공동대표이사, 에이치시티 주식 1만8787주 ↑…지분율 9.46%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnMzFjbVVTaTQ1cVdIbzN3RUhhanZZcGR3Q1ZiMjRaV2R6a3pqV3pudFMwTF9IWlBHRlJpb1c0V3pWaTd6cFhSNkNxYkptOG5CcENrZE1IaXI2WUhFQ19BblM3SUt0d2gteW9aRmZrR1A4bEU?oc=5",
    "source": "데이터투자",
@@ -1213,20 +1227,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "LS전선·LS일렉트릭 실적 주목 속...LS 주가 '장중 급등'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZVJBbk9xeVo0c1BqQmNFR2RCQkZudHRYSW9VeE8yTjhEZFRraTJTTGoxdkNybzd5bXl1OURUVW12WDZhU29PSmsxUEk3Q2JRdUhKdGlic3N6Z2lUX1JEajVFWHA2NVRlRVNPN0RGc3PSAXNBVV95cUxPYVdSTWRMZG9DSVFnMFpnWjVGUEd3Snd1QndOWTQ2OTZZWjJPdWl5UEFpaXBPVW9GU0xvVm0yNWRmWlZpSnJKM3RuMHltQVd6UGN6U1VDS1F3anZUVTdPNXRGclkxMkJyMWs5SzJNMTQ0RlE0?oc=5",
-   "source": "초이스경제",
-   "time": "2026-10-16T14:13:59+09:00",
-   "stocks": [
-    {
-     "name": "LS",
-     "code": "006260"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "‘3000억 몸값’ 케이씨 우협에 엔베스터·트루블루 컨소시엄 선정",
