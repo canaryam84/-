@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-18T00:11:35.295596+09:00",
+ "updatedAt": "2026-10-18T00:49:14.395377+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -607,6 +607,20 @@
    "dir": "up"
   },
   {
+   "title": "[마감분석] 현대엘리베이터 특별한 공시 없이 1.01% 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EakJ0dTJfcFNoZXEyNnNwbVpfRTBKYV9BY2VhazNTQkROWEVyZmtGM1NNRTVtZmh1bXpfY0VJYXZ1bHBOUzlVc0FfOA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T16:11:00+09:00",
+   "stocks": [
+    {
+     "name": "현대엘리베이터",
+     "code": "017800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "임오식 회장, 진도 주식 9만6757주 ↑…지분율 8.46%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OUJEZmRCeWJZbVRXVnZGOHNpcmFNMS04NU5kWTJKLVl0TVhuTktCVTFha2VnVmdvZEkzWjBreC0td2R3Rl9qSTV6WjFrRHN3bmZGMmxjUFhuTHhQZEo3SVNQN1ZnQS10ejFGbWN4MUE0VE0?oc=5",
    "source": "데이터투자",
@@ -679,6 +693,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[마감분석] LG디스플레이 2.46% 상승 7500원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kdGwwcm16Y3h1emdFbnZsMFJIZHRTU2NYTUdDZ0lYa2J4ajMxOEZ6Z2ZBX2FXVUIyTTBuYkI1cW9TNURqZHAyV04tQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-16T16:06:00+09:00",
+   "stocks": [
+    {
+     "name": "LG디스플레이",
+     "code": "034220"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[마감분석] 키움증권, 구체적 호재 없이 5%대 급등 마감 : 기업주식정보",
