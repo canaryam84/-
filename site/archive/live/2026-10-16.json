@@ -1,6 +1,6 @@
 {
  "label": "10월 16일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-17T13:46:15.294023+09:00",
+ "updatedAt": "2026-10-17T14:49:03.057640+09:00",
  "items": [
   {
    "title": "에이피알 주가 9%대 급등…화장품주 일제히 강세 : 한국증시",
@@ -781,6 +781,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[특징주] 서부T&D, 개발사업 본격화·자산가치 재평가 기대에 8.26% 급등",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Q2lySFhMcFAwRXFwaDQyVEUxNHlsZ3U3VjRkN2dESlpNSHlSYWxjR3J0UFFDRWxCVmJXaUJaNWVIRUVtaUgxZFZfUmdfbnREQ20zZXYxVlI5bFBJWTduazJmcU9FX0xsekE?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-10-16T15:52:51+09:00",
+   "stocks": [
+    {
+     "name": "서부T&D",
+     "code": "006730"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[카드뉴스]원텍② 늑장 공시 이어 자금사용도 공시와 불일치…'공시 신뢰성' 의문",
@@ -2295,6 +2309,20 @@
    "dir": "up"
   },
   {
+   "title": "에스원, 3Q 영업익 5%↑···주주환원 강화에 목표가 상향",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PSFlXblJOWDFJTS1iOVUtUDBxWTVKclNuN2xOLVdFeUhSWi1Fc2dHdzNuandXaks1MTBfaThZb29qeDhWSk1vZ1oxYzdmVnJuME9FbGEzNWhqWlBvYzY1NHJ3Y243NU1uaUNR0gFrQVVfeXFMTU9IWVduUk5YMUlNLWI5VS1QMHFZNUpyU243bE4tV0V5SFJaLUVzZ0d3M25qd1dqSzUxMF9pOFlvb2p4OFZKTW9nWjFjN2ZWcm4wT0VsYTM1aGpaUG9jNjU0cndjbjc1TW5pQ1E?oc=5",
+   "source": "현대경제신문",
+   "time": "2026-10-16T10:24:31+09:00",
+   "stocks": [
+    {
+     "name": "에스원",
+     "code": "012750"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "삼성·LG 제품, 미국 타임 선정 '최고의 발명품'(종합)",
    "link": "https://www.yna.co.kr/view/AKR20261016023851017",
    "source": "연합뉴스",
@@ -2491,20 +2519,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "에스원, 3Q 영업익 5%↑···주주환원 강화에 목표가 상향",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeElFOFZra3V2UVFIY0ItcFJXSHNNNmh6TUVrZW9PaVJXZUR3VEpqdkFVU0hFUEFHSVFzTHdjUUc1TTBzNl9XS0hVdmlSRjl6VVVFN3V5WDdQYXpzSDJPcnV3eFJyRU3SAWtBVV95cUxNT0hZV25STlgxSU0tYjlVLVAwcVk1SnJTbjdsTi1XRXlIUlotRXNnR3czbmp3V2pLNTEwX2k4WW9vang4VkpNb2daMWM3ZlZybjBPRWxhMzVoalpQb2M2NTRyd2NuNzVNbmlDUQ?oc=5",
-   "source": "현대경제신문",
-   "time": "2026-10-16T10:05:07+09:00",
-   "stocks": [
-    {
-     "name": "에스원",
-     "code": "012750"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "씨어스, UAE 아부다비 보건부 IRB 승인…AI 부정맥 국가검진 사업 본격화",
