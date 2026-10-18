@@ -1,7 +1,21 @@
 {
  "label": "10월 18일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-19T00:11:46.457092+09:00",
+ "updatedAt": "2026-10-19T03:53:25.899267+09:00",
  "items": [
+  {
+   "title": "솔리다임 상장 추진에 SK하이닉스 주가 하락 우려 : 한국증시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51bThocU1LUmxVamU0SWRJeDF1VzR6ZmFJc1Z3ODltSTBRZ3k4Y0djaUhPN2R1eDF3bUxOMkdmUTZxaktzQ2QzdV82UQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-18T21:03:39+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "DTCC 토큰화 대상 25종목…30조달러는 잠재 자산 규모",
    "link": "https://www.tokenpost.kr/news/cryptocurrency/423942",
