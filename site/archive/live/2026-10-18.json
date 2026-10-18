@@ -1,0 +1,344 @@
+{
+ "label": "10월 18일(일) 국내 종목 뉴스",
+ "updatedAt": "2026-10-19T00:11:46.457092+09:00",
+ "items": [
+  {
+   "title": "DTCC 토큰화 대상 25종목…30조달러는 잠재 자산 규모",
+   "link": "https://www.tokenpost.kr/news/cryptocurrency/423942",
+   "source": "토큰포스트",
+   "time": "2026-10-18T20:13:55+09:00",
+   "stocks": [
+    {
+     "name": "대상",
+     "code": "001680"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "SK 솔리다임 美 상장 갑론을박…중복상장 우려 vs 투자확대 효과",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02709286645614232",
+   "source": "이데일리",
+   "time": "2026-10-18T17:54:28+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 올릭스(226950), 기술이전 성과…기업가치 재평가 기대",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGNWdzYm92NkozejNaMkF5NzRwY2IyRG41dWQ5QUZKbkpTWnRCcG5ZamdMU0NoRkhFRmJXaVZOVXByTkxsZzl3OEtKNGl6eHp1QkVqX0VGSDRkMmtQNUFOV0lNMTQwQkgwdVVGQ1ExUQ?oc=5",
+   "source": "인천일보",
+   "time": "2026-10-18T16:28:00+09:00",
+   "stocks": [
+    {
+     "name": "올릭스",
+     "code": "226950"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 티에스이(131290), HBM4 공급 확대에 수익성 '껑충'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42NWxOVXY4VnZpaDBtSXNrZFZPR2lUaGx0THdVRlV6SnJjTlBoc0F1VkxvbmxoZkVMOVF2a2JhZnZkVWNWLUJQbFhxSHRRNllzUzZnaDVPYTNQN1lhRHdlOU5ZbGprX2VKTWc?oc=5",
+   "source": "인천일보",
+   "time": "2026-10-18T16:28:00+09:00",
+   "stocks": [
+    {
+     "name": "티에스이",
+     "code": "131290"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "자사주 최대 10% 소각 기대…피에이치에이 '들썩'",
+   "link": "https://www.hankyung.com/article/202610188607i",
+   "source": "한국경제",
+   "time": "2026-10-18T15:32:07+09:00",
+   "stocks": [
+    {
+     "name": "피에이치에이",
+     "code": "043370"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자 주식 보상제, 주가 하락 구간서 직원·주주 이해 상충 부각",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk9Gc3RTaW1uQkQ4NWIyZmJ5bnNqaWl5eERST1lkaVNGeFo5UEF4d1oyeEVfX1ZvV05OVDhMaFhIaXZTWFlTVlVZazNPaGtpdzRuTzF5VUtiUDFfMEwyT3RSakFWUW9DTy1LZFk0UVY5NGV4VnM2aDdNTmJnZUxZYzVLb0lQd0RJdWRrWDNMSnpmLWZVQ0M1S0ZEVDRrbHZiLWt5eFVHaEdYQQ?oc=5",
+   "source": "Traders Union",
+   "time": "2026-10-18T14:57:15+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "개미들 곡소리 나는데 “삼성전자 제발 10만원까지 빠져라”…자사주 성과급의 역설",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObV9ZWHN4eVhMV2FoTXVlTW9ndlNBbUhVcHQzWk01cVhVTGQxc2N4aDNZcXFMeXI4TzNieU9pN2l6RmxKZjFqbWlfVHBfVm5uLXRn0gFTQVVfeXFMT05tX1lYc3h5WExXYWhNdWVNb2d2U0FtSFVwdDNaTTVxWFVMZDFzY3hoM1lxcUx5cjhPM2J5T2k3aXpGbEpmMWptaV9UcF9Wbm4tdGc?oc=5",
+   "source": "서울경제",
+   "time": "2026-10-18T14:55:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "KB증권, HPSP 목표가 상향…4분기 낸드 장비 매출 확대 전망",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPVl96eHZsMWd6ZlhvZkZFbjlnaDJCdzBhcU1sTUNuMXRqQXZWNTllVmVxcFlLVVk5dDlDRnZJaUxVWmtxSmk0ZVdwVWZQZkREQVFMU2M4aDcyOHdQVGRoM1o1Yi1pQQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-18T14:42:42+09:00",
+   "stocks": [
+    {
+     "name": "HPSP",
+     "code": "403870"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "티피씨글로벌, 20억원 자사주 신탁계약 체결 결정",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wbDJ2eXJXY0ttRDFBb05uN0Q3MzRuVU1UZDNjYmF2NktyT0E0N0x0VlJ6OFJjX2thdnYwTVp4OENvQWt0ZmZ4SHFCa0VZX3RmMGpRdjgwVEhxZGxWUUtOVzRRNkhVdw?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-18T14:05:40+09:00",
+   "stocks": [
+    {
+     "name": "티피씨글로벌",
+     "code": "130740"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 급락에…국민연금 주식 평가액 182조원 손실",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZmN2UGZrNjhtVDJzLVhSM29IdHZNYXc4SjNULTFGTGhEN3JnZ21KQTQyY3R1TDgwWW85T21QaV9zMFZIa2dmNDlkWldYcE1EQU5xSWg4M3IzMkJkNjNxa0Rob2s3Sk9jV191d0RXb1ZPR2VfTkHSAWZBVV95cUxQSWptNWt1SkhhZFRrSjluQ0dRdGlsVUg4RGpMcEo3dTdMMXV2WEtZLUwtS25ON0VCSHVyeVN4aUhaaHpUdTM2cEp4OHNBWDRoNmgzOUhIOFVhaXM4RTc2eWZwOXhGNkE?oc=5",
+   "source": "동아일보",
+   "time": "2026-10-18T13:53:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "에이엔피, 주가 1000원 기준 미달에 상장폐지 우려",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wRURYdG9JRVRKWEl3cnFSOGJDMVF1UnJGd2pSa0drRXZ1RFIwUXI4MU5jLXZ0Qmx2RkJQQzd2MDlUN3lwaVlTaDBFVGlnZ0h3OW9KckpvTFRxVXNKRjgxQVNHMDlTQQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-18T13:40:13+09:00",
+   "stocks": [
+    {
+     "name": "에이엔피",
+     "code": "015260"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "네이처셀 주가 코스닥 반등에도 약세…새주 흐름 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0U2I1dWlpTUlBRF9pTnFEbnlibVllRTFHUm1LMFo2NWVzZnN5S1IwOWpmMVlGSEFyOE5VVjNJODBUSlZySHFhS2JaYXB4dnRJRGt1SzBDVktVN1NFWGV6eWRCOW1zd013?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-18T12:49:40+09:00",
+   "stocks": [
+    {
+     "name": "네이처셀",
+     "code": "007390"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 급락에 국민연금 평가액 182조원 손실 > 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTlN6OUFGZVNaYjVRdTdLT193Y2ZsMEJINjdCT2poUEE2dmhFUURROVhKemhFRWVWMXFySFNadjZZdTZ3REU4WE1raUJhem1DYzkwZ1dTbHB4Mjk2eUZOeWg4NThkcDFfNU9zbg?oc=5",
+   "source": "지데일리",
+   "time": "2026-10-18T11:10:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "'따상' 신화에서 3만원대로…SK바이오사이언스, 재도약 시동[급등주 지금은]",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqV3cyaE5wMElFOHQ4NFBhVnpDMERyTnhRdWpGc21RNjh3eTdRd0FBR0FZeTV6TWcwaTBBeWxIN3R6SUpSN2lQR3JkRkM2ZFNVc0RnV2tyVlFaT3FIY09rdG1NM2QxVGk1aWhhTDVVMDdETS1KNEgtN9IBeEFVX3lxTFBqV3cyaE5wMElFOHQ4NFBhVnpDMERyTnhRdWpGc21RNjh3eTdRd0FBR0FZeTV6TWcwaTBBeWxIN3R6SUpSN2lQR3JkRkM2ZFNVc0RnV2tyVlFaT3FIY09rdG1NM2QxVGk1aWhhTDVVMDdETS1KNEgtNw?oc=5",
+   "source": "뉴시스",
+   "time": "2026-10-18T11:00:00+09:00",
+   "stocks": [
+    {
+     "name": "SK바이오사이언스",
+     "code": "302440"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "삼성물산, 2조원 '여의도 시범' 시공사 선정…한강변에 래미안 벨트",
+   "link": "https://www.newsis.com/view/NISX20261018_0003830327",
+   "source": "뉴시스",
+   "time": "2026-10-18T10:58:29+09:00",
+   "stocks": [
+    {
+     "name": "삼성물산",
+     "code": "028260"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 급락에 국민연금 ‘휘청’...3개월여 만에 182조원 감소",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjRxbzhaVlN1WjFGWFlLME5CTllCMDB6a19fYk0wdHR0bFUzWUFwTlNjUm9oeEgxNC1KaWVJTjB1dkhPWFdtZlJiVFJPdkY0el9pajJMd0Ywei1tTjlTM294X1QtVUs4OGJuYTV4MnlTc3dDOVhHZE53TExUQ1Q5cFhSSkk?oc=5",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-18T10:15:33+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "국민연금, 증시 급락에 182조 손실…삼성전자·SK하이닉스 직격탄",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U2h6NXZGWERVWTJyTmtOSl92WDAtNXdmeUQzTHVfZFJ1d1hKaDBVNmF0cTdqZDJDOGpxRDB3Wjh0dlBDazd2bVlQOTF6dlU1Ty1iVm1rUl9yMkFNZ0FHMW1aWmE?oc=5",
+   "source": "서울경제TV",
+   "time": "2026-10-18T10:10:03+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "국민연금, 100일 만에 주식 평가액 182조원 증발…삼성·SK하이닉스 직격탄",
+   "link": "https://view.asiae.co.kr/article/2026101809165798938",
+   "source": "아시아경제",
+   "time": "2026-10-18T09:16:57+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK하이닉스, 美 솔리다임 상장 추진에 ‘중복상장’ 논란",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/10/18/GAZTANBQMNRGMYLBMJTDAMTBMU/",
+   "source": "조선비즈",
+   "time": "2026-10-18T08:50:31+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[온체인 주식선물] SK하이닉스, 정규장 종가보다 5.15% 할인",
+   "link": "https://www.tokenpost.kr/news/insights/423834",
+   "source": "토큰포스트",
+   "time": "2026-10-18T08:30:11+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[임상 업데이트] 압타바이오, 아이수지낙시브 2상 1차 지표 달성",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01144726645614232",
+   "source": "이데일리",
+   "time": "2026-10-18T07:01:02+09:00",
+   "stocks": [
+    {
+     "name": "압타바이오",
+     "code": "293780"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "앱코 주가 25거래일 1000원 밑돌아 관리종목 우려",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYy1IZTFmZTRVZHhlZXNWSURpcGx4WDlDZWNMZFpFb0prMTBCYzlxWV9Od25KbGRHZERBUGlUTHJXMEUweFExeWtITTV6SFcyOUVXRnFhZ3lHbWQ1dTNib0VRY3ByQQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-18T06:17:33+09:00",
+   "stocks": [
+    {
+     "name": "앱코",
+     "code": "129890"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "증권사 목표가 단숨에 뛰어넘은 ‘LG전자’…요지부동 애널리스트들, 왜?",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Tmh6NjYzUlJrWDFXTkdiaHhXZkdJbWIwV2hOYk9KclZaNFBEcktIOVJwRFVRQlg1aW15dTZrWFhPTmdTRDVkVDV6b1VESDhLYXMzMXNGd2hORURkVFYwWU85Zw?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-18T04:57:49+09:00",
+   "stocks": [
+    {
+     "name": "LG전자",
+     "code": "066570"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  }
+ ]
+}

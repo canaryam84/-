@@ -1,6 +1,6 @@
 {
  "label": "10월 17일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-18T00:11:35.295596+09:00",
+ "updatedAt": "2026-10-19T00:11:46.457092+09:00",
  "items": [
   {
    "title": "우진엔텍 주가 급락…1만1000원선으로",
@@ -29,6 +29,24 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 주가 폭락, 반도체 호황 끝나나…실적은 오히려 급증",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FX3VNbl9Ic21jeHAzWXhtU2JGUmxtVjRkejJqNUE4V2FpbUxGeGZLSjN4WkVZRndaVnJPcnVRYXFrOHNfb251MGJFWG5nSC1oWWFnRFF3MS1UZl9PNlhVOHBMdnNVWGU3Z0dvYg?oc=5",
+   "source": "폴리타임즈",
+   "time": "2026-10-17T17:16:05+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "두산에너빌리티 주가, 전일 급락 딛고 반등…하나증권 \"연내 SMR 추가 수주 기대\"",
@@ -71,6 +89,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "펩트론, 13%대 급등하며 10만원선 회복",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50cC0wSXVyVE14Z0d6ZGc3REREeDBlT1dXcmpvb3NiY0xTdVhScnQ3bjZOLUlmQzFLSURXblV1Z0R6S1pLUEtxdk8wanJsWkxpMWdHS2RHMGNwbE5MSkZpajM1RjFLb0p0?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-17T11:06:54+09:00",
+   "stocks": [
+    {
+     "name": "펩트론",
+     "code": "087010"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "10월 2주차 대양금속 주가 반등 마감",
@@ -171,10 +203,42 @@
    "dir": "up"
   },
   {
+   "title": "럭스피아 11.95% 급등·안지오랩 10.95% 상승…코넥스 강세 종목 '눈길'",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lcXpPVTNYSEZPTUlBdGxEd0MyZzQ5MGdXa29xOHRkZWFDc1lFVnFjckswSmVpR3RLcXpvdXJjZ3ZIR1BWMkFUQklpSEM0NDNfOVdqWXNIRjJ3SHdQS0thcU5OYVFIcWxXaEhDalBIY2JGVXfSAXdBVV95cUxPQjE5WDVSUDRSRlJqd3lsLUIxNld0WHo5Mm1fVjE3dVYzV0VMT0VCclhPaE9CaUp6QXJTbldvUFNFRGJfRHV6aGpVN3lRNkxFaUotQ0dsTmhUc1J4aEttaHpJb3BMQWxnOXlmY3FsTDJGVUpETlYwTQ?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-17T08:56:53+09:00",
+   "stocks": [
+    {
+     "name": "럭스피아",
+     "code": "092590"
+    },
+    {
+     "name": "안지오랩",
+     "code": "251280"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "10월 2주차 삼성전기 주가 급락 후 반등",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MX3Z6TUZjQ2NFOGRodTRJUjdKY3RPcG9xTGNhZVItNWpDRGhEcWR3d1BPR3BfTFBtNC1qU0RjTmUxM3hDNzRUMXpLNFdYNTU4bG1WU09DcmtLaEQ1U1gzMDhIMHFDT0JjOVh6NC12NG9sUQ?oc=5",
    "source": "톱스타뉴스",
    "time": "2026-10-17T08:43:33+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전기, 사상 첫 200만원 돌파…현대차 제치고 시총 4위",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MWS1ySnVRVmN2NlNGYmNYN0NEN3k0ckNid25qQUNjQ01zbTJDUkpzVzFvZkIydkRSNWlOeVJjQzBZTEpabUZsWElOVk1ybklFTi1OeWF1U0RBR0NuTUZUejVrQQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-17T08:36:59+09:00",
    "stocks": [
     {
      "name": "삼성전기",
@@ -267,6 +331,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "우리로, 24%대 급등…새주 흐름 '주목'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2MzFFMGFtNGNXSEk4cXQ5TU9wU1VFTks2b25jeF93NlR3M2lsaGFQZXFBSHNhQTVrckpkbGg4T1ZNcXozTGJiN0ZmTk83bEZScHd5NHk5Njg5cVlfY2lRTlFTRFFjOGRz?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-17T00:41:00+09:00",
+   "stocks": [
+    {
+     "name": "우리로",
+     "code": "046970"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   }
  ]
 }
