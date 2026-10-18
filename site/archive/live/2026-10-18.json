@@ -1,6 +1,6 @@
 {
  "label": "10월 18일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-19T03:53:25.899267+09:00",
+ "updatedAt": "2026-10-19T06:10:56.691774+09:00",
  "items": [
   {
    "title": "솔리다임 상장 추진에 SK하이닉스 주가 하락 우려 : 한국증시",
@@ -205,6 +205,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "SNT모티브 자사주 소각 반영해 21일 변경상장",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySktQX0ttTGYxVk5QTVVlMmFEWFZPNXV5MEphTW0wUTlnRkxCRUZldVJZX2FhYS12bm82Tk9jTmRPUWNYUXdVZXZMVW1zUW1maV9wVlBuQUE0Y3VzOWxuYUt4MWJEQQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-18T11:06:48+09:00",
+   "stocks": [
+    {
+     "name": "SNT모티브",
+     "code": "064960"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "'따상' 신화에서 3만원대로…SK바이오사이언스, 재도약 시동[급등주 지금은]",
