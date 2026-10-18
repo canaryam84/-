@@ -1,0 +1,31 @@
+{
+ "label": "10월 18일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.19,
+   "text": "-0.19%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RcG9QendrNWs2U256YTRqR3FvVGdoczdlcndWVlBaX2NIMWFTcUlYSmlKb2ZIeXN3OElsbnMzV2JkN280T1JQVGROX2dXNXBpNGJGSHR1LUJHVHJ6UmNXQjlOVFY4TG1W?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "네스트리",
+   "sub": "가상자산",
+   "pct": 188.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,003만원…빗썸 네스트리 188% 급등",
+     "link": "https://www.tokenpost.kr/news/cryptocurrency/423830",
+     "source": "토큰포스트",
+     "time": "2026-10-18T07:30:14+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-18T12:24:34.130125+09:00"
+}
