@@ -33,7 +33,35 @@
      "time": "2026-10-17T05:39:01+09:00"
     }
    ]
+  },
+  {
+   "name": "Occidental Petroleum",
+   "sub": "OXY",
+   "pct": 52.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Occidental Petroleum stock jumps 52% as Buffett-backed oil firm posts strong earnings and debt reduction.",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnRMTEE4WXNZQXB3UWxSdFNkLTVEeDJOc1dZT0V5M0s1YUQyd29mZ2JsRjdfUjBqVjhZWnQtV2k5aElRSFdLal82N3RkakpBOHY3bk5wdEY1M1dZbVgtNFRYa3E0UlhhTEZuU3pwOFZ4VE9lQy05WEdmU1hzSUxmY3B5NVpzRzdLMWlMckhQZHQxYlZJNml0ZEQ4TG9ieVN5V0ZkOUxEOXp4SkU?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-18T23:34:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Atlassian",
+   "sub": "TEAM",
+   "pct": 35.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Atlassian shares surge 35% on Q4 earnings beat",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9NdS15NW11UGlMQ0Njalg0UjlWRWtmUVN4RGdONktLeEFlTnI4NzAzd1FVY0I1aEJTcWh3Rm1uM1VabHRIT2oyR19QanJ4bWpyNmUwWTdMc2FhbFQ5c2FhWTlndXQ4U2tud3VnaW1kRlJDdUhhMzFXZEVaSjd4WExoYnVfNXk4OU5aNUFrZzVzRWRoNDFNUF84LXRZT0FGdW11R3NoMXg?oc=5",
+     "source": "scanx.trade",
+     "time": "2026-10-18T19:39:27+09:00"
+    }
+   ]
   }
  ],
- "updatedAt": "2026-10-18T07:19:22.781472+09:00"
+ "updatedAt": "2026-10-19T07:19:29.019720+09:00"
 }
