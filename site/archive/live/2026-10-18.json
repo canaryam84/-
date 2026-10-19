@@ -1,6 +1,6 @@
 {
  "label": "10월 18일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-19T06:10:56.691774+09:00",
+ "updatedAt": "2026-10-19T13:35:36.838684+09:00",
  "items": [
   {
    "title": "솔리다임 상장 추진에 SK하이닉스 주가 하락 우려 : 한국증시",
@@ -67,6 +67,20 @@
     {
      "name": "티에스이",
      "code": "131290"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성바이오로직스, 법원 파업 제한 결정에 주가 급등",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEZ1OGFMOW5BQ3IwVzVTWHFibGVOeGtOSExVeTZGYW1PbG1xMjdBRG9VS2hkSXY3ZXlsWEtTU00wYVRUWEpyT1dzOUI4aEQyQ2h0MFdQU2dSczdXS0ZsZFFIV2dzZzNYNkdHakNBd2NUR3hMTzBVVk5RTVc4cThGMzBuRFhFRWxMTmVMRHYwaFBTWi1YS1hwWjY4Rmc?oc=5",
+   "source": "Traders Union",
+   "time": "2026-10-18T15:36:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성바이오로직스",
+     "code": "207940"
     }
    ],
    "thin": false,
