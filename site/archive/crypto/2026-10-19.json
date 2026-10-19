@@ -1,0 +1,16 @@
+{
+ "label": "10월 19일(월) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.36,
+   "text": "-0.36%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1Y2RYaGlEZG0xXzNMckNlYVJvSHg4dEltUkpVVEJDZ2xaVlJpOFQzdGZPNkxjYXB5N0Z5ellyWUdqb2dRbWFQempNQUV6V2ZuQ2lpOW0xemIzOE1PaVVidnVoU0tOUl9P?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-19T12:27:59.709602+09:00"
+}
