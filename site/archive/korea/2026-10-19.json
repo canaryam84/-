@@ -1,5 +1,5 @@
 {
- "label": "10월 19일(월) 정규장 마감 후 보도 기준",
+ "label": "10월 19일(월) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -15,8 +15,8 @@
    "pct": 1.78,
    "text": "+1.78%",
    "exact": true,
-   "source": "버핏연구소",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTTQ5UDl4V053eUZCOERWZEpkeVJwUTY4dl9JQnZKWXM3Q2JhdG5QblFsdFRPMl96c19ZV0E4REtibllEdEliSWV6RnphdlBZQ2ZjMTlJRThCMWlHNnZTOEd3?oc=5"
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85ZkdfaVpVME9CUjlNWTBJSmRlWWN0VnFsT0d5bnhuSmFmWnA2R01Wak9oTGJiS3Fac0k5cE55U1l3eE9WOEZ0b3BQbVo0M2JxM0ZPZEJZb01PZjQ?oc=5"
   }
  ],
  "items": [
@@ -31,7 +31,7 @@
     {
      "title": "[오늘의 특징주] CSA 코스믹·KBI동양철관 상한가…스페이스X 납품·우주항공 배터리 부각",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TUpxUEZac0FydHZnMi1uMkg4cURkRWRvNjgtdWJ1MWdSRUhuWnlDa0FLN0ZDT1loQVRQcXRFcFhwUnRjUEszZVNhOGtnN2dvYkd4aEZuYkl4c2lSRk8teUl6UTM?oc=5",
-     "source": "www.ppss.kr",
+     "source": "https://www.ppss.kr/",
      "time": "2026-10-19T16:29:11+09:00"
     },
     {
@@ -131,7 +131,7 @@
     {
      "title": "[오늘의 특징주] CSA 코스믹·KBI동양철관 상한가…스페이스X 납품·우주항공 배터리 부각",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TUpxUEZac0FydHZnMi1uMkg4cURkRWRvNjgtdWJ1MWdSRUhuWnlDa0FLN0ZDT1loQVRQcXRFcFhwUnRjUEszZVNhOGtnN2dvYkd4aEZuYkl4c2lSRk8teUl6UTM?oc=5",
-     "source": "www.ppss.kr",
+     "source": "https://www.ppss.kr/",
      "time": "2026-10-19T16:29:11+09:00"
     }
    ]
@@ -169,5 +169,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-19T17:12:40.784250+09:00"
+ "updatedAt": "2026-10-19T20:40:14.701616+09:00"
 }
