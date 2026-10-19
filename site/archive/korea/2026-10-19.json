@@ -1,0 +1,173 @@
+{
+ "label": "10월 19일(월) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 1.76,
+   "text": "+1.76%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUW94NWN2cWV3NERjZVcwU2lCcXZ1Z1BFZXpBWkNxQmhQb3NWclY5VElWdnAyazEtREdnQ3lHLXlhRHNQcmNESmZtdVpycUpFeHVHTjRaTC1vWktWakhPUER0NFVGR00?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 1.78,
+   "text": "+1.78%",
+   "exact": true,
+   "source": "버핏연구소",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTTQ5UDl4V053eUZCOERWZEpkeVJwUTY4dl9JQnZKWXM3Q2JhdG5QblFsdFRPMl96c19ZV0E4REtibllEdEliSWV6RnphdlBZQ2ZjMTlJRThCMWlHNnZTOEd3?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "KBI동양철관",
+   "sub": "코스피 · 008970",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 14,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] CSA 코스믹·KBI동양철관 상한가…스페이스X 납품·우주항공 배터리 부각",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TUpxUEZac0FydHZnMi1uMkg4cURkRWRvNjgtdWJ1MWdSRUhuWnlDa0FLN0ZDT1loQVRQcXRFcFhwUnRjUEszZVNhOGtnN2dvYkd4aEZuYkl4c2lSRk8teUl6UTM?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-19T16:29:11+09:00"
+    },
+    {
+     "title": "KBI동양철관, 스페이스X 강관 공급에 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nVXlJRC13NTdsUzN0LXhzUTlkUXFFWGNjUFZJTVNaUWF2THVoalQ1VU1ON0NMTzAyWHFTN3lrWXUxbjFCcEhFSERnbUEzN1V5TUhXZTFLcm9fZWFSSlc3OERjUUZnZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-19T13:57:52+09:00"
+    },
+    {
+     "title": "코스피 거래상위 엇갈린 흐름… 에스엠벡셀·KBI동양철관 상한가",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lbFZ1OEtNd2R6emZNdzN0YXdna2phQmxCMTNnMVQ5WkxHeFh0ZnlmZVFLR1BWc0NqNzhnNndwTTV1TXJOUHI1c0lfTmo1YnVYenZsX2NKdEEtRVEtdTVWVkxMWXNMWUgyLWxFcGJ4RUdpb3JNQ2ZWWjZPcVdldw?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-19T13:21:00+09:00"
+    },
+    {
+     "title": "[마켓줌인] 일론 머스크 관련주 ‘강세’...KBI동양철관 ‘상한가’",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTZlJ1SzhnNkpHN0ZhZ2VjVTdUeXBBYU8xb2V3VE1FMThUTk5IVG9GQlZuV0xaV2FYeG9kLWI5dFk2Y1lxeThWdjhaZ1VvYU1xTkJtRGo2WUgzYmZwelB1X3ByRmdNYWlqVy1N0gFvQVVfeXFMUHYwdWRlMlVQVlhvRndkSk44QjFBQkZVR09CeHZUQ0U3Zm00WGhsa2RWc1VxMG16X3hiQldnaWV2Qml4NHRHclExcWY5NHozRUlFeEVXcWk1YzR4d3hXUDZsdm91eldYMU5DbnRGWEg0?oc=5",
+     "source": "투데이신문",
+     "time": "2026-10-19T13:20:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "디알텍",
+   "sub": "코스닥 · 214680",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "디알텍, 엑스레이 FDA 510(k) 통과에 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LdEI5OHdKak00ZzFwLVhiaVQ4N3hzN3haRTgxZXlUZl8xbG9BZUZuSGRrWnVZWTAyVHFoVXRONmdsV2p4UWIyTjlhVWU2NWNyOTRsN1g3QU1zTmo4TE9QSmJXRzZYUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-19T14:01:50+09:00"
+    },
+    {
+     "title": "디알텍 주가 장중 25%대 급등, 인체용 디지털 엑스레이 시스템 미국 FDA 인증 획득",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVUNQNTIwQkVfVEFOWG12QnpnQXliVDJPSGVHOU1NcVF2ZVdOXzNaaG5CSWtOcE1xNzBtbVVERVZLUm9BdmVDVlFIUTZtZ1IyN1BNV0NIaXpRcGE5SDk2cVBwaDhWU3pZYTlVMnY1ZlBudms?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-19T11:31:52+09:00"
+    },
+    {
+     "title": "[특징주] 디알텍, 엑스레이 시스템 美 FDA 인증…27%대 상승",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZTg2VFBYNkE3WEREdjBJRzBqRk1JLWp5Rk5Lb3NrQzQzUGtZd09hRkZlOXZCdHlVTTlnYU9OSjRhRi1vWkI3WGppMG4tdi1WS0htWWFOS3jSAVhBVV95cUxNZWU4NlRQWDZBN1hERHYwSUcwakZNSS1qeUZOS29za0M0M1BrWXdPYUZGZTl2QnR5VU05Z2FPTko0YUYtb1pCN1hqaTBuLXYtVktIbVlhTkt4?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-19T09:52:57+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스엠벡셀",
+   "sub": "코스피 · 010580",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "코스피 거래상위 엇갈린 흐름… 에스엠벡셀·KBI동양철관 상한가",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lbFZ1OEtNd2R6emZNdzN0YXdna2phQmxCMTNnMVQ5WkxHeFh0ZnlmZVFLR1BWc0NqNzhnNndwTTV1TXJOUHI1c0lfTmo1YnVYenZsX2NKdEEtRVEtdTVWVkxMWXNMWUgyLWxFcGJ4RUdpb3JNQ2ZWWjZPcVdldw?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-19T13:21:00+09:00"
+    },
+    {
+     "title": "에스엠벡셀, 인공위성용 배터리 사업 확대 기대에 18%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZVNqcUJ0MEtCVkFBWFFaTXpzYm16YjItSXBob0FXMTYwWmM0VjBXajJ6X01COHZOVTV1V0dkc29GWmRtdmVmU2t1WGU2SnFaZDdHQjhWWl9ZTHA2REVlcWlyRlh2a3l4OWc?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-10-19T09:45:12+09:00"
+    }
+   ]
+  },
+  {
+   "name": "양지사",
+   "sub": "코스닥 · 030960",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주]양지사, 15일 상한가 뒤 조정 딛고 8.58% 상승…유통 주식 적은 ‘품절주’",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbEVNZGtKUi1sRFByWDY4S2UyTmxPck1Mc1VjQUZIOGt5a3djaVZ1OWdGUldEV0lLVFFDY29BOWNOanJKa3lTLUlhcHF6TlBsdzVJUzZDZFZpbUx6UGR6U0c3cWcyUzNiaHh1NNIBcEFVX3lxTE5wMVNaNVBJdHV1X1JqckxUX2xzMjU1a1QzbkptS3Jfa1BoTVhFTUw4Nkd2SDd5enNrZVYwMDViU3VqdjlURkZNMElfSjFWb0NTS1p4SkxtYlE3Unk5T0xSSjEyZ2xRYVVuNVRDSVdTZzI?oc=5",
+     "source": "남도일보",
+     "time": "2026-10-19T09:25:25+09:00"
+    }
+   ]
+  },
+  {
+   "name": "CSA 코스믹",
+   "sub": "코스닥 · 083660",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] CSA 코스믹·KBI동양철관 상한가…스페이스X 납품·우주항공 배터리 부각",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TUpxUEZac0FydHZnMi1uMkg4cURkRWRvNjgtdWJ1MWdSRUhuWnlDa0FLN0ZDT1loQVRQcXRFcFhwUnRjUEszZVNhOGtnN2dvYkd4aEZuYkl4c2lSRk8teUl6UTM?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-19T16:29:11+09:00"
+    }
+   ]
+  },
+  {
+   "name": "알멕",
+   "sub": "코스닥 · 354320",
+   "pct": 22.2,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 알멕-2차전지(소재/부품) 테마 상승세에 22.2% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YnhUVDBZTWtlX0hvVGVNTlczU3JMNHVtUFZoYzROMmNvZk4zNUJPOXd6cGtHa0JOUTkwUmNhQ2Y2S01QUVVSeU9hUVBwVDJKWFE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-19T11:25:14+09:00"
+    }
+   ]
+  },
+  {
+   "name": "화성밸브",
+   "sub": "코스닥 · 039610",
+   "pct": 15.22,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 화성밸브-남-북-러 가스관사업 테마 상승세에 15.22% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YemlZS0xCdEVQeHEwOTFaQVVXeXhlYVFoNWhxYzE4N2pvV0J6YUhySVdaaHM5WG5GLUllU0dYMU9fNXAwSjlqbm03R1VzeUdjc2c?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-19T09:33:40+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-19T17:12:40.784250+09:00"
+}
