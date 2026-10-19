@@ -1,7 +1,21 @@
 {
  "label": "10월 19일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-20T00:06:14.103048+09:00",
+ "updatedAt": "2026-10-20T04:06:41.147823+09:00",
  "items": [
+  {
+   "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래",
+   "link": "https://www.mk.co.kr/news/stock/12180100",
+   "source": "매일경제",
+   "time": "2026-10-19T23:10:24+09:00",
+   "stocks": [
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
   {
    "title": "바이낸스 밈코인에 쌓인 14억달러 매도 압력…알트 비중 3%마저 붕괴",
    "link": "https://www.blockmedia.co.kr/archives/1153182?utm_source=general&utm_medium=rss",
@@ -3526,20 +3540,6 @@
     }
    ],
    "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02676486645614560",
-   "source": "이데일리",
-   "time": "2026-10-19T10:11:13+09:00",
-   "stocks": [
-    {
-     "name": "다올투자증권",
-     "code": "030210"
-    }
-   ],
-   "thin": true,
    "dir": "none"
   },
   {
