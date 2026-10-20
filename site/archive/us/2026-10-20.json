@@ -1,0 +1,45 @@
+{
+ "label": "미국 10월 20일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 1.02,
+   "text": "+1.02%",
+   "exact": true,
+   "source": "아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WlFHeDNleXVBTTFKTjQ1NURwdUN6QkFqUnhORzR1bjVaRUtQamczbmYwdFBUUUtJMWNaUXo2UXpDdUNnMzA2TTFudjlYYkptYnFGRi1vR0JKd9IBWEFVX3lxTE1IMjFpSTljT3FLYjV1NFVtUWhlTkt3U2dVXzNpNC1MYU5FNlFfQUUxbWFGWlpqNlE4SW9oNl9JQ19VNkxaOERkTXpuY1phOUhkRkl6WUozZG4?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.02,
+   "text": "-0.02%",
+   "exact": true,
+   "source": "블록미디어",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mSDY5azNMYUFDd3VHbUZkME5aa3dhZlFyVXRoQXlkOVB0ZlprUTgwVXUtREh4WFh6UmNNLUtkWk5oYkRjMFdQUzRTSXhUdHZkRDFyZmJod0Y?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "BRZE",
+   "sub": "BRZE",
+   "pct": 50.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "Braze stock surges over 50% after Salesforce announces $5.66 billion acquisition",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLU9iMkdhek1OZmNiMVRNYVgxZHdhemJvMXpTYldUeU1RV1BiY3diSzRlakpWLV9ZMWRlX3pjRWdZTmdqSlFwdjZFZF81TlBfUDlDUUY4ejEyM3AyZ2UwYzk1bDhzU3RYOU1tcE9tSGRXU2stVDlqajBqaXdoazZqOGMyNzdtZm5rTGpWcW9rQWFKR0xUN0ZxMG9raW1LQ0dQbDRnUldQd3RVT0JtTHZ5eTAzWnA0b05XODEzT3JLa2s2MmFMTU92RWNJSlh5QURKZkh0dF9jY29acXJOaGlWb21B0gHnAUFVX3lxTFBCQ2VJSTdFQ25id2RaUHVfNmFlY3c1WnpGVTFoS1l0dDVEV3JvZ1NNQ3k2NjNMeDdRaTJoMEVlcWpUVEtldzR0czhINDgtR0pBVVpTeDd1aERXenhiMVcySFN4Z1E2SVJlVFFjVkQxSnh0RjRhWHN6bkxwc3R5anNvSWowNC1qLWFkdXBLRHlIX0lUUkdEQ1RKQVZORVlic05zdXVIaDY2bVpVTVVta3p3V1puMFFEdERwcDF0T2U2bFExbmtXOGtpazNIaEY0Znp3TVpQRFh0MjBPMEhZb2loYWtBeF9fNA?oc=5",
+     "source": "Livemint",
+     "time": "2026-10-21T02:21:01+09:00"
+    },
+    {
+     "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pZ01RcjBwTEVaSGJSWEJBRnQ4Y05WZnBuOHEtNlMyUWljdmVlUjFyNmpTNEVRdXVKajk3YUYyNHdVMHhxNHNfNkJCeUJJVkVCbS1CZjE4eWhZMGRWRC1yQUFJMHVoXzdFWFN5WGJBcE1FdzdLdUdXY19B0gF_QVVfeXFMUG02ZWQxek5oajI4THN2V1Rpejc3T2VfM0lJZElPMTVuSWhjTC1xMWNaYzczd1ptYmtWRHdQQXdlbVpvbzFOMUZhNkpKRkZRMmpFcjVqd2F5WmVHai03eEwtRGNka215a0JRaXNtalVkWmZjQllzV1JZTENVblplZw?oc=5",
+     "source": "CNBC",
+     "time": "2026-10-20T22:34:57+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-21T07:25:22.246717+09:00"
+}
