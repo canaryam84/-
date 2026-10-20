@@ -1,6 +1,6 @@
 {
  "label": "10월 20일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-21T05:55:42.877110+09:00",
+ "updatedAt": "2026-10-21T06:55:28.607058+09:00",
  "items": [
   {
    "title": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락",
@@ -2293,6 +2293,20 @@
    "dir": "down"
   },
   {
+   "title": "코리아써키트, 증권사 목표가 상향에 강세…4.65%",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wc3dxbkhMT0ZZRkhWYlRRd3B3TDJUdUM3V2YyRHEtRF83VjR5YV9fVUVrSUd6aHFvNTNKLTFVcFZCTUhzRmc?oc=5",
+   "source": "매일경제",
+   "time": "2026-10-20T10:25:46+09:00",
+   "stocks": [
+    {
+     "name": "코리아써키트",
+     "code": "007810"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 지투지바이오, 中 UBT와 장기지속형 주사제 개발 협력…강세",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uQnlPdXcycXo3UUpfeFBDQXA0VDZ1U3RwYWE4TzBZTHhPdHNmcnk1VmlsazFLbWk2aHlnSlVVZFJfcGsxUHg0U3E2NzFrci1paE4tZHpHM1VkcTQ?oc=5",
    "source": "에너지경제신문",
@@ -3365,20 +3379,6 @@
     {
      "name": "MDS테크",
      "code": "086960"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "코리아써키트, 증권사 목표가 상향에 강세…4.65%",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTkl6bGlvMnZjUXE3R1ZJdGNwcmQzdW5vRUZISml5U3BFcjVzQzZUX3kwZ1BHdWU0cGpjYXBBaktCUmRLSFR6dnVCanlpUUtlMVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "2026-10-20T09:03:26+09:00",
-   "stocks": [
-    {
-     "name": "코리아써키트",
-     "code": "007810"
     }
    ],
    "thin": false,
