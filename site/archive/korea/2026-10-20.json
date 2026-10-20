@@ -1,0 +1,151 @@
+{
+ "label": "10월 20일(화) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -3.73,
+   "text": "-3.73%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TbU42SVV3aVBMWW1UdHpsV2tUdDhDUUoxYnlqZHhFS1dIZlRyWk9DSGlucko3amZCRnFoaGNmaWFzUXRiWGk1N0lLa3AtWU1rTERyVXBlczg5MEl3N0w4M0tsMmcxU2M?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -3.33,
+   "text": "-3.33%",
+   "exact": true,
+   "source": "버핏연구소",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYV3ZZV3JqWU16WUhfUk1RUl8tN1ROSzFwWjBKbXZ4aEpxUVZtMWpETW43TGt4ZU8xUUxDQmZ3TXZUeEJBR3FBWVE3QlptRUZRUWNodHQtMHVndlJRYW1JTTFR?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "형지엘리트",
+   "sub": "코스피 · 093240",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "형지엘리트 상한가…형지그룹 상장 3사 강세",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KUXBuU0c3RkdIY0FlTmZ5SmVJNDFSZXFLdkhUWko4RkpsZlhwTXJRamhMdldOb1liOUdJN2JURDMzRm9sNjJsVUxnQ0Jmak9wVzZBUUhHOUpBZW45cnNQSENxNUVzQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-20T14:32:19+09:00"
+    },
+    {
+     "title": "'개장과 함께 상한가' 형지엘리트 30% 급등",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yejUzWmJQbUVJVm9Cc0x5NHQ4d2ZaNXlZeWluRFFTSzlWUS1nVFRFc3k3WjB5NkU3R2RpR3hMUk1zbU5tZFRoTEVtYkY1TkNlRDNNZ1U4UVlDY0ZsRnNmdV91ak5fZGhwSkdrendkS2JFaFlUU2fSAXZBVV95cUxOMno1M1piUG1FSVZvQnNMeTR0OHdmWjV5WXlpbkRRU0s5VlEtZ1RURXN5N1oweTZFN0dkaUd4TFJNc21ObWRUaExFbWJGNU5DZUQzTWdVOFFZQ2NGbEZzZnVfdWpOX2RocEpHa3p3ZEtiRWhZVFNn?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-20T11:33:05+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 형지엘리트·유니테크노 상한가...ESS 수주·상장폐지 유예 기대에 급등주 속출",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXVnhTLXNhWS1oQnlibmhYQjZ1NnNTeWRxM010Y1Z1ajNLUWY0RE9pVEhDQW1lSmhDZVNRN3RLOTYzTUgxa3lSdWM4cGw0ajFVWkxfUXhQWFlGano5ZlQ4b05aNms?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-20T10:05:49+09:00"
+    },
+    {
+     "title": "[특징주]상장폐지 유예에 형지 3형제 일제히 급등…형지엘리트 30% 상승",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaLTh0OFZ2Q2Mxc0xFcjVzV1BVWmJpTXZwblR6OHR6QjdHdnRmeURxbHN4WWVpaVRDVkpmRHdPR29WYnA0bGhWQk1pR0FxS1l0bU1lT3kyQVrSAVhBVV95cUxQWi04dDhWdkNjMXNMRXI1c1dQVVpiaU12cG5Uejh0ekI3R3Z0ZnlEcWxzeFllaWlUQ1ZKZkR3T0dvVmJwNGxoVkJNaUdBcUtZdG1NZU95MkFa?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-20T09:59:11+09:00"
+    }
+   ]
+  },
+  {
+   "name": "유니테크노",
+   "sub": "코스닥 · 241690",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "유니테크노, ESS 부품 선정 소식에 상한가 찍고 밀려",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVNzJHTTNTVWhGc0xabmNsUG5JM3YyOUZnSWZ0ZWRZcERJR0JOc2hJbmNZMnZKOVBzQ1RYRmlFVnFkOHBTZGdnQU5QZkNOaW5GNlNGNWNESG0zeHJVOG9qM1J2dVJkdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-20T14:44:27+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 형지엘리트·유니테크노 상한가...ESS 수주·상장폐지 유예 기대에 급등주 속출",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXVnhTLXNhWS1oQnlibmhYQjZ1NnNTeWRxM010Y1Z1ajNLUWY0RE9pVEhDQW1lSmhDZVNRN3RLOTYzTUgxa3lSdWM4cGw0ajFVWkxfUXhQWFlGano5ZlQ4b05aNms?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-20T10:05:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스팀",
+   "sub": "코스닥 · 458350",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "에스팀 상한가 근접…콘텐츠·모델 매니지먼트 실적화 관심",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EVTdJamVTQ3JnWUlsSVpYTVp5ZER2UTdISFM3czhjbllXQk43eVYwUWotQjZla3ZvOTRwTkFzT3M1TmV1QUpZbnFDQTVtS09pWnQ0MzU0NEZHdUJhdElDd0xTdV91UUlQNzFsQ2lUTnFXQdIBckFVX3lxTE5EVTdJamVTQ3JnWUlsSVpYTVp5ZER2UTdISFM3czhjbllXQk43eVYwUWotQjZla3ZvOTRwTkFzT3M1TmV1QUpZbnFDQTVtS09pWnQ0MzU0NEZHdUJhdElDd0xTdV91UUlQNzFsQ2lUTnFXQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-20T14:59:54+09:00"
+    },
+    {
+     "title": "에스팀, 20일 상한가 마감…3795원 기록",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVUZYemF0dXZNLU4xbDYydnNYb0JoNmNzeDdwR0w0U2NSM2RnQzM5RFRTcC0wSTJxM2k4dV8wbmJna3Zud3RsNTJVSExXTUt5SEJiT1MzY3gyc2hTdGVXUzJwSDF0UQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-20T14:39:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "플리토",
+   "sub": "코스닥 · 300080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 플리토 주가 오후장 상한가 직행 왜?…'실적 효과' 주목",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oc20zd0JoTGlnQkV6SGRHRVdlSE9SbV8wRVpUMzkzVDdNTUVSNUdUVUFBTmVEWmxxM0xkZ0gwdXJwS1RnS2lXUEE0bE5XcU1TX0FIYXFCeDNGRGthRFltdV9UM3NpYlFG?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-20T13:55:38+09:00"
+    }
+   ]
+  },
+  {
+   "name": "삼익제약",
+   "sub": "코스닥 · 014950",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "‘먹는 탈모 치료제’ 임상 희소식에 관련주 급등…삼익제약, 17%대↑",
+     "link": "https://www.mk.co.kr/news/stock/12180308",
+     "source": "매일경제",
+     "time": "2026-10-20T09:48:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "빅웨이브로보틱스 주가 급등, 17%대 껑충…VI 수차례 발동",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUjk2X0I2TjhvUVJOVk9pMGZCQURrY0xacnhGa0ZHRXF4SEhFSHEzTkVwdTg4Tm83bFFNanYtRE9NdWJVSUpzYU1rU1g0ek83WXNaOU5NSjkwYlJaVGtqTy1XbXBDY05Q?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-20T11:49:33+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-20T17:06:40.499410+09:00"
+}
