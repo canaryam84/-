@@ -1,6 +1,6 @@
 {
  "label": "10월 20일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-21T04:06:19.921046+09:00",
+ "updatedAt": "2026-10-21T05:55:42.877110+09:00",
  "items": [
   {
    "title": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락",
@@ -945,6 +945,24 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 급락에 커지는 저가 매수론…“AI 수요 여전히 견조”",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tVG82TExaQkZoOC1KX01DbXFORkZRb0U5eDJ6NE1OVXA2elVsTFk4WkFld3hrMlYwOGp2ODB3UWt4MjlnaGR4VzF3VGduWkRXaTRxREhSWTBYWHN6OXdxeWM2UVdBNFEtSDJJ0gFvQVVfeXFMTXU0aWwweGRFRHVpRmpBTW1fZWpxUlkyeUNPaHhZalZnMTh5VjJiMGJFNkJQcEVlbDJPUWdFeklWaGgtcHh6aTdQdzFTcXJRM1Z0RGkyd2IwTDFvOUN5bktRRms3UzFNLWx3YUtSdFo0?oc=5",
+   "source": "더퍼블릭",
+   "time": "2026-10-20T16:06:48+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "“솔리다임, 중복상장”…당국, 'SK 하닉 거래 정지' 규제 카드까지 만지작",
