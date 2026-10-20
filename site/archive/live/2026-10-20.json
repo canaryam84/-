@@ -1,6 +1,6 @@
 {
  "label": "10월 20일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-21T01:26:11.561970+09:00",
+ "updatedAt": "2026-10-21T01:59:10.085046+09:00",
  "items": [
   {
    "title": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락",
@@ -199,6 +199,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "엘리스 주가, 상장 첫날 32% 하락과 AI 투자 부담을 읽는 법",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTdmhfcFIxTUtsVGJ0VmU0akFrSEtZQmV0alVHMk14Ynp6cEM0SlBBYWF3dld2WHpjZTFlOEdtQXhiTE1ENWlRWU1LcDlnX0FyYlE?oc=5",
+   "source": "EBC Financial Group",
+   "time": "2026-10-20T19:35:00+09:00",
+   "stocks": [
+    {
+     "name": "엘리스",
+     "code": "0158S0"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "[급등락주 짚어보기] 상폐 절차 제동에 형지그룹 3종목 ‘上’…KR모터스·플리토도 급등",
