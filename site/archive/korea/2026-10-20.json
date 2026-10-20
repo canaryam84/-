@@ -1,5 +1,5 @@
 {
- "label": "10월 20일(화) 정규장 마감 후 보도 기준",
+ "label": "10월 20일(화) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -26,8 +26,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 5,
+   "newsCount": 6,
    "articles": [
+    {
+     "title": "형지엘리트 상한가 1924원…주식병합 이후 사업 회복력 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wbllCYmFKMVJhbVBMdGV1eENHQkVONkdOZnloQkxCYU9ZTHRia0oxRFhacElqRTBvWTNqN3BqYi1lOTVQZWJLWW5IMlBhYTQxQmxvVEtsdlpaVW94SU1UZUZsX21XRkxFOGZQZ2F4aF8xUdIBckFVX3lxTE0wbllCYmFKMVJhbVBMdGV1eENHQkVONkdOZnloQkxCYU9ZTHRia0oxRFhacElqRTBvWTNqN3BqYi1lOTVQZWJLWW5IMlBhYTQxQmxvVEtsdlpaVW94SU1UZUZsX21XRkxFOGZQZ2F4aF8xUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-20T14:59:06+09:00"
+    },
     {
      "title": "형지엘리트 상한가…형지그룹 상장 3사 강세",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KUXBuU0c3RkdIY0FlTmZ5SmVJNDFSZXFLdkhUWko4RkpsZlhwTXJRamhMdldOb1liOUdJN2JURDMzRm9sNjJsVUxnQ0Jmak9wVzZBUUhHOUpBZW45cnNQSENxNUVzQQ?oc=5",
@@ -45,12 +51,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXVnhTLXNhWS1oQnlibmhYQjZ1NnNTeWRxM010Y1Z1ajNLUWY0RE9pVEhDQW1lSmhDZVNRN3RLOTYzTUgxa3lSdWM4cGw0ajFVWkxfUXhQWFlGano5ZlQ4b05aNms?oc=5",
      "source": "https://www.ppss.kr/",
      "time": "2026-10-20T10:05:49+09:00"
-    },
-    {
-     "title": "[특징주]상장폐지 유예에 형지 3형제 일제히 급등…형지엘리트 30% 상승",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaLTh0OFZ2Q2Mxc0xFcjVzV1BVWmJpTXZwblR6OHR6QjdHdnRmeURxbHN4WWVpaVRDVkpmRHdPR29WYnA0bGhWQk1pR0FxS1l0bU1lT3kyQVrSAVhBVV95cUxQWi04dDhWdkNjMXNMRXI1c1dQVVpiaU12cG5Uejh0ekI3R3Z0ZnlEcWxzeFllaWlUQ1ZKZkR3T0dvVmJwNGxoVkJNaUdBcUtZdG1NZU95MkFa?oc=5",
-     "source": "아주경제",
-     "time": "2026-10-20T09:59:11+09:00"
     }
    ]
   },
@@ -86,7 +86,7 @@
    "articles": [
     {
      "title": "에스팀 상한가 근접…콘텐츠·모델 매니지먼트 실적화 관심",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EVTdJamVTQ3JnWUlsSVpYTVp5ZER2UTdISFM3czhjbllXQk43eVYwUWotQjZla3ZvOTRwTkFzT3M1TmV1QUpZbnFDQTVtS09pWnQ0MzU0NEZHdUJhdElDd0xTdV91UUlQNzFsQ2lUTnFXQdIBckFVX3lxTE5EVTdJamVTQ3JnWUlsSVpYTVp5ZER2UTdISFM3czhjbllXQk43eVYwUWotQjZla3ZvOTRwTkFzT3M1TmV1QUpZbnFDQTVtS09pWnQ0MzU0NEZHdUJhdElDd0xTdV91UUlQNzFsQ2lUTnFXQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZX0N0dXB5TWhJb0loamZCTUh1T1U0V3k1ejFVR2ZmTnUwSGNENmRMaHJkQW9XYmZjZHZWbGFXQmczVXRMaTdLYmZ6Y1ZEd2p4Z0FkTmJsS1JyS1R3al9WZjc4VldTSWV5dmpnNGxR0gFyQVVfeXFMTkRVN0lqZVNDcmdZSWxJWlhNWnlkRHZRN0hIUzdzOGNuWVdCTjd5VjBRai1CNmVrdm85NHBOQXNPczVOZXVBSllucUNBNW1LT2ladDQzNTQ0Rkd1QmF0SUN3TFN1X3VRSVA3MWxDaVROcVdB?oc=5",
      "source": "잡포스트",
      "time": "2026-10-20T14:59:54+09:00"
     },
@@ -115,6 +115,50 @@
    ]
   },
   {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 빅웨이브로보틱스, 피지컬 AI 통합 플랫폼 출시 소식에 24% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsS2VBZEhQRm4ycjVJS25ZQXJpSlJCcXVhVjRRVVNZaWl6Q09vbWFpNEpEcUVhdFpsa2dHdzdnQVpGNmtCLUdSdFMtR0o3RDY0RGJvYmJza3lWYnp5UFNOQ21YSDlSMlFoN3c?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-20T16:02:03+09:00"
+    },
+    {
+     "title": "빅웨이브로보틱스 주가 급등, 17%대 껑충…VI 수차례 발동",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUjk2X0I2TjhvUVJOVk9pMGZCQURrY0xacnhGa0ZHRXF4SEhFSHEzTkVwdTg4Tm83bFFNanYtRE9NdWJVSUpzYU1rU1g0ek83WXNaOU5NSjkwYlJaVGtqTy1XbXBDY05Q?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-20T11:49:33+09:00"
+    }
+   ]
+  },
+  {
+   "name": "코리아써키트",
+   "sub": "코스피 · 007810",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 코리아써키트, 장중 19%대 급등하며 7만7000원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tT1pROU1fRW1TVGNJcVRGNmdLM0VVaEFDZWgwUmJiaVVGNmhITVpsNkJDS2I4aUsxTEdnSThOMDFYb1VNUjRuLUQ5WQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-20T10:54:06+09:00"
+    },
+    {
+     "title": "KBI동양철관 거래 1위에도 8%대 하락… 코리아써키트는 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWEFmR0gxd0NHYk9rUlBzMmN0c2Y0QkxRbUxSRFJFeF84N0o2azFZeHMyZXVtNFk4SlFzblBRTUlrTFVzeEVnWXVfNHVvMGozZ2U3MHpsWENyVDlEbGl2d2pzdExkeEEyTXdTQm5yTmR5aS1wdmdQMA?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-20T13:14:10+09:00"
+    }
+   ]
+  },
+  {
    "name": "삼익제약",
    "sub": "코스닥 · 014950",
    "pct": 17.0,
@@ -129,23 +173,7 @@
      "time": "2026-10-20T09:48:15+09:00"
     }
    ]
-  },
-  {
-   "name": "빅웨이브로보틱스",
-   "sub": "코스닥 · 0035S0",
-   "pct": 17.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "빅웨이브로보틱스 주가 급등, 17%대 껑충…VI 수차례 발동",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUjk2X0I2TjhvUVJOVk9pMGZCQURrY0xacnhGa0ZHRXF4SEhFSHEzTkVwdTg4Tm83bFFNanYtRE9NdWJVSUpzYU1rU1g0ek83WXNaOU5NSjkwYlJaVGtqTy1XbXBDY05Q?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-10-20T11:49:33+09:00"
-    }
-   ]
   }
  ],
- "updatedAt": "2026-10-20T17:06:40.499410+09:00"
+ "updatedAt": "2026-10-20T20:39:46.318526+09:00"
 }
