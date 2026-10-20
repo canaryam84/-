@@ -1,7 +1,25 @@
 {
  "label": "10월 20일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-21T00:00:22.938238+09:00",
+ "updatedAt": "2026-10-21T01:26:11.561970+09:00",
  "items": [
+  {
+   "title": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락",
+   "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX0pwMUk4ODEzWnZaZ2V4cnpsaDltMmVNaHdlOEdmU2o4OU02Y3VUVUU0eF85b1gtbUQ0dWJsZkFNZ2pCWFBob3VxdzI4R21yZndDbEFZbnRuR3BIOWRjbUd0YXYxVzd3UWtXQVFsdDgyLTc0NXVfNWJrSFdoMDZvNTlSSW9vSkpMaDJXZ2Q3Nk1HNlJOcGE2WGhjcWdfMFN4R1lURVlrbk50SmswMWpqYjBYR0c1bl9MWkJVeDR3SmJWSVFjcE81dWVoaE92WmNCSktaTlBVRFZpZTFTLUs2bEpDODZtSEtLYXJDYnJSRHRpSnlyNEViX2FieGFaeHk4SDVXc2JSSmZXVnlwM2NDeFQtWVpwZFlqV29CSlpnY1RPMzNSZEZKV2RudHZRYzRNRlVQSHFFcG9NNG5UVVNDb3NoeWlVN0xLc2NWS2tXNGswS3B1RTdqTVhwOHctSl9MRFlBb1BCTGUyNTNCSTVuSWVtMS1Fc1JPbDM1SWI0ckF0aEs1OEVxTkZncjMyZFdleDVEOVlzZElNM3hRRWF1SlhwTHp1Rl9WLXpkeWotNmFhWUVyVUhOUk5TOVlIQUtYRlVsQnBXU2ZCRDlxeHJ4b0hnQjdEYVhqZV9oOTFsQ3E5LV9wMjZlMlhB?oc=5",
+   "source": "데일리뉴스",
+   "time": "2026-10-20T23:32:27+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "김도영, 잠실 최후의 만루포…KIA, LG 꺾고 23년 만에 PO 진출(종합)",
    "link": "https://www.yna.co.kr/view/AKR20261020177700007",
@@ -2149,6 +2167,20 @@
     {
      "name": "LS",
      "code": "006260"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 아모레퍼시픽, 뚜렷한 공시 없이 장중 1%대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fc1J5OFdpNFU2NW1QQWtVdXg5ellpemc5RGdKU21OV2lJSnItU3VzYnZsbFU3ZXlVM1ZzNUNqZE1Qb0Q4UWZ6OXdnOA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-20T10:34:21+09:00",
+   "stocks": [
+    {
+     "name": "아모레퍼시픽",
+     "code": "090430"
     }
    ],
    "thin": true,
