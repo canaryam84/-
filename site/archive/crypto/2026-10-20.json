@@ -1,0 +1,59 @@
+{
+ "label": "10월 20일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.05,
+   "text": "+0.05%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RcjFqRzR2aEw5dk0tOXB6YTdUbjhETzh1UkI1dGppWm0tb3NTTkhkYjNkWmN6dWZHQk1QODdwOVh3UTdyYWNLOEE4Y0ozUlpnSUNQUVNJaExRS296U3VxOERoc21aVXlp?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "없이",
+   "sub": "가상자산",
+   "pct": 51.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "쿼크에이아이, 뚜렷한 호재 없이 51% 급등…빗썸서 '나홀로 독주'[특징코인]",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVXpUREdZckNGUUZhYVhPalpNSzJQMGlvelVKZzBKSFc3ai12cC12eWNXYU9PMkJpM0hkMEc1bmFHYloxeC16WXR6MV8xdjMwZUhjZGNnaHBQWTAzcDdCY2Z1cmNOQQ?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-19T14:56:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "단기",
+   "sub": "가상자산",
+   "pct": 48.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "CT, 업비트 상장 소식에 단기 48% 급등…FDV 3억 달러 돌파 (CT, UPBIT, KRW, BTC)",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnVWZaVFpGTXpkSFRrZENvSW5PZWRIcWh1by1PX1RsNHdYcllGSTBiSjlwNW1oX2VEZ2o2Skp5eHdvM1o2U1pZREZGMlpPOEhCWUR1TDRMaWlwLXE4WV93TFZ1QUxUUHNyZUhINA?oc=5",
+     "source": "민심뉴스",
+     "time": "2026-10-19T16:56:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깃코인",
+   "sub": "가상자산",
+   "pct": 33.99,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "가상자산 거래대금 12.2% 증가…깃코인 33.99% 급등, 리플XRP는 보합",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU2REUDNUbGFXb1I5Tnk5WnltbWtxT0xJRno4NDVNM01Jcy1HblFGTU9NUUd1V3VEbmlFQlh0enV6WEhoZTVJcVlZSzdydlRpZHFkTWFseTJSckROSmpNTmdUa2Q3NFRKYmk1ZUI2T3dNdw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-20T07:05:38+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-20T12:27:05.356380+09:00"
+}
