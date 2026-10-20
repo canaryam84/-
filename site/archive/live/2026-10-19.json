@@ -1,6 +1,6 @@
 {
  "label": "10월 19일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-20T12:55:54.953083+09:00",
+ "updatedAt": "2026-10-21T08:25:28.622346+09:00",
  "items": [
   {
    "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래",
@@ -2619,6 +2619,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] KBI동양철관, 스페이스X 로켓 발사시설 강관 공급 소식에 '상한가'",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYnJvU3lZaVRXUHdFVGJHV09idmRWMjRFeDkxemQtT25jaXFVUkNjU3dKYlJURy1PLU5ZemJ3NlVheHhyQUp0bzFKV2h3Tlh3VkRocm44MHVfVi1wX3NDdXV6N3VuX0xublVkQQ?oc=5",
+   "source": "와이드경제",
+   "time": "2026-10-19T11:20:17+09:00",
+   "stocks": [
+    {
+     "name": "KBI동양철관",
+     "code": "008970"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "중국 3분기 경제성장률 4.5%⋯시장 전망치 상회 [상보]",
    "link": "https://www.etoday.co.kr/news/view/2637314",
    "source": "이투데이",
@@ -4315,20 +4329,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "[특징주] KBI동양철관, 스페이스X 로켓 발사시설 강관 공급 소식에 ‘상한가’",
-   "link": "https://biz.chosun.com/stock/stock_general/2026/10/19/TKXXN6J6UBEJJLIDGQE64RPL5A/",
-   "source": "조선비즈",
-   "time": "2026-10-19T09:24:07+09:00",
-   "stocks": [
-    {
-     "name": "KBI동양철관",
-     "code": "008970"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "[특징주] 에스엠벡셀, 위성 배터리 기술 확보 기대에 강세…기관 대상 IR 예정",
