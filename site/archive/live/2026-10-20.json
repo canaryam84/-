@@ -1,6 +1,6 @@
 {
  "label": "10월 20일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-21T01:59:10.085046+09:00",
+ "updatedAt": "2026-10-21T04:06:19.921046+09:00",
  "items": [
   {
    "title": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락",
@@ -1411,6 +1411,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[투데이’s 특징주] 코리아써키트, 소캠 매출 기대감에 장 초반 ‘20%대’ 급등 By 투데이코리아",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZDE1V3ZfdjR4MTRFVWhYV3J3LWNIM2tERVhhcmV0Tm1MbHFEcTR4ekJWUm15b1BKbFg0cTVvSFhIbW9FMU5Va0g3RnBGQXRvcnpGZ0lmZTlRZVJQZ0w3U0dnaTRTb3ltQ1k2UTVISTU?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-20T14:17:00+09:00",
+   "stocks": [
+    {
+     "name": "코리아써키트",
+     "code": "007810"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "삼성전자 주가 급락했지만…내년 영업익 555조원 ‘잭팟’ 전망",
