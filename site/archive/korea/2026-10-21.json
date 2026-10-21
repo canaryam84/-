@@ -1,0 +1,239 @@
+{
+ "label": "10월 21일(수) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 3.29,
+   "text": "+3.29%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XOEJtdE9HRVZ2Q1B4UzVtcFBFNHh0RHhYU3JzQ0YzSTlsak5MMEZOUUlLazRhQ1pfdExuQ25YQWNfbDV5YXU3RjFaY2VnbUxBTDFPeHdiMnVRUlZaZ2RBajJqeFg4ZzA?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 1.38,
+   "text": "+1.38%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XOEJtdE9HRVZ2Q1B4UzVtcFBFNHh0RHhYU3JzQ0YzSTlsak5MMEZOUUlLazRhQ1pfdExuQ25YQWNfbDV5YXU3RjFaY2VnbUxBTDFPeHdiMnVRUlZaZ2RBajJqeFg4ZzA?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "엘리스",
+   "sub": "코스닥 · 0158S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 21,
+   "articles": [
+    {
+     "title": "매수 사이드카 울린 코스피, 5700선 탈환… 엘리스도 상한가 반전",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hRXQ0QVVOLVV1TF9ubVVWaHFPS3hrcGdSel9YaTQzU1FRamFKTHZzemgwb1lyODRGNWNfd0d4dUxSbEVIWDdVUHVXWmZNV2M2UjhUclZHZ3FCU1F5cWtyWkpmdzQ0R0FMMkpyVWd30gFzQVVfeXFMUDJHVFZBblBoczBsQ0I3X29tYWR6bVk3Tzg0Z1k4QmR5U3RJVC16UWN3aUVZRXRtNHNna3YxZ3cyQnMwVm1vMzd4NGRPaS1jMXVsOGtOOEhEd1RqZ0ZyckU1bGlScWVLZGJ0WkhWbjl4eGpXTQ?oc=5",
+     "source": "한국일보",
+     "time": "2026-10-21T16:54:00+09:00"
+    },
+    {
+     "title": "상장 첫날 32% 급락 엘리스, 하루만 급반등해 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nMy0zdzBHQ1loWGcyekNnOUtrRHd1Y1dkQlNIN0lYTWV5czgwQTMtSlVhTndNaDREQWJXY09rSk1GTnpTSjRuU3FuYmpneTdlSzdUMk93YkdfandoUjNvM2MzS0FKYkZPZFE?oc=5",
+     "source": "SBS 뉴스",
+     "time": "2026-10-21T16:12:14+09:00"
+    },
+    {
+     "title": "상장 첫날 32% 급락 엘리스, 하루만 급반등해 상한가 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261021048751008",
+     "source": "연합뉴스",
+     "time": "2026-10-21T16:02:37+09:00"
+    },
+    {
+     "title": "상장 첫날 -32% 'IPO 대참사' 엘리스, 상한가 직행...공모주 반등세 탔다?",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWW42WmxCVmc1dHA3RjZXQ24waXNBX19lNGtXR0h3MW91ZWwwcXM2cnE4U1RkRXY0MkdTc19PelJJbEdyTXJPVmNNNUJqSnAwVC03ZzNFMllHQQ?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-10-21T14:41:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "혜인",
+   "sub": "코스피 · 003010",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[공시 Pick] 혜인, 464억원 규모 포항 AI데이터센터 수주에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Y1ZWUVltUEtycnV4MmxoblE3MldrdVpBd1R4ZVpMQ1AtYTZhc0JRdXJRakVzMGJXcnE4ZGhUQVFtTXVHV3lLcGc5cjZjbmpfcV9yV21aMF82M1Z5T1E?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-10-21T15:11:00+09:00"
+    },
+    {
+     "title": "혜인 주가 장중 29.98% 올라 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5namQ1MmZob1pFVkNOV2EzWENrcVlpYmp5NWFvUnlmVUluVU5VRTgxdngzSjV5R01FSVV5dHl1UlozeTd5MkVPdnl4ZElrVkxjcXZWYW15eV9OY0RaQ1J0ZmtGdm8tZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-21T14:59:45+09:00"
+    },
+    {
+     "title": "\"작년 매출 20% 규모 계약 따냈다\"...혜인, 장중 상한가 기록",
+     "link": "https://www.hankyung.com/article/202610216021i",
+     "source": "한국경제",
+     "time": "2026-10-21T14:44:23+09:00"
+    },
+    {
+     "title": "전후 재건 기대에 관련주 강세…혜인 상한가, 삼성E&A 폭등랠리",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyS2NmdlRXNV9BblJnZjQxai1zbHpDaXQyZUYyT196ZlJFSXR4dWtLX2JkSHlWZnpKT3FxZWxMR0M0RUZlb0U2UFBmZjZqM1pvWExMZy14Q2Y5TXE0RXRYOE1Cd1NCandseE5UZUhqWER6cVhkYndF0gF3QVVfeXFMUDJLY2Z2VFc1X0FuUmdmNDFqLXNsekNpdDJlRjJPX3pmUkVJdHh1a0tfYmRIeVZmekpPcXFlbExHQzRFRmVvRTZQUGZmNmozWm9YTExnLXhDZjlNcTRFdFg4TUJ3U0Jqd2x4TlRlSGpYRHpxWGRid0U?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-21T14:29:34+09:00"
+    }
+   ]
+  },
+  {
+   "name": "형지엘리트",
+   "sub": "코스피 · 093240",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 형지엘리트, 이틀 연속 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oa3NDQmNJcE8xU0FyVlNZYzNqYmpiRVN0bkplRXlPTHRSd0treVNOT2F5ZDRsc2F6aVNsZGMzRVd6ZGtILVJ2N0ZSanp3Vk95TzhJc0I5MHc4LVBrZGRkbE96VzBEUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-21T12:44:10+09:00"
+    },
+    {
+     "title": "형지엘리트 상한가, 형지그룹 3사 이틀 연속 급등 - 머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR0hyalpCdE0wekktMjAzeTJiTFdpaEFQZUQzZE1CdDBibXVsa1h3OHE4YTNXTjU2OEVfS3ZtdDRYM3A4emUxWWYtQ1djTXllM0JFSklWUkZQUXJESzBVWjhhdktrSU5J0gFuQVVfeXFMUFNLOUpPWHlJX0ptSXo5VC0wMzBsTzc0N1NYNW5kNEV6amY2OHJWMktkRTNHVGg2VldUdTBuN1M2ekVkSXRIbXI5cnpZSm5jNzZOOHZpbTJ6Rm9kd08zYUp2VDZjNTZsb05sODZmR2c?oc=5",
+     "source": "머니투데이",
+     "time": "2026-10-21T09:34:59+09:00"
+    },
+    {
+     "title": "반도체 대형주에 자금 집중… 형지엘리트는 상한가·한화생명 7% 급락",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VNU1acDhFZ2xhNG5YS0RFa1U2S2dqdHEwTmFnVENOanM4TTNlVDVfRUJHMFFNM2QzMXFLSi1sQ0wzNEZXcDZJR1V1WTZJODNMZUxMQjgwa196b2UwZzF3dThSZUJMZEhBMHdQUHlvTjJfa25ZZEpMa21kU2NXdw?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-21T13:48:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "형지글로벌",
+   "sub": "코스닥 · 308100",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 형지글로벌, 장중 상한가 찍고 급락…2%대 상승률",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBNXRnV1pzYnZJYUdXX0h6LXY3czFid2tNUXhQd18zRXlpSnkxanltaWJLaHNfN0owLU1yMFY0Sy1ZWTZuVTdXQmQ5cG16YzF1REJ0UFFKazZWZ9IBWEFVX3lxTE9GNTdOZmY4SHhpSXRldkdYcWFhZGE4Q181RFRLeTZHQ2NqS1RHRFpIRE5KdTBVakl6OXlEODNGV0xxZzRmQ2lzTWR2SjRBUndxei03Y21NbF8?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-21T15:17:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "플리토",
+   "sub": "코스닥 · 300080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] SK하닉 6.8% 급락…플리토·KR모터스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RWEI4dnphTVh0b2U2dE9xSVZsT25VWXJYOGp4dzdROXUyVVZGSHh1ZW5GM3ZYdVhORGpadkFQRUtoX3JnZXgxZFJTcU9lNGNJVTdLYw?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-21T08:20:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "KR모터스",
+   "sub": "코스피 · 000040",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[전날 애프터마켓] SK하닉 6.8% 급락…플리토·KR모터스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RWEI4dnphTVh0b2U2dE9xSVZsT25VWXJYOGp4dzdROXUyVVZGSHh1ZW5GM3ZYdVhORGpadkFQRUtoX3JnZXgxZFJTcU9lNGNJVTdLYw?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-21T08:20:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "웰킵스하이텍",
+   "sub": "코스닥 · 043590",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "웰킵스하이텍, 장중 22%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wLUpsQ2VBclRBMTNIdXppQkhyVFI3Q0h5NlBQaWpudUlqTVhrZnFzWFRZYnU1bDAtLWwtLTBsb3VpVVltMVI2bjJab2NFdXYxNy1RdV9GT2pIR3E0VmEyeVFLT1ZHUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-21T13:43:54+09:00"
+    },
+    {
+     "title": "특징주, 웰킵스하이텍-무선충전기술 테마 상승세에 16.3% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTl84TkNhTUZvM1IxMWRpUWQtREVTQWJVaDhqQVpZYUlkMmZWa19oNTBLcm9aTWRIYk1DLXBfNEdWLUZNU3I1OTVEajV0ZnRia1E?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-21T09:44:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "켐트로스",
+   "sub": "코스닥 · 220260",
+   "pct": 20.88,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 켐트로스-HBM(고대역폭메모리) 테마 상승세에 20.88% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wUlNVSUZvcmNkT3A3UzNkQlBCbUdtRkVPclkwVXZxYlcza19QcC1OMEpPaERTYlFwY1hVSEs0QXZjTkRRQTJTQ00yMjdjYzVFZkE?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-21T09:15:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "명신산업",
+   "sub": "코스피 · 009900",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "'중복상장 논란' 명신산업, 손자회사 美상장 반대결정에 18%↑",
+     "link": "https://www.yna.co.kr/view/AKR20261021133800008",
+     "source": "연합뉴스",
+     "time": "2026-10-21T16:11:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지투지바이오",
+   "sub": "코스닥 · 456160",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "지투지바이오, 15%대 급등…신한투자증권 “글로벌 제약사 본계약 기대”",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10bG9OendiT3lYVk5SVEtiQURHYXRlOEJ2WlFHN1k5QjVJc0FOd29ZQ003NXRMRjdkSW96elp6N0FOMWRJekJsdzdrMDNnblZaU0pPRkJ1MWY0TFN2eElQTGp3dFRQaUNr?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-21T10:11:28+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-21T17:09:27.416786+09:00"
+}
