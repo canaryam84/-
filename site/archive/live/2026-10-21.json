@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T05:56:45.334417+09:00",
+ "updatedAt": "2026-10-22T07:54:11.008051+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -1181,6 +1181,20 @@
     {
      "name": "혜인",
      "code": "003010"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "상장 첫 날 32% 급락한 엘리스, 하루 만에 급반등…상한가 기록",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2aG1XanduMXJqMk9LWGJMRzFqbVN1b3NjbmI1NWRzX3RUX0s1Vjg4WXJVdWtCVGsxcDY1Y0VUXzZKODFBWnMzZmp4SmRHOTl5WlVNeFZuSU5YQXV4MFR1MGwxaFB4dU0?oc=5",
+   "source": "연합뉴스TV",
+   "time": "2026-10-21T15:10:00+09:00",
+   "stocks": [
+    {
+     "name": "엘리스",
+     "code": "0158S0"
     }
    ],
    "thin": false,
