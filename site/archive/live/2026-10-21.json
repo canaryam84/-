@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T02:55:27.151108+09:00",
+ "updatedAt": "2026-10-22T05:56:45.334417+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -405,6 +405,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "윤길문 이사, 하이젠알앤엠 주식 1000주 ↑…지분율 0.02%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01WXMzWDAzUGZJbk1NcHYtVVdjT0E2REhQZURSd2luaDNsWXBTakZhYVdOcThUZ2gtSW1rLXZUeUxkZE1fNEdpajZrdmYzNWtNMkhocnAtdDVFTk5nS0NBLVZubGN0bktSZ2VlUnY0VmN6NjA?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-21T17:33:29+09:00",
+   "stocks": [
+    {
+     "name": "하이젠알앤엠",
+     "code": "160190"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "SK하이닉스, 40조 자사주 매입 종료…증시 ‘수급 공백’ 우려",
