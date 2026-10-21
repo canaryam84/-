@@ -1,0 +1,67 @@
+{
+ "label": "미국 10월 21일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.69,
+   "text": "+0.69%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkpMTGVHcDZqQTRBYVVONGdubnBDZmpPTDhHNmhvay1BZnlyQjlKRUsxSmNobjhwU09oR0lqSHdxZm1ZbG12VEtaRGc2OU15N2JKbzhodVdJWldQOVRsd1F4ajZueGVmSW80OFNPT21vS1BxSVhyU3cxRTJaQmd5UVNKWE9pVWFOdkJwUktyZndZN3VhQ0R2V2VXWkgtelJnZGxnaVoydVBnby1HTXZlY0hhWEtMNnpkYlZfMzZlbkFkeS0tZWc?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 1.05,
+   "text": "+1.05%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXVVpsSFJzaXlXS2hta1p4cFE4TXRiRnczR0R3S1ZyOVNHaTh2N1FFOVR3bGhtMUQzOGZ2SmpyX0NxaUpuWDBnV1VmbVFxUVZX?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "WISeSat.Space",
+   "sub": "SAIQ",
+   "pct": 100.59,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "WISeSat.Space stock jumps 100.59%, but the daily trend remains mixed",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUE13VmdDOHJ3RHM1aFVVR1RCdS1CRml0SFFUbjRjOG02b3ItSzZjVllGYlNMeVlCR0hmYmJDWU5TTUhIY29FN2FRZTJ5b2RBYUJnSGRDZC04SExWVVdCcVdueEZBWUZXdmhOdnFCdDc?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-10-21T21:34:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Alpha Technology",
+   "sub": "ATGL",
+   "pct": 52.64,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Alpha Technology Group stock jumps 52.64% to $6.93, but trend stays mixed",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3p1ZEhMemRfbGVKVTh1bkV5dE50LXg5T19VcXhJX0pPRUVoNy15dGEyd19xaVZkRlRzdk9BMTlCbUF6ZmJ2N3VfWU51bWp5U3JIZXM3YXJWd0I3cF9yLVdDV21UNF91NUtLaXVjdGRfb3VtaGM5QkxFLW5UUjdEVzhzYThuMXc?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-10-21T21:22:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "VivoPower",
+   "sub": "VIVO",
+   "pct": 40.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "VivoPower shares jump 40% after pact to develop 1GW sovereign AI data centers over 3 years",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjBWOGVKQ1luYjBrRVNHOU1LXzhVQmdvYkp1c2ZqcC12SU9waW5GNkVDMnpRMHVDRGVJelMyc09jbWZETURGVVZ6MGowSmF5ZmN5TDZlNGlXSmQxbHk0UFA2d0xIeng1Y0t1dlpiTmhUM1R2c0R2a0QyVGVYckhmclc3enpLcWdU?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-22T01:35:33+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-22T07:25:56.791248+09:00"
+}
