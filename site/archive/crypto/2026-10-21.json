@@ -1,0 +1,65 @@
+{
+ "label": "10월 21일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.34,
+   "text": "+1.34%",
+   "exact": true,
+   "source": "코인리더스",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LbEk4Q1dUUl83Ykc4S1JLMXdKbGdqY0RsNVlhSzYzSEhCLVdyaWhOVnJmT0gzWHZEMTd6RXJ6eER3MTZ3TUVubFp3?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "두들즈",
+   "sub": "가상자산",
+   "pct": 84.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "업비트 리플 거래대금 1위, 비트코인 앞섰다…두들즈 83.52% 폭등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RbGJkelJrLTJMMk54eE5UZXZ3eHE2WUtSVTdFejU1ZUt3ODlzZDhmNGt1V2ZDYVVndS1rZXdqSzdyWVBnN2lGNnR3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-21T08:00:00+09:00"
+    },
+    {
+     "title": "[아침 시황] 비트코인 1억1,055만원…업비트 두들즈 84% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fbVpWUWlXRFJDNUY4aVk2eHpjUFpucE04MGRRNzZtNHQ5azZTQkZVQ18za3M0SldNX0Z3emNuTHNsOGNEeUxMR29KQVMxelZGT0FVLUVFSUpXUWE5cVNQSFBIbTF2QdIBZkFVX3lxTE9fbVpWUWlXRFJDNUY4aVk2eHpjUFpucE04MGRRNzZtNHQ5azZTQkZVQ18za3M0SldNX0Z3emNuTHNsOGNEeUxMR29KQVMxelZGT0FVLUVFSUpXUWE5cVNQSFBIbTF2QQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-21T07:30:14+09:00"
+    }
+   ]
+  },
+  {
+   "name": "COMP",
+   "sub": "가상자산",
+   "pct": 22.3,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "디파이(DeFi) 코인 24시간 상승률 6.7%…AI 섹터 앞질러, COMP 22.3% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JT0ZkdEp6NVZ1ejBjQTFDTkJ0QVBwd0ZEdnhpbFVBdHlld3RMb1ZjMDdCaDJZT1R1SHcxb184djEzeGh0Nnd2d21XdndGNG42Q2VEZDllS1VWWXlNN01FYmhmekZKYk1R?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-21T07:39:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "돌핀",
+   "sub": "가상자산",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "20일 밤 거래대금 톱10…깃코인 1위·리플 2위, 돌핀 21% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWTQ0Qk9XTnJxMElodTJOaDJhLTQxb1NlZy11MHlvcjhIcUdmaGd2dm5HUndNSVZxZzRlYVhZSS1BV2VDOTI5bWxhOTNrdy03TUp6UTZEZFBKb0RYZmo4WnluMl9IdGRk?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-21T06:25:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-21T12:27:52.997822+09:00"
+}
