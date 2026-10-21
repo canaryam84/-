@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T00:26:11.973640+09:00",
+ "updatedAt": "2026-10-22T01:01:54.701283+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -901,6 +901,90 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] HT로보틱스 14%대 급등 1만1000원선 안착 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kTUplTEhXTEpid214NlJpMEJsMzJCWUwzb2hKNUVoNmtTNU5XTWdaaTVEbFNLLTFweGhzcWd0bTdKYmlFWTFaaG9USQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:51:55+09:00",
+   "stocks": [
+    {
+     "name": "HT로보틱스",
+     "code": "396300"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 대한광통신, 뚜렷한 공시 없이 12%대 급등 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWGVHMS1RSE1IVkpOUjBmZkhuUDNBZWlZcWRWaFFDT1JpMENCSVpEaGlLM3ZpM0RFa0IzVUl6bElpVk5kX1g5NXh5Zw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:51:00+09:00",
+   "stocks": [
+    {
+     "name": "대한광통신",
+     "code": "010170"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 켐트로스 두 자릿수 급등 마감하며 4700원선 안착 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Wa3BKRkhkNkxhYjk5enRwbk1sUmV1YXFFb092NW9TZlpzcWpTRGtJQ3FZSjFmT3VJc05MZURGV3hwd0ZLRlVlUGg1dw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:50:27+09:00",
+   "stocks": [
+    {
+     "name": "켐트로스",
+     "code": "220260"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 큐리옥스바이오시스템즈, 17%대 급등하며 6만3200원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N1Y4X2lYYnVvdmpPd2ZNX2xOWFNLWlllN0ZYYUR1R2hiOW8zR252TE92dS1wQzJic1AwVWV4dTJPLV93NW1YZXpaQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:49:54+09:00",
+   "stocks": [
+    {
+     "name": "큐리옥스바이오시스템즈",
+     "code": "445680"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 자이언트스텝, 17%대 급등하며 1489원에 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CS3BlRUdLc05wRDNiTmF2a280a2kyNGt4TXdJZk1kTTc3V3BIWXFuX2dXcDJuV0ZpQlFYVkNjR3VXR1R3N2EtTnlZWQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:49:39+09:00",
+   "stocks": [
+    {
+     "name": "자이언트스텝",
+     "code": "289220"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 앤로보틱스 20%대 급등 1652원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44anBfNnpIYU1rTE1ZSUFQMWFPcGNTUVN3R0ZnQlpYUlpKUUpHRFVycWliRTVNU0FQdFJXak54eDVDSUpnWmNzXzRFaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-21T15:49:08+09:00",
+   "stocks": [
+    {
+     "name": "앤로보틱스",
+     "code": "138360"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[마감분석] 서한 29.90% 상한가 마감하며 5040원 안착 : 기업주식정보",
