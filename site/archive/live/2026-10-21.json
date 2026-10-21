@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T01:01:54.701283+09:00",
+ "updatedAt": "2026-10-22T02:55:27.151108+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -131,6 +131,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[특징주] SK, 행동주의 펀드 얼라인 지분 확보에 12%대 급등…“NAV 할인율 75%”",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HY1pObW5YZHhTQmQzd012MWRLczRLOVBiS3VPZ3BKNXpmaFJmNV82UHBGcThuRE1mTHFkT0JQV1hILUh2MGJvQS1VTF9NVjRaaWpFS2hmSzFMX0hvS0ZaVFotSGtvcHFFS0E?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-10-21T19:17:34+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "상장 첫날 32% 폭락한 엘리스, 하루 만에 상한가 반등",
