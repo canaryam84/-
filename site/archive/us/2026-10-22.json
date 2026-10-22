@@ -1,0 +1,39 @@
+{
+ "label": "미국 10월 22일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.02,
+   "text": "+0.02%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFpOdkxUSmNOR3o0NGc4UDU4RGlVYzVhb1c4bXdxM2Zxa01XamRWemF6VUltdEtsSDVuUlFGdUxDX1VaZmY1ZVhwUHdHTk5PR2xWLWdvTk5iWjBlNEp4SGY5LWhyeDVEcVRkQmQ3YUpNSm04enhaV2JkNDMzLUxWNE1tQXBfRV9ESVdfdE5XS1NCZml3ZmREb1BneGZndlVTUWRqdWlVaVlUWV9EbFpPNXFneWRENzJ2aFRyUFprWXF3b3pu?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -2.6,
+   "text": "-2.60%",
+   "exact": true,
+   "source": "스페셜타임스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pVGRLZk1GLWdLckZhd0JSOHJHLWdxanB4WV9lS01OSndPZlNtYXV5b0RGYk9TYkUtYnhxdHV5YnZnYjZaYXJ3bndxQ21yMnRhX0VPTkFNSFU5TjREY29DWkVfeU5NcnFITkN5S2djUnBIdw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Biohaven",
+   "sub": "BHVN",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Biohaven stock surges 25% on FDA acceptance of drug filing",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGVvcDQ2aVdSaFBnenFHZng4S013RVprdWtZY1ZaUGZkRGk0TmV0N3ZfellSQkxVRldXZng2ZDV6N0o4YnpLcERNWThONzNLUTFzNjliM1NUTUlDNmRGUF8xVXNQdzF5SkZwS3RsaGZyeHl5Ny12MnE1OUFhMVhNOVpQNk95bVEyT1VoaVk4ZWhteVk?oc=5",
+     "source": "Yahoo Finance",
+     "time": "2026-10-22T20:43:26+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-23T07:25:06.676854+09:00"
+}
