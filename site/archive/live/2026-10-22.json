@@ -1,6 +1,6 @@
 {
  "label": "10월 22일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-23T00:30:29.291249+09:00",
+ "updatedAt": "2026-10-23T01:22:10.639010+09:00",
  "items": [
   {
    "title": "[상한가 종목] 윙스풋 이어 SKAI 등 마감",
@@ -130,6 +130,36 @@
     }
    ],
    "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[주요공시] 삼성전자, SK하이닉스, 삼성이앤에이, 인화정공, 진도, 미래아이앤지 외",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQURZbnNfREFkQ1M1WjhsMkVQSWNuWU5Pbk4yc3p6aU9YV2o0TWNrTjk3aE85aUJaQ2pJWUR3SXFrSWZUUUx1aGJxQ05nLWJtdmNNU3dsZDEwR0h5dnJ4NjVyRjdwSm96M09xVw?oc=5",
+   "source": "데일리경제",
+   "time": "2026-10-22T18:39:25+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "인화정공",
+     "code": "101930"
+    },
+    {
+     "name": "진도",
+     "code": "088790"
+    },
+    {
+     "name": "미래아이앤지",
+     "code": "007120"
+    }
+   ],
+   "thin": true,
    "dir": "none"
   },
   {
