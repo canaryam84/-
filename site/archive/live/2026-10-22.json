@@ -1,6 +1,6 @@
 {
  "label": "10월 22일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-23T01:58:57.633660+09:00",
+ "updatedAt": "2026-10-23T04:57:37.397713+09:00",
  "items": [
   {
    "title": "코스피, 3.29% 반등 뒤 3.52% 하락… 램리서치 6% 급락에 삼성전자·SK하이닉스 동반 약세",
@@ -1833,6 +1833,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[ET특징주] 코스닥 입성한 엠에스바이오, 주가 126%↑",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94M3FkYjBaNkFUdGNKaXZlRW9kaVpISEM0WFZaRjJkWmc4dGd4dnZkb1kwUEJlbjBxZkNiZlVhQ2hndVdKeVl6WGhNcWVSdw?oc=5",
+   "source": "전자신문",
+   "time": "2026-10-22T11:33:33+09:00",
+   "stocks": [
+    {
+     "name": "엠에스바이오",
+     "code": "0013Y0"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "“바닥은 어디”…삼성전자·SK하이닉스, 나란히 3%대 약세",
