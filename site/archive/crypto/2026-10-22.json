@@ -1,0 +1,73 @@
+{
+ "label": "10월 22일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.18,
+   "text": "+1.18%",
+   "exact": true,
+   "source": "코인리더스",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tTExPeHBxZFoxVWVqU2NUWGJfWm5WUGNHRUJCekVEWDVCc2hxTXJ2aWZGYXoweGhaM3BBMXU4RVNRUXhJMzh1VVln?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "종목은",
+   "sub": "가상자산",
+   "pct": 200.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비트코인 8만 달러 돌파, 알트코인 동반 상승… 특정 종목은 200% 급등?",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBRjU5akF1LUl1N0VzWVdVSjNxZ01fMjNGcThPNjcxYTB1NmRLbHdWXzNLV0NadlY1X19WekVwUGJuNWNVNjh3QXlEdFBMODJzZEJ0dTJHdkVTWjNSeTNmNWZYYmdpTWM4TzBReQ?oc=5",
+     "source": "민심뉴스",
+     "time": "2026-10-21T22:24:57+09:00"
+    }
+   ]
+  },
+  {
+   "name": "메타다오",
+   "sub": "가상자산",
+   "pct": 104.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억1,264만원…빗썸 메타다오 104% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSGJyTDV4ZjRJOE5lWTRHLWtwaDJLWGdOT0lNei1RX2NXSGhlX044aEExc3dDZktXb3YyTWxYZUxPMUJWRFhoVFVBaURTUFJNSjZ0VFZxcTYwSFJWaUZnamtFWTljd9IBZkFVX3lxTE9qSGJyTDV4ZjRJOE5lWTRHLWtwaDJLWGdOT0lNei1RX2NXSGhlX044aEExc3dDZktXb3YyTWxYZUxPMUJWRFhoVFVBaURTUFJNSjZ0VFZxcTYwSFJWaUZnamtFWTljdw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-22T07:30:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "두들즈",
+   "sub": "가상자산",
+   "pct": 81.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인브리핑] 비트코인 '숨고르기'…두들즈 81%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BTFktYWJRZDd6YVl6WmNCMzZSaHVmVmJlR2RCZXAzeHBmenVMWlhfNERUUGtjWjJlQWlackhSYmtTRmZ3QlJpTXA5ZmxTbGN0UzVqSlBPMXhYNEJEM1E?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-10-21T21:19:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이더리움",
+   "sub": "가상자산",
+   "pct": 71.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "금리 올라도 비트코인 42.7%·이더리움 71% 상승…알레아 리서치, 현물 자금 유입 주목",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00bE8wLTdtTmpfb3BNRFVxV01qdEtGMk9CYXMwX2pxZklITEp1YjdQQnVkUjd2Qlk5UmNYS0V0SGRFUXJZUEhnbUJyaVZEakJmeGRHYUxzTi1MN2xtTkHSAV5BVV95cUxNNGxPMC03bU5qX29wTURVcVdNanRLRjJPQmFzMF9qcWZJSExKdWI3UEJ1ZFI3dkJZOVJjWEtFdEhkRVFyWVBIZ21CcmlWRGpCZnhkR2FMc04tTDdsbU5B?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-21T12:24:03+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-22T12:27:48.206572+09:00"
+}
