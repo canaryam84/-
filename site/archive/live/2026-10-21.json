@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T22:16:10.926047+09:00",
+ "updatedAt": "2026-10-23T00:30:29.291249+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -695,6 +695,20 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]자이에스앤디, '실적 턴어라운드 전망은 유효' 목표가 12,000원 - 신한투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzYi1RQWpQaEhlT045eTU1NGpTY3prc0FpRjJNQzVTc2pGVkViSThnUTBPMHhjby0tRkNZTkpGRmh5ZlhaSzAxVV82YWw4YTFxTUhyaThtVUNvd2Jf?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-21T16:33:00+09:00",
+   "stocks": [
+    {
+     "name": "자이에스앤디",
+     "code": "317400"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "AI 투자 열풍, 코스피 5,800 돌파! 삼성전자·SK하이닉스 주가 급등",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVpJdTBVd3loSWhEMlAtOUdSSVpJdFJNQ2xZSllZalZaR3VIdm92WFl3a016QW92RXNvRzhCMXlqTkZVbnljaTctb1FuNmxWRU10aS1KOUUyNjBuejktQ2lUOFJGYVJF?oc=5",
    "source": "공감신문",
@@ -1303,6 +1317,20 @@
    "dir": "up"
   },
   {
+   "title": "얼라인, SK 지분 1.5% 보유 공개…장중 SK 주가 11% 급등",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYjViR0Fzb2FmNFdGUlRXZ0RfS3pHd3pEN3VZS0JYbkpJajVuOFRqY0p4SnBJYm5HS2tkaEpJcVhwZ18tWW92OHhFUmVmelFGWVYtUlVVRmpjak0zbm5Ja1dR?oc=5",
+   "source": "뉴시스",
+   "time": "2026-10-21T14:55:14+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "해저 뚫고 솟구친 LS마린솔루션… 3분기 영업이익 ‘트리플 잭팟’",
    "link": "https://www.mk.co.kr/news/business/12181698",
    "source": "매일경제",
@@ -1325,20 +1353,6 @@
     {
      "name": "라온피플",
      "code": "300120"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "얼라인, SK 지분 1.5% 보유 공개…장중 SK 주가 11% 급등",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iTDNkLVZuakd3dXZaZnY4T3BGVnhwS3Y2S0RPcGNGSUxWTVR6RVl3enpRNmNva1Q3cFhqTl9EUXdCSHVBOFNLLVpDRFMtRlFxZy1hT0F3LXp6YVJMS1c1ctIBeEFVX3lxTE1ucGJyNGZJSTRVMzh5cFZCV3ZRUVU0dDMtOGdoYjA1WFhIbC1CbnJkWFlHcW0tVXd1OGthWkJubTU2a2gwWFJCN192WVA1c3JzQmgwZmxDNUJFOWhnMEEwZmMwMlpodkdpa2dzdTZPRVhLdWI3TktpVw?oc=5",
-   "source": "뉴시스",
-   "time": "2026-10-21T14:50:05+09:00",
-   "stocks": [
-    {
-     "name": "SK",
-     "code": "034730"
     }
    ],
    "thin": false,
@@ -1853,6 +1867,20 @@
    "dir": "up"
   },
   {
+   "title": "한화시스템 목표가 9만3000원으로 상향…중동 M-SAM 양산 확대 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03VFBMZWo2ajgydFM2RzhqazVUM19uOEY0WTFLNmludWVGeEdtR05nTEF2UW1CYTdrVmIzczlfN0pKS3hJY2U5anFEY0NnM0gyajhQbkE3ZzNEb1NpcmdsazNkNUpPMFdD?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-21T11:56:21+09:00",
+   "stocks": [
+    {
+     "name": "한화시스템",
+     "code": "272210"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] LIG디펜스앤에어로스페이스, 방사청 제재 소식 '하락'",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTFpTN0lXZGJrX0prbWdMeUtaaUVCODVwMlVFYWRJMWtHYzF1RzJkVndDdU1ER25iWUZPVld2el9Jalozb1M3c3BldlVWVXpIbWxBMVIwVUNJYWd6STRvcVM1ckJ4VVJrQ2FSMnF3?oc=5",
    "source": "전국매일신문",
@@ -1906,6 +1934,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]KT&G, '이익 성장에 더해지는 주주환원 프리미엄' 목표가 280,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lVFRGVWUyYmJiOEo1YlhiWXNhYW45d0NiRkJndXNDLWsyTGxnbVoydzB2TS1qd3R1U2g1T3ZZSkJzSHJLM2ZPTW1JSmdsMjltSFFZYjY5UkFzY0Y2?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-21T11:29:00+09:00",
+   "stocks": [
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -4293,6 +4335,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]예스티, 'HPA 효과 시작' 목표가 57,000원 - 유진투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YU0pCRDN0MjlUSHQ0SjdRV2lDZVRQSUZzQkJpRjdZLWtYQTNxTGNSRlE0RE04Yk05V1FIZUIzTWd4VzVmS0pFMGpuOWZXYVFyQ2JPdW84akl3cEtQ?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-21T09:08:00+09:00",
+   "stocks": [
+    {
+     "name": "예스티",
+     "code": "122640"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "김범수 Director, 디아이티 주식 895주 ↑…지분율 0.15%",
