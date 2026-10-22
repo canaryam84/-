@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T13:34:16.461495+09:00",
+ "updatedAt": "2026-10-22T14:53:09.470987+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -1878,6 +1878,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "외신 “AI 거품 경고” 때렸는데… 엘리스, 하루만 급반등해 ‘상한가’",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHMXl4Uks0QUkyN3FDZGJibTV6ZjRVdGIxaTZnX1Bwa1NxV1RlbkxZZEpoWm45MVNzeUdiNmViUlBhMXpSeDdoc3BCN245dw?oc=5",
+   "source": "www.dt.co.kr",
+   "time": "2026-10-21T11:27:53+09:00",
+   "stocks": [
+    {
+     "name": "엘리스",
+     "code": "0158S0"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
