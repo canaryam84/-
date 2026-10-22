@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T11:06:34.977341+09:00",
+ "updatedAt": "2026-10-22T11:42:28.210388+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -117,6 +117,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "엘리스 상장 첫날 30% 하락 뒤 다음날 상한가…시장우려 지나쳤나",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTGVkVnEzMXNDN1VobV9CZkpDVVNzR1VGbnA3NmFWcnlla2diNkJCQ1RrTzNDZ3ZnSEFLRy1PNDUtZ0tyWm1GckcwVmZYZ3Y2Y2RaZ0pfX3hnOWNvWlF3YzRydzBOS05NUlRKRHR6Y9IBb0FVX3lxTE5zTGVkVnEzMXNDN1VobV9CZkpDVVNzR1VGbnA3NmFWcnlla2diNkJCQ1RrTzNDZ3ZnSEFLRy1PNDUtZ0tyWm1GckcwVmZYZ3Y2Y2RaZ0pfX3hnOWNvWlF3YzRydzBOS05NUlRKRHR6Yw?oc=5",
+   "source": "자유일보",
+   "time": "2026-10-21T19:56:51+09:00",
+   "stocks": [
+    {
+     "name": "엘리스",
+     "code": "0158S0"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "유바이오로직스, 대상포진 백신 임상 1상 결과 발표…임상 2상 IND 신청",
@@ -517,20 +531,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "엘리스 상장 첫날 30% 하락 뒤 다음날 상한가…시장우려 지나쳤나",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02T0FDOHNYSWZtT0xtMEFrbTFHaG9LTzdweXJ1Y2FoVGprLXA4NERrNXVxRjZrazhDRGZrSlBQZTUwVFVsQ1dJcnhTUFN4S3k1Y252SFp5bVFDOW5DcUxvYnkyZW5FWHlwaVdr0gFvQVVfeXFMTnNMZWRWcTMxc0M3VWhtX0JmSkNVU3NHVUZucDc2YVZyeWVrZ2I2QkJDVGtPM0NndmdIQUtHLU80NS1nS3JabUZyRzBWZlhndjZjZFpnSl9feGc5Y29aUXdjNHJ3ME5LTk1SVEpEdHpj?oc=5",
-   "source": "자유일보",
-   "time": "2026-10-21T17:19:00+09:00",
-   "stocks": [
-    {
-     "name": "엘리스",
-     "code": "0158S0"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "에이텀, 17만9373주 전환청구권 행사, 발행주식총수 대비 1.83%",
