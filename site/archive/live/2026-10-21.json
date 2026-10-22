@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T14:53:09.470987+09:00",
+ "updatedAt": "2026-10-22T17:26:01.450980+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -509,6 +509,20 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96Q2V1aVF1QmJNYnRaRFBZWUwzaDhENnhvb0ZLLU1meU9wMW16SjRYbHhOLUpiUGJQUzhqZzZnWndodU5kNTNOVlBLanczVS1NZnFoOGtiWkxRS0lzcGliQm5RQXY2UTVWTUx2YTdnUk81dVk?oc=5",
    "source": "데이터투자",
    "time": "2026-10-21T17:26:47+09:00",
+   "stocks": [
+    {
+     "name": "하이젠알앤엠",
+     "code": "160190"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "임형순 부사장, 하이젠알앤엠 주식 1000주 ↑…지분율 0.01%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rU1NuaDlUQ1FweGhpbUY1RDVNNmJ2UHlFbjBsUmV3bU9LS0V2cllHdVEtZndIU0JIWGkzNzB1NlpTcEQ3WW9TVDlpWERMSGlYejhXMDUwVjBITmFTbV9wSUtiN3doMTBNMGp4X0ZUX1ZQdw?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-21T17:25:01+09:00",
    "stocks": [
     {
      "name": "하이젠알앤엠",
