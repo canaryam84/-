@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T17:26:01.450980+09:00",
+ "updatedAt": "2026-10-22T22:16:10.926047+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -71,6 +71,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "HT로보틱스, 투자경고종목 지정 가능성에 따른 투자주의종목 예고",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93RkxpU18zV3huQ0oySGtCbF9mdmNueExYbGpMaFQ4SlFkY1VpcFJtMXA1bDdBcWJyd3lQVnNMbGtWQkVKR1BRekVlb1UwMDF0YmRBUG9xdF9hSWo2cVpzYjNRb3lzVnZNSmJvOENORWp6UQ?oc=5",
+   "source": "TopStarNews",
+   "time": "2026-10-21T20:11:32+09:00",
+   "stocks": [
+    {
+     "name": "HT로보틱스",
+     "code": "396300"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
   },
   {
    "title": "[BioS]삼성바이오로직스, 3Q 매출 1.49조·영업이익 6401억",
