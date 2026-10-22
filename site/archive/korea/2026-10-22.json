@@ -1,0 +1,225 @@
+{
+ "label": "10월 22일(목) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -3.52,
+   "text": "-3.52%",
+   "exact": true,
+   "source": "전자신문",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqNHRsXzRIbUdBLWdUZVlNcVNqb3FpSk92UUxIRW5hSjdBbk8yM19FT0hGcU96a19iak5xT0tSeEd1WlFzUGJtSzhUVmVYdw?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -3.62,
+   "text": "-3.62%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9heVVlbmp3S2h4Ty1NSDZXRGY0anNlNXhZbExBdnprZl9mR2tCV1V4c0ZWQTJ4emc0VnNRY0NpaWJ5VlNUUXJVeTNuRTNZR2xLaUdmSmJYb19QWXVLSjdzYU83YnFtSlU?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "SKAI",
+   "sub": "코스닥 · 357880",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "SKAI·에이전트AI 상한가에도 증시 활력 제한…코스피·코스닥 저조한 흐름 속 변동성 장세",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSGtHd1o3N3k5VDRTanFtX3hnVWNNczRBb2toQ0RPNkVENm1aU2NmMkg2eHljQWJzUnhTb1hiSDJEYm56TUdsQ3hGeHJ2UUpMX045cEduZVU3RnBUNnNzZlo1eXQxbzFp?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-22T11:06:02+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 엠에스바이오 136% 폭등...SKAI·에이전트AI 상한가, 비나텍·삼성E&A도 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZkNMU1dnVmdiamZTN1ZYVlpLMjJyRWNVV0NuOW5HOXA3NGd1V2hoRVdFaXNuR0Zoeng5RnBsX09pYVI1V29WMXVPWmtxeERobGIwN0tVaWpYbUdUMV91SDk3eUM?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-22T10:44:45+09:00"
+    },
+    {
+     "title": "코스닥 거래상위 혼조… 엠에스바이오 98% 급등·SKAI 상한가",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Cem9RTEpGSElnMmN3RlVqaUs5UHVnVjE4bnRvYzFHYUc4Y3NTc3FETktDTVpwellkMlZ6OFRnOVJkMGVhckVYbXFCUVlzT3FKOFUwa2pRUXBkS0lEblFFY2MweGRENHFUVVc2UzY2Y215dkRoQmE5U3hiMlZ0Zw?oc=5",
+     "source": "서울신문",
+     "time": "2026-10-22T13:23:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이전트AI",
+   "sub": "코스닥 · 060900",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "SKAI·에이전트AI 상한가에도 증시 활력 제한…코스피·코스닥 저조한 흐름 속 변동성 장세",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSGtHd1o3N3k5VDRTanFtX3hnVWNNczRBb2toQ0RPNkVENm1aU2NmMkg2eHljQWJzUnhTb1hiSDJEYm56TUdsQ3hGeHJ2UUpMX045cEduZVU3RnBUNnNzZlo1eXQxbzFp?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-22T11:06:02+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 엠에스바이오 136% 폭등...SKAI·에이전트AI 상한가, 비나텍·삼성E&A도 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZkNMU1dnVmdiamZTN1ZYVlpLMjJyRWNVV0NuOW5HOXA3NGd1V2hoRVdFaXNuR0Zoeng5RnBsX09pYVI1V29WMXVPWmtxeERobGIwN0tVaWpYbUdUMV91SDk3eUM?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-10-22T10:44:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비나텍",
+   "sub": "코스닥 · 126340",
+   "pct": 25.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "비나텍 주가 장중 19%대 급등, 1195억 규모 데이터센터용 슈퍼커패시터 공급계약 맺어",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSTzIyYWUwVjFjTjR4YmRKelVHUUNfRG1SS0JvNklGLXJuV0x0NlFXQkJDUldERHRpdTA4bjhoRUhYS1RzOUxPMWJCdnlQQ2xMTFcxUElOR2Z5bG5LZlVnazVzQXFGU3JjR3hIR3NJX0stZXM?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-22T10:48:38+09:00"
+    },
+    {
+     "title": "비나텍, 1230억원 규모 공급계약에 장 초반 23% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGX1NEbmdmbXBEQ184NUVySzViazVwXzZjZzRGS3JsZHdyams0Zk53ckhXcWhpcUxXS1FMNE91aVdvTHJ1VnNaR3pJV21oajd3VlhqN1JhV0tRb3NQZi15dtIBeEFVX3lxTFA5NC1lNjlrQWRXOGVRVi1GS255UkJDZGJJX21tU214czcySTZyVTQtYS1pQjFvNUpNbDFvdjcxWG92YTBZMWhCUzNKcUZEYkZjYlVHbE13cFFMUll0YU9PNm5rODFBM1MyRTZIYlo4YW5nYktMSzRWeg?oc=5",
+     "source": "뉴시스",
+     "time": "2026-10-22T09:55:09+09:00"
+    },
+    {
+     "title": "비나텍, 연이은 대규모 공급 계약 수주… 25%대 급등 - 머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zb04zblhGZFNJUG1EVnFfdS04cmV1Ui1BQnZSZ0ZoYTBvbHU0WVY3TFBDVklrbTVoWEJQLWRseFJ6UkNtUUV6TEVyVndQY29hTkZPYS1aYjRPQVFxMXpWM01tclVBZE80YUN6RDFySWdoYWJnTmfSAXtBVV95cUxPM1hVZ0NqanpHeXVBZjR6dUFXbDNFMGhRSlM3cGp6SE1vd3dNWDFscXNvb0pEdXpkbzlBVDJ3dXZlT0VFTDUzX3A4TEVubEdndHV4UEFLTkxxRW56OU80aXRSbnhVTFd6Si1tTjYzeGJaMnlZSWhNMGkxRTg?oc=5",
+     "source": "머니투데이",
+     "time": "2026-10-22T09:42:24+09:00"
+    },
+    {
+     "title": "[특징주] 비나텍, 데이터센터용 슈퍼커패시터 잇단 수주에 24% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdnlib19xU21laTBHR25zeTBLYU83Y2dRWUJKZF90T3FkRW1reXA0M2VqMGV4X0hzUW5HbWQ1NE1mNkYtUVNEQVo4N1ZTUmsyaW1RQ3pCQmRnR2d1?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-22T09:42:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엘리스",
+   "sub": "코스닥 · 0158S0",
+   "pct": 23.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[특징주] 상장 첫날 32% 급락 엘리스, 17% 치솟으며 이틀째 반등(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261022062451008",
+     "source": "연합뉴스",
+     "time": "2026-10-22T15:58:21+09:00"
+    },
+    {
+     "title": "엘리스, 상장 사흘째 22% 급등…공모가 회복[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sWkREVFhBcWJ1cGlnbFZDNDNuUU1CWjQwYmtMc0ZpNTJiZmxHS1UyVld4d0lFWU5vR3lfdnNDVGV5RkxuS0tCMnI0aFVvV21MWGZodTAyY1NvWXR2VkFF?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-22T10:19:22+09:00"
+    },
+    {
+     "title": "상장 첫날 30%대 폭락하더니…엘리스, 이틀째 급등 23%↑",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4MXVNSUhxVnRULU1mTk9Mb0NkcFowV1REcGx6MGpseEdiRGw5TGk3d3RGQklCcjE3UV9JSGtHUjhURjhjeFRZN0lKcnhMeVVmVkctaU5UWWRfOHZ5ZzlUdEE0VVFtanNEa3Q3Ty1MYW9yVVNidnFVStIBeEFVX3lxTFB4MXVNSUhxVnRULU1mTk9Mb0NkcFowV1REcGx6MGpseEdiRGw5TGk3d3RGQklCcjE3UV9JSGtHUjhURjhjeFRZN0lKcnhMeVVmVkctaU5UWWRfOHZ5ZzlUdEE0VVFtanNEa3Q3Ty1MYW9yVVNidnFVSg?oc=5",
+     "source": "뉴시스",
+     "time": "2026-10-22T10:14:30+09:00"
+    },
+    {
+     "title": "[특징주] 상장 첫날 32% 급락 엘리스, 21% 치솟으며 이틀째 반등",
+     "link": "https://www.yna.co.kr/view/AKR20261022062400008",
+     "source": "연합뉴스",
+     "time": "2026-10-22T10:12:53+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅텍",
+   "sub": "코스닥 · 065450",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "빅텍, 20% 급등하며 3750원선 돌파…김여정 발언에 방산주 관심 집중",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbDhsZlVPSy1XdVN6eHQ2U3MwQVFrREFSN1Viczl1SW5UX216Uk1NSm5XSHhVNTBRM2xwckpBVEd0SFdsZHJVaUdmSjRObjFFaVpHVzVwNlJqd3ZGTHZZNmpzajVfVHVf?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-22T11:04:21+09:00"
+    },
+    {
+     "title": "[특징주] 빅텍, 뚜렷한 공시 없이 장중 15%대 급등세 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z2xRRW12YjhTRk5RZFBlNDNpM3FYU2R4TEc3cHZaRmdoVFlDMWllcDZWcmZfTWl3Y3NaY21DZXpsTjNzX2pDMHJFSQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-22T10:23:53+09:00"
+    },
+    {
+     "title": "빅텍 주가, 16%대 급등... 최근 공시는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hV1hxdlVwclVMOGRSWXdaRFNoLXhNRnA5LXRUTjlubjZxbDF5QVBVS2xaSnhqaWJNTENxN1FjbVJMRzlPSnNSOG5fUDVjU2xNNm9MTGVONjQ0YldTTWFpeko0T290SEsxbGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-22T10:22:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대모",
+   "sub": "코스닥 · 317850",
+   "pct": 17.06,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 대모-건설기계 테마 상승세에 17.06% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pd2wtTVVKVjlCTTk4eHJWQ0ZZRWpGSmZtZ3NncFE1eEVscVJxNEtCdktKUFc2aUpjUXdxLXM2VTRra3E4UjM2SjZMeUIyUmxGX0E?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-10-22T10:33:41+09:00"
+    }
+   ]
+  },
+  {
+   "name": "삼성E&A",
+   "sub": "코스피 · 028050",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 삼성E&A, 호실적·자사주 소각에 17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iTGFEXzJHbGdyQzNOd1VUTi1GMm1TVVZjUkRROTlPN0k5d2I1Sl9qNE5xTzNKWjdKR0RnS3ZhTFV6b0RuLUtWZk5WQndwNTBTazJCT0dKaThhd3hf?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-22T09:24:00+09:00"
+    },
+    {
+     "title": "[특징주] 삼성E&A, 실적 호조에 자사주 취득·소각 공시…15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NUzlpdzBHcFlfOUZIZ3UyLTVGYzR6czVLRHByQzdGbU1yazVVcVZRSjNHQWFBNGpfdm9xT09ZaUs3SEQ3cU9Ed3FmUUE4TGdTc3M5ajJlSWdkRTRSLWY5dnhRcw?oc=5",
+     "source": "에너지경제신문",
+     "time": "2026-10-22T09:18:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "솔트룩스",
+   "sub": "코스닥 · 304100",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "솔트룩스, AI 관련주 강세에 프리마켓서 17%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZGx0czkzbmVXVlVLX09TWFk3a2Y0VXNvdWR1R05oellMeDgyLUctZjRjV0RJT19weXRNY0JBOWxxd3ZTVlZ6WG9qZjA1MmlESl9SYlhxbFNfV04zODJ0cU1IRzhxZDNXcEE?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-10-22T08:33:43+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-22T17:10:21.370332+09:00"
+}
