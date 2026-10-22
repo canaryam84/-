@@ -1,6 +1,6 @@
 {
  "label": "10월 21일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-22T08:26:17.419777+09:00",
+ "updatedAt": "2026-10-22T11:06:34.977341+09:00",
  "items": [
   {
    "title": "\"온종일 주가 보느라 피 말라요\"…SK하이닉스 폭등에도 '한숨' [분석+]",
@@ -1537,6 +1537,28 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 목표가 유지…엘리스 상장 첫날 32% 급락",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETGs3QW41ZkZYM2owRTBDLTlLdTliVm1fVmEyN0xMTTA3bW40b0MycGcybW9hSmFpdVVEbXJSVjR2dXNuX2NRUmlCbXp3MUZicmxyS192bjdOQ3IyUlBHa1QwVVJLUEFVRTE3ZFJsemg?oc=5",
+   "source": "https://www.thedailyeconomy.kr/",
+   "time": "2026-10-21T14:22:13+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "엘리스",
+     "code": "0158S0"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "[특징주] SK, 얼라인파트너스 지분 보유 소식에 11%↑",
