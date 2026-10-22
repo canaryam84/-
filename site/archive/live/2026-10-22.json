@@ -1,7 +1,25 @@
 {
  "label": "10월 22일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-23T01:22:10.639010+09:00",
+ "updatedAt": "2026-10-23T01:58:57.633660+09:00",
  "items": [
+  {
+   "title": "코스피, 3.29% 반등 뒤 3.52% 하락… 램리서치 6% 급락에 삼성전자·SK하이닉스 동반 약세",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDEzRGVpX185eHZ5R3hldXpLLUR2N1NZN3BSYWQ3dWs0bE9JVGJlcTdiQ2dLTS1uWHJfTm9GS1RiNWpXTlc3NWVKMkZQLU12NWh1ZWFFNVM2X0tMd2xWSVVxUlZuZE1jWVEyY1hEUGZzTE5rMF84NEFTVTRhT21rY2U5ZVV2Wm5T?oc=5",
+   "source": "FinanceFeeds",
+   "time": "2026-10-22T23:13:25+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "[상한가 종목] 윙스풋 이어 SKAI 등 마감",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bDdnWEtzTElVdUh0bEtXXzR3Y0E5b2xWRllmbEJoeW1aSUlpWGJMYkpDSVJDa0VRZTR0TV83ckMwTjFtY3VoaEcxTHZnZTRXQUp6NFphR2Zqdkt6dFNLWXN3LU9meVZ0WVAxNFNR?oc=5",
