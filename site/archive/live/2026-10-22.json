@@ -1,6 +1,6 @@
 {
  "label": "10월 22일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-23T12:58:34.683203+09:00",
+ "updatedAt": "2026-10-23T16:26:54.216917+09:00",
  "items": [
   {
    "title": "코스피, 3.29% 반등 뒤 3.52% 하락… 램리서치 6% 급락에 삼성전자·SK하이닉스 동반 약세",
@@ -457,6 +457,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "SKAI 상한가 1851원…AI 데이터 인프라 사업 주목",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMHMyd29DYmhmelNVdFdVRXA1cUhBbTh4NmhiQ1hCclFNZ1k2ZGpfU1FvV0RoVW1QWnlHRUVOV1ZjQ2I4SzBDUjFZUkRqQlY1SmhsdUNybU9lc1U1RGZITUYzRmlPZEF3Y2lYeHJGRFN0Z9IBckFVX3lxTE9qMHMyd29DYmhmelNVdFdVRXA1cUhBbTh4NmhiQ1hCclFNZ1k2ZGpfU1FvV0RoVW1QWnlHRUVOV1ZjQ2I4SzBDUjFZUkRqQlY1SmhsdUNybU9lc1U1RGZITUYzRmlPZEF3Y2lYeHJGRFN0Zw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-22T17:14:53+09:00",
+   "stocks": [
+    {
+     "name": "SKAI",
+     "code": "357880"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "최민찬 부사장, SIMPAC 주식 1450주 ↑…지분율 21.81%",
