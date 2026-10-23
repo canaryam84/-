@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T06:54:50.598646+09:00",
+ "updatedAt": "2026-10-24T07:17:54.819382+09:00",
  "items": [
   {
    "title": "코스피 4.12% 밀린 뒤 0.30% 상승…SK하이닉스 4.42% 반등",
@@ -705,6 +705,20 @@
    "dir": "up"
   },
   {
+   "title": "노을 상한가…제3자배정 유상증자 결정",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Pc3hJV3JEaFhPeVlDcEZyTG1vVXVJaFhiUFlwY1ZBYVBXQlpIQW9wT2tOVUNuTmJjT1pKa0JxdEtiS25KajNXNDVDODdjSHo5bXY1RmR1SklSd3FUSGgtek9oTEt0TWRSVGpNNEZ30gFyQVVfeXFMT0xOZGJrZno5aEQydVhsZC1LRUZhOHQ1X1Uzd19LNS1laDZpRFdqbUwtejdSdEJTNS15SHRtcE5LYXF6aTNnVl82aXl0WUxONHpUa0lFNko3c1lkYkUzbmZheDg1WDJMOWExSlAyM0ZNRjd3?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-23T16:05:24+09:00",
+   "stocks": [
+    {
+     "name": "노을",
+     "code": "376930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "사흘 새 37% 뛴 삼성E&A…증권가 눈높이는 고공행진",
    "link": "https://www.etoday.co.kr/news/view/2639510",
    "source": "이투데이",
@@ -717,6 +731,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "스페코 상한가 2055원…방산·플랜트 사업 실적 점검",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3b0s3Umo1c2tWMUJONUpXOXVGSm56QWQzX0YwVUs3ZjhQbHVJcFlZN3FFQUs2Qk41Y0lpZ3JyWnQ4WVlyU0I4SWFqS0tBZEVwWVUyemU2SUV2cnFOQkM2S25wU3RSRmNBYzNzSmlB0gFyQVVfeXFMTXVXQXhpWkd2am50dXhrN0VCU2ZPUzRtOGMxUGZzNEJ6Nkw4cGd2djI3QVZFa21CVWptRUZYV0Q2c2tJWlpZOHBtMHVSR1gzaTRkaDFJQ3d5b2w4V0FUajl0NTFUOWREZl80OHJqQTVHYzlB?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-23T16:04:48+09:00",
+   "stocks": [
+    {
+     "name": "스페코",
+     "code": "013810"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[특징주] 디티에스, 코스닥 상장 첫날 35% 상승…장중 120% 급등",
