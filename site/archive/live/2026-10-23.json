@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T01:59:28.745401+09:00",
+ "updatedAt": "2026-10-24T04:04:56.770144+09:00",
  "items": [
   {
    "title": "코스피 4.12% 밀린 뒤 0.30% 상승…SK하이닉스 4.42% 반등",
@@ -908,6 +908,20 @@
    "title": "[특징주] 아이패밀리에스씨, 日 기업 공개매수에 상한가",
    "link": "https://www.yna.co.kr/view/AKR20261023129700008",
    "source": "연합뉴스",
+   "time": "2026-10-23T15:36:21+09:00",
+   "stocks": [
+    {
+     "name": "아이패밀리에스씨",
+     "code": "114840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "아이패밀리에스씨, 마루베니 공개매수에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUdueFltRjR0LW5uU3NQN3ZwY0Vrbk0zWVhxWUc0WjdyWUE2WU93SGpnYWhQZnpDUV9oRmRWYXRPcGlWcE9ITXFXOHc0aWtGOWxmQXlmek9yVGNKREtDcDVKQTlKdjZyc3Y4T1pJb1UzZHlZRW0wcGZEVlRPMWdnR3F6ZUlHbFVVdmV1UzM3MU5sUkNXLUE?oc=5",
+   "source": "데일리바이트(DAILY BYTE)",
    "time": "2026-10-23T15:36:21+09:00",
    "stocks": [
     {
@@ -1839,6 +1853,20 @@
    "dir": "down"
   },
   {
+   "title": "아이패밀리에스씨 상한가 폭등쇼… K-뷰티 브랜드주에 무슨 호재 있나",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IR01nNmtFWkhXWXNsczNBYTNvb01yUlpyelE0Rk4xdUhGZHQ1Q1A2anFzbEQwbXNkVWJjRHYweXZYVjMxT1gxLUlYWlpLUTV0dXFBT2R3cVZuTUROUUJ0UHVxVUNLVWZXbEtOUUJsWHB1RjDSAXdBVV95cUxOUWtGaUktRjFKSnQxcUd1eEk2QTlianNFSGJ0S29vS3hZNE5kcnYyUEppUVVqb0ZMMW41N29lWjNJTGlURE1lcE10YW1QX3NQVXQ5MTNGZW8tbGxvUFFDcjRpZTJlSHR4c0UwZWROZVYzYS0wT25DNA?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-23T10:54:45+09:00",
+   "stocks": [
+    {
+     "name": "아이패밀리에스씨",
+     "code": "114840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "디티에스 주가 상장 첫날 급등…장중 따블 기록 : 한국증시",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hT3BZSndEVHBIY2tjcEx3MGZiaTRGWFNrM1R4bklqOFE3SGNvdGM5SHRCWTlNc24wanY2b0RyTGNCb2JHUWREOTJFVQ?oc=5",
    "source": "재경일보",
@@ -2754,6 +2782,24 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "SK증권, 셀트리온 목표가 28만원으로 상향…“옴리클로 성장 가속화”",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZEQzWVJmMWhzOURwWFNMejAwM195QzNsb1RVbENOQUJtRFdKNWdGUkgtcTNmZmRZMGZpSnEyTnpOVHVwcUluaURHenBUdUt0aElwdjRMdw?oc=5",
+   "source": "브릿지경제",
+   "time": "2026-10-23T09:20:00+09:00",
+   "stocks": [
+    {
+     "name": "SK증권",
+     "code": "001510"
+    },
+    {
+     "name": "셀트리온",
+     "code": "068270"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
