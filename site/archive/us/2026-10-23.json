@@ -1,0 +1,53 @@
+{
+ "label": "미국 10월 23일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.23,
+   "text": "-1.23%",
+   "exact": true,
+   "source": "뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRYk1xOHdWWDdQRWFGUEVlWUFVdk91c0JodVhkUEQ4RHhZRDV1ZkJzVnBidHd3UXZkZ1gyczFyX093alhPdFZRRUhlMXZERTRBbkJyV1RhbUF2MUpLREUwSNIBeEFVX3lxTE1Db3FUZmg2STdBTTZSSTg2UWJTTTNIajhMclY2Vi14MUdidkw2azREbVgxREhtYnNfOThyM1BPaEhPcTZEUmZLR0tBWkZ6cTZsRU51NEI2VjZocXhXeG80YlQ1YUFnbEJmVDVCVTdldXZoLW5hdmJvcg?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.2,
+   "text": "-0.20%",
+   "exact": false,
+   "source": "이데일리",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczJzcDdyQ2U4STl0QVl4ckpaTWE5SDYwZlRHX3dadjdOd0l0ZVdjbkxDaWhWa0lMY2RwMWRreFF3VV9wQmpMRC0xb0RkbENxV0dVZUxXQXJnTUl5VTFuUVBLTnQ5RGR4MXdFWnRqSXo3ZVZRTmhWaFB5dEE5Q1RlVA?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Paylocity",
+   "sub": "PCTY",
+   "pct": 69.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Paylocity surges 69% after InvestingPro Fair Value identified opportunity By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0c0RlpCX2tDdjEzdmloT05vamNZZWFjSThkczhQTnFGWHkzZWxTVmJheW5Vd1ZicUpJS1VxOHJPZFRic2ZwR0ZidGFnSTJnRzhxVk00LV94WDJvVGRQSGxfX2M4ZHdJMUtGNUNLQzJ4UVhYZDZ4aWtiWEpFOTNtNDJKVEUyVUNKVWdiZjlqY282YTJjUTc1UEd5Z1BHaUIxU2Y3VEIyQmE0MW5vWU9RY1lXV0hiUVpvazJEamZSeVg4dVdkWWZEVlVQd1lYZw?oc=5",
+     "source": "Investing.com",
+     "time": "2026-10-23T20:18:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "UCB",
+   "sub": "UCB",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "UCB shares surge more than 21% after second guidance upgrade on Bimzelx strength",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmJqT0dheVlReXJuNmFTQ2VENW5YdWswSHl6cnFDaHQ4alk5NXp4dXRLQUxWLUFIZ2FhRFQxcXhmSFdha3VWX0NJNjRxNktqT1pjSnctaFlLSzdWVEk0UzM0S09CY1NLZVc4eGtoMWlEMm52Uml1NlQ4Q0RHTHhsSURGRDJqVTYtTF9nVmZXRlB6eFU1WjdjYldNZHp4MHkwSXkzazJtamthM0ZXUlJpXzRKSk9BcDRaS0lUb0tTZnVCZw?oc=5",
+     "source": "The Pharma Letter",
+     "time": "2026-10-24T00:19:44+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-24T07:25:02.298275+09:00"
+}
