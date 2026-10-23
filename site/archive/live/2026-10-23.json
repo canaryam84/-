@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T07:17:54.819382+09:00",
+ "updatedAt": "2026-10-24T08:56:12.964893+09:00",
  "items": [
   {
    "title": "코스피 4.12% 밀린 뒤 0.30% 상승…SK하이닉스 4.42% 반등",
@@ -702,6 +702,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "아이패밀리에스씨 상한가…2분기 최대 매출 재조명",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tbDhqc2k0UjcwMlFrcGFfUGVXUm5DVThMUjU1WmZ6ZDF3eURPRHNPSDFlalF4Sm96V016R1FrUzRjNUF0S08tZ2xWRUFZOEhuTEdhZWhfNnVxeV9sN2hVVWppazRNTzg0QXdBajI2MVQ1d9IBckFVX3lxTE1tbDhqc2k0UjcwMlFrcGFfUGVXUm5DVThMUjU1WmZ6ZDF3eURPRHNPSDFlalF4Sm96V016R1FrUzRjNUF0S08tZ2xWRUFZOEhuTEdhZWhfNnVxeV9sN2hVVWppazRNTzg0QXdBajI2MVQ1dw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-23T16:05:44+09:00",
+   "stocks": [
+    {
+     "name": "아이패밀리에스씨",
+     "code": "114840"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
