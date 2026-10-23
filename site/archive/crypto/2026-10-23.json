@@ -1,0 +1,65 @@
+{
+ "label": "10월 23일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -3.21,
+   "text": "-3.21%",
+   "exact": true,
+   "source": "코인리더스",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xSHpvbV9ORlBna2ZUVjFSaUN1a2VKaUQwWVJGWTJjRU50M2Y2bERoYUdvbk8yRjRBdzlueFhSaVVFam8tTnYtVW5R?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "시간",
+   "sub": "가상자산",
+   "pct": 197.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "DOOD 24시간 197% 급등…HTX서 IOST 97%, 저가 토큰 강세",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUUNZSXhGSTBoVDZaME45VElsbmQybE9LaUJyaEtISlI0Zk9obFVnaWNtRUV2Q2dRQXFFWklPRHB3WVcwZ2pKaUFUNk9kZ2t1ZF9Wd3ZXajhvcVFOU1B6ejNMc1M0Z9IBZkFVX3lxTE5FUUNZSXhGSTBoVDZaME45VElsbmQybE9LaUJyaEtISlI0Zk9obFVnaWNtRUV2Q2dRQXFFWklPRHB3WVcwZ2pKaUFUNk9kZ2t1ZF9Wd3ZXajhvcVFOU1B6ejNMc1M0Zw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-22T14:15:07+09:00"
+    },
+    {
+     "title": "젤다코인 6시간 24.52% 급등, 24시간 거래량은 4410달러",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pR1RqX0hmX3ZuZ2l6MGNteUQwSkhuMzJCalRRVDFxWFoweHYwcXp4Q3RkeERTeEdycE1uME1qaHNOT2xQVmJDUUJVWTVCR2tIWTZiQ0JBTENQbmhiNldPYTNxRG5NQdIBZkFVX3lxTE9pR1RqX0hmX3ZuZ2l6MGNteUQwSkhuMzJCalRRVDFxWFoweHYwcXp4Q3RkeERTeEdycE1uME1qaHNOT2xQVmJDUUJVWTVCR2tIWTZiQ0JBTENQbmhiNldPYTNxRG5NQQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-22T12:48:41+09:00"
+    }
+   ]
+  },
+  {
+   "name": "MAGMA",
+   "sub": "가상자산",
+   "pct": 70.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "MAGMA 70% 급등, 두 지갑 1.5백만 토큰 2배 롱 포지션으로 34만 달러 수익 (MAGMA, Aster DEX, 2배 롱, 34만 달러)",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRzB0amFQaG5vcnJrdEZjUkljYUQ3OFpBN0J4WE91T29wYk1NNWJPQVdPZUswWE40eXk1QWVlVWE1VE1EaGJOSnNqLTdmYm1KMW9mV0JzdENqV01kdEtoVzA2SFR3VTRKNEM2Tw?oc=5",
+     "source": "민심뉴스",
+     "time": "2026-10-22T21:09:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비트레이어",
+   "sub": "가상자산",
+   "pct": 42.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "마그마 파이낸스 59%·비트레이어 42% 급등…알트코인 시장에 매수세 집중",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDOWVKSHhpcjdIS1RiUDNKeEkwSl9TZDdjYjRJNkh5RWE0WlFneGI0OVhUQlU4NUVHUWhWWTdud3VzX2NzbHVQNlIxNnE5VzgyWmxVVEhOaG1pQUFudHJzbkRkNWs3czJw?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-23T11:40:13+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-23T12:28:56.108826+09:00"
+}
