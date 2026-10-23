@@ -1,0 +1,203 @@
+{
+ "label": "10월 23일(금) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 0.3,
+   "text": "+0.30%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBYnJrQm5LT3luVzRyNy1jaWFDdDlBWks5NjdWRVZxRmw3aERnRnFuVldaSFQ3b29RVGhhS0IwLWtMelhrLUV5Zk9OdjdEdERWWWNraTFoWmRtQTZWWFhJVndlajZ0aTQ?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -1.62,
+   "text": "-1.62%",
+   "exact": true,
+   "source": "버핏연구소",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vdUJ5bkxmQnRZMUZQZHBReURBaWltWUw5ZEFSbWF0RXN1dmdfS1lvVnZKVUdWTmpYU18yT0FPeGNSZ1NIWUdVSlVFTHl2dEVEVDBYUjBJZUxGbWxVS0VQRzVn?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "아이패밀리에스씨",
+   "sub": "코스닥 · 114840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 13,
+   "articles": [
+    {
+     "title": "[특징주] 아이패밀리에스씨, 日 기업 공개매수에 상한가",
+     "link": "https://www.yna.co.kr/view/AKR20261023129700008",
+     "source": "연합뉴스",
+     "time": "2026-10-23T15:36:21+09:00"
+    },
+    {
+     "title": "'롬앤' 아이패밀리에스씨, 日 마루베니 공개매수에 상한가…주당 1만2000원·최대 28%",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBUbnhHTkltV19fWmZxSGh3WXN2U09la0IxdGxjV28xZ3V0RkJoTHdxMDZqX2ZpRHJxTUFTNWsydzNQMEE?oc=5",
+     "source": "한국공공정책신문",
+     "time": "2026-10-23T15:12:01+09:00"
+    },
+    {
+     "title": "'채시라 남편' 김태욱, 560억 투자에…아이패밀리에스씨 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbElXS1VjMVY2MGdjV21vVVFVMENYeFRqeG4zSVdfTU9SMWhRY05GQnlfbk81aUNnTEtjQlhaRWZXWlZNZUF1T2FrOUxRTUw5TG9QTkZManp5RWZOaDVZWnd5S1pnenJqZS1OSkN4Tkl0NklXdEo2TWdqaUVkTXdxNA?oc=5",
+     "source": "이데일리",
+     "time": "2026-10-23T14:07:36+09:00"
+    },
+    {
+     "title": "[특징주] 아이패밀리에스씨, 日 마루베니 공개매수 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJYV9SVXRlcDFKZ2lSVk9TQl9ZY0pSZm5GRm5JdGp3SzhJNGp2ZEx0bVhpY2pyb184ZzRHWTZmT2tfbzZGdFcyRnlpOXp0SmdtOWR2eUZtbG0wd9IBWEFVX3lxTFBwZW12SVRrS05icWJQVmhubjNTME9LclZkMm1KbU1nM2JDUGJIblowY0lINGdjZXNCWlBjX3FYcFUtUVlzOWZQcDNyLUVzaFdfbkdNZW8xWTc?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-23T13:38:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "진양화학",
+   "sub": "코스피 · 051630",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "오세훈 무죄에 테마주 급등…진양화학·진양산업 상한가",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWk0wTmR3UTNlT3NKVFFFLUxSaUQzMmYwS3NfOVltYVBITktmaDNzWk0zWDRBMkVoV0xDQWlLNzJrMjh6TWFyU1hiNE5KU2VramxkNDVlVTFkR3FmY2w3eUdobXk0Ym81VnVMWmZENDlFaVRFNkc0Mm9wTUQ?oc=5",
+     "source": "한국금융신문",
+     "time": "2026-10-23T16:48:49+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 진양산업·진양화학 상한가…오세훈 2심 무죄에 정치테마주 들썩",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rM0ZCT05DaDl1MUtIb0lodm9OOU9kUnVmbjBKZ1ZvQUV2N05ubkVORmVKQlRVeEFsdGpkSGVINWFHQlVmQ3dURUFuZVBaRWN0ekEwTUJtVnQ1ZkxTcF9sM0I5WDU?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-23T16:37:41+09:00"
+    },
+    {
+     "title": "오세훈 2심 '무죄' 판결에…진양화학 등 무더기 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oVHNsMzRmQzdDYjRLZVEzaFpXMFB0VEZDRllIbWQ1NHRtSXRIcm9BR0l4TWhVU2dmekVFVTBUMXlZUThfSmlNNnRSZFBWT1h2WFJv?oc=5",
+     "source": "경제타임스",
+     "time": "2026-10-23T15:05:51+09:00"
+    },
+    {
+     "title": "‘오세훈 테마주’ 2심 무죄에 난리났다…진양화학·진양산업, 29%대 급등 [종목Pick]",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2ckpfVGVhUmQ3a1g1aVZDUlBnMTlmQnhKTVJiU3VDYXItUkJFR3BXa3ZXRHNqMURxNnp4S1NBTlBjczZzaEZkeHMyZ0hzVEZWUXBEU2R3bw?oc=5",
+     "source": "헤럴드경제",
+     "time": "2026-10-23T14:45:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "진양산업",
+   "sub": "코스피 · 003780",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "오세훈 무죄에 테마주 급등…진양화학·진양산업 상한가",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWk0wTmR3UTNlT3NKVFFFLUxSaUQzMmYwS3NfOVltYVBITktmaDNzWk0zWDRBMkVoV0xDQWlLNzJrMjh6TWFyU1hiNE5KU2VramxkNDVlVTFkR3FmY2w3eUdobXk0Ym81VnVMWmZENDlFaVRFNkc0Mm9wTUQ?oc=5",
+     "source": "한국금융신문",
+     "time": "2026-10-23T16:48:49+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 진양산업·진양화학 상한가…오세훈 2심 무죄에 정치테마주 들썩",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rM0ZCT05DaDl1MUtIb0lodm9OOU9kUnVmbjBKZ1ZvQUV2N05ubkVORmVKQlRVeEFsdGpkSGVINWFHQlVmQ3dURUFuZVBaRWN0ekEwTUJtVnQ1ZkxTcF9sM0I5WDU?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-23T16:37:41+09:00"
+    },
+    {
+     "title": "오세훈 2심 무죄에 진양산업·화학 상한가…정치 테마주 다시 ‘들썩’",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Q0k1YUlKM3BoVHlpOWpJNU1RWVZZZlR0emRfRTlpOG5MdXhDc0VLakFTcWhRVTlpajhDZzg1UmhyajFwU0h3a2RxOTZXNE5XQXUzamcxZG05Z1pDTHZCQVg1T0g?oc=5",
+     "source": "디지털데일리",
+     "time": "2026-10-23T14:48:36+09:00"
+    },
+    {
+     "title": "‘오세훈 테마주’ 2심 무죄에 난리났다…진양화학·진양산업, 29%대 급등 [종목Pick]",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2ckpfVGVhUmQ3a1g1aVZDUlBnMTlmQnhKTVJiU3VDYXItUkJFR3BXa3ZXRHNqMURxNnp4S1NBTlBjczZzaEZkeHMyZ0hzVEZWUXBEU2R3bw?oc=5",
+     "source": "헤럴드경제",
+     "time": "2026-10-23T14:45:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "퓨쳐켐",
+   "sub": "코스닥 · 220100",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[주식] 퓨쳐켐, 미국 임상 2a 탑라인 발표에 27% ↑",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRWwzcGxSbmc0enUtLWRFXzZJTnB2bm5VOFNHTUd3NEVQRUpqT0M4T0lEN1c3MWRoNm9YUDliRXcwSWJVZnNnYW5vckZpbkp2Vmw1VmxmOWNFelVVVF9KNjE4eTh0TmFSYzVv?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-10-23T16:39:06+09:00"
+    },
+    {
+     "title": "美 임상서 항암효과 확인…퓨쳐켐, 애프터마켓 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQ1NuVkRVOVdFVkpTbHV0SElMNDlKTDNxLW9LVGhkdWRQb09oTWJnSm1MZjNqeGZ0b01CbXZuNF9VNmc5MmJhT0RVelVMVXdjYURZTS04Ty10Zw?oc=5",
+     "source": "한국경제",
+     "time": "2026-10-23T16:32:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스페코",
+   "sub": "코스닥 · 013810",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "김정은 사망설 확산에 스페코 상한가…방산주 매수세 집중",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWbjc0aGFJSG40M0g2ampQSHdFQnk2YXk4dDZERkZOWVcycGdJc2RwaG05WE9VODRrZnVaT3Rta0RkeWs0Y2lmUWZKMUJnMGRqUEFVb3QzUy1EQdIBVEFVX3lxTFAwbkYtXzQ1QjdXNmE1cjNlN0NhdVlxZ1hnTjJkbi1pNXJmN1Y1ZmMwcVJqRTAtU0k3T1BDYVhScF9ELXBoRHdaYjhXalBEdkNsQ0VJRA?oc=5",
+     "source": "더팩트",
+     "time": "2026-10-23T15:28:13+09:00"
+    },
+    {
+     "title": "[특징주] 김정은 행방 논란에 방산株 급등…스페코 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PeDM4dTh1OGFORVJCSTRTVE9ndGpZUEg0SENGMnFJMjNFWS1zZHJmZUxRVktVZ1RuNE1jQWpTTUFXMXN0dm9IUTFlQkYtcUlvR0EtRFdzUVkwSHYt?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-23T09:55:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "노을",
+   "sub": "코스닥 · 376930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 노을, 제3자배정 유상증자…'상한가' 직행",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBad012eU5pQUR0TzQxQmVSU2ZEUXdzVmp5ZEpiYnZlMDF3ZHBwbFVQaU1vU3UtUk1MTHZIcmc2OWNpcldyUGozWkwxQjVtTFRiTG9kV3JjNlRZT3dzQUhmWEttRUxtTG9UNnVz0gFuQVVfeXFMTnYwUnlNOHJzeElORE9ZZTFGSWs0cmpCQlR3TTd0TjdmNU90UVlwVFdKeGtObjlLTmQ2TDZBS1AzaFpsaW1RMm1ET1ZIZUExWTJaSUFabGcxZm9MTmE5cE5WZnRLUXVIMWZ0eEVSd1E?oc=5",
+     "source": "뉴스드림",
+     "time": "2026-10-23T09:31:02+09:00"
+    }
+   ]
+  },
+  {
+   "name": "컨텍",
+   "sub": "코스닥 · 451760",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "컨텍 장중 상한가…거래량 전일의 36배",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMEJVc21VOW14cGtBWDh6NWhsWlp3ZzM5TS1XaFV5clRFOWJaWWRSVmxmOGJ0UjY5THl1VVRlZ1hKWVZ2ZlJZZ3RqM0laNjUtQm1SMkdyQ3BNNmpJLXVoN2hoRm9jdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-23T12:44:02+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-23T17:08:03.442986+09:00"
+}
