@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T04:04:56.770144+09:00",
+ "updatedAt": "2026-10-24T06:54:50.598646+09:00",
  "items": [
   {
    "title": "코스피 4.12% 밀린 뒤 0.30% 상승…SK하이닉스 4.42% 반등",
@@ -741,6 +741,20 @@
     {
      "name": "빅텍",
      "code": "065450"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 삼성E&A 7.94% 상승 마감하며 5만9800원 기록 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4bkpTMmJnOEE3dThPQkxEclYyLTFGdW5jWHdLTmFGbWw3V0E5Q19PWG5hMjZFVWEtX2FqNWRmZnRZc0tsVnl4VGU0SQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-23T15:51:15+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
     }
    ],
    "thin": true,
