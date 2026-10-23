@@ -1,6 +1,6 @@
 {
  "label": "10월 22일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-23T11:46:13.731744+09:00",
+ "updatedAt": "2026-10-23T12:58:34.683203+09:00",
  "items": [
   {
    "title": "코스피, 3.29% 반등 뒤 3.52% 하락… 램리서치 6% 급락에 삼성전자·SK하이닉스 동반 약세",
@@ -2789,6 +2789,20 @@
    "link": "https://biz.chosun.com/stock/stock_general/2026/10/22/VGLK67FTZJHEZFJRLA6ARGIOBU/",
    "source": "조선비즈",
    "time": "2026-10-22T09:43:03+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 라온시큐어, 금융권 해킹·보안 투자 확대 기대감에 강세 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSV9aOThaNklQd1hpZnMtdXJXckh3N0EwUXc0MHBUZU1KcXFnUkpQQzh4c1R3c09tRWdwZzZzSnBrY1RROTRYbmFWZG80LXRLeFN4S3NNVUFkTkdRTUlnUENwaF9ZR2c4RUdIZ28tV3RiZy1zcEVRT0RTS2pNTnEyQVpkUEJBS1U10gGcAUFVX3lxTE9WRGVGZ1M5RThQcjQxWDlwdE84SlBuTl9abXk1UWdsMFpLS2duRUV3Z3EzdGJYWGcwMXJKeE5Ob19oSTJFZ3Nta1N4SVNqd1NkaW1paFJFdEdObm9ldHQ1clljZGo0RnFNNVpfSFJwTzBzSGJfbVU3UDg3T3FNaWk1RHptVkJjZkNaZFRBejJzS2pVVExJWGZmTlV0NA?oc=5",
+   "source": "Chosunbiz",
+   "time": "2026-10-22T09:43:00+09:00",
    "stocks": [
     {
      "name": "라온시큐어",
