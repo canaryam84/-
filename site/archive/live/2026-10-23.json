@@ -1,7 +1,25 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T08:56:12.964893+09:00",
+ "updatedAt": "2026-10-24T10:28:50.885189+09:00",
  "items": [
+  {
+   "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2d3ZiR25pSVMyMlozR3QwbElwR0FWS0c4em1OeFlNd0JlaGV2SGRUbGVfNG1tM3dGQlhSQXdiQUJVWDhQWldLSFY5VzRjZU5oSHZTY3ZhWFBMdGMz?oc=5",
+   "source": "https://spt.co.kr/",
+   "time": "2026-10-23T23:31:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "혜인",
+     "code": "003010"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
   {
    "title": "코스피 4.12% 밀린 뒤 0.30% 상승…SK하이닉스 4.42% 반등",
    "link": "https://www.tokenpost.kr/news/market/426463",
