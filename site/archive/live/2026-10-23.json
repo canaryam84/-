@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T10:28:50.885189+09:00",
+ "updatedAt": "2026-10-24T13:28:27.250218+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -3827,6 +3827,20 @@
    "dir": "down"
   },
   {
+   "title": "하나證, 삼성E&A 목표가 7만3000원 상향…실적 개선·자사주 소각 '주목'",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YTRlbXFkS096Vm54SXg4eEx4U2h5RXBycWtSM2NJSXFwWVFYMURtNEpCTDZKeUZoOTBfckd2MFgydXJwMkluOURMeUpHN2hyamxGZ21HRVBPQmRmMlFlN0d6Y0wyUU1MMlFXbFlB0gFuQVVfeXFMTXRhNGVtcWRLT3pWbnhJeDh4THhTaHlFcHJxa1IzY0lJcXBZUVgxRG00SkJMNkp5Rmg5MF9yR3YwWDJ1cnAySW45REx5Skc3aHJqbEZnbUdFUE9CZGYyUWU3R3pjTDJRTUwyUVdsWUE?oc=5",
+   "source": "뉴시안",
+   "time": "2026-10-23T07:50:26+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[증시키워드] SK하이닉스, 솔리다임 美 상장 철회⋯삼성E&A 호실적에 급등",
    "link": "https://www.etoday.co.kr/news/view/2639163",
    "source": "이투데이",
@@ -3853,20 +3867,6 @@
     {
      "name": "셀트리온",
      "code": "068270"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "하나證, 삼성E&A 목표가 7만3000원 상향…실적 개선·자사주 소각 '주목'",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sLUJKR1N4MDhLQlZjVlVMSDctZmloTF84SVhQMU05ZHpxSjZBT2U0Nk5LM1UzRW5JNVZFQ01Ob3ZwWk9VOTZpQml5WWVRcUExYlFoX1JTNVcyM2FjcmtSRWFNTl9zVDRFT1ZR0gFuQVVfeXFMTXRhNGVtcWRLT3pWbnhJeDh4THhTaHlFcHJxa1IzY0lJcXBZUVgxRG00SkJMNkp5Rmg5MF9yR3YwWDJ1cnAySW45REx5Skc3aHJqbEZnbUdFUE9CZGYyUWU3R3pjTDJRTUwyUVdsWUE?oc=5",
-   "source": "뉴시안",
-   "time": "2026-10-23T07:32:23+09:00",
-   "stocks": [
-    {
-     "name": "삼성E&A",
-     "code": "028050"
     }
    ],
    "thin": false,
