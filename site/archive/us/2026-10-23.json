@@ -8,15 +8,15 @@
    "text": "-1.23%",
    "exact": true,
    "source": "뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRYk1xOHdWWDdQRWFGUEVlWUFVdk91c0JodVhkUEQ4RHhZRDV1ZkJzVnBidHd3UXZkZ1gyczFyX093alhPdFZRRUhlMXZERTRBbkJyV1RhbUF2MUpLREUwSNIBeEFVX3lxTE1Db3FUZmg2STdBTTZSSTg2UWJTTTNIajhMclY2Vi14MUdidkw2azREbVgxREhtYnNfOThyM1BPaEhPcTZEUmZLR0tBWkZ6cTZsRU51NEI2VjZocXhXeG80YlQ1YUFnbEJmVDVCVTdldXZoLW5hdmJvcg?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Db3FUZmg2STdBTTZSSTg2UWJTTTNIajhMclY2Vi14MUdidkw2azREbVgxREhtYnNfOThyM1BPaEhPcTZEUmZLR0tBWkZ6cTZsRU51NEI2VjZocXhXeG80YlQ1YUFnbEJmVDVCVTdldXZoLW5hdmJvctIBeEFVX3lxTE1Db3FUZmg2STdBTTZSSTg2UWJTTTNIajhMclY2Vi14MUdidkw2azREbVgxREhtYnNfOThyM1BPaEhPcTZEUmZLR0tBWkZ6cTZsRU51NEI2VjZocXhXeG80YlQ1YUFnbEJmVDVCVTdldXZoLW5hdmJvcg?oc=5"
   },
   {
    "name": "나스닥",
-   "pct": -0.2,
-   "text": "-0.20%",
-   "exact": false,
-   "source": "이데일리",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczJzcDdyQ2U4STl0QVl4ckpaTWE5SDYwZlRHX3dadjdOd0l0ZVdjbkxDaWhWa0lMY2RwMWRreFF3VV9wQmpMRC0xb0RkbENxV0dVZUxXQXJnTUl5VTFuUVBLTnQ5RGR4MXdFWnRqSXo3ZVZRTmhWaFB5dEE5Q1RlVA?oc=5"
+   "pct": -0.21,
+   "text": "-0.21%",
+   "exact": true,
+   "source": "프라임경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQUhkdzNkejlhQUFWTTFERGptNmpRREl4cmh4QUtlY05fX256TDhNWEExak9EblQtWHNLYlM0WExQdVJWcjlyaGgzbXE2WlJlUm5ZLWVBN3lEQXVWaEJDdHdrYl9wWDI0Q2ZGVQ?oc=5"
   }
  ],
  "items": [
@@ -49,5 +49,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-24T07:25:02.298275+09:00"
+ "updatedAt": "2026-10-25T07:20:43.750205+09:00"
 }
