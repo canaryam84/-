@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T23:51:38.210880+09:00",
+ "updatedAt": "2026-10-25T00:14:08.446626+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -608,6 +608,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "우리금융지주, 5만7369주 주식 소각",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TMmpUS1V5aW5lTVQ5aEZ6N2V5QXNKVndlVGxxMUhTNlVSU2stQ3BaNU5wVGRTOGttalRlTmlCLU43cm9FZHlVR2pXVzdBOGY5MUgxOW40ZnhXOWdmOFgyWTJvUHlqakVpSndr0gFvQVVfeXFMTm5RQ2Q4cTdOQ3M0ZlVlVks1eEVfSVhXVWtIMDJrZkZVRDc0NGNJM3hjTUR2aGo3aXNXZlk2Vl9TVFR6Z09Yb1dsQWdoWUJvX0xiUWVfOEZxQWViZWhlZVdEUGV2M3lEckZqcHd5MkZr?oc=5",
+   "source": "한스경제",
+   "time": "2026-10-23T16:24:30+09:00",
+   "stocks": [
+    {
+     "name": "우리금융지주",
+     "code": "316140"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -1249,6 +1263,20 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]삼성E&A, '반복되는 서프라이즈, 그리고 훌륭한 주주환원' 목표가 78,000원 - iM증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lYnZZZmExUDAxSm9kSnBGaHBZeldfV3NVOE15Nlp3VHlYeDhzejdoVVcxYm1lcERxWmFHTlZYSzRjSUlvOWNEU3Z6WDZOQzBMOTBheGljbm5yY05Q?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T15:00:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "하나금융지주 3분기 영업이익 1조6천313억원…작년 대비 10.4%↑",
    "link": "https://www.yna.co.kr/view/AKR20261023117300527",
    "source": "연합뉴스",
@@ -1499,6 +1527,24 @@
     {
      "name": "RF시스템즈",
      "code": "474610"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]삼성E&A, 'New Normal' 목표가 76,000원 - LS증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yd1RyQS1yRGZWUHNIckV4T2tUeUo5SjhsMy1JdDMzTUtIRHNRSHI4M3kxRmJFZFM4V1gxa2xnNmN2ZW1qQWZnN1UzNnV2enlRMEVONE5Od2RzNjAy?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T13:49:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "LS증권",
+     "code": "078020"
     }
    ],
    "thin": false,
@@ -2225,6 +2271,24 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]삼성E&A, '실적, 전망, 주주환원 삼박자' 목표가 76,000원 - 다올투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aOWFscTVPeG0wS0ZJbURZVFJfODFsOTdsNFBud09GRkdpSzE0aGNHTGFNMFdRTGJBVTVaR1BzNVRaX1NiN1M4NnhHaTlEMkdleXlHN2lpMk5tR0lI?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T10:13:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "日마루베니가 찜했다…색조화장품기업 아이패밀리에스씨, 상한가 직행",
    "link": "https://www.mk.co.kr/news/stock/12183865",
    "source": "매일경제",
@@ -2479,6 +2543,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]삼성E&A, '3Q26 Review; 아직 첨단 산업 실적은 시작도 안 했다' 목표가 83,000원 - 삼성증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CbTAycXZqNVhnNTM0WndPTHM3Q1F4R3R4UlhKUHpvQWwxdjRFdTlqYmc3VnFpR2JVdkN5LVNndWlvQTRqSVhrX0k1NVl3WGhCTVloVlFVWEFOWmJX?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T09:45:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] SK하이닉스, 솔리다임 상장 중단에도 장 초반 120만원선 무너져",
    "link": "https://biz.chosun.com/stock/stock_general/2026/10/23/ZJNZHNNT7RFPLHHCXEBE4ZVDLQ/",
    "source": "조선비즈",
@@ -2597,6 +2679,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]삼성E&A, '진짜 서프라이즈는 ＇지속가능성＇' 목표가 74,000원 - 현대차증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kT0Nxa1lUbHpKUm1rWmsxNmVGRFVqRTlPWGNRX3FvdE9INU4tZlBQUm02NVAtTWxpZFBhbkZCYXpVb19JWEVjbGJXWlRKUXpwVG5Od0RYeXhSOGhE?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T09:39:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "현대차증권",
+     "code": "001500"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 디티에스, 코스닥 상장 첫날 따블…장중 120% 급등",
