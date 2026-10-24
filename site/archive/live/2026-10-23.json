@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T18:54:03.828755+09:00",
+ "updatedAt": "2026-10-24T23:51:38.210880+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -121,6 +121,20 @@
     {
      "name": "넥사다이내믹스",
      "code": "351320"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "계룡건설산업, 3일간 18.22% 급등에 소수계좌 거래집중…투자주의종목 지정",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSi1lQm1OaGxMSW1rc3J1UDk2dmRFRFUyVzE3czBpaVQ5N0Y5M0FLRXZNb0JHSk91NTlsczQta19RUjRkMU5wdWtkdXl0MDZUT3R2Z2RaejhxcWlmY2ZlMDlaNWNaTTI4TGt6Y28xSmEwQQ?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-23T20:08:22+09:00",
+   "stocks": [
+    {
+     "name": "계룡건설산업",
+     "code": "013580"
     }
    ],
    "thin": true,
