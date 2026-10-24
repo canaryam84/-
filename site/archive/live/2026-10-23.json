@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T16:05:48.325341+09:00",
+ "updatedAt": "2026-10-24T18:54:03.828755+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -489,6 +489,20 @@
     {
      "name": "삼성E&A",
      "code": "028050"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[반도체] 오는 28일 SK하이닉스 실적 발표, 주가 변수는 '주주환원·AI 수익성'",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuUE1xaUt3UUpNQXVSQlMyZjlmbWI1YjNub0Q3Z2x4VC1IcXdfWDNGSnNKRjZxY2VqVHFKWVFrODRqSWhKazkwVTl3ZlloMElUbXYxN1hpTEhRNWgza1VVQ2FuT1NKTUNFTXlJcEhJSHpPd9IBdkFVX3lxTFB6S1dXcWkteEZIWkVzYW1wRkxXVXY3VlNEaTFsSHJ4Z0w5RE9jQmZ3c2dETWt5aDk0by00M1g5X1M0YUVfenE1SkRDX0c4T0M3TXE5UXMwUF9xSkdsX05VWmU5VGN1WlBraENNODlnU2h6OGFxMlE?oc=5",
+   "source": "인베스트 | invest",
+   "time": "2026-10-23T16:38:55+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
     }
    ],
    "thin": false,
