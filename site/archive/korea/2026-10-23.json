@@ -26,8 +26,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 16,
+   "newsCount": 19,
    "articles": [
+    {
+     "title": "日 마루베니 560억 공개매수에 아이패밀리에스씨 상한가 : 한국증시",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnLUpKWHgyUi1hVHBHcnBGRTBoLURjNWJCd3g4U0xYcWtmcjJwNEZLR0FrdVJFeEFjNjNmWmJBYVVPempTa2xYYUVUbw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-24T01:17:00+09:00"
+    },
     {
      "title": "마루베니 공개매수에 아이패밀리에스씨 주가 상한가 : 한국증시",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aMUpVSEQzbnR3aFFwTFRjN0N2ZE1JYjEyZ2xYTVc2RVpwaklNcjJNcS1ubEMwZURuY3pmaUpIeExKd01rMXh1Ti1OVQ?oc=5",
@@ -41,16 +47,10 @@
      "time": "2026-10-23T15:36:21+09:00"
     },
     {
-     "title": "'롬앤' 아이패밀리에스씨, 日 마루베니 공개매수에 상한가…주당 1만2000원·최대 28%",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UdDU4N3NoOTBhTVEyeFJrbW9FS3BNNzJEOHUtMm54ekFjeXBLM1JCUmhMdlNZUm5jdzI2bkkydUswU3BVOTJKWGZiV0hhZ0licjduaDFB?oc=5",
-     "source": "대한청년일보",
-     "time": "2026-10-23T15:12:01+09:00"
-    },
-    {
-     "title": "'채시라 남편' 김태욱, 560억 투자에…아이패밀리에스씨 '상한가'",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbElXS1VjMVY2MGdjV21vVVFVMENYeFRqeG4zSVdfTU9SMWhRY05GQnlfbk81aUNnTEtjQlhaRWZXWlZNZUF1T2FrOUxRTUw5TG9QTkZManp5RWZOaDVZWnd5S1pnenJqZS1OSkN4Tkl0NklXdEo2TWdqaUVkTXdxNA?oc=5",
-     "source": "이데일리",
-     "time": "2026-10-23T14:07:36+09:00"
+     "title": "아이패밀리에스씨, 마루베니 공개매수에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUdueFltRjR0LW5uU3NQN3ZwY0Vrbk0zWVhxWUc0WjdyWUE2WU93SGpnYWhQZnpDUV9oRmRWYXRPcGlWcE9ITXFXOHc0aWtGOWxmQXlmek9yVGNKREtDcDVKQTlKdjZyc3Y4T1pJb1UzZHlZRW0wcGZEVlRPMWdnR3F6ZUlHbFVVdmV1UzM3MU5sUkNXLUE?oc=5",
+     "source": "데일리바이트(DAILY BYTE)",
+     "time": "2026-10-23T15:36:21+09:00"
     }
    ]
   },
@@ -60,7 +60,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 9,
+   "newsCount": 11,
    "articles": [
     {
      "title": "오세훈 2심 무죄에 진양화학·진양산업 상한가 : 한국증시",
@@ -83,7 +83,7 @@
     {
      "title": "[오늘의 특징주] 진양산업·진양화학 상한가…오세훈 2심 무죄에 정치테마주 들썩",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rM0ZCT05DaDl1MUtIb0lodm9OOU9kUnVmbjBKZ1ZvQUV2N05ubkVORmVKQlRVeEFsdGpkSGVINWFHQlVmQ3dURUFuZVBaRWN0ekEwTUJtVnQ1ZkxTcF9sM0I5WDU?oc=5",
-     "source": "www.ppss.kr",
+     "source": "https://www.ppss.kr/",
      "time": "2026-10-23T16:37:41+09:00"
     }
    ]
@@ -111,7 +111,7 @@
     {
      "title": "[오늘의 특징주] 진양산업·진양화학 상한가…오세훈 2심 무죄에 정치테마주 들썩",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rM0ZCT05DaDl1MUtIb0lodm9OOU9kUnVmbjBKZ1ZvQUV2N05ubkVORmVKQlRVeEFsdGpkSGVINWFHQlVmQ3dURUFuZVBaRWN0ekEwTUJtVnQ1ZkxTcF9sM0I5WDU?oc=5",
-     "source": "www.ppss.kr",
+     "source": "https://www.ppss.kr/",
      "time": "2026-10-23T16:37:41+09:00"
     },
     {
@@ -128,13 +128,19 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 3,
    "articles": [
     {
      "title": "[특징주] 노을, 지구홀딩스 최대주주 변경 앞두고 상한가",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ3RraGxOQmdMTmFNM2U4eGJqZWVoTXBxVDY5V2pzRWdVZ1lvaTR0SS1EcWcwbGxGdkk3NVZycFpiYU81YXd1ZnlkRnBBUmpiTFZ2VVdVMVBMbkw5RnZuV0l3NkNQY3hPQXFEaQ?oc=5",
      "source": "바이오타임즈",
      "time": "2026-10-23T17:00:02+09:00"
+    },
+    {
+     "title": "노을 상한가…제3자배정 유상증자 결정",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MTmRia2Z6OWhEMnVYbGQtS0VGYTh0NV9VM3dfSzUtZWg2aURXam1MLXo3UnRCUzUteUh0bXBOS2FxemkzZ1ZfNml5dFlMTjR6VGtJRTZKN3NZZGJFM25mYXg4NVgyTDlhMUpQMjNGTUY3d9IBckFVX3lxTE9MTmRia2Z6OWhEMnVYbGQtS0VGYTh0NV9VM3dfSzUtZWg2aURXam1MLXo3UnRCUzUteUh0bXBOS2FxemkzZ1ZfNml5dFlMTjR6VGtJRTZKN3NZZGJFM25mYXg4NVgyTDlhMUpQMjNGTUY3dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-23T16:05:24+09:00"
     },
     {
      "title": "[특징주] 노을, 제3자배정 유상증자…'상한가' 직행",
@@ -150,8 +156,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 3,
    "articles": [
+    {
+     "title": "스페코 상한가 2055원…방산·플랜트 사업 실적 점검",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11V0F4aVpHdmpudHV4azdFQlNmT1M0bThjMVBmczRCejZMOHBndnYyN0FWRWttQlVqbUVGWFdENnNrSVpaWThwbTB1UkdYM2k0ZGgxSUN3eW9sOFdBVGo5dDUxVDlkRGZfNDhyakE1R2M5QdIBckFVX3lxTE11V0F4aVpHdmpudHV4azdFQlNmT1M0bThjMVBmczRCejZMOHBndnYyN0FWRWttQlVqbUVGWFdENnNrSVpaWThwbTB1UkdYM2k0ZGgxSUN3eW9sOFdBVGo5dDUxVDlkRGZfNDhyakE1R2M5QQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-23T16:04:48+09:00"
+    },
     {
      "title": "김정은 사망설 확산에 스페코 상한가…방산주 매수세 집중",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwbkYtXzQ1QjdXNmE1cjNlN0NhdVlxZ1hnTjJkbi1pNXJmN1Y1ZmMwcVJqRTAtU0k3T1BDYVhScF9ELXBoRHdaYjhXalBEdkNsQ0VJRNIBVEFVX3lxTFAwbkYtXzQ1QjdXNmE1cjNlN0NhdVlxZ1hnTjJkbi1pNXJmN1Y1ZmMwcVJqRTAtU0k3T1BDYVhScF9ELXBoRHdaYjhXalBEdkNsQ0VJRA?oc=5",
@@ -175,10 +187,10 @@
    "newsCount": 2,
    "articles": [
     {
-     "title": "[주식] 퓨쳐켐, 미국 임상 2a 탑라인 발표에 27% ↑",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRWwzcGxSbmc0enUtLWRFXzZJTnB2bm5VOFNHTUd3NEVQRUpqT0M4T0lEN1c3MWRoNm9YUDliRXcwSWJVZnNnYW5vckZpbkp2Vmw1VmxmOWNFelVVVF9KNjE4eTh0TmFSYzVv?oc=5",
-     "source": "히트뉴스",
-     "time": "2026-10-23T16:39:06+09:00"
+     "title": "10월 3주차 퓨쳐켐 주가 29.91% 급등하며 상승 전환",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpbWZhOFY0RFN5UHdkQ2c4VUFtc0ZBZ0s5UGhaSzdGZnBUS014V1ZkYUN2N1NYNVptSnd2b3Z3eGNWYmpob0tYZENPYmo0NnhySmE5Y2djaXBTUFgzNG5sS083NUZfbWlzQU1TdldlUThZdw?oc=5",
+     "source": "중앙이코노미뉴스",
+     "time": "2026-10-24T12:30:43+09:00"
     },
     {
      "title": "[속보] 퓨쳐켐, 정규장 상한가 마감…전립선암 치료제 임상 결과 공시도",
@@ -198,7 +210,7 @@
    "articles": [
     {
      "title": "컨텍 상한가 8130원…제주 우주 지상국 사업 관심",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40aFhyVzlXVlNlckk1Q29nYkdvS0ZQSDhFS1Brak5QbjNyaUw5WHpnbFNGNnFqTkNLVXI3eGlYbVBBeEZSa0haTlN4Qk9IR00xVTlIdlNGSEdpT0xDVVNHTUdqcFA4bUlxbGh1T3Z30gFyQVVfeXFMT2t6dVZwS3R5ZjJDS1dfbTRoOTJhc2pQSVNzd1k4NFZZQ19CM2VwMWg4R3ZDTC1hYjhBT1hYTXd0ckp4V2JkWEx6c3RKeDBxNWtLV1psN1M0Z0pOdU5kY2xSNU1XUWVxQTJjb1lFTFZVVUhR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9renVWcEt0eWYyQ0tXX200aDkyYXNqUElTc3dZODRWWUNfQjNlcDFoOEd2Q0wtYWI4QU9YWE13dHJKeFdiZFhMenN0SngwcTVrS1dabDdTNGdKTnVOZGNsUjVNV1FlcUEyY29ZRUxWVVVIUdIBckFVX3lxTE9renVWcEt0eWYyQ0tXX200aDkyYXNqUElTc3dZODRWWUNfQjNlcDFoOEd2Q0wtYWI4QU9YWE13dHJKeFdiZFhMenN0SngwcTVrS1dabDdTNGdKTnVOZGNsUjVNV1FlcUEyY29ZRUxWVVVIUQ?oc=5",
      "source": "잡포스트",
      "time": "2026-10-23T16:06:36+09:00"
     },
@@ -227,34 +239,50 @@
    ]
   },
   {
-   "name": "지투지바이오",
-   "sub": "코스닥 · 456160",
-   "pct": 20.0,
-   "limitUp": false,
+   "name": "SKAI",
+   "sub": "코스닥 · 357880",
+   "pct": 30.0,
+   "limitUp": true,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "[마감분석] 지투지바이오, 20%대 급등하며 4만9700원 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1renJHbEVBZWxnTU9YenEyeHRwWTE4WW5OTVRFNzA2TURIOUNEVjRWcFRXWlF2TUdYYjA0NWlwclQ1SjhvQ0lCWk9jNA?oc=5",
-     "source": "재경일보",
-     "time": "2026-10-23T15:49:26+09:00"
+     "title": "SKAI·에이전트AI 상한가에도 증시 활력 제한…코스피·코스닥 저조한 흐름 속 변동성 장세",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSGtHd1o3N3k5VDRTanFtX3hnVWNNczRBb2toQ0RPNkVENm1aU2NmMkg2eHljQWJzUnhTb1hiSDJEYm56TUdsQ3hGeHJ2UUpMX045cEduZVU3RnBUNnNzZlo1eXQxbzFp?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-23T19:46:49+09:00"
     }
    ]
   },
   {
-   "name": "AP위성",
-   "sub": "코스닥 · 211270",
-   "pct": 18.0,
+   "name": "에이전트AI",
+   "sub": "코스닥 · 060900",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "SKAI·에이전트AI 상한가에도 증시 활력 제한…코스피·코스닥 저조한 흐름 속 변동성 장세",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSGtHd1o3N3k5VDRTanFtX3hnVWNNczRBb2toQ0RPNkVENm1aU2NmMkg2eHljQWJzUnhTb1hiSDJEYm56TUdsQ3hGeHJ2UUpMX045cEduZVU3RnBUNnNzZlo1eXQxbzFp?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-23T19:46:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "윙스풋",
+   "sub": "코스닥 · 335870",
+   "pct": 23.0,
    "limitUp": false,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "[마감분석] AP위성 18%대 급등 8310원 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zcDF4WVBxdVFtczA5SFpGZFU3UXc2dWptR1JJelVOWktmQlNGa0RpSERub2t2SGxNbVphb1pRV1M5LUxlX2JfdWFKOA?oc=5",
-     "source": "재경일보",
-     "time": "2026-10-23T15:50:03+09:00"
+     "title": "윙스풋 23일 장중 23%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HZURHM3JZcXBSbEZBdC02VmtseGFHamdqRkpuM2hDOWJSeEZQV2IxWEgtb1UtVXlUYy1yQV9UWXpic0ZrdHlUN2xzakpId3VDNWg0MlEzRnNQUWt0YnNjSFRLR1hoQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-23T13:33:42+09:00"
     }
    ]
   },
@@ -275,5 +303,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T20:41:00.809026+09:00"
+ "updatedAt": "2026-10-24T17:00:01.398391+09:00"
 }
