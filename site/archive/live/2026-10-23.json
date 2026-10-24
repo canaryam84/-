@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T00:14:08.446626+09:00",
+ "updatedAt": "2026-10-25T03:11:21.819632+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -2948,6 +2948,20 @@
    "title": "16% 뛰고도 더 간다…삼성E&A, 이틀째 급등[특징주]",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXVldko0OU1CRHM1T0p0eVVWNDlMa3VKdU83OHpxUWUxcTJ1UFJTWWZxbkNIYU9YbVVGYkxKU1pFLVg1RXZERHBUZDA1SllIQmVsMzdQSkJ1ODFTcmZOS2Y5NzRrZGtKUmM1aVhUMDZMV1ZWN1FvdHBNdU5vUVZhZw?oc=5",
    "source": "이데일리",
+   "time": "2026-10-23T09:22:42+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "16% 뛰고도 더 간다…삼성E&A, 이틀째 급등",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VNE9PQllqMWNPWHQ5dHROR1BzeEwxd3BaaVdEWVl6cDMxWV9BNTIyN3lMYS1NT3RsajMzeFZrbjRTM0FIM290U3pIaHVSc19LVUhJVHRZWjdwM3hNRGh0a3M2XzlYbFJQRDc2RlhZWmRDZ1E?oc=5",
+   "source": "마켓인",
    "time": "2026-10-23T09:22:42+09:00",
    "stocks": [
     {
