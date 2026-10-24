@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T07:12:24.656787+09:00",
+ "updatedAt": "2026-10-25T08:52:05.383203+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -3329,6 +3329,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]삼성E&A, 'Top Pick, 단순히 좋다는 말로는 부족한 수준' 목표가 75,000원 - 키움증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SRXFSYjUxSGFuMWtGN1RGQS0wY0c3WDRtSHZ2S3oxbFZVbFJKX3pQMkl4cG9LQm83bl9fb0I2QXlIS19pYXUwVllQV3J1QzV6VEo1U1BzMG1UOEpw?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T08:59:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    },
+    {
+     "name": "키움증권",
+     "code": "039490"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "\"좋다는 말로 부족하다\" 증권사 14곳, 삼성E&A 목표가 일제히 상향",
