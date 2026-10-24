@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-24T13:28:27.250218+09:00",
+ "updatedAt": "2026-10-24T16:05:48.325341+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -1955,6 +1955,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] '롬앤' 아이패밀리에스씨, 마루베니 공개매수에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52b0NOcDZMYWtia0ZXLWJoRjVUY2lHUE5aRS1OUlVSY2RDbS15LUNoT0cyYnF6a05PSi1IblpYdDhIcmR6Z3lFSDhnZjRKM20zYmYwaTVsRVluUVc0ZmlheUQ3QTN2dWJ6NEJr0gFrQVVfeXFMTnZvQ05wNkxha2JrRlctYmhGNVRjaUdQTlpFLU5SVVJjZENtLXktQ2hPRzJicXprTk9KLUhuWlh0OEhyZHpneUVIOGdmNEozbTNiZjBpNWxFWW5RVzRmaWF5RDdBM3Z1Yno0Qms?oc=5",
+   "source": "현대경제신문",
+   "time": "2026-10-23T10:41:39+09:00",
+   "stocks": [
+    {
+     "name": "아이패밀리에스씨",
+     "code": "114840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "(주)현대홈쇼핑, 한섬 주식 1만9500주 ↑…지분율 43.28%",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RSE12Yk9tVi1KWVBmcEtvV19mUndDNUI0bGR3QWJxTUhrdkM1c1FSbldRM0ROWHJRYmZmTVFfWUNQc2tULVAxZ2dPM3RES291Q3ZzSldLcnNkYzI3dDJ3WUlKVzg2QkNTeDhlY3BuemlYZw?oc=5",
    "source": "데이터투자",
@@ -2671,20 +2685,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "[특징주] '롬앤' 아이패밀리에스씨, 마루베니 공개매수에 상한가",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNVdyV2t4U1YyVWRGMG1NRFZJWnNGYmhSMEVhc2tiOV9yUFg0X1B6bHdSRTFBWFZfNzVPR1QwU3M5dHQxNWRpSUQ2V0llWkZWNVh6dVhNSFlGemRFd1MyNHBNQUVfOTjSAWtBVV95cUxOdm9DTnA2TGFrYmtGVy1iaEY1VGNpR1BOWkUtTlJVUmNkQ20teS1DaE9HMmJxemtOT0otSG5aWHQ4SHJkemd5RUg4Z2Y0SjNtM2JmMGk1bEVZblFXNGZpYXlEN0EzdnViejRCaw?oc=5",
-   "source": "현대경제신문",
-   "time": "2026-10-23T09:28:47+09:00",
-   "stocks": [
-    {
-     "name": "아이패밀리에스씨",
-     "code": "114840"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "[특징주] 디티에스, 코스닥 상장 첫날 '따블'",
