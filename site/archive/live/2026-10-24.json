@@ -1,6 +1,6 @@
 {
  "label": "10월 24일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T00:14:08.446626+09:00",
+ "updatedAt": "2026-10-25T01:53:39.143115+09:00",
  "items": [
   {
    "title": "삼성물산, 반포푸르지오 리모델링 수주…'넥스트 리모델링' 첫 성과",
@@ -11,6 +11,20 @@
     {
      "name": "삼성물산",
      "code": "028260"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[속보]\"시간 없어, 빨리 타\" 셀트리온 주가 급등에 난리난 '이재용 밈'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zQWxKRXk2X3hLM1JMZUdLSUFyR3EyNFV3ckFwUFhKTkoxQkE3dm9LeTVtRWtTaWg0SUVmSFJNek1JN0xabW1BVnNXdkwwVUNLR0RJckFNZ3BHbkNDLW1iRzNiZF93SFFh?oc=5",
+   "source": "ThinkPool",
+   "time": "2026-10-24T18:03:35+09:00",
+   "stocks": [
+    {
+     "name": "셀트리온",
+     "code": "068270"
     }
    ],
    "thin": false,
