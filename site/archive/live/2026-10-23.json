@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T03:11:21.819632+09:00",
+ "updatedAt": "2026-10-25T05:49:11.434495+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -2051,6 +2051,20 @@
     {
      "name": "한섬",
      "code": "020000"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "오순택, 동일금속 주식 35만주 ↓…지분율 17.45%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSGNYSUhXVjQydnVCVDFhdXdpTG8wT2FIV09tNk9mQWVXVzducTVPVnhxQV9tUlNOS2NfaG1adExqcWNkbGtfZ3hCMzdJS3NPXzZaczU0Vm5SUFFnbVdfS2JGc25BanAwY1prYzlqR0szbXM?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-23T10:37:07+09:00",
+   "stocks": [
+    {
+     "name": "동일금속",
+     "code": "109860"
     }
    ],
    "thin": false,
