@@ -1,0 +1,71 @@
+{
+ "label": "10월 25일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.08,
+   "text": "+0.08%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GMThiZmhvLW5IcDY2NU01T2x3R1JteGJSN1N5S1VGLWl1X1VqSHpCbnZPNF8wclFfaUlLWmREM2RsZ2FZazBXUk81S04xcV9lV0JVUnRyajg0MVlaamlxUERYVEo3MlNZ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "아이리스",
+   "sub": "가상자산",
+   "pct": 268.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인 브리핑] 아이리스 268% 급등…주요 코인은 내렸다",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04QlpXaXh3RHVSaU1iaF9mT3FNVlRvZktOMDhMTjlZT0RTNkJ1Nmw1Q3FhNnhnbzM5SFdhLWtfNDVtZjVGVkdoczZuRlVTYTF6ckZSaVFWQjVRSFRZb2RpbExkalcyV0pnTjVz?oc=5",
+     "source": "https://www.standingout.kr/",
+     "time": "2026-10-24T16:05:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "문버드",
+   "sub": "가상자산",
+   "pct": 140.78,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "업비트 비트코인·리플 약보합…거래대금 1위 아이리스, 문버드 140.78% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkckpMSGpyNXZNLUUyNlBiM3pyMG56OTNsTUxBal9SdGNlQzJiUEtwN0M3UmF4YzZwTFhSOEtXekIwQnlpNW42LVZ3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-24T13:00:00+09:00"
+    },
+    {
+     "title": "[업비트 TOP10] 문버드 92% 급등 1위…상위 10개 중 7개 10%↑",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wTXdtVkRWZWNWYzduWjZqcENzZmNkdmVNQ1FnN1o3WnJSNWNGSVFXVmxGQmhCS2p4X1MyVW50MjJmUHpaSGUtaF93?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-24T12:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "오덜리",
+   "sub": "가상자산",
+   "pct": 93.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "업비트 비트코인·이더리움 약세 속 문버드 거래대금 1위…오덜리 93%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DMEJGZW1OSWxkdERLNWF1SG4xLXpLdFE3T0t0eXl4YlRwcVlnNWo0ODdnNjMzbnZBVkFNNkNSeVdsSXhrb0dTd3RB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-25T08:00:46+09:00"
+    },
+    {
+     "title": "[아침 시황] 비트코인 1억805만원…업비트 오덜리 71% 급등",
+     "link": "https://www.tokenpost.kr/news/cryptocurrency/427055",
+     "source": "토큰포스트",
+     "time": "2026-10-25T07:30:17+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-25T12:26:32.460791+09:00"
+}
