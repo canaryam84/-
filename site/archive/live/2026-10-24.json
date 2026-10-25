@@ -1,6 +1,6 @@
 {
  "label": "10월 24일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T01:53:39.143115+09:00",
+ "updatedAt": "2026-10-25T16:27:20.135596+09:00",
  "items": [
   {
    "title": "삼성물산, 반포푸르지오 리모델링 수주…'넥스트 리모델링' 첫 성과",
@@ -84,6 +84,20 @@
     }
    ],
    "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "삼천당제약 ‘주가 급락’ 정면 대응…“하반기 최소 2건 추가 계약 목표”",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsblNQb05rVmV0SHU1c2VKVXo5b1pYOWhKNFM1bXNZZVlSRWJLRlIwQlBhN3QzdVVrTU5sUmdualM0ZnhmM0Ztd0RpN2ZRdWNNNHRwYjA3X2NMNktqYndfcWduRQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-24T08:51:39+09:00",
+   "stocks": [
+    {
+     "name": "삼천당제약",
+     "code": "000250"
+    }
+   ],
+   "thin": false,
    "dir": "down"
   },
   {
