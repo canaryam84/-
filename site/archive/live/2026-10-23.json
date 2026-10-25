@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T08:52:05.383203+09:00",
+ "updatedAt": "2026-10-25T10:17:06.777703+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -2055,6 +2055,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "최재호 이사, 크린앤사이언스 주식 2만주 ↑…지분율 8.04%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ueXhOMlpCd1pwQ25FdVNBc3ZIUlpzTnpGSWR1TFRyLVVodUdqaG5HTlc0N2dtdjhnUVNfS0Z0REJ3S19teWdPTWhPUWtOWHp0VkdTTWJ4ZHVUdWpLOVdYdGRJVGlFbzlSd081UnJyQmE2M00?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-23T10:43:13+09:00",
+   "stocks": [
+    {
+     "name": "크린앤사이언스",
+     "code": "045520"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] '롬앤' 아이패밀리에스씨, 마루베니 공개매수에 상한가",
