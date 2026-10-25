@@ -1,6 +1,6 @@
 {
  "label": "10월 24일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T16:27:20.135596+09:00",
+ "updatedAt": "2026-10-26T00:14:00.963726+09:00",
  "items": [
   {
    "title": "삼성물산, 반포푸르지오 리모델링 수주…'넥스트 리모델링' 첫 성과",
@@ -45,6 +45,34 @@
    "dir": "up"
   },
   {
+   "title": "'중복상장' 족쇄 벗은 SK하이닉스 주가…반등 신호탄 쏘나",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTnhZSHIwZkxzQkhKQzY5cnh6UTdRMUx3S2NmZVlzLTRmNFNxSENWNnZoTG5pMkFNR2NMZFNhVkV1a3hMM3hveS0xb3pCOVFZSlp30gFYQVVfeXFMTnV4cWJUS3ZuVUJmeUZlSEl2RXN0RkVmTHRzRU8yck00ZTZqZmpvd1p4OXNlYVU2STRVM1p0MnVrdFp4Z2tLb3FXMU5pQzFJQTlIbkphMWU0Yw?oc=5",
+   "source": "SBS Biz",
+   "time": "2026-10-24T16:48:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "게임주 일제히 하락한 날...카카오게임즈만 6% 올랐다",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSDFqNUJlS0FJbW5hNmJiMFktMjgzOHRfRHd2ZG13NE1xdVpYU1o1aDgyRko4cFJyb01uYUFNZG9nOWFhdzFFYXJwVi1JR3RUQy1ORkVHNUpPbnBycnR6SlR6UGwySEpwRUHSAWpBVV95cUxPR0gxajVCZUtBSW1uYTZiYjBZLTI4Mzh0X0R3dmRtdzRNcXVaWFNaNWg4MkZKOHBScm9NbmFBTWRvZzlhYXcxRWFycFYtSUd0VEMtTkZFRzVKT25wcnJ0ekpUelBsMkhKcEVB?oc=5",
+   "source": "게임와이",
+   "time": "2026-10-24T12:38:47+09:00",
+   "stocks": [
+    {
+     "name": "카카오게임즈",
+     "code": "293490"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "10월 3주차 퓨쳐켐 주가 29.91% 급등하며 상승 전환",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpbWZhOFY0RFN5UHdkQ2c4VUFtc0ZBZ0s5UGhaSzdGZnBUS014V1ZkYUN2N1NYNVptSnd2b3Z3eGNWYmpob0tYZENPYmo0NnhySmE5Y2djaXBTUFgzNG5sS083NUZfbWlzQU1TdldlUThZdw?oc=5",
    "source": "중앙이코노미뉴스",
@@ -57,6 +85,38 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "스페코 주가 최근 5거래일간 1,400원대서 2,000원대 진입",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzSUM4clNva0VQaTlraEJpQnZnUkxnMjhuSTRyZXp6XzVkSGtUUmc2UHF1SjE3NTRnSUVyRkN6QXdwSzBvYnBpTjZoSEpzaG9XdjI4aXJuWW9uMTRBc2tyQVVjVk12ekhPTTBJLWJscmFEQQ?oc=5",
+   "source": "중앙이코노미뉴스",
+   "time": "2026-10-24T12:29:38+09:00",
+   "stocks": [
+    {
+     "name": "스페코",
+     "code": "013810"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 다스코, 7000억 장흥 태양",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pR21OSkVvRzRqbEZVamtDMkhMNzRJR0toeWtSRjZVTE90MlcwNHJjc282cmZFTlhZUllnM2xjcjJVRDUwSGFkUXdrQW1vdGZuVmtLQW9GM3ZzQWJCWmRpaFpkeTJyNXFE?oc=5",
+   "source": "이투데이",
+   "time": "2026-10-24T11:04:56+09:00",
+   "stocks": [
+    {
+     "name": "다스코",
+     "code": "058730"
+    },
+    {
+     "name": "태양",
+     "code": "053620"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
   },
   {
    "title": "'괴리율 46.8%' 한국서만 헐값 거래되는 SK하이닉스…격차 벌어진 이유는?[주末머니]",
