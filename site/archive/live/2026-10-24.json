@@ -1,6 +1,6 @@
 {
  "label": "10월 24일(토) 국내 종목 뉴스",
- "updatedAt": "2026-10-26T00:14:00.963726+09:00",
+ "updatedAt": "2026-10-26T03:12:38.608710+09:00",
  "items": [
   {
    "title": "삼성물산, 반포푸르지오 리모델링 수주…'넥스트 리모델링' 첫 성과",
@@ -144,6 +144,20 @@
     }
    ],
    "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "LIG디펜스앤에어로스페이스, \"24조6000억 일감 어쩌라고\"...24개월 입찰 제한에 이틀 새 12% 급락...",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00NEJvaTNtZ01OVVJjUEI0ZUtmUkJUMUZIV1RmOE1GS2I5UmEwSGViTHpZNGN0ZjlYVmRVSjFkb3Jha2U4TjF3YjgyWQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-24T08:52:00+09:00",
+   "stocks": [
+    {
+     "name": "LIG디펜스앤에어로스페이스",
+     "code": "079550"
+    }
+   ],
+   "thin": false,
    "dir": "down"
   },
   {
