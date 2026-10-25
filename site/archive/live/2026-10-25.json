@@ -1,6 +1,6 @@
 {
  "label": "10월 25일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-26T00:14:00.963726+09:00",
+ "updatedAt": "2026-10-26T01:54:25.517318+09:00",
  "items": [
   {
    "title": "연준 금리 결정 29일 오전 3시…SK하이닉스 실적은 28일",
@@ -351,6 +351,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "고점 대비 56% 급락 SK하이닉스…솔리다임 상장 중단에 반등 이어갈까 [선데이 머니카페]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YaFNacnZraVNnRE1FV2RZOFE0bV9MbHhNVlhJSU16enBxcE54bmswVldYR1A4TVpEbUVtQThyejI1bHN5dUJIT1VTR0lPclRfZHfSAVNBVV95cUxNV21fR2ZPRlpnMHBBQkpnUTFJVFNkTWpGRHhDUVczN2dmWWpNMmdfMk5KMmpnNV9ocklQdzE3eFZuMTY2UExxVm5lZlNlbWdXMHBHNA?oc=5",
+   "source": "서울경제",
+   "time": "2026-10-25T10:16:59+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "메가스터디교육 100억원 자사주 매입 신탁 결정",
