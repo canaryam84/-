@@ -1,7 +1,21 @@
 {
  "label": "10월 25일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-26T01:54:25.517318+09:00",
+ "updatedAt": "2026-10-26T05:50:16.318133+09:00",
  "items": [
+  {
+   "title": "장중 4%대 급락 딛고 4%대 상승…SK하이닉스, 주주환원 기대 부각",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUDY2Y0Q0X1YyNTluMVNNOHpUaFI1TTQ0STZKcjg4T08ya3B2YzVZLTVLazJ4Wkh3NmFGRHZYMTcxZFVyMmRRV2MybjRpRG93SEgyTElkay1UYlA2X3lIZTZEMA?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-25T23:21:51+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
   {
    "title": "연준 금리 결정 29일 오전 3시…SK하이닉스 실적은 28일",
    "link": "https://www.tokenpost.kr/news/briefing/427168",
