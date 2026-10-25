@@ -1,6 +1,6 @@
 {
  "label": "10월 23일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-25T10:17:06.777703+09:00",
+ "updatedAt": "2026-10-25T12:46:46.332093+09:00",
  "items": [
   {
    "title": "[베스트&워스트] 삼성E&A· 혜인 한 주 사이 37% 급등⋯시총 미달株 급등락 · 시장 영향은?",
@@ -969,6 +969,20 @@
     {
      "name": "아가방컴퍼니",
      "code": "013990"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]삼성E&A, '앞으로가 더 기대된다' 목표가 79,000원 - 신한투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yOFpNeTI4T3ppZmdORlI1dWtTRjlMeDcwdXY3X2tzSlMtY2lOdUpDekZkU0RwVWpjbDhVRE9iRlIzTWZlOFRnRU96UWpuRUh6RzE1N3h5WnpHRUhu?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-23T15:40:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
     }
    ],
    "thin": false,
