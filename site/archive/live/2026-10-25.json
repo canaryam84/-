@@ -1,6 +1,6 @@
 {
  "label": "10월 25일(일) 국내 종목 뉴스",
- "updatedAt": "2026-10-26T05:50:16.318133+09:00",
+ "updatedAt": "2026-10-26T07:47:17.872498+09:00",
  "items": [
   {
    "title": "장중 4%대 급락 딛고 4%대 상승…SK하이닉스, 주주환원 기대 부각",
@@ -631,6 +631,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "교보증권, 2000억원 유상증자…상환전환우선주 발행",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56elRLSDdzX0c3UGpaWWFqUk94bmNwOWFrMFlyd1JaM185UDY3YzN4aVpYRE1UV1dRbHpfeElheWRqTWFYQ0lZUDlwdTZPMUdNQkdEaDE2cEU1a0NjTXJueFdydzhydw?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-25T05:41:50+09:00",
+   "stocks": [
+    {
+     "name": "교보증권",
+     "code": "030610"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "엠씨넥스 발행주식 5.18% 줄인다…자사주 소각",
