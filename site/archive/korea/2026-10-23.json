@@ -7,16 +7,16 @@
    "pct": 0.3,
    "text": "+0.30%",
    "exact": true,
-   "source": "매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83MmRwTVdDVDV6T0ZMVXlEM1IwaHpGQXhjT3Y3ZVl5dXpqcUZoSk1SWC1DeDVGSVdnWGpSeXpLSVh4WFk5MERubGhtMXJaQzdONTNPWjk5VmZZN2lXNm1ZajQtMTU?oc=5"
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBYnJrQm5LT3luVzRyNy1jaWFDdDlBWks5NjdWRVZxRmw3aERnRnFuVldaSFQ3b29RVGhhS0IwLWtMelhrLUV5Zk9OdjdEdERWWWNraTFoWmRtQTZWWFhJVndlajZ0aTQ?oc=5"
   },
   {
    "name": "코스닥",
    "pct": -1.62,
    "text": "-1.62%",
    "exact": true,
-   "source": "버핏연구소",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vdUJ5bkxmQnRZMUZQZHBReURBaWltWUw5ZEFSbWF0RXN1dmdfS1lvVnZKVUdWTmpYU18yT0FPeGNSZ1NIWUdVSlVFTHl2dEVEVDBYUjBJZUxGbWxVS0VQRzVn?oc=5"
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTWdPN0p4MFFwbmgwdlZ1NnhUOFhGRmdQX3B5UDJDQTEwQWo4cnNDQXo4emthdGF3TlAxeGJmUXlRMHJZZ1l1SHprUUdFOEl1dGpjY20zb3lVaWZUUjRV?oc=5"
   }
  ],
  "items": [
@@ -26,7 +26,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 19,
+   "newsCount": 17,
    "articles": [
     {
      "title": "日 마루베니 560억 공개매수에 아이패밀리에스씨 상한가 : 한국증시",
@@ -47,10 +47,10 @@
      "time": "2026-10-23T15:36:21+09:00"
     },
     {
-     "title": "아이패밀리에스씨, 마루베니 공개매수에 상한가",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUdueFltRjR0LW5uU3NQN3ZwY0Vrbk0zWVhxWUc0WjdyWUE2WU93SGpnYWhQZnpDUV9oRmRWYXRPcGlWcE9ITXFXOHc0aWtGOWxmQXlmek9yVGNKREtDcDVKQTlKdjZyc3Y4T1pJb1UzZHlZRW0wcGZEVlRPMWdnR3F6ZUlHbFVVdmV1UzM3MU5sUkNXLUE?oc=5",
-     "source": "데일리바이트(DAILY BYTE)",
-     "time": "2026-10-23T15:36:21+09:00"
+     "title": "'롬앤' 아이패밀리에스씨, 日 마루베니 공개매수에 상한가…주당 1만2000원·최대 28%",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBUbnhHTkltV19fWmZxSGh3WXN2U09la0IxdGxjV28xZ3V0RkJoTHdxMDZqX2ZpRHJxTUFTNWsydzNQMEE?oc=5",
+     "source": "한국공공정책신문",
+     "time": "2026-10-23T15:12:01+09:00"
     }
    ]
   },
@@ -94,7 +94,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 8,
+   "newsCount": 7,
    "articles": [
     {
      "title": "오세훈 2심 무죄에 진양화학·진양산업 상한가 : 한국증시",
@@ -115,10 +115,10 @@
      "time": "2026-10-23T16:37:41+09:00"
     },
     {
-     "title": "[마감분석] 진양산업 상한가 직행 5490원 장 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxV2pNRnZ1WVhGdjltS2wyZnhHdkM5TjVUMkFBQU9HQmN6MS1haU1EUmZXNEFQMmw1NnZmV0RqZTRuZnhLSTlZWWgzZw?oc=5",
-     "source": "재경일보",
-     "time": "2026-10-23T15:48:50+09:00"
+     "title": "오세훈 ‘무죄’ 선고에…진양산업·진양화학 나란히 상한가",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm0tX0VZRU9kX0N2VkZtd0tvdVU5R1ZNSUFEang0Q3I1ZFNPMnN5X2pqQW1Fb29BY3ZMWHdrbkNFcWFKbTFvTldrUkN0QW5qdHBPUER6Ml90NS1Iczc4SW82anVicG9BZTFPZTJJMmtmMXd3WWhLT3FlTTRWN05NWjJHMXBrdw?oc=5",
+     "source": "대한경제",
+     "time": "2026-10-23T15:30:35+09:00"
     }
    ]
   },
@@ -184,13 +184,19 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 3,
    "articles": [
     {
      "title": "10월 3주차 퓨쳐켐 주가 29.91% 급등하며 상승 전환",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpbWZhOFY0RFN5UHdkQ2c4VUFtc0ZBZ0s5UGhaSzdGZnBUS014V1ZkYUN2N1NYNVptSnd2b3Z3eGNWYmpob0tYZENPYmo0NnhySmE5Y2djaXBTUFgzNG5sS083NUZfbWlzQU1TdldlUThZdw?oc=5",
      "source": "중앙이코노미뉴스",
      "time": "2026-10-24T12:30:43+09:00"
+    },
+    {
+     "title": "[주식] 퓨쳐켐, 미국 임상 2a 탑라인 발표에 27% ↑",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRWwzcGxSbmc0enUtLWRFXzZJTnB2bm5VOFNHTUd3NEVQRUpqT0M4T0lEN1c3MWRoNm9YUDliRXcwSWJVZnNnYW5vckZpbkp2Vmw1VmxmOWNFelVVVF9KNjE4eTh0TmFSYzVv?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-10-23T16:39:06+09:00"
     },
     {
      "title": "[속보] 퓨쳐켐, 정규장 상한가 마감…전립선암 치료제 임상 결과 공시도",
@@ -287,6 +293,38 @@
    ]
   },
   {
+   "name": "엘리스",
+   "sub": "코스닥 · 0158S0",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 엘리스, 상장 후 첫 공모가 웃돌아…20% 급등에 VI 발동까지",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KeW5mN2lEVlFBZXItUngtS3NrT3RYejdneWo0ZTN2c0F6cFZLSzFmeklCeE5MSEptMEd4SEhsbXUxYWVzSkVsX2lYZFhCaUtpYTFpd3d2ck8zdnFjUlhjcjVBQmYxU2tB?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-24T09:43:26+09:00"
+    }
+   ]
+  },
+  {
+   "name": "LG전자",
+   "sub": "코스피 · 066570",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "LG전자, 유럽 상업용 세탁기 매출 전년 대비 20% 상승…B2B 시장 공략",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HM2FUaWVqQ0tKR2ExVkRpUkxXby12aHBqSGNjQWJDdWtfLTM2bXBySjU2YWxWWHJUdnNaVl9BWGhEdXpaOWJzeUxpWWpQZEpyZy1ac1VR?oc=5",
+     "source": "헤럴드경제",
+     "time": "2026-10-25T10:00:00+09:00"
+    }
+   ]
+  },
+  {
    "name": "LS에코에너지",
    "sub": "코스피 · 229640",
    "pct": 17.0,
@@ -303,5 +341,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-24T20:37:04.523805+09:00"
+ "updatedAt": "2026-10-25T17:00:31.564939+09:00"
 }
