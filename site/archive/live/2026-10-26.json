@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T06:58:23.617730+09:00",
+ "updatedAt": "2026-10-27T07:25:37.671462+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -760,6 +760,34 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "노을 2170원 상한가…진단 플랫폼 확장과 적자 축소가 다음 시험대",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tMjNPSnNaYWtLT2hEUzRtQTZWYlZfYnJ2T1BXb2F2b3NQdEcyZTlpVHFJeEdWVldCYUdVWHlhbk1fTGtyUFNXSHZCb1pqdmNvbmhPM3NWRnU2V3BRc0IwM1JRckZWWm9Lei1zSUNhZEpHUdIBckFVX3lxTE4tMjNPSnNaYWtLT2hEUzRtQTZWYlZfYnJ2T1BXb2F2b3NQdEcyZTlpVHFJeEdWVldCYUdVWHlhbk1fTGtyUFNXSHZCb1pqdmNvbmhPM3NWRnU2V3BRc0IwM1JRckZWWm9Lei1zSUNhZEpHUQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-26T16:14:39+09:00",
+   "stocks": [
+    {
+     "name": "노을",
+     "code": "376930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "거래 재개한 아이씨에이치 상한가…5대 1 병합 뒤 가격 재정립",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ENGZmV01PY0w1VF9WWHRENXkzMlZxcXprOEgtY1ZMNVVuaElVazZZY3hPc1ZDU3phYUFtMGR1X0ZaX3FBdnBFdWRsWE5GLUlZWlBINUtPQUtuN3dzVlVkbjZETWs3eTFENFFVQUhoUnZXd9IBckFVX3lxTE5ENGZmV01PY0w1VF9WWHRENXkzMlZxcXprOEgtY1ZMNVVuaElVazZZY3hPc1ZDU3phYUFtMGR1X0ZaX3FBdnBFdWRsWE5GLUlZWlBINUtPQUtuN3dzVlVkbjZETWs3eTFENFFVQUhoUnZXdw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-26T16:14:21+09:00",
+   "stocks": [
+    {
+     "name": "아이씨에이치",
+     "code": "368600"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
@@ -1565,6 +1593,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "빅웨이브로보틱스 상한가…상장 한 달, 로봇 수요 기대 집중",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkdnFYZ3A5X1pJcWpqV0dpM3lSdDJMYzZTT2ZTMFNGYmFjQ0NqbzFHMWFuNEduZmYtT0VyVHJJcjdlLWtpUWstSm9SazdFd1NyY0x1Si1IUWp1T3gzMGZtNUNqNjlGZHd3a0lBVGIySTdBQdIBckFVX3lxTFBkdnFYZ3A5X1pJcWpqV0dpM3lSdDJMYzZTT2ZTMFNGYmFjQ0NqbzFHMWFuNEduZmYtT0VyVHJJcjdlLWtpUWstSm9SazdFd1NyY0x1Si1IUWp1T3gzMGZtNUNqNjlGZHd3a0lBVGIySTdBQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-26T14:57:38+09:00",
+   "stocks": [
+    {
+     "name": "빅웨이브로보틱스",
+     "code": "0035S0"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "폴라리스우노 인수한 로아앤코그룹, 독립 경영위원회 출범…내부통제 강화",
@@ -5843,48 +5885,6 @@
     {
      "name": "상상인",
      "code": "038540"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "한국투자證, “우리금융지주, 3분기 실적 기대 웃돌아⋯주주환원 기대↑”",
-   "link": "https://www.etoday.co.kr/news/view/2639806",
-   "source": "이투데이",
-   "time": "2026-10-26T07:41:00+09:00",
-   "stocks": [
-    {
-     "name": "우리금융지주",
-     "code": "316140"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "“하나금융지주, 자본비율 개선 제한적이지만 배당 매력 더욱 부각”",
-   "link": "https://www.mk.co.kr/news/stock/12185342",
-   "source": "매일경제",
-   "time": "2026-10-26T07:40:33+09:00",
-   "stocks": [
-    {
-     "name": "하나금융지주",
-     "code": "086790"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "[기로의상장사]뉴보텍①대규모 투자 돌연 철회…벌점 위기에 시총 미달까지",
-   "link": "https://view.asiae.co.kr/article/2026102214463948026",
-   "source": "아시아경제",
-   "time": "2026-10-26T07:39:32+09:00",
-   "stocks": [
-    {
-     "name": "뉴보텍",
-     "code": "060260"
     }
    ],
    "thin": false,
