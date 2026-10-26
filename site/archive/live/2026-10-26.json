@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T03:37:21.209360+09:00",
+ "updatedAt": "2026-10-27T04:31:31.405814+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -3813,6 +3813,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] '회계기준 위반' 해태제과식품, 거래 재개 첫날…15% 급락",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SUFlOZUJpTDhkXzUyUjhzUmxmdWowaGVWcC1mdlp1Ym5zMWFZaVdWTEpXcXJFeDYxdHh4WmltODZhVzNBM3c2RE5uSTVUYWZqUFpTUlpXZ0d5RnBXU1YwX21EQjBfc3ZyVWfSAW5BVV95cUxPMDktM1ZfZlk4RWM2ZC1XejZLUFNYX3dIOTRRUXNRZEJ3S1Vkakc0emdTOHZmcjZxSU5ncWc3a3c3eEtWYjRnRDJwVkZzWDhxOEsyMzdIYnhvZnIzOFd5ZFFvcmltUm13LXRCRjZOZw?oc=5",
+   "source": "뉴스드림",
+   "time": "2026-10-26T09:54:44+09:00",
+   "stocks": [
+    {
+     "name": "해태제과식품",
+     "code": "101530"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "[특징주] 노을, 최대주주 변경 3자배정 유증에 2거래일 연속 ‘上’",
    "link": "https://biz.chosun.com/stock/stock_general/2026/10/26/CDZHNDYS3ZEIPN7AVSVOJ2QENI/",
    "source": "조선비즈",
@@ -3945,6 +3959,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[급락주 핵심체크] 골프존, 국내사업 반등으로 내년 실적 회복…주가 상승 반전?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xTHpnLVQ4azEtR0hnMmFoMzNwa3RVdDFieWRWMVl0ZDNYNkpNWTVOZHNyNkpuTFZsRDBzdjVXYXFpS3BnZURsN0F3N255MnR5aEdPZ1Y1T2hoQjBWSEZjUFJ6cFJ3YXB3TnJPbGdRMNIBb0FVX3lxTE4xTHpnLVQ4azEtR0hnMmFoMzNwa3RVdDFieWRWMVl0ZDNYNkpNWTVOZHNyNkpuTFZsRDBzdjVXYXFpS3BnZURsN0F3N255MnR5aEdPZ1Y1T2hoQjBWSEZjUFJ6cFJ3YXB3TnJPbGdRMA?oc=5",
+   "source": "데일리인베스트",
+   "time": "2026-10-26T09:48:36+09:00",
+   "stocks": [
+    {
+     "name": "골프존",
+     "code": "215000"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "‘회계처리기준 위반’ 해태제과식품, 거래 재개 첫날 급락…11%대 ‘뚝’",
@@ -5689,20 +5717,6 @@
    "dir": "down"
   },
   {
-   "title": "[급락주 핵심체크] 골프존, 국내사업 반등으로 내년 실적 회복…주가 상승 반전?",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zOEprenRyLXN0R0FjendWX3phTW1UTU1rS3VkRFk5cjA3S2hKUTFtS3VZYUh0WEN6NHg2NUp0NUlhRFpvU0NlSy10TWF3Z3pOWDRwZGluV2NvVzliNUdGdG1wOHpEZFZFWTI2QdIBb0FVX3lxTE4xTHpnLVQ4azEtR0hnMmFoMzNwa3RVdDFieWRWMVl0ZDNYNkpNWTVOZHNyNkpuTFZsRDBzdjVXYXFpS3BnZURsN0F3N255MnR5aEdPZ1Y1T2hoQjBWSEZjUFJ6cFJ3YXB3TnJPbGdRMA?oc=5",
-   "source": "데일리인베스트",
-   "time": "2026-10-26T08:05:00+09:00",
-   "stocks": [
-    {
-     "name": "골프존",
-     "code": "215000"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
    "title": "[오늘의 투자전략] 코스피 5300~5800선, FOMC·美빅테크·삼성전자 실적에 쏠린 눈",
    "link": "https://www.etoday.co.kr/news/view/2639817",
    "source": "이투데이",
@@ -5875,20 +5889,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "삼성·SK, 시총 995조원 증발…'빚투' 투자자들 개인회생·파산까지",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5MzZpSTdidmdVQlpqeW9fWE9oZXBnTE9EZndNNFcwanZhenB6NUlmY1BZMjYweGVlaGxGajZMZjlXcVBTZUU0cVNPWF9UTFQxYU1RVzdVU21jYW5Kci1J?oc=5",
-   "source": "조세일보",
-   "time": "2026-10-26T07:11:39+09:00",
-   "stocks": [
-    {
-     "name": "SK",
-     "code": "034730"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
   }
  ]
 }
