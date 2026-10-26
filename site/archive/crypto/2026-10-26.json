@@ -1,0 +1,79 @@
+{
+ "label": "10월 26일(월) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.94,
+   "text": "-0.94%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYaG00VkZKNDlXcnJjY3UzWmN2QXBRWTBSVWVvWkVnT0FPT3hPNW9iOXNkS3Q2Q1YtUUZPeEhvSkdPTnBFN3ZMRmk5RWMxQVNYRnZuNUJaMGxkYUZ6SC13Mko2Y2E1bWs2?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "아이리스",
+   "sub": "가상자산",
+   "pct": 268.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인 브리핑] 아이리스 268% 급등…주요 코인은 내렸다",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04QlpXaXh3RHVSaU1iaF9mT3FNVlRvZktOMDhMTjlZT0RTNkJ1Nmw1Q3FhNnhnbzM5SFdhLWtfNDVtZjVGVkdoczZuRlVTYTF6ckZSaVFWQjVRSFRZb2RpbExkalcyV0pnTjVz?oc=5",
+     "source": "https://www.standingout.kr/",
+     "time": "2026-10-26T02:59:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "블라스트",
+   "sub": "가상자산",
+   "pct": 256.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 블라스트 256% 급등 1위…상위 10개 중 2개 유의종목",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvTVlSaF9PSURZODhHaW1tY1RJS0NiZF95WUM3LVY0c3ptYkZ4eVZzQmFfbnN3aElpWDBXVUZ1dGlrUkpjVk5QOW1R?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-25T12:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바빌론",
+   "sub": "가상자산",
+   "pct": 102.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "업비트 비트코인·리플 약세…바빌론 79.44% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sMGVzTnVyd0ItLVdaM3hXYzhVbVBzY3JYc2czSVVoWnJSQnBqQXRKTXRMYzlKLUJxS01TenZrT0FlN0lRekJ3UEVB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-26T08:00:00+09:00"
+    },
+    {
+     "title": "[아침 시황] 비트코인 1억781만원…업비트 바빌론 102% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IMEU0eDFsczV0OEV2dW5kakFYVUZOX3dGZ1VKZjZOTUZLQ3NpVlpIQUswZC1wOWxOUW9Mal9IT0hkNkFHNm41TF8xYmlJdmVWNjRUWXpjaHhpM2djblFqSS0xdnQyd9IBZkFVX3lxTE9IMEU0eDFsczV0OEV2dW5kakFYVUZOX3dGZ1VKZjZOTUZLQ3NpVlpIQUswZC1wOWxOUW9Mal9IT0hkNkFHNm41TF8xYmlJdmVWNjRUWXpjaHhpM2djblFqSS0xdnQydw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-26T07:30:18+09:00"
+    }
+   ]
+  },
+  {
+   "name": "v4",
+   "sub": "가상자산",
+   "pct": 61.52,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[신규 코인 톱10] Uniswap v4 61.52%↑, Hellhound 99.43%↓",
+     "link": "https://www.etoday.co.kr/news/view/2639889",
+     "source": "이투데이",
+     "time": "2026-10-26T09:03:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-26T12:30:04.400749+09:00"
+}
