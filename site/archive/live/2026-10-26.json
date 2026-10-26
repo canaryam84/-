@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T02:08:07.277217+09:00",
+ "updatedAt": "2026-10-27T02:59:50.210649+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -958,9 +958,9 @@
   },
   {
    "title": "아이씨에이치, 삼성전자 1차 벤더 등록…주가 상한가 '급등'",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tRlh4QlZtb2I1YzViamtubE1TcFFsSG9uVXVocENheGcxb19hVXRPR3B0VXczQWJiQVBGdHpUUVpneXJqcG1ORkZsQlBpaERIb2pNZ0lPVm1IaVcyRUVvbHM5cGh0azNLZ2lBRGFUSDVKX03SAXdBVV95cUxPQ25PRGJhdUNLd1pEUmh3bVBsQnV3NWozYlMtLUIwdjNJV2dhWEZOekh2T093cm8zWlg2eHlXTGFwWWhCaFpLelNhVjZyaEJGVTFmS3FmTnhRbkc4ei1Ldl9ySWlMR1dIa05iTUJGb21CR1JEMlY0RQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Dbk9EYmF1Q0t3WkRSaHdtUGxCdXc1ajNiUy0tQjB2M0lXZ2FYRk56SHZPT3dybzNaWDZ4eVdMYXBZaEJoWkt6U2FWNnJoQkZVMWZLcWZOeFFuRzh6LUt2X3JJaUxHV0hrTmJNQkZvbUJHUkQyVjRF0gF3QVVfeXFMT0NuT0RiYXVDS3daRFJod21QbEJ1dzVqM2JTLS1CMHYzSVdnYVhGTnpIdk9Pd3JvM1pYNnh5V0xhcFloQmhaS3pTYVY2cmhCRlUxZktxZk54UW5HOHotS3ZfcklpTEdXSGtOYk1CRm9tQkdSRDJWNEU?oc=5",
    "source": "핀포인트뉴스",
-   "time": "2026-10-26T15:55:00+09:00",
+   "time": "2026-10-26T15:58:14+09:00",
    "stocks": [
     {
      "name": "아이씨에이치",
@@ -4973,6 +4973,20 @@
    "dir": "up"
   },
   {
+   "title": "롯데렌탈, TPG 인수 시너지 기대에 목표가 상향",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjhXNElxU1RiNnhPTUtUSzJHak9QMmZ5RnluVzk5V3p1Y2xaNmdNTjBURmRuRjVLUy0tSDhLdFZNek9vUHJZN2I1a05TTHpuY1NlZ0FJWEIweHA0amZEamt4R3d3dk5JNURlTWpTSVpQU3BhUDBUQzJTTnFYOTNwVV9lbkJlOFk0c1hrV2V5VmI0NmdD?oc=5",
+   "source": "Traders Union",
+   "time": "2026-10-26T09:07:19+09:00",
+   "stocks": [
+    {
+     "name": "롯데렌탈",
+     "code": "089860"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "“현대백화점, 본업은 견조하지만 지누스 회복 지연⋯목표가 40%↓”",
    "link": "https://www.etoday.co.kr/news/view/2639893",
    "source": "이투데이",
@@ -5875,20 +5889,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "기아 텔루라이드, 4년 연속 10만대 돌파…북미 맞춤전략 성과",
-   "link": "https://www.yna.co.kr/view/AKR20261023185500003",
-   "source": "연합뉴스",
-   "time": "2026-10-26T07:01:00+09:00",
-   "stocks": [
-    {
-     "name": "기아",
-     "code": "000270"
-    }
-   ],
-   "thin": true,
-   "dir": "up"
   }
  ]
 }
