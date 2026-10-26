@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T07:59:09.803804+09:00",
+ "updatedAt": "2026-10-27T08:27:31.372131+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -5809,28 +5809,6 @@
    "dir": "none"
   },
   {
-   "title": "노보 협력 기대 지투지바이오 급등…노을·퓨쳐켐 상한가[바이오맥짚기]",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xNlR5ZThabkkyelBNMk9wNnRzRDl6YmJhM3hwVWhnQXZ5REM3Y09DXzU4eVpUUlJCdnJDMHdVeG9zN2hlcndoQzdPUXJURjFiUjA0Y0dfZUZZMTllY3EwalpwUmN5SU1WcE1neF9n?oc=5",
-   "source": "팜이데일리",
-   "time": "2026-10-26T08:00:06+09:00",
-   "stocks": [
-    {
-     "name": "지투지바이오",
-     "code": "456160"
-    },
-    {
-     "name": "노을",
-     "code": "376930"
-    },
-    {
-     "name": "퓨쳐켐",
-     "code": "220100"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
    "title": "키움證 \"LG디스플레이, 칩플레이션·환율 여파 겪지만…북미 물량 기반 흑자 기조 기대\"",
    "link": "https://www.etoday.co.kr/news/view/2639814",
    "source": "이투데이",
@@ -5885,6 +5863,20 @@
     {
      "name": "상상인",
      "code": "038540"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[기로의상장사]뉴보텍①대규모 투자 돌연 철회…벌점 위기에 시총 미달까지",
+   "link": "https://view.asiae.co.kr/article/2026102214463948026",
+   "source": "아시아경제",
+   "time": "2026-10-26T07:39:32+09:00",
+   "stocks": [
+    {
+     "name": "뉴보텍",
+     "code": "060260"
     }
    ],
    "thin": false,
