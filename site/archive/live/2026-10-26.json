@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T00:26:37.694846+09:00",
+ "updatedAt": "2026-10-27T01:20:02.674338+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -105,6 +105,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "하나마이크론 등, 하나머티리얼즈 지분 44.84% 유지, 주식담보계약 변경",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OSGNRaGktX0JrRjc2NlZJeTFBUnFndzNUb09YVV9uRWJwQzFsWm1Xby1NdE02SzB0SmpkZF9DeGhuQXVQc3lZajNsejh1dDJScm9HLUcxMmVBemVUVWxTd3pkQ1RiSlUtSGZGVkl4OEM3dnc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-26T19:03:32+09:00",
+   "stocks": [
+    {
+     "name": "하나마이크론",
+     "code": "067310"
+    },
+    {
+     "name": "하나머티리얼즈",
+     "code": "166090"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 루닛, 美 서밋 테라퓨틱스와 항암제 AI 연구 협력에 상한가",
@@ -1013,6 +1031,34 @@
    "dir": "none"
   },
   {
+   "title": "코세스, 뚜렷한 공시 없이 18.05% 급락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mRjhXc0twWUFkdlBUUWVsTDl2MWpuRXRDcl9yb2pFaVVIN3g2a0lDTGhlaGxoZGZ0RUhPWENJNjFDLTdlc3lrMkthZw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-26T15:50:53+09:00",
+   "stocks": [
+    {
+     "name": "코세스",
+     "code": "089890"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[마감특징주] 대양금속 18%대 급등 826원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kdEl1Yk5fVjVrX0s0aFQwMGFZU3VzLWlYVS1Zd2Yzd1ZsRThiVEhNMlh2WjF6MmQyRjJHSnVkdG1jRHRUY1Uwd19MZw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-26T15:50:34+09:00",
+   "stocks": [
+    {
+     "name": "대양금속",
+     "code": "009190"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[마감분석] 빅텍, 특별한 공시 없이 19.29% 하락 마감 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51WThQRU5lbndaSU8tNHRDcGxRWVFKdTQ5ZDdacjF4NkNOQWwtTkhucVphMFBQQnFoUUEtUzJRWDZ3Ty1BaHFMYVdBVQ?oc=5",
    "source": "재경일보",
@@ -1067,6 +1113,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] 혜인, 특별한 공시 없이 21.28% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fSGdnSFh2OUw5ekVqYjFxeFk4eC1MUHlpUFdrY01qRUpYN2Nic0F6cjl1c19RSGJaQ01kLS1PSGVUOHQtWUl3RExWbw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-26T15:49:24+09:00",
+   "stocks": [
+    {
+     "name": "혜인",
+     "code": "003010"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[마감분석] 컨텍 상한가 직행 1만560원 기록 : 기업주식정보",
@@ -5828,66 +5888,6 @@
     }
    ],
    "thin": true,
-   "dir": "up"
-  },
-  {
-   "title": "[SK하이닉스 반등] '56% 급락'에 시총 비중 최저…솔리다임 상장 중단에 실적 기대감",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOcGh6TFc0SEtsVk4zX2NDQWRqeUdhVmVPekFkUGpNS3VtUG5kR0Y4b04yUlRpY3h5cTlIUHNFbjYzdGhWcktvcjBPb1UxaUdMOEliUHlBTks5Wnl1M1NBSTFRdW04X2s?oc=5",
-   "source": "CBC뉴스",
-   "time": "2026-10-26T06:55:00+09:00",
-   "stocks": [
-    {
-     "name": "SK하이닉스",
-     "code": "000660"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "[단독] 보로노이, 800억원 CB 발행 추진… 주가 부진에도 ‘오버부킹’ 조짐",
-   "link": "https://biz.chosun.com/stock/market_trend/2026/10/26/PZ7EFKNACZEAFPI5F4MM2GC3DM/",
-   "source": "조선비즈",
-   "time": "2026-10-26T06:00:00+09:00",
-   "stocks": [
-    {
-     "name": "보로노이",
-     "code": "310210"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "[1026주요일정] HD건설기계·기업은행 실적발표 예정 등",
-   "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218570",
-   "source": "인포스탁데일리",
-   "time": "2026-10-26T06:00:00+09:00",
-   "stocks": [
-    {
-     "name": "HD건설기계",
-     "code": "267270"
-    },
-    {
-     "name": "기업은행",
-     "code": "024110"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "[분석] 삼성E&A, 역대급 실적에 자사주 소각까지...목표가 상향 릴레이",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VjZfUlZ1SHcxZnpJNUZhLVVSVHZrLWcyUnRSeWVzM2hqRlJvLTJMWVBvS21BNDVoR2gxSWJxQ1Q4ZVgzS3RHUDZ4SWdrS01zZ19qcFdwNXZkVjh3ZDFjTnhEQXUzc2VoSndnTldR?oc=5",
-   "source": "알파경제",
-   "time": "2026-10-26T05:00:00+09:00",
-   "stocks": [
-    {
-     "name": "삼성E&A",
-     "code": "028050"
-    }
-   ],
-   "thin": false,
    "dir": "up"
   }
  ]
