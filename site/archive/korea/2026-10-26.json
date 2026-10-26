@@ -1,5 +1,5 @@
 {
- "label": "10월 26일(월) 정규장 마감 후 보도 기준",
+ "label": "10월 26일(월) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -15,8 +15,8 @@
    "pct": -3.26,
    "text": "-3.26%",
    "exact": true,
-   "source": "YTN",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pWF9CbUJ3X2pMQkFzOXpRQ3l0UGFOZjdPal9RY2doYTY0c0V4S2VYSHgzR3N2VHNLNHk5SVo4N3BwbG5IYXVta3pfRERlRXBRRjlCc3VVTVJrdmZLWUQ4ZkRvWmE1U1lBWlR5TWdmaw?oc=5"
+   "source": "한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcXNxN0VWRTBEVERTejlCQ3lKN1FGVEFXZDREcXZzVGNTSURxWkhycDRKSld6U3BrcFo5ckR5RjBfRzF5UjJfY0FZWDN3RklhQ0JyQWdYUFRsZw?oc=5"
   }
  ],
  "items": [
@@ -28,6 +28,12 @@
    "afterMarket": false,
    "newsCount": 23,
    "articles": [
+    {
+     "title": "[주식마감] 삼성전자 벤더 코드 취득 소식에 아이씨에이치 '上'... 루닛, 노을, 뷰노, 빅웨이브로보틱스 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZUROcmZGMWVLYzE3bnRKblVRenNSSmVqQWp5MGRqdVlIc0hrYTB3OTFLS2JQRW9KVm1pMHo1ZkpnLV9HQXNUaXdKWTVLRmQ2UlBadjJFbGpMd3I3aEQzY2t3c243emlQdlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-26T19:40:00+09:00"
+    },
     {
      "title": "호재 겹쳐 'AI 의료주' 동반 급등…루닛·노을·뷰노 줄줄이 상한가",
      "link": "https://www.hankyung.com/article/202610265428i",
@@ -45,12 +51,6 @@
      "link": "https://www.yna.co.kr/view/AKR20261026044051008",
      "source": "연합뉴스",
      "time": "2026-10-26T15:38:25+09:00"
-    },
-    {
-     "title": "[오늘의 특징주] 루닛·아이씨에이치 상한가, 항암제 AI 협력·삼성전자 직접 공급 기대",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRVZkQXpkUzdtM2Q3WGlERXd3dzY5RHBNb045TjJlb2p6WGo0S2NGeGhNZG1zX1Q5dHVSajJKZlZZY3I1aUlzSXNlcDNtLU81Q3QtdjNnRnZkWEl5dHpIOHZENG0?oc=5",
-     "source": "https://www.ppss.kr/",
-     "time": "2026-10-26T15:37:33+09:00"
     }
    ]
   },
@@ -60,8 +60,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 7,
+   "newsCount": 9,
    "articles": [
+    {
+     "title": "[주식마감] 삼성전자 벤더 코드 취득 소식에 아이씨에이치 '上'... 루닛, 노을, 뷰노, 빅웨이브로보틱스 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZUROcmZGMWVLYzE3bnRKblVRenNSSmVqQWp5MGRqdVlIc0hrYTB3OTFLS2JQRW9KVm1pMHo1ZkpnLV9HQXNUaXdKWTVLRmQ2UlBadjJFbGpMd3I3aEQzY2t3c243emlQdlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-26T19:40:00+09:00"
+    },
     {
      "title": "호재 겹쳐 'AI 의료주' 동반 급등…루닛·노을·뷰노 줄줄이 상한가",
      "link": "https://www.hankyung.com/article/202610265428i",
@@ -79,12 +85,74 @@
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ckVHT2dPT0RnbnNPU3R1WE9PaXRENVZTSWEwRDFKUUlrM2N6WDlwQnN1YTcxZVVoemJTTlhtUlZ1T0RESFZkOUFRRjE5VE01blNWQndIbmJqTkZMdzJaNU9SNFdHN3YzZkE?oc=5",
      "source": "금강일보",
      "time": "2026-10-26T09:47:22+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뷰노",
+   "sub": "코스닥 · 338220",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[주식마감] 삼성전자 벤더 코드 취득 소식에 아이씨에이치 '上'... 루닛, 노을, 뷰노, 빅웨이브로보틱스 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZUROcmZGMWVLYzE3bnRKblVRenNSSmVqQWp5MGRqdVlIc0hrYTB3OTFLS2JQRW9KVm1pMHo1ZkpnLV9HQXNUaXdKWTVLRmQ2UlBadjJFbGpMd3I3aEQzY2t3c243emlQdlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-26T19:40:00+09:00"
     },
     {
-     "title": "[특징주] 27억원 유증에 최대주주 변경 기대…노을 이틀째 '상한가'",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kWkxoTkZyZEtyYXZrZ2pBNzVpNmM1dXh3VDk2eFRsaWlPeHBmSkRpOWhCWmdKdXNCN1B4YXlwWkxDaHdsSlN2OEV5Q0xkWjEySjIxX0lsOEk3SVVz?oc=5",
-     "source": "뉴스핌",
-     "time": "2026-10-26T09:42:00+09:00"
+     "title": "호재 겹쳐 'AI 의료주' 동반 급등…루닛·노을·뷰노 줄줄이 상한가",
+     "link": "https://www.hankyung.com/article/202610265428i",
+     "source": "한국경제",
+     "time": "2026-10-26T16:28:18+09:00"
+    },
+    {
+     "title": "[급등락주 짚어보기] 루닛·뷰노 의료AI 동반 상한가…빅웨이브로보틱스·컨텍도 급등",
+     "link": "https://www.etoday.co.kr/news/view/2640209",
+     "source": "이투데이",
+     "time": "2026-10-26T16:23:00+09:00"
+    },
+    {
+     "title": "[마감분석] 뷰노 상한가 직행 7680원에 장 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02ejJmcTZDOGJzeUlPTXk1eTE1RDA1aXctQktOa1ZkTko3VFFtQ1A4bnhDOFVZVEw3MnNqYnpTWFVwSVpBaUpIb1pVZw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-26T15:48:32+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[주식마감] 삼성전자 벤더 코드 취득 소식에 아이씨에이치 '上'... 루닛, 노을, 뷰노, 빅웨이브로보틱스 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZUROcmZGMWVLYzE3bnRKblVRenNSSmVqQWp5MGRqdVlIc0hrYTB3OTFLS2JQRW9KVm1pMHo1ZkpnLV9HQXNUaXdKWTVLRmQ2UlBadjJFbGpMd3I3aEQzY2t3c243emlQdlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-26T19:40:00+09:00"
+    },
+    {
+     "title": "피지컬 AI·휴머노이드주 폭풍매수…빅웨이브로보틱스 상한가 기염",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdERpRHhSdEMtUmNVRjRGZGpqNFdWQ1ZweW5tY1kwMEJyaThlS0Q0eGVIMlhzT2FkNmoyY0dBRVBYSWk4dG84YzdwdkxTTTZuWmZ2Z0dYbHhsUlRpZm03OVhFaW5HbmpHUExvdnp5YXJRUjDSAXdBVV95cUxNNVUyekViOVpJencyU3hOcUp2OWRHVndhOEd6N1MtdGFSQjRtd3pmYU5KeWgtclh3VWVtc3VjdVRzOHNEbThjdlpzZGxienEwZjFGVV8xVktleGtjTS1wT0JOdnVDN3dEZklSOUZpTU1sdHp1czN6QQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-26T15:39:10+09:00"
+    },
+    {
+     "title": "빅웨이브로보틱스 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWDRhVE00Ylg3aHRVenRabGdHNWk1WUVIMlJaY2VQSFpEdHpVYkpyQkFnRXhoUXJZc2xBRGpMTzZScUVURlpRVzZ2aGhNUXprUWhWMm9VRWNFLUxFMEpkUWFfUW4wVlRfbnc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-26T14:48:56+09:00"
+    },
+    {
+     "title": "[속보] 빅웨이브로보틱스, 주초장 상한가 도달…'여전히 공모가 상회'",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZU9WNlBTS1Rrb1l0bFVCXzNhbm8xQVRoUTdPQ1JBZDZEQXpWSjNVTjRZa1Zyd2I4X3BjQVk2TXNGbzMyOWNWUlZpSFFWekNWdFFtbWpKbmhuY282RE54YWtfUkN4ZVE?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-26T14:48:42+09:00"
     }
    ]
   },
@@ -113,56 +181,6 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44WnVQLW5wR2lxN0RsdGVpTFl6MEY1ZG5ONUI1dXNJYW5QV0REcVB1clNhREN1dFVwejVRay1YZ0NXWXcyNFhZNzgtSzZyWlBGbkx2cXgxNFdDbXc?oc=5",
      "source": "에너지경제신문",
      "time": "2026-10-26T09:34:18+09:00"
-    }
-   ]
-  },
-  {
-   "name": "빅웨이브로보틱스",
-   "sub": "코스닥 · 0035S0",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 3,
-   "articles": [
-    {
-     "title": "피지컬 AI·휴머노이드주 폭풍매수…빅웨이브로보틱스 상한가 기염",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdERpRHhSdEMtUmNVRjRGZGpqNFdWQ1ZweW5tY1kwMEJyaThlS0Q0eGVIMlhzT2FkNmoyY0dBRVBYSWk4dG84YzdwdkxTTTZuWmZ2Z0dYbHhsUlRpZm03OVhFaW5HbmpHUExvdnp5YXJRUjDSAXdBVV95cUxNNVUyekViOVpJencyU3hOcUp2OWRHVndhOEd6N1MtdGFSQjRtd3pmYU5KeWgtclh3VWVtc3VjdVRzOHNEbThjdlpzZGxienEwZjFGVV8xVktleGtjTS1wT0JOdnVDN3dEZklSOUZpTU1sdHp1czN6QQ?oc=5",
-     "source": "핀포인트뉴스",
-     "time": "2026-10-26T15:39:10+09:00"
-    },
-    {
-     "title": "빅웨이브로보틱스 주가, 상한가... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWDRhVE00Ylg3aHRVenRabGdHNWk1WUVIMlJaY2VQSFpEdHpVYkpyQkFnRXhoUXJZc2xBRGpMTzZScUVURlpRVzZ2aGhNUXprUWhWMm9VRWNFLUxFMEpkUWFfUW4wVlRfbnc?oc=5",
-     "source": "금강일보",
-     "time": "2026-10-26T14:48:56+09:00"
-    },
-    {
-     "title": "[속보] 빅웨이브로보틱스, 주초장 상한가 도달…'여전히 공모가 상회'",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LRWxfVUN6VUxrb0VPVExWZldsbGpFd045R1ZtdEd6U0VMb2xZcUYwZEI5UTNVQW5kdTFYWmZTUmpNRWh1VG8xZmQ3YnNCclB5QlU1VU9GZ1lNUEE2VjFjYXNoTGxudjZq?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-10-26T14:48:42+09:00"
-    }
-   ]
-  },
-  {
-   "name": "뷰노",
-   "sub": "코스닥 · 338220",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "호재 겹쳐 'AI 의료주' 동반 급등…루닛·노을·뷰노 줄줄이 상한가",
-     "link": "https://www.hankyung.com/article/202610265428i",
-     "source": "한국경제",
-     "time": "2026-10-26T16:28:18+09:00"
-    },
-    {
-     "title": "[급등락주 짚어보기] 루닛·뷰노 의료AI 동반 상한가…빅웨이브로보틱스·컨텍도 급등",
-     "link": "https://www.etoday.co.kr/news/view/2640209",
-     "source": "이투데이",
-     "time": "2026-10-26T16:23:00+09:00"
     }
    ]
   },
@@ -221,6 +239,22 @@
    ]
   },
   {
+   "name": "컨텍",
+   "sub": "코스닥 · 451760",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 컨텍 상한가 직행 1만560원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xZEJTcExaUzZoNlo5OXdXaHA1dmJ3SkszMlNMcmV6RDkwRzlNSVl5Nnc5QWt0Rk5hRG4wMDFhTWVKdkJQOS0xem4ycw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-26T15:48:49+09:00"
+    }
+   ]
+  },
+  {
    "name": "SKAI",
    "sub": "코스닥 · 357880",
    "pct": 24.0,
@@ -249,6 +283,22 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3X0djQVByT2RvRmtNWXNSckY1MzdRLURDaGtxZHBoaHZFU2w0UHhHRlJhR0FObTRUWklvYjEwZUtXWnRkeG92eXREZnprS3VUR3I5UU0zbVRPeV83VGVySmM4Q0pVRnB0cUlWQWNn?oc=5",
      "source": "전국매일신문",
      "time": "2026-10-26T11:01:48+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나무가",
+   "sub": "코스닥 · 190510",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 현대차 로봇 공급망 기대…나무가, 애프터마켓 20% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoVW5zSVcydVFLSG9sbzA5QUJuaERjanJrbGlwTW1BQ29iQjFNRmZya09qRHFkQlF2di14OF9CalJjMmQ1SzF0ZXBwU3djUzhrU2RabE01eGNveTN0?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-26T17:20:00+09:00"
     }
    ]
   },
@@ -323,5 +373,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T17:17:41.983139+09:00"
+ "updatedAt": "2026-10-26T20:49:01.437073+09:00"
 }
