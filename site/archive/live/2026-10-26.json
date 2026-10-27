@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T13:20:33.898349+09:00",
+ "updatedAt": "2026-10-27T14:07:27.453471+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -2547,6 +2547,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "LG생활건강, 밸류에이션 매력 반영에 목표가 35만 원 상향",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzNiUGVidHgwa0VYODloWkpJbkhMLUtPZkpzV0hjZ2xnclFQWkRub1J0V3JxYnJkLVctMmtZVmEyYV8xT0kyZXZSQ1RlWVlWMmJFZEo2cGUxejVldkNvSmdBemVOcFl4aWhoaGlLcDlFaE5PTEhscFhxNEd1SkM4QWlTOGJkbF9DWjhwbjhSdW9pYk9pcFg1NHNZM1p0Zw?oc=5",
+   "source": "Traders Union",
+   "time": "2026-10-26T13:17:29+09:00",
+   "stocks": [
+    {
+     "name": "LG생활건강",
+     "code": "051900"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "NICE평가정보 \"계열사 나이스프라퍼티 주식 379억원에 취득\"",
@@ -5863,20 +5877,6 @@
     {
      "name": "상상인",
      "code": "038540"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "[기로의상장사]뉴보텍①대규모 투자 돌연 철회…벌점 위기에 시총 미달까지",
-   "link": "https://view.asiae.co.kr/article/2026102214463948026",
-   "source": "아시아경제",
-   "time": "2026-10-26T07:39:32+09:00",
-   "stocks": [
-    {
-     "name": "뉴보텍",
-     "code": "060260"
     }
    ],
    "thin": false,
