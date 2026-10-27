@@ -1,0 +1,24 @@
+{
+ "label": "미국 10월 27일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.03,
+   "text": "+0.03%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUhjbklFNHhKR2c5NXZRZTA3Y2RPRmtrVHN4VzA3UWNLaFJJNVRwd21PcVl3b0tpQ2VRaDM4NG9QX2tyaF9qcEJrdjZEQXdQQzlwZkdQMnVPNnFaV1dsd3RjUU8yVXc0NmliS3NDV3htSUN1b2Z5bkJZWEE3ekJoeFhGakZCQktMeDlsM3NCTHNfLUljZGpNMm9YM2x6YUhaMk9tbUxaVjkzdEZuUVdOVUI5cUQza2w1dlN4NzRwR20wSmZvYmc?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 1.18,
+   "text": "+1.18%",
+   "exact": true,
+   "source": "이투데이",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90TVVadV9BYmVzVkdsRV9fXzUwTGNPdUY5N1Bvd0VVeGktTEpqWGlkTHhpSTJianlsNDdCVENuVDBMdGZEMUVURERvMW1KRUw3N1N0Zw?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-28T07:31:14.143015+09:00"
+}
