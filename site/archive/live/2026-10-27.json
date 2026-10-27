@@ -1,6 +1,6 @@
 {
  "label": "10월 27일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T06:58:15.896709+09:00",
+ "updatedAt": "2026-10-28T08:30:03.767203+09:00",
  "items": [
   {
    "title": "Seagate Technology Holdings PLC (STX) 주식 움직였습니다 상승 4.38%에 10월27일: 핵심 원인 공개",
@@ -713,6 +713,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "배터리캔 강자 상신이디피, 주가 12% 급등",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yblB0a05Gc1VIS1MyZzFkX2J2dDVtcDZGajNkZm43LVFkZHgtVzcyNzFJQTlXNk5oUTc3d2drcTF0TVM2NVFLVVdqV1Jhd2pOM1BZLVktbkxGaUM2dmRjLWFiU2RwVkNLVGFpMzN6bVB6MV9pQmxv?oc=5",
+   "source": "www.thecommoditiesnews.com",
+   "time": "2026-10-27T16:30:00+09:00",
+   "stocks": [
+    {
+     "name": "상신이디피",
+     "code": "091580"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "'한중엔시에스 CB'는 어떻게 국민참여성장펀드 최다 편입종목이 됐나",
