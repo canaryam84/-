@@ -1,0 +1,215 @@
+{
+ "label": "10월 27일(화) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 3.09,
+   "text": "+3.09%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbzQ2cDg3V0lhN1FKaDF0dHdXM1RJWll3NUlDN3J6ODFGWjJUaHo4N25iZ1NVOGxpZDlfZWgyZVZxLTh2RVM5bFFiVFNyNHVJd0VZSmY4TTJhLXk4UlZLOGZJWUpkX00?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 2.29,
+   "text": "+2.29%",
+   "exact": true,
+   "source": "연합인포맥스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZkpvTmhKMjdJVkVab1g5YXQ3eG5CZ2JWV2lSN3hmb0JscVVWNGtzTW5zeDhRazhuNEZzb2RwWDdOellxR1poMjhzVE9ZNDY2ekFkQ2sydXkyLUI4N0Fwc1JCZGVSdEhqbm1GZzdPSG7SAXRBVV95cUxPRGYwcVg4R2I3WndlOEtJREF1ZERMa05hSFhMNHllTHhjaGd5SzRMVzhiRjVFTzlDQlFucjBYZUx3aHBSc1F5Wm9Md09hRkRIYnRlUC0wS3BfNFJaYkYwSHk2MXdLa0xOX3JUOGl2cXhhV0lzNw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "멜콘",
+   "sub": "코스닥 · 179880",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[마감분석] 멜콘 상한가 기록하며 1만5830원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUdUdxYXNhVmdQZ2hLS3pQRDQ0ejY5V2wxcjNEMWk2UFFUOXEtTjMwWUU1Tk44Y2ItU0h0akhJWWhMYVBCU3YtUGhnUQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-27T15:48:06+09:00"
+    },
+    {
+     "title": "[속보] 멜콘 주가, 오전장 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XMWRqUmMzbWRZVFZLM0liZHo0UXhrdGZkWUN5dng1eFhXOW1VeGlIUEhiVk9fZmNjQVVhNkE0TVl2Yjc4dE5OLWdrZDVxc3pmQ0loMExuTHB4ZkVidFNlNTN5cVZjX3E1?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-27T09:34:01+09:00"
+    },
+    {
+     "title": "멜콘 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZjdNeno4T1prWDZjOW01WFFWbm9yQzJpcUpyb05rNXhDNmV5cldOUFo3M1hsMmYxTjhhQmJZd0dIbXhCdjBJU3l1eGJzanhBYi1JNDZnN3hlamxRZWppcnJWQmRlV1hsa3c?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-27T09:32:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나무가",
+   "sub": "코스닥 · 190510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 아틀라스 공급망 윤곽에 나무가·캠시스 ‘상한가’⋯다보링크 下",
+     "link": "https://www.etoday.co.kr/news/view/2640698",
+     "source": "이투데이",
+     "time": "2026-10-27T17:02:00+09:00"
+    },
+    {
+     "title": "로봇주 강세 속 나무가 상한가 직행… 감속기·구동부품주도 폭등랠리",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sN2FNdzRIakxCWmhLZzRtTklHcEl2bGJaaGRxYU8yVkZxcm9aVUU4bVBYRWU3aXUtNE4yTVhoYl9Nck9FMTJIcjJxYTRWbmpSdE51aXVXNG81czEtR1ZicUhFS2pTMHZDMExWRGhMc3o3dTjSAXdBVV95cUxOSEVOTkhzNVFqMEd4TG05amkyWWRTY1JzVmtrMDh6Zm9lVXRPN3h5Wk1yRDdaTVhzblpTUDZOSHRveDlhZTMwdzlZdGttQkxzSG1WbzJWRWdTYTVCN1FFT0NERHczRDI3REhmMkVYYU9sSGNrd2N4Yw?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-10-27T15:30:02+09:00"
+    }
+   ]
+  },
+  {
+   "name": "캠시스",
+   "sub": "코스닥 · 050110",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 아틀라스 공급망 윤곽에 나무가·캠시스 ‘상한가’⋯다보링크 下",
+     "link": "https://www.etoday.co.kr/news/view/2640698",
+     "source": "이투데이",
+     "time": "2026-10-27T17:02:00+09:00"
+    },
+    {
+     "title": "캠시스 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6NG9QRWNWQWVXNWFGUmZYOTdrVmJFRmx6bU41WkdHbzFSZ2tWR2ZrNGZTWThPZ21haXdVT09VRTlocHpELUxwQllrSlVmbE45OEM5V0pnMzJBdHZrMzBjUGdUcXZIeUNTc2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-27T09:09:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이지트로닉스",
+   "sub": "코스닥 · 377330",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 이지트로닉스, 로봇팔 초급속 자동충전 기술 개발 소식에 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZ2VSX3hzT3J1dFdZU0hvbERSaVl3WjJCbUoxclJiN01JNjhfZXptVjdYRHgwWGtxeDg3RWU0TC1RYTlGVXg0ZWpVRjlBZWZkYVpqdkhZNGppal9DNF9EamFnQUFSWi1ROWpZMg?oc=5",
+     "source": "와이드경제",
+     "time": "2026-10-27T15:20:21+09:00"
+    },
+    {
+     "title": "이지트로닉스 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcWY3aEJubEp2S2JaVG4tdUVQSDdKc1BvRS1mZWEtd3NSWm5aeDdNenpqZWRhakVQNnBaa01KbndBRl9xekowOTUwZldFWm45VGZoUGx0QWFFbHc1OUs4RVktSXZ4LXRKenc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-27T09:23:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "루닛",
+   "sub": "코스닥 · 328130",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "‘AI 신약’ 재평가의 시간…루닛 상한가에 쏠린 눈 [이슈+]",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JQkUwOTlZaGxudC1YMzZGVmV2YVowa1d0eDZkMV9ibWhhUzZ4eThKRnpSSEtScmo1Y2lZZ1I2aUpGaWlva0NXM0Rod0pxTjdIRVNLYTZOZ3lGYmc?oc=5",
+     "source": "에너지경제신문",
+     "time": "2026-10-27T10:09:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "노을",
+   "sub": "코스닥 · 376930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "노보 협력 기대 지투지바이오 급등…노을·퓨쳐켐 상한가[바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXhRSmZ2WXZNUzdrbzF5REdacUlzTEtCM2JRTUduejJMTWRnRFFNajVYSUtWQy15VFRjV0dMUlI5Uk5uelpzcmJMY2hBVlFxZE5oczdiT0RiMElFNExXLVNMN2tCMHBZX0JSUHhkd0FZbk92OXNuSnpkNy1fQVBFSw?oc=5",
+     "source": "이데일리",
+     "time": "2026-10-27T08:01:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "퓨쳐켐",
+   "sub": "코스닥 · 220100",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "노보 협력 기대 지투지바이오 급등…노을·퓨쳐켐 상한가[바이오맥짚기]",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXhRSmZ2WXZNUzdrbzF5REdacUlzTEtCM2JRTUduejJMTWRnRFFNajVYSUtWQy15VFRjV0dMUlI5Uk5uelpzcmJMY2hBVlFxZE5oczdiT0RiMElFNExXLVNMN2tCMHBZX0JSUHhkd0FZbk92OXNuSnpkNy1fQVBFSw?oc=5",
+     "source": "이데일리",
+     "time": "2026-10-27T08:01:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대원",
+   "sub": "코스닥 · 007680",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "대원 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpV0RQcmd4Wjgtc3NOSk9ZQ2ZIQjVPcTZzSk9JNkFnUndHcE9mNjlaMHRnaXlDRjBSX0pyd0Y4VzV4WW9oSGlqOHI1R0FKYXpPVDJIcnRoUnVpWUlkcDZYS05ZSEZLTC04bmc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-27T09:41:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이노시뮬레이션",
+   "sub": "코스닥 · 274400",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 이노시뮬레이션, HD현대중공업 공급계약에 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BQl9VM1ZYb2VJQkIwMG1vbjhmOG43TjdLMkNFU1JEa0VXcHNHVHNNTHVKcWFfYndRZGhXZ2lfWjViYzVwVk15SWdwcTF0UGVtcVoxQjVVWXFvVU9D?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-27T17:10:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "HD현대중공업",
+   "sub": "코스피 · 329180",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 이노시뮬레이션, HD현대중공업 공급계약에 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BQl9VM1ZYb2VJQkIwMG1vbjhmOG43TjdLMkNFU1JEa0VXcHNHVHNNTHVKcWFfYndRZGhXZ2lfWjViYzVwVk15SWdwcTF0UGVtcVoxQjVVWXFvVU9D?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-27T17:10:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-27T17:13:16.542570+09:00"
+}
