@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T05:29:41.996705+09:00",
+ "updatedAt": "2026-10-28T06:58:15.896709+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -351,6 +351,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "코스피 4% 이상 급등 속 일본·한국 증시 반등…SK하이닉스·소프트뱅크 6% 급등, 키옥시아 8% 가까이 급등",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNzJucS1kVXZxSkRJcnZ5bGx6S1llX1QwZDhsemxTTVhXNlFaZUdUS2s1QUNFRUJuYXFlaWFnOFpYOURDUUJiWVBGX1FMMy02WWJMcENQT3VDTWl5Vk41RVlodDdzaFFtOGwzeU9GRnU0X2lPZm53RkJHZWNUT2ozQUw0YnR1bTJHNi1La1JrRmNQU3F4blFfTXJXVlpXNWtkcHJCWV8zNnBBb1c2MG9mMXNfUXBuamJzMXF4b0tXV1UwcDhpeDJnRkdHMkpLdlFyQ2o4c2tid3l0NkdEMktTeXNxdw?oc=5",
+   "source": "TradingKey",
+   "time": "2026-10-26T17:30:00+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "이스트소프트 ‘페르소 인터랙티브’, 지자체·공공기관 공급 확대",
@@ -5867,20 +5881,6 @@
    ],
    "thin": false,
    "dir": "up"
-  },
-  {
-   "title": "LG디스플레이, 환율·칩플레이션에 실적 부진…4분기도 수익성 압박-키움",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01925366645616856",
-   "source": "이데일리",
-   "time": "2026-10-26T07:48:24+09:00",
-   "stocks": [
-    {
-     "name": "LG디스플레이",
-     "code": "034220"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   }
  ]
 }

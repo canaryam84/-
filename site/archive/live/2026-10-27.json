@@ -1,6 +1,6 @@
 {
  "label": "10월 27일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T06:05:11.152536+09:00",
+ "updatedAt": "2026-10-28T06:58:15.896709+09:00",
  "items": [
   {
    "title": "Seagate Technology Holdings PLC (STX) 주식 움직였습니다 상승 4.38%에 10월27일: 핵심 원인 공개",
@@ -1034,6 +1034,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 글로벌테크놀로지, 26%대 급등하며 9000원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02bHY4emdBdlc0M2pLS2pnSS13RlNzQngzVkZFWXhjMFhGVExYaG01QXdabXlaLVljSHJPV3JzYXpyazFJeW9TTHNsRQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-27T15:48:37+09:00",
+   "stocks": [
+    {
+     "name": "글로벌테크놀로지",
+     "code": "486510"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
