@@ -1,6 +1,6 @@
 {
  "label": "10월 27일(화) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T00:35:04.298969+09:00",
+ "updatedAt": "2026-10-28T01:35:07.318891+09:00",
  "items": [
   {
    "title": "Seagate Technology Holdings PLC (STX) 주식 움직였습니다 상승 4.38%에 10월27일: 핵심 원인 공개",
@@ -79,20 +79,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "광진실업, 주가 급등으로 10월 28일 투자주의종목 지정",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yU0huN1BiazdsQXpKRXBWT2N5V3d0YkhsbkN4RGRRbVVIZElpd2pfY19EbkN6N3BCNUp2N2hXNUJCQU5sYlRGbmEwekw2QUlfZVJuRjk3YzhXVjBOUUstcWNmOXpWZjYwOE5UdVgyMUYxQQ?oc=5",
-   "source": "톱스타뉴스",
-   "time": "2026-10-27T20:08:48+09:00",
-   "stocks": [
-    {
-     "name": "광진실업",
-     "code": "026910"
-    }
-   ],
-   "thin": true,
-   "dir": "up"
   },
   {
    "title": "현대약품 \"임신중지약 허가 보완자료 다음 달까지 제출\"",
@@ -979,6 +965,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 엑시콘 주가 21%대 급등 5만8000원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HNlZxUzRYb2w4N0ZhQlh0S3NXVFZlc3U3aENndE9OTV9veGhyTmtwa1hPUFctbGFTRHRYZEtlQ2t4Qmd2VnVzc2pLbw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-27T15:49:51+09:00",
+   "stocks": [
+    {
+     "name": "엑시콘",
+     "code": "092870"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[마감분석] 엠씨넥스 22%대 급등 2만1450원 마감 : 기업주식정보",
