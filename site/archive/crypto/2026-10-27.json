@@ -1,0 +1,93 @@
+{
+ "label": "10월 27일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.09,
+   "text": "+0.09%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IbnpQa0wtcFYyQ0tuVUtoaVg4VjRnT3JlS05CUThMcUpVbEN5QVduaDBZalRzWndsRV9MTU5BcUUwUzhNdHVncFJKRjJ6Nmg4cGc3YTZXdHJfNXg2MUdFS2hEcDJ5Y1ZQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "쿼크에이아이",
+   "sub": "가상자산",
+   "pct": 202.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억680만원…빗썸 쿼크에이아이 202% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zanZCckhCQk50RmJpUkdmc2R4N2tDdWo1SWcyaHI5OGF4M3VKdmZvMFZLOHVmVWdCcGJLd3ctcE1MYjVMR2N3NmU1TjVXQ3dKTThjdFlSUVFmSDY4LUlBONIBZkFVX3lxTE9qRWZ3dlNWNkxqbzRzdDZaSlhDR2Y2UlhDQnlRV2hINTNLS0RTdVo2am9KZGxLUTRTSktLaHlZUFZqWW9fX1F5aXdITHVCZDFoNXNlLTRDdmZvTzhaVzd4SUFMdXBWQQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-27T07:30:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아이리스",
+   "sub": "가상자산",
+   "pct": 187.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[K코인마켓] 하락장에도 거래대금 37% 증가…아이리스 187% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xbUVYbDI0SDZMc3FqenpmRlo0UWc4VEZJZ1RRYlNhQk9veENGNnNOOWRsMm1pMVZ5dlpjRWE5VjhrWFpwMV9xc0FzTnFhUU1CaEpmUy1KcGY?oc=5",
+     "source": "블록미디어",
+     "time": "2026-10-26T17:01:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "두들즈",
+   "sub": "가상자산",
+   "pct": 43.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "가상자산 거래대금 30% 급감…두들즈 43% 상승, 리플XRP 약세",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LbEVpTGhIWlg5QU9YbmY5YWZjdXdHVVJXekpUUmUwemQ0YWVpMmJPZFcwcEg5MWpSNHg4cVlLek50V1JfbWxSSUNfRmtVbVNpVkxsZFlhYm02QlA3MDA3S2h0T0tIQ3R6cXlIMi1nX1YwZw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-27T07:20:39+09:00"
+    },
+    {
+     "title": "[코인브리핑] 비트코인 1억700만원선 하회…두들즈 40% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsTzlWb2FZTkQtUTYtNWd3M0lfVm1GNWRTb3VUbVd2N3d1c0VTRjFBZXdNc1VrQjNVb2J1SDdyRUNySW5tVWxnd241Z3p6Z21hOUlHUk9JUjYzUlNiVXc?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-10-26T18:01:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "폭락했다가",
+   "sub": "가상자산",
+   "pct": 35.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "62% 폭락했다가 35% 급등…상폐 앞둔 팬시 '롤러코스터'[특징코인]",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYZ3ZYU2Yzb2dfM3VEcmhoZGZiMFN3aWlhM1kwXzh1TTZjZlZHSUhXNFhscHFmRGFkZlNLMzI4MWlSYlVlWlpwRU1DME5WaXJsRmlsZE02TnpYaldvTV9iVFV4WEU4UQ?oc=5",
+     "source": "뉴스1",
+     "time": "2026-10-26T15:04:48+09:00"
+    }
+   ]
+  },
+  {
+   "name": "퀀트",
+   "sub": "QNT",
+   "pct": 20.55,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "퀀트(QNT) 20.55% 급등…기관 토큰화 기대에 219.38달러",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93dFJPTzFtMm5FYWpNYkFKMUdVYmNIZGpYaHFwZ2o5dkttOWk5NkJNWHMwd01Bc1JXYVRhSUgtN2lnelRRQV9Udldn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-26T22:05:55+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-27T12:30:17.821411+09:00"
+}
