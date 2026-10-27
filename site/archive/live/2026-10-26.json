@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-27T14:44:17.827136+09:00",
+ "updatedAt": "2026-10-27T15:19:52.041700+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -1168,6 +1168,24 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[주가] 10월 26일 주요 제약·바이오·기기 5% 변동 현황 - 루닛·뷰노 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UWXR6dndwSm5abjFMQ1ZzRzVncFhpUmF4aHhraFBRSERobUlULWlCNzdqVkRJTEUzdmRZZkJKRUlrMVpQaWJ4aGlmRkRpOFV5anI5NXVwVHRUVHctRl9DejEtSzNScUstcnJv?oc=5",
+   "source": "메디파나뉴스",
+   "time": "2026-10-26T15:48:43+09:00",
+   "stocks": [
+    {
+     "name": "루닛",
+     "code": "328130"
+    },
+    {
+     "name": "뷰노",
+     "code": "338220"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -5859,24 +5877,6 @@
     {
      "name": "LG디스플레이",
      "code": "034220"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
-  {
-   "title": "\"실리콘투, 3분기 실적 기대치 밑돌 전망…목표가↓\"-상상인",
-   "link": "https://www.hankyung.com/article/2026102639886",
-   "source": "한국경제",
-   "time": "2026-10-26T07:41:20+09:00",
-   "stocks": [
-    {
-     "name": "실리콘투",
-     "code": "257720"
-    },
-    {
-     "name": "상상인",
-     "code": "038540"
     }
    ],
    "thin": false,
