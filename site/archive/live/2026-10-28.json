@@ -1,6 +1,6 @@
 {
  "label": "10월 28일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-29T02:14:25.933079+09:00",
+ "updatedAt": "2026-10-29T05:07:07.633447+09:00",
  "items": [
   {
    "title": "[속보 ]미국 반도체주 동반 상승…SK하이닉스 ADR 9%대 급등, 마이크론·엔비디아·AMD 강세",
@@ -923,6 +923,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]셀트리온, '실적으로 증명한 성장성' 목표가 280,000원 - IBK투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncXRyQXpNZDJsT1J0dHZSY21WdDVOcnpJMXlaSUdNNlRySFZ4T1dTWGJsckdkTUF1VmZLaXF3WnZhWU9aZk9qMVdZTHY0VFJyak84Z0U1RGVNT254?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-28T16:11:00+09:00",
+   "stocks": [
+    {
+     "name": "셀트리온",
+     "code": "068270"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "박상열 대표이사, DGI 주식 34만4426주 ↓…지분율 0.00%",
@@ -4673,6 +4687,20 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]대우건설, '3Q26 Review: 중요해지는 연말 연초 ' 목표가 16,000원 - 메리츠증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBval80SE9nNTBNNWZ4bWVqTWdDQTBzdTRnYmJvMjN6WTBrVFg2eVhyZEpZSVo2LXdEem03RUtoTXYza2o2MlFQM3ZVYTBpVUNRYkpybFFfc2t1TWc1?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-28T08:32:00+09:00",
+   "stocks": [
+    {
+     "name": "대우건설",
+     "code": "047040"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[속보] SK하이닉스 3분기 매출 104조6155억…전분기 대비 32%↑",
    "link": "https://www.etoday.co.kr/news/view/2640886",
    "source": "이투데이",
@@ -4798,6 +4826,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[모닝 리포트] 셀트리온, 3개 분기 연속 깜짝 실적…목표가 30만원 상향",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5USWtHajNBNHBrbHI5OUJlaTQyMXN5SVdlc0w5bWpicWdFYm9tLVh3Uk5qRXVNS19PVkh4RFd0TVhqbW03cEJhNy01cS1KQV9jZWc2WTdhNDRsakpG?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-28T08:21:00+09:00",
+   "stocks": [
+    {
+     "name": "셀트리온",
+     "code": "068270"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
