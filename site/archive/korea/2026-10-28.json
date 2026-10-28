@@ -1,0 +1,355 @@
+{
+ "label": "10월 28일(수) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 6.63,
+   "text": "+6.63%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsNVp0WmZyTDRZUWt4V2hqTUlrbGVoWldocmZXb0xpSjFWTDI2ZkhKWEg1YU42bV96eEhocUk4dDBMNjRYSXBERWhfTkVpRHoxUWJ3MFZId3c3SXl3S0E5cnhPWGpTZVk?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 3.69,
+   "text": "+3.69%",
+   "exact": true,
+   "source": "버핏연구소",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93ZkVjaEtKaVE0OUJmR2FpMU5SSjBaNmF1ZFlNWWJiNWJieTBMM2l0cm45WmZ4RzVlaTFlYWx2T25RMmVJWEkxWk03V1l1aTFiYzdQUjBpMWN2WGNjTlhKWXB3?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "빛과전자",
+   "sub": "코스닥 · 069540",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "빛과전자 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lb21oZHZLdWhjem12ZTg4YndPVTh2RXZlcHYwVXJHZVdjSER3REM3Y0ZaZEV2by1NekhBakJ1bXR4dDZSUF94RDFLWW83elJmYUg0RUU1YjNJeU94c3hUVFFzZ19sbjZ6YWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T11:20:10+09:00"
+    },
+    {
+     "title": "[특징주] 빛과전자 장중 17%대 급등 3780원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IcXM3UGdFTzdfUnBnd1JOVmljUVBhekhVdk15Q000VjVjX2hTTnBTODRFVXhNZ0Q4dUZLWWxoZmhNd19tdTRDMGprSQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T10:24:24+09:00"
+    },
+    {
+     "title": "[특징주] 빛과전자, 美 업체 광트랜시버 초도 수주에 17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM1NFcTJXOEpZVHpRRHJRREg2Qy1CU0FkNEhxcG8wY1R2THlyeU16MFN5MElpbVFsRnFPTkZRN0toUW9qcUxmd2dZZmhlb1hmX2p5YmRDemtPRlVf?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-28T09:51:00+09:00"
+    },
+    {
+     "title": "[특징주] 빛과전자, 美 광트랜시버 초도 양산 수주에 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Dbm4xczR1bjJXY010emxueEpuVGkzMGE4WmNoempaNFplMGVsZVk1OHJpM0YwMmtsUFFFNmM1bWtUSHZDOEVvMlRjMHVyQUNyYW9yYzZkMW3SAVhBVV95cUxNQ25uMXM0dW4yV2NNdHpsbnhKblRpMzBhOFpjaHpqWjRaZTBlbGVZNThyaTNGMDJrbFBRRTZjNW1rVEh2QzhFbzJUYzB1ckFDcmFvcmM2ZDFt?oc=5",
+     "source": "아주경제",
+     "time": "2026-10-28T09:42:22+09:00"
+    }
+   ]
+  },
+  {
+   "name": "케이아이엔엑스",
+   "sub": "코스닥 · 093320",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "공개매수 합의에 케이아이엔엑스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWThoNXlMTVVtak1aVXRkMTFyOEl3aUUxQk9FLXpVZmJ3eTc3NHgzd21ockYtUXZqeHNFYnpGaTNmbVlCQW5ZWmRHN1loM3Q0WjVJYXRKdlluN0RUTnM3RkVnRGVFZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-28T12:55:56+09:00"
+    },
+    {
+     "title": "케이아이엔엑스·피앤에스로보틱스·에스피소프트, 나란히 상한가",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11dVltMzJtWWl0RW9xLUtiQTJsOXlYbjJIX0Y1SjA5bFowSVBkSTZqZFhDcWFiNDlwNmxJeE5xOWZlak01VTZIWFpnMGpUTnlDRnpaNGdsUDFINzBLZU0yZmoza01LcnlMWWk3SVRzQ0p0Z3M2dkHSAXZBVV95cUxNdXVZbTMybVlpdEVvcS1LYkEybDl5WG4ySF9GNUowOWxaMElQZEk2amRYQ3FhYjQ5cDZsSXhOcTlmZWpNNVU2SFhaZzBqVE55Q0Z6WjRnbFAxSDcwS2VNMmZqM2tNS3J5TFlpN0lUc0NKdGdzNnZB?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-28T11:15:00+09:00"
+    },
+    {
+     "title": "[특징주] 케이아이엔엑스, 맥쿼리 주당 19만원의 공개매수.. '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3VjU1ZRUjkwX1RMSkhkMmdYWGdkX0xxWjFYdk9zZ3lqU2tlbk0wWDU1OFRSOUJCT09GSmR4VFdORmp0cTR5ZnlJSWpldkZ4SlpJeFFJcmt3WHJ0RXg5V2o4bk1ZR29FR1ZlcklSVExGeVpJNmNCTzBSWWhPSnpvS0RDWkxsUW84?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-10-28T10:17:22+09:00"
+    },
+    {
+     "title": "케이아이엔엑스, 맥쿼리 공개매수 합의에 ‘상한가’ [줍줍 리포트]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03ZzdHaFdjbXhOT21DUkxTQzdZT2RNMjZadVVfRVhQT1NEZFpGUFpBRkxSOVRqZUo3Z2UwTFNhZ0xVMmdSOURoM0pRTEd3UWI3MHfSAVNBVV95cUxPTXhjOVRfTUctY1E0Z2h4dko4LWYydU9PRG1jaGpYZTdzdmo2c0RibWQwcWpCMmV1V1A3ME1XX3NWcHN5VndmT0NiOENrajFLRng4aw?oc=5",
+     "source": "서울경제",
+     "time": "2026-10-28T10:04:43+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지니언스",
+   "sub": "코스닥 · 263860",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 금융권 해킹 확산에 보안주 급등…지니언스·에스피소프트 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaUU0TDFqZDRWd252UWtEQ05PYlBKZEhLclBSSTFoTFpLY3pxMGU2S3dtNE9wZU04S3RXUkVnaTdhV2h0N084MWFXSmM0eENwNnFVblVzYWttMi1rcVZtVV8tU1UwUFAyUEE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-28T16:13:06+09:00"
+    },
+    {
+     "title": "[마감분석] 지니언스 상한가 기록 2만7300원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YUmI3Y3A3UTlkZ0R5TWVwbmhQc2NnZlBpZ2Rfd1pOVEthdU1wRTAxRXJGMUtrak01dlhJTmVieFA5bF9XU2tIS3RvWQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T15:48:29+09:00"
+    },
+    {
+     "title": "지니언스 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONkM3VUJaYnBjS3ZCaTNGQ3dyY1BlSlpPc3VHYjZ5Rm11UUtmb205UnZxM2J2cXNIVVF5dXoyN1lDaWRXR00yS1BXQVBvZE1jM0MtOGxPeTlSR2duVm5SalVyanoybUx3U0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T11:56:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스피소프트",
+   "sub": "코스닥 · 443670",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 금융권 해킹 확산에 보안주 급등…지니언스·에스피소프트 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaUU0TDFqZDRWd252UWtEQ05PYlBKZEhLclBSSTFoTFpLY3pxMGU2S3dtNE9wZU04S3RXUkVnaTdhV2h0N084MWFXSmM0eENwNnFVblVzYWttMi1rcVZtVV8tU1UwUFAyUEE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-10-28T16:13:06+09:00"
+    },
+    {
+     "title": "케이아이엔엑스·피앤에스로보틱스·에스피소프트, 나란히 상한가",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11dVltMzJtWWl0RW9xLUtiQTJsOXlYbjJIX0Y1SjA5bFowSVBkSTZqZFhDcWFiNDlwNmxJeE5xOWZlak01VTZIWFpnMGpUTnlDRnpaNGdsUDFINzBLZU0yZmoza01LcnlMWWk3SVRzQ0p0Z3M2dkHSAXZBVV95cUxNdXVZbTMybVlpdEVvcS1LYkEybDl5WG4ySF9GNUowOWxaMElQZEk2amRYQ3FhYjQ5cDZsSXhOcTlmZWpNNVU2SFhaZzBqVE55Q0Z6WjRnbFAxSDcwS2VNMmZqM2tNS3J5TFlpN0lUc0NKdGdzNnZB?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-28T11:15:00+09:00"
+    },
+    {
+     "title": "에스피소프트 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5paElreU1pSmg2SEpmd1JzSXNlTW9RTFhiLWJBdkdrQk1NMW1jQVBDNk85WlQ2ZldpOWN2MUVSV1N6T2ZER3h0Nm5BNU9oSXpkVHpXb29fN0NIZHBZbmsxYUF4azdsa2doV0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T09:50:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "씨티알모빌리티",
+   "sub": "코스피 · 308170",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "씨티알모빌리티 상한가…CJ씨푸드1우도 26%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UaXZQbUtKZ09XU0lWQXlnZUJudmUtRTF4c0VBc2lGZHVGSjI4LUxqNnMtVnZ3Wk1iWmZNZG9hZkpfZWQ0MUpmRHFDNnBTUzlGQkJ6OXQzRGkybHFEZl9XcDJad1M3M18tVEpweTdybE5SX0NYZmfSAXZBVV95cUxOVGl2UG1LSmdPV1NJVkF5Z2VCbnZlLUUxeHNFQXNpRmR1RkoyOC1MajZzLVZ2d1pNYlpmTWRvYWZKX2VkNDFKZkRxQzZwU1M5RkJCejl0M0RpMmxxRGZfV3AyWndTNzNfLVRKcHk3cmxOUl9DWGZn?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-28T11:20:29+09:00"
+    },
+    {
+     "title": "씨티알모빌리티 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HdmVFX3otNUdkaHhwVkxYblhHYlhMR25CSUhWc2hJS2dqOExzYVhmUDFCRmdPXzM1Q1pFZHl1ZEJPN21zSEgteF95dUlSSFlkTGM4WVRTVzFoV29xVEFRdGc0eFBvQzhuc3c?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T09:55:29+09:00"
+    }
+   ]
+  },
+  {
+   "name": "피앤에스로보틱스",
+   "sub": "코스닥 · 460940",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 피앤에스로보틱스 장중 상한가…재활로봇 사업 확장",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtTUJzUXg1N3Vpb0ExNk10anVHVHhzT0I5MnI2NlJhcU5INld6Ml94cFl5cGhQLUVVbjNCemNVdndzdXFUQ3NwWEpFa0pTenNTbF9QdEszbGVvb3JOWWlvZTl6SnJsUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-10-28T13:04:50+09:00"
+    },
+    {
+     "title": "케이아이엔엑스·피앤에스로보틱스·에스피소프트, 나란히 상한가",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11dVltMzJtWWl0RW9xLUtiQTJsOXlYbjJIX0Y1SjA5bFowSVBkSTZqZFhDcWFiNDlwNmxJeE5xOWZlak01VTZIWFpnMGpUTnlDRnpaNGdsUDFINzBLZU0yZmoza01LcnlMWWk3SVRzQ0p0Z3M2dkHSAXZBVV95cUxNdXVZbTMybVlpdEVvcS1LYkEybDl5WG4ySF9GNUowOWxaMElQZEk2amRYQ3FhYjQ5cDZsSXhOcTlmZWpNNVU2SFhaZzBqVE55Q0Z6WjRnbFAxSDcwS2VNMmZqM2tNS3J5TFlpN0lUc0NKdGdzNnZB?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-28T11:15:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 빅웨이브로보틱스, 주초장 상한가 도달…'여전히 공모가 상회'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LRWxfVUN6VUxrb0VPVExWZldsbGpFd045R1ZtdEd6U0VMb2xZcUYwZEI5UTNVQW5kdTFYWmZTUmpNRWh1VG8xZmQ3YnNCclB5QlU1VU9GZ1lNUEE2VjFjYXNoTGxudjZq?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-10-28T11:53:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "휴림에이텍",
+   "sub": "코스닥 · 078590",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "휴림에이텍 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wbzJRbG8wQ09HejVIMDhLay1tMkFLb29zS1hkcGFhNU1rRUtUVWJYVDVqQW50Z1owb2R6Z2VfV2ZBQjFjSENJWEJ0eXROcmJNS2ZobDBVQVdrS2ZMQmFRcFhJbmlqN28yZ2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T10:25:48+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한울앤제주",
+   "sub": "코스닥 · 276730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한울앤제주 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVDgyQTZjc0cyRGctcDB5UjBhSnlFV2ZqYncteHhhRnM0bE9NUkRQdjNvYlVNSW1rcTYzU19LVERWejBDX0luNXRvbm44VkFkdGdTVXlMMklTYkRBSm5KQ1FqbmpMV1hTU2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-28T09:42:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "가비아",
+   "sub": "코스닥 · 079940",
+   "pct": 27.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "맥쿼리 공개매수 합의에 KINX '上'…가비아는 26%↑[특징주]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03880246645617512",
+     "source": "이데일리",
+     "time": "2026-10-28T10:26:01+09:00"
+    },
+    {
+     "title": "[특징주] 얼라인·맥쿼리 합의에 KINX 상한가…가비아 26% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jVXV0UkJIZ05PSlZidDZZZ2t1VGtNeUpaZXUwaVdjWkRiOWtWQW1Ca2NxUHJjZkVLYThUQW4tYTB2M245Xzc2bHdNUmJHeHl1b296aHVHZFR0Wk9s?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-10-28T09:59:00+09:00"
+    },
+    {
+     "title": "맥쿼리, 가비아 공개매수 재실시 계획에…주가 27% 급등[시그널]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RU2t1cjBvZWV1SFdYZEM2RGVtbHlqS3FBR2tGNnZmNXdJVjF2MzlpZW1EQUsyOC02clYwUjRxWjFLMU9PNDdwS1VEcWFVWmk1c2fSAVNBVV95cUxQZzI5d29WYmVLS3NieUppeVN6SWFEdElUejJ2OTFOc2E3dldWOEtndkhycnJkYUZxVmJXMnNxWlZkUTNOMnVnSlhHcFB3UVY0d2lHVQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-10-28T09:26:10+09:00"
+    },
+    {
+     "title": "가비아 주가 장중 25%대 급등, 맥쿼리 공개매수 가격 상향에 자회사 케이아이엔엑스도 상한가",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92OVRaazgtNG9telNRTUFQdGxoQ1ZUUWFydXMxcDAzUTBuSjFCYS1DZHJoMmpzck85Nk1wWmRfTUxJRVRBVkQxOTB5OFFvanY2enZTQTNzMTg0QUVjdDlsYlZURzVXT2xQXzN4ZFlmUWN6bXM?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-10-28T10:51:05+09:00"
+    }
+   ]
+  },
+  {
+   "name": "안랩",
+   "sub": "코스닥 · 053800",
+   "pct": 26.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 연쇄 개인정보 유출 사고…안랩 26% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56RzBuY2RyTFg5SVJuSWVsY3l0akZQVWxuczJqenVSWDllUkdiOFUyTTdvWFVaMTZIWmp1eHZScjRNc0MyZ2xXeDdOZDlwdkwwZ1cyVFRMc2ZJV0pJZEtnVll2aXNXSGdFbUE?oc=5",
+     "source": "뉴스드림",
+     "time": "2026-10-28T12:10:04+09:00"
+    }
+   ]
+  },
+  {
+   "name": "멜콘",
+   "sub": "코스닥 · 179880",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 멜콘 21%대 급등하며 1만9000원선 돌파 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82LUJ3SlpPOW50bllnekQ1TkhxXzh2b3d3bHdfRGlvcHdQRHpRNlY3VmMzUzYwVmcxLWZsckJrTjM1T05tOG5yX2hjZw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T15:50:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한라캐스트",
+   "sub": "코스닥 · 125490",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 한라캐스트, 장중 18%대 급등하며 1만1000원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1X0JaZWdrenhsZ0FKamkwQlhmV3NMcUNTbFUwczM1bEU1NFNvdFhzbURvUllSOTV3ZXN2VVpCOFNZRUlwblpuN1hnYw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T10:23:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "워트",
+   "sub": "코스닥 · 396470",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 워트, 장중 18%대 급등세 기록하며 7100원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SajNISzQ4U1ZxX1NqQVcyeGJVUzM0NHVDMHdTa0drUFhGYzlOM09NTXQwZEsyb05tdWY0cWV1ZVpLUXR3UUQyTzc1UQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T10:23:53+09:00"
+    }
+   ]
+  },
+  {
+   "name": "레인보우로보틱스",
+   "sub": "코스닥 · 277810",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "매디슨 황 방한 소식에 로봇주 ‘들썩’…레인보우로보틱스 15%↑",
+     "link": "https://www.mk.co.kr/news/stock/12188197",
+     "source": "매일경제",
+     "time": "2026-10-28T10:43:46+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-28T17:19:56.615217+09:00"
+}
