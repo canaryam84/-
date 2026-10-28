@@ -1,6 +1,6 @@
 {
  "label": "10월 28일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-29T01:15:03.188261+09:00",
+ "updatedAt": "2026-10-29T02:14:25.933079+09:00",
  "items": [
   {
    "title": "[속보 ]미국 반도체주 동반 상승…SK하이닉스 ADR 9%대 급등, 마이크론·엔비디아·AMD 강세",
@@ -1533,6 +1533,20 @@
     {
      "name": "HD현대",
      "code": "267250"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "지니언스 2만7300원 상한가…보안 수요와 상반기 실적 부각",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRFlhdEd6WlUySXNBVHZST1FLTl80M2F0STcxOTBsN20xNWI5TjJkLTlxSUc3d1h1NS0zcF9neHphUUdDTmFEN1hLaV93TGhUd0dMakMwajIybXZxSUd2a2R3LVdKRm9yWVIyMUViU28xQdIBckFVX3lxTE1BRFlhdEd6WlUySXNBVHZST1FLTl80M2F0STcxOTBsN20xNWI5TjJkLTlxSUc3d1h1NS0zcF9neHphUUdDTmFEN1hLaV93TGhUd0dMakMwajIybXZxSUd2a2R3LVdKRm9yWVIyMUViU28xQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-28T14:29:34+09:00",
+   "stocks": [
+    {
+     "name": "지니언스",
+     "code": "263860"
     }
    ],
    "thin": false,
