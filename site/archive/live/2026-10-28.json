@@ -1,6 +1,6 @@
 {
  "label": "10월 28일(수) 국내 종목 뉴스",
- "updatedAt": "2026-10-29T00:16:12.293743+09:00",
+ "updatedAt": "2026-10-29T01:15:03.188261+09:00",
  "items": [
   {
    "title": "[속보 ]미국 반도체주 동반 상승…SK하이닉스 ADR 9%대 급등, 마이크론·엔비디아·AMD 강세",
@@ -147,6 +147,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "외인 매도에 SK하이닉스 주가 하락…지분 49%대 : 한국증시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ReW5DZnBTeG1leS1DVFhZM1FQZ3Z6UEFNcFhJR2VkNzRFaGYzUVh6bVU4M1l5WWI2ZWtMbDRGY2x2Mm1RTEpqQmJ2UQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-28T18:54:59+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "이뮨온시아, 애프터마켓서 10%대 급락",
@@ -1665,6 +1679,20 @@
    "dir": "none"
   },
   {
+   "title": "빛과전자 4195원 상한가 근접…광통신 부품 기대에 거래량 급증",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82YmMwaEk3WlEydTdXRl8yaWp3WVpFMEd1SXBpRWFoZmVMb2ZXMW53eE5XZlFna3NXRGE2bGV1b19Mbkc1SEJ2R3hQT0t4Mi1xNW9NZ252RnQzbXNtb3l1dXdIaldzcTJwbTkwZ2l5Q0FoQdIBckFVX3lxTE82YmMwaEk3WlEydTdXRl8yaWp3WVpFMEd1SXBpRWFoZmVMb2ZXMW53eE5XZlFna3NXRGE2bGV1b19Mbkc1SEJ2R3hQT0t4Mi1xNW9NZ252RnQzbXNtb3l1dXdIaldzcTJwbTkwZ2l5Q0FoQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-28T14:01:02+09:00",
+   "stocks": [
+    {
+     "name": "빛과전자",
+     "code": "069540"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "HD한국조선해양, 3분기 영업익 1조4천472억원…작년보다 37%↑(종합)",
    "link": "https://www.yna.co.kr/view/AKR20261028105651527",
    "source": "연합뉴스",
@@ -2628,6 +2656,32 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[속보] 빛과전자, 장중 상한가 껑충…빛샘전자·대한광통신·광전자도 동반 급등",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wcE5Fb3VzWGdEZ0ZadVJGVDZXM0o2dUVOZ0UtclZMb2szZW9YRzBNUXdsLTB5SGotanZuZkllaDRRcFc4MEM3cnhXbWN5YWY0ZUR0OXl3NFFtOWg0N2czUFRhekQydzlp?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-28T11:01:23+09:00",
+   "stocks": [
+    {
+     "name": "빛과전자",
+     "code": "069540"
+    },
+    {
+     "name": "빛샘전자",
+     "code": "072950"
+    },
+    {
+     "name": "대한광통신",
+     "code": "010170"
+    },
+    {
+     "name": "광전자",
+     "code": "017900"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
