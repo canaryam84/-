@@ -1,0 +1,39 @@
+{
+ "label": "미국 10월 28일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.19,
+   "text": "+0.19%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3RTUUV6Mkk0OXZLTkRENWV6Z1oybmhKSVh5M1IyM1NGN1QwUFlKU1F5QVdjbzVmWlNpUGhzN21nOHRHTEMxc0RTRnJtZTRBZXl2aUZBYmlZRlNnX1JYY0otMGxYN3FFeGJaYmNicWdPZTV2LXlkM2FyN1BMU0JxVW92RzVMR2pxWWtEaDAzOEkyVlNzWDVuTGFybXZCeDZhX0d2SzE1bmQ2ajJrVmptdVBPSVJXYXZNMndmTHItNW5KV2c3elE?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.27,
+   "text": "+0.27%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OOTJjMC02SEExam5vM2xoT3c0WFQ2cXVseG1oWmlfMHUxX2R5aDJ0QlBNckVEdV84QndEMVVqVlAzck5kdWM5UWRYSDd3RW1h?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "AudioEye",
+   "sub": "AEYE",
+   "pct": 36.66,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "AudioEye stock jumps 36.66% to $10.14, but daily RSI is overbought",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUFLb2JrbzVBY2tYaXdiSG9uZzY3Y0ZWbllIOHBBdUNCWVB1elBaem1rWGk3RjVWZU9oOHRvcjZ2N09CSXEzVzlieHlRTlU1QjFpTnVaVXF2Y3pieWRLdmRvZFoySzlKUGdqc3NTOVRYQ0s3WGhrWHlRc3Y1ZEt1eQ?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-10-28T21:12:34+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-29T07:32:53.907932+09:00"
+}
