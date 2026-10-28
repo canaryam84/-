@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T09:05:11.360704+09:00",
+ "updatedAt": "2026-10-28T12:27:43.080564+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -983,6 +983,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[증시다트] 현대차·기아 목표가 동반 상향…실적 온도차에도 ‘로봇 프리미엄’ 커졌다",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWZ2b3Q1QWtBQXpXN2tyZUQ0MTlvN2p6TVBRWFd5ZmZRMXpMRU15YXVFaGk1dlZrLTVLQkdzaXQ1MEJlWEg3NHp0VnYtNUJzRnFiVA?oc=5",
+   "source": ":: 위즈경제 ::",
+   "time": "2026-10-26T16:00:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "강종구 대표이사, 바이오톡스텍 주식 980주 ↑…지분율 13.04%",
@@ -5866,20 +5880,6 @@
     }
    ],
    "thin": true,
-   "dir": "none"
-  },
-  {
-   "title": "키움證 \"LG디스플레이, 칩플레이션·환율 여파 겪지만…북미 물량 기반 흑자 기조 기대\"",
-   "link": "https://www.etoday.co.kr/news/view/2639814",
-   "source": "이투데이",
-   "time": "2026-10-26T07:52:00+09:00",
-   "stocks": [
-    {
-     "name": "LG디스플레이",
-     "code": "034220"
-    }
-   ],
-   "thin": false,
    "dir": "none"
   }
  ]
