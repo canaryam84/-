@@ -1,6 +1,6 @@
 {
  "label": "10월 26일(월) 국내 종목 뉴스",
- "updatedAt": "2026-10-28T06:58:15.896709+09:00",
+ "updatedAt": "2026-10-28T09:05:11.360704+09:00",
  "items": [
   {
    "title": "대호에이엘 주주조합 지분 11% 돌파…경영권 분쟁 새 변수",
@@ -3817,6 +3817,20 @@
    "dir": "none"
   },
   {
+   "title": "[투데이's 특징주] 루닛, 서밋 테라퓨틱스와 협렵 소식에 상한가 기록",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdTJWLXZnYk4tUWplbnlvSzQtWVoyWlpyRklLekFmVGN4VDNKdTJQRHp0a2JlRkc1NE1nV0Nvclg2S0V5Vy1ZbU1ZNFVXQlpyQW5LUjZreE1wMzY4dVdzWGtmbFRTTVJrbzBMMkJmUEM?oc=5",
+   "source": "투데이코리아",
+   "time": "2026-10-26T10:11:48+09:00",
+   "stocks": [
+    {
+     "name": "루닛",
+     "code": "328130"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 美 우주 광통신 실증 성공…컨텍, 10% 급등",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xQzgxTXJqejVzMUh5UkN4aWtfV0l4VlE3N19Fd2N1RWNyRTB5Wk16ekM2NmhzRFZiTGlKYnBMMWdRMjB5VVMzTndnNXQ2eDluNm1VWC1TVXQ0QVdE?oc=5",
    "source": "뉴스핌",
@@ -5867,20 +5881,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "IPARK현대산업개발, 3분기 영업익 127%↑…목표가 3만원으로 상향-현대차",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01931926645616856",
-   "source": "이데일리",
-   "time": "2026-10-26T07:51:49+09:00",
-   "stocks": [
-    {
-     "name": "IPARK현대산업개발",
-     "code": "294870"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   }
  ]
 }
