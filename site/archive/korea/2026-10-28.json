@@ -1,5 +1,5 @@
 {
- "label": "10월 28일(수) 정규장 마감 후 보도 기준",
+ "label": "10월 28일(수) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -15,8 +15,8 @@
    "pct": 3.69,
    "text": "+3.69%",
    "exact": true,
-   "source": "버핏연구소",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93ZkVjaEtKaVE0OUJmR2FpMU5SSjBaNmF1ZFlNWWJiNWJieTBMM2l0cm45WmZ4RzVlaTFlYWx2T25RMmVJWEkxWk03V1l1aTFiYzdQUjBpMWN2WGNjTlhKWXB3?oc=5"
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ldG5tdDRQakNjcEpNNi1sY0tLLUE2Z051OXRIdmtSQTFMNDlPWTRINm5Wd0ZOLWktcWRBaFUxT0hqTEZnbDhBQU1idEpDczI3Q0ZEMTJxTkRybjg?oc=5"
   }
  ],
  "items": [
@@ -26,8 +26,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 7,
+   "newsCount": 9,
    "articles": [
+    {
+     "title": "빛과전자 4195원 상한가 근접…광통신 부품 기대에 거래량 급증",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82YmMwaEk3WlEydTdXRl8yaWp3WVpFMEd1SXBpRWFoZmVMb2ZXMW53eE5XZlFna3NXRGE2bGV1b19Mbkc1SEJ2R3hQT0t4Mi1xNW9NZ252RnQzbXNtb3l1dXdIaldzcTJwbTkwZ2l5Q0FoQdIBckFVX3lxTE82YmMwaEk3WlEydTdXRl8yaWp3WVpFMEd1SXBpRWFoZmVMb2ZXMW53eE5XZlFna3NXRGE2bGV1b19Mbkc1SEJ2R3hQT0t4Mi1xNW9NZ252RnQzbXNtb3l1dXdIaldzcTJwbTkwZ2l5Q0FoQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-28T14:01:02+09:00"
+    },
     {
      "title": "빛과전자 주가, 상한가... 왜?",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lb21oZHZLdWhjem12ZTg4YndPVTh2RXZlcHYwVXJHZVdjSER3REM3Y0ZaZEV2by1NekhBakJ1bXR4dDZSUF94RDFLWW83elJmYUg0RUU1YjNJeU94c3hUVFFzZ19sbjZ6YWc?oc=5",
@@ -45,12 +51,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM1NFcTJXOEpZVHpRRHJRREg2Qy1CU0FkNEhxcG8wY1R2THlyeU16MFN5MElpbVFsRnFPTkZRN0toUW9qcUxmd2dZZmhlb1hmX2p5YmRDemtPRlVf?oc=5",
      "source": "뉴스핌",
      "time": "2026-10-28T09:51:00+09:00"
-    },
-    {
-     "title": "[특징주] 빛과전자, 美 광트랜시버 초도 양산 수주에 15%대 급등",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Dbm4xczR1bjJXY010emxueEpuVGkzMGE4WmNoempaNFplMGVsZVk1OHJpM0YwMmtsUFFFNmM1bWtUSHZDOEVvMlRjMHVyQUNyYW9yYzZkMW3SAVhBVV95cUxNQ25uMXM0dW4yV2NNdHpsbnhKblRpMzBhOFpjaHpqWjRaZTBlbGVZNThyaTNGMDJrbFBRRTZjNW1rVEh2QzhFbzJUYzB1ckFDcmFvcmM2ZDFt?oc=5",
-     "source": "아주경제",
-     "time": "2026-10-28T09:42:22+09:00"
     }
    ]
   },
@@ -60,8 +60,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 6,
+   "newsCount": 7,
    "articles": [
+    {
+     "title": "[오늘의 특징주] 케이아이엔엑스·지니언스 상한가…공개매수 가격 인상에 보안 투자 확대 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00RTJlOTB1T1lScWhHTTNyMWhwTmh5TkhIU09iNUticmRlazVMUVY5SW1HeGw1YUJRcnJIRXNiUnROQzJwNTJMZTdWWWtxSnBpM3JUamNLa1IxOUpScFB2TTZGUHQ?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-28T17:37:41+09:00"
+    },
     {
      "title": "공개매수 합의에 케이아이엔엑스 상한가",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWThoNXlMTVVtak1aVXRkMTFyOEl3aUUxQk9FLXpVZmJ3eTc3NHgzd21ockYtUXZqeHNFYnpGaTNmbVlCQW5ZWmRHN1loM3Q0WjVJYXRKdlluN0RUTnM3RkVnRGVFZw?oc=5",
@@ -79,12 +85,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3VjU1ZRUjkwX1RMSkhkMmdYWGdkX0xxWjFYdk9zZ3lqU2tlbk0wWDU1OFRSOUJCT09GSmR4VFdORmp0cTR5ZnlJSWpldkZ4SlpJeFFJcmt3WHJ0RXg5V2o4bk1ZR29FR1ZlcklSVExGeVpJNmNCTzBSWWhPSnpvS0RDWkxsUW84?oc=5",
      "source": "글로벌이코노믹",
      "time": "2026-10-28T10:17:22+09:00"
-    },
-    {
-     "title": "케이아이엔엑스, 맥쿼리 공개매수 합의에 ‘상한가’ [줍줍 리포트]",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03ZzdHaFdjbXhOT21DUkxTQzdZT2RNMjZadVVfRVhQT1NEZFpGUFpBRkxSOVRqZUo3Z2UwTFNhZ0xVMmdSOURoM0pRTEd3UWI3MHfSAVNBVV95cUxPTXhjOVRfTUctY1E0Z2h4dko4LWYydU9PRG1jaGpYZTdzdmo2c0RibWQwcWpCMmV1V1A3ME1XX3NWcHN5VndmT0NiOENrajFLRng4aw?oc=5",
-     "source": "서울경제",
-     "time": "2026-10-28T10:04:43+09:00"
     }
    ]
   },
@@ -94,8 +94,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 3,
+   "newsCount": 4,
    "articles": [
+    {
+     "title": "[오늘의 특징주] 케이아이엔엑스·지니언스 상한가…공개매수 가격 인상에 보안 투자 확대 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00RTJlOTB1T1lScWhHTTNyMWhwTmh5TkhIU09iNUticmRlazVMUVY5SW1HeGw1YUJRcnJIRXNiUnROQzJwNTJMZTdWWWtxSnBpM3JUamNLa1IxOUpScFB2TTZGUHQ?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-10-28T17:37:41+09:00"
+    },
     {
      "title": "[특징주] 금융권 해킹 확산에 보안주 급등…지니언스·에스피소프트 상한가",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaUU0TDFqZDRWd252UWtEQ05PYlBKZEhLclBSSTFoTFpLY3pxMGU2S3dtNE9wZU04S3RXUkVnaTdhV2h0N084MWFXSmM0eENwNnFVblVzYWttMi1rcVZtVV8tU1UwUFAyUEE?oc=5",
@@ -242,8 +248,14 @@
    "pct": 27.0,
    "limitUp": false,
    "afterMarket": false,
-   "newsCount": 4,
+   "newsCount": 5,
    "articles": [
+    {
+     "title": "맥쿼리 공개매수 발표에…KINX 상한가, 가비아 26% 급등[시그널]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xeGQtVXpCUElvSWdXUkpfcGhWOVgySU5sNXEySzFQLTR1OEhodWMxQkJhaGl6dWpSRDF4cHo2UzQyeEhKVldwVkRPTGNSalkwQlHSAVNBVV95cUxOQ2NleUdXSGtYcE5TNlg0V24tR0dTd0FXTm9yVTVMR2dfRlhjY0pubDV1VnYwS1JQRUVnN2J5Nm1RR1VPVVNJQzN3UGRId2dIbGU5VQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-10-28T18:00:02+09:00"
+    },
     {
      "title": "맥쿼리 공개매수 합의에 KINX '上'…가비아는 26%↑[특징주]",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03880246645617512",
@@ -258,15 +270,9 @@
     },
     {
      "title": "맥쿼리, 가비아 공개매수 재실시 계획에…주가 27% 급등[시그널]",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RU2t1cjBvZWV1SFdYZEM2RGVtbHlqS3FBR2tGNnZmNXdJVjF2MzlpZW1EQUsyOC02clYwUjRxWjFLMU9PNDdwS1VEcWFVWmk1c2fSAVNBVV95cUxQZzI5d29WYmVLS3NieUppeVN6SWFEdElUejJ2OTFOc2E3dldWOEtndkhycnJkYUZxVmJXMnNxWlZkUTNOMnVnSlhHcFB3UVY0d2lHVQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaV25lN1A3b2diNGVIRjN0SXk0NkhweW54cEsyVUwwSFoxNk5UOWc4TkR6eDZOZlR1a1JSSVA3UEdjWkM0WkhDcy1CQTN1d2hjRlotMWhn?oc=5",
      "source": "서울경제",
      "time": "2026-10-28T09:26:10+09:00"
-    },
-    {
-     "title": "가비아 주가 장중 25%대 급등, 맥쿼리 공개매수 가격 상향에 자회사 케이아이엔엑스도 상한가",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92OVRaazgtNG9telNRTUFQdGxoQ1ZUUWFydXMxcDAzUTBuSjFCYS1DZHJoMmpzck85Nk1wWmRfTUxJRVRBVkQxOTB5OFFvanY2enZTQTNzMTg0QUVjdDlsYlZURzVXT2xQXzN4ZFlmUWN6bXM?oc=5",
-     "source": "비즈니스포스트",
-     "time": "2026-10-28T10:51:05+09:00"
     }
    ]
   },
@@ -303,6 +309,22 @@
    ]
   },
   {
+   "name": "엘티씨",
+   "sub": "코스닥 · 170920",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 엘티씨 21%대 급등 4만850원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZTGdNT2k3MlhXbjhJQjZuMGlQeGFpY24yQzNnUzhISnU1azBlLU9SWm9pSW9jbUVqWHFuWUtNUHFHa3llSXBUbUo4WQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T15:50:29+09:00"
+    }
+   ]
+  },
+  {
    "name": "한라캐스트",
    "sub": "코스닥 · 125490",
    "pct": 18.0,
@@ -335,21 +357,69 @@
    ]
   },
   {
-   "name": "레인보우로보틱스",
-   "sub": "코스닥 · 277810",
-   "pct": 15.0,
+   "name": "원익홀딩스",
+   "sub": "코스닥 · 030530",
+   "pct": 17.89,
    "limitUp": false,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "매디슨 황 방한 소식에 로봇주 ‘들썩’…레인보우로보틱스 15%↑",
-     "link": "https://www.mk.co.kr/news/stock/12188197",
-     "source": "매일경제",
-     "time": "2026-10-28T10:43:46+09:00"
+     "title": "[마감분석] 원익홀딩스 17.89% 급등하며 2만8000원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VUdNZ19aMVdjN2FVUVlMMHFUVXYweG5PZldFd05CVDRES1VSZElxQ3g0UVE3c3RwOE5VazdWaVlKaEVJYTVvell5Yw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T15:52:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "리브스메드",
+   "sub": "코스닥 · 491000",
+   "pct": 17.65,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 리브스메드 주가 17.65% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdHVpRm1ESzhtSnoyb3VpNHJqN1NnbWhoV0xwT3NTNG83b18zQTlTZEZlWWo4VVZlU0NmN3I2QlUya3BjNm90eXBkOA?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-28T15:52:20+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국알콜",
+   "sub": "코스닥 · 017890",
+   "pct": 17.21,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한국알콜, 17.21% 급등에 특정계좌 매매관여 과다로 투자주의종목 지정",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xOG5iaDRoUzFGVWd4dy1WYjdsSThBYk1kcnlYSGMza1Qxbjd1NjBBWk44a19DU2EzeU44REotZE0xckNoMGl4dzRkbTBEWU1XdHBjTFg0cFg2dVA0SzdyMXFlcThJVkphUlZramwxcTlEdw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-28T20:13:30+09:00"
+    }
+   ]
+  },
+  {
+   "name": "모두투어",
+   "sub": "코스닥 · 080160",
+   "pct": 16.28,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "모두투어, 주가 3일간 16.28% 급등…특정계좌 매매관여로 투자주의종목 지정",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fbjllY19Pa3hLbXplN1RmV1BGenc3UjE2S0NsN1BwYUxMamE0TU5CTDJDNDZtOUktandlQlJaeGcyeTdoTGJFZWpzVVhFeG9vYVRJQmZQLWVqeXI1RC1hT3VJZjQ2WVduYkRTZmFYTUc2Zw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-28T20:11:15+09:00"
     }
    ]
   }
  ],
- "updatedAt": "2026-10-28T17:19:56.615217+09:00"
+ "updatedAt": "2026-10-28T20:49:23.476781+09:00"
 }
