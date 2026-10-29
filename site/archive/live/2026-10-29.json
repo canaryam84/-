@@ -1,6 +1,6 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-30T00:17:51.794140+09:00",
+ "updatedAt": "2026-10-30T01:17:33.070603+09:00",
  "items": [
   {
    "title": "백팩·SK증권, 자격 요건 갖춘 글로벌 투자자에 국내 주식 거래 추진",
@@ -39,6 +39,34 @@
     {
      "name": "상보",
      "code": "027580"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "씨티알모빌리티, 주가 5거래일 새 60% 이상 급등해 투자경고종목 지정예고",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03U3pVc1RxYjFaR0JsNVRhZkV4SjZTMWxocVdTT29WR3ktNURKazFzanBqUHJ6bXFrc1pwbDdsTGo5YU56WEU4RWIyaTdJSDRiTWxEeHJhanNGZXg2c3dZcGlIaGM3LUM3RExNVWhGc2lzQQ?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-29T20:21:38+09:00",
+   "stocks": [
+    {
+     "name": "씨티알모빌리티",
+     "code": "308170"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "컨텍, 주가 5거래일간 60% 이상 급등해 투자경고종목 지정예고",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UVFqaXRDU081M3V0OXNtcXA3Zzhtd2FKRHkxMmNibHVsSXo1SEhiQTdkRHBDcEN3bkFMU1ItY3FzZ3JoeEJBZDZ2MGoxaVpvNkpLck5HUUd3bk5iSkp5ZU9EeG1Femc1NkZ5NWpwVUJaQQ?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-29T20:08:43+09:00",
+   "stocks": [
+    {
+     "name": "컨텍",
+     "code": "451760"
     }
    ],
    "thin": true,
@@ -637,6 +665,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "코스피, 삼성전자 급락에 6000선 반납…5937.66 마감",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZMEx0ZlVxd1gySmRYWGMyZnBTeVFBcHhjQ205SnBWbGI4OTlIbVZrUEV1RXY5RXk2dGlkQmxmNUtRNVNNR2RkbGtSRTNDU3ZuTm4xcFVJV0RBY2h4bFdram9mWXNkQXJNTGJn?oc=5",
+   "source": "애드뉴스인천",
+   "time": "2026-10-29T16:59:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "안용근 이사, 고영 주식 1579주 ↑…지분율 0.02%",
@@ -1453,6 +1495,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[마감시황] 코스피 1.24%↓ 6000선 하루 만에 반납⋯삼성전자 4%대 급락",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwQkdSeGo5bEkxbkhSUDl3OExLTW1iTHhVT3N5Ul9xWDdmbndua3kyZlByRVlacXJEY05jNThtbUlaZ1FNTzNXWmtseHhtUmFUbWRaMzZpMHgxZw?oc=5",
+   "source": "브릿지경제",
+   "time": "2026-10-29T15:39:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "신세계의 롯데백 센텀점 인수…투자자 관점서 살펴보니",
@@ -3201,6 +3257,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]삼성전기, '최고의 타이밍' 목표가 2,700,000원 - 신한투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nU2tYdEdheEtqbG5mbUt3TXBiUUozRkt3VG9kWmRPZURGa0J5LUVnMEgycDFFdUt6MHpMellRMUpYRk9fNF9UQVp4cjkyUWZFdlZvaWRFb1ZjU21m?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-29T10:36:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "삼성전자 3분기 반도체 영업익만 106조…\"4분기도 실적 성장\"(종합)",
@@ -5719,84 +5789,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "하나證, SK하이닉스 목표가 360만원 유지…“실적 상향·주주환원 긍정적”",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGYXBDejE3RjMxT0ZiN2NlXzZyVEc0RDJ1eGZBTjB5U2dPMTdfanBYNnlWZGU0Y2J6cHoyazE1VnBtc2x6RTRMNnlnV1UxeHZfN2QxcjZXTmRxN2RMYkVhWHQ5dkZMVkdoZ01fSA?oc=5",
-   "source": "뉴시안",
-   "time": "2026-10-29T07:51:15+09:00",
-   "stocks": [
-    {
-     "name": "SK하이닉스",
-     "code": "000660"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "삼성證, “HD현대중공업, 실적 우려 해소에도⋯주가 과도한 저평가”",
-   "link": "https://www.etoday.co.kr/news/view/2641422",
-   "source": "이투데이",
-   "time": "2026-10-29T07:47:00+09:00",
-   "stocks": [
-    {
-     "name": "HD현대중공업",
-     "code": "329180"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "SK證 “SK스퀘어, SK하이닉스 배당 기대…주가 반등 시 상승 폭도 더 클 것\"",
-   "link": "https://biz.chosun.com/stock/stock_general/2026/10/29/W5B6L3Y6DVFEZCA2M3WHRW6SKM/",
-   "source": "조선비즈",
-   "time": "2026-10-29T07:45:49+09:00",
-   "stocks": [
-    {
-     "name": "SK",
-     "code": "034730"
-    },
-    {
-     "name": "SK스퀘어",
-     "code": "402340"
-    },
-    {
-     "name": "SK하이닉스",
-     "code": "000660"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "\"두산퓨얼셀, 내년 실적 턴어라운드 전망\"-DS",
-   "link": "https://www.hankyung.com/article/2026102920966",
-   "source": "한국경제",
-   "time": "2026-10-29T07:45:16+09:00",
-   "stocks": [
-    {
-     "name": "두산퓨얼셀",
-     "code": "336260"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "한국투자證 “호텔신라, 면세업 회복 더뎌”…목표가 5만6000원 하향\"",
-   "link": "https://biz.chosun.com/stock/stock_general/2026/10/29/MVCTIHVBLZHX7CRJPIVQJBSD4M/",
-   "source": "조선비즈",
-   "time": "2026-10-29T07:34:30+09:00",
-   "stocks": [
-    {
-     "name": "호텔신라",
-     "code": "008770"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   }
  ]
 }
