@@ -1,6 +1,6 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-30T08:02:00.318740+09:00",
+ "updatedAt": "2026-10-30T08:33:11.906008+09:00",
  "items": [
   {
    "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
@@ -1406,6 +1406,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "서울바이오시스 상한가 8580원…광반도체 양산과 수익성 주목",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yRFlCd0g3VHFQWkVLbEJJX2lsc1Y0VU5teDgyR1hSXzV2WkFyejE0WFpnLUhQdWdpSmhpeDZTMlRpaXF6M0xqMnBZcDNXQTRfOXlKaHQ2VlptTXZ1VFRBS1NwR3c4SUdjdXZWOHhzLUVtQdIBckFVX3lxTE4yRFlCd0g3VHFQWkVLbEJJX2lsc1Y0VU5teDgyR1hSXzV2WkFyejE0WFpnLUhQdWdpSmhpeDZTMlRpaXF6M0xqMnBZcDNXQTRfOXlKaHQ2VlptTXZ1VFRBS1NwR3c4SUdjdXZWOHhzLUVtQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-29T15:49:55+09:00",
+   "stocks": [
+    {
+     "name": "서울바이오시스",
+     "code": "092190"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -5770,24 +5784,6 @@
     }
    ],
    "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "\"삼성전기 살 걸\"…코스피 급등해도 LG이노텍 개미는 '탄식' [종목+]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zV1JuQmIxU3pSb3lrVEJveVV4U1FNcjlfYmdnNE5sUERqNklneHZhWGhHYW41Zkx4SkJaRFZGSHdHVFBPdERIZXQ2bzlRNXZCLVFxNmJLYW5lUQ?oc=5",
-   "source": "한국경제",
-   "time": "2026-10-29T07:54:00+09:00",
-   "stocks": [
-    {
-     "name": "삼성전기",
-     "code": "009150"
-    },
-    {
-     "name": "LG이노텍",
-     "code": "011070"
-    }
-   ],
-   "thin": true,
    "dir": "none"
   }
  ]
