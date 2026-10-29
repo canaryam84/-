@@ -1,6 +1,6 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-30T06:08:53.317855+09:00",
+ "updatedAt": "2026-10-30T07:05:21.634709+09:00",
  "items": [
   {
    "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
@@ -1705,6 +1705,20 @@
     {
      "name": "한화비전",
      "code": "489790"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "상지건설 6240원 상한가…유상증자와 수주 이행 함께 살펴야",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jcmhyOXU3cndXVWktTzlXak1FZy10Ujd5bVpvZ2ZRSUhvOXB1MGw4dUVjZ255cEJJMzFxMV94bDBkSUFhd2JScm5yOUNVTUg2eXdnc295TmxjendYcldFa1BlUTdDNGJGTWhGbkx30gFyQVVfeXFMT0Yydk5PX0VRRW83Q0ZrcEJwNHc0LWNNcXBLdUE0ZEFpa01lVi12bU9ZRDdyZUdRb0hlcVlTaC1NR2ZzZGExUEk4ZlRPR0NxRWFKOGROVlN2R3E0S1lTZHZHdXVwckx4UzcwZFpiV0stVTlR?oc=5",
+   "source": "잡포스트",
+   "time": "2026-10-29T15:21:37+09:00",
+   "stocks": [
+    {
+     "name": "상지건설",
+     "code": "042940"
     }
    ],
    "thin": false,
@@ -5774,20 +5788,6 @@
     }
    ],
    "thin": true,
-   "dir": "none"
-  },
-  {
-   "title": "삼성전기 내년 영업익 15% 상향 전망…목표가는 하향, 왜?",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFZtSm82V3c4cGU0ZjV4SUlBbXZtQkxpUU54bjRwT0pyVVRUZlRJY1lBZXlDMzVScVpvYThGMXN6VmNzRVYxQ2o5bU1wSTVrdVBpUHNld1J6STNLRU91anc0NlJWSEZtSmdGM1FDTFZPVWluNW5KUjhiNGxodFdZSw?oc=5",
-   "source": "이데일리",
-   "time": "2026-10-29T07:51:42+09:00",
-   "stocks": [
-    {
-     "name": "삼성전기",
-     "code": "009150"
-    }
-   ],
-   "thin": false,
    "dir": "none"
   }
  ]
