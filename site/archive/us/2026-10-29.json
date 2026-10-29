@@ -1,0 +1,81 @@
+{
+ "label": "미국 10월 29일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.25,
+   "text": "-0.25%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMEd3cW9nekRGLWtWamtlSTgxdENoMm42SnJRdGg0VDJWTXQwLXVFUVVjYXZMdktHLWo2VEpaY290SnlFYXdoWEt4cEJNLWdjMTFmQldnQld0cHlhUmFqUnA1cmRjZ1NOTVdrUFJfdS1XVXBQS3NpQ2dYZFFKclYyemNEdVlNS1l0UTlHMmRubEFQRzFveWFqRDE4LVFQZEtyREc4bi0tWjlGS2gwcXFoNER1S05fQ3FEMTJLNEg2MWJPUlhyYVVr?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -1.38,
+   "text": "-1.38%",
+   "exact": true,
+   "source": "연합인포맥스",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSlc5cFVKRXA5U21NVy1RU0xMb2Nob0FvaV9wc29xdE1iclRMOHlTdlJWaXd5TUFNQm1abWtMUnpXRUJzSktOVDNVTkZjWmJnR1NzVDFTdk83MURfSEhZa3pKX19RbEcwVkZqNUV2MXEwNDhZ0gF0QVVfeXFMUE1KVzlwVUpFcDlTbU1XLVFTTExvY2hvQW9pX3Bzb3F0TWJyVEw4eVN2UlZpd3lNQU1CbVpta0xSeldFQnNKS05UM1VORmNaYmdHU3NUMVN2TzcxRF9ISFlrekpfX1FsRzBWRmo1RXYxcTA0OFk?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Roku",
+   "sub": "ROKU",
+   "pct": 77.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Roku stock soars 77% after InvestingPro Fair Value identified opportunity By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUNVX0JtMjZnc1lMTlJwcmgwenhITVBxYnJCc1VtWjh4S3NpZUdDZjRzQ3RTTElzcGMxNU1URF9ybVo1MXU4WVhxUlVPUGktLVlWYVdnQVd4YVhZbXRtWC1Da1lvUmpveEtuZFZrSV95WTZLWTlwbHJ0a2M0SDYxank4cklIZy1DVEZMRG5FUWx2Rk1pVHhsbXFzcE9fcGhrc1BiakxVODhrc3F6RUMtVVM0TVVBYWF1bjVxcmNkZW5XNjNlekM5MTVOVUV5UQ?oc=5",
+     "source": "Investing.com Nigeria",
+     "time": "2026-10-29T20:55:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "ADT",
+   "sub": "ADT",
+   "pct": 34.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "ADT stock surges 34% after $7.6 billion Thrive buyout deal",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSU2t6YU9ZTkFNNXgzVDBWR19pYnA5WEd6TEM3Z0tlOVlXcEgtVkZCSks1WUJHNFlMb1ZidjhPWG5PU2IyTGx6dmhZMXRoQkNlRTZoSnZUNWxOTG9DNEVtMktXZXhWRXdVZ3BydDAyUkN1WDRDMEJXVXln?oc=5",
+     "source": "Rolling Out",
+     "time": "2026-10-30T05:20:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Crocs",
+   "sub": "CROX",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Crocs stock soars 25% as HeyDude sales return to growth",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXE1WC1xREpHQzIxVFFEazUtV0pYRFoxbl80TXh3ZUdCa3ZTREt2LWdwajBabEhLYkNURmlCTGlfdS1BZzYzY2V0OWY0TVFDUi1yMTRmczVHVjNqQ3BGSG02WUNFQ3h5bGx6LTdLU3V2aHRab0djb1d5NVRVdktaRzZlWEtSZUJhMUZFQ2NWY2tlOTdwVVRzeF9OejM2YXlRZk1sT3J4aWstc2NhU2VoMHc4ZG5ZTEZpQ0E?oc=5",
+     "source": "Yahoo Finance",
+     "time": "2026-10-30T01:58:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Roblox",
+   "sub": "RBLX",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Roblox stock jumps 21% in October ahead of Q3 e...",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGZaUUhKZlBFQ3o5Vks3enRRSDZsY1BFbXlkdjJqLVp2NWM5dWV3VTFoZjdHWmQxQzg1Nno3aUd0WnZkOEF1SjRXeGRmZ1VENURySUcwa2hWTjd2cnVqUW5TNGFWQklmT2xZbjhueXFHWWpkUTBudmN4MjFPN0Z3em1GanVYS0dFa2taVTVDT25oYTRVM1FlRA?oc=5",
+     "source": "Pluang",
+     "time": "2026-10-30T04:44:38+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-30T07:34:33.329955+09:00"
+}
