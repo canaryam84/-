@@ -1,7 +1,21 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-30T01:17:33.070603+09:00",
+ "updatedAt": "2026-10-30T02:17:01.500710+09:00",
  "items": [
+  {
+   "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EWHFUSV9wa0hYQVBnTERhS2ZJR0k4dkJ2SjNqa2swLU5TeGhiTnJHNG1ReVdEa0hoTzdGR2xRbVBMWVNRRVZuWFM5aWZ6bGZITjRXajA4V1hWSHNaYWQ1X0dxM1lYcW4zTS05Vlh30gFuQVVfeXFMTURYcVRJX3BrSFhBUGdMRGFLZklHSTh2QnZKM2prazAtTlN4aGJOckc0bVF5V0RrSGhPN0ZHbFFtUExZU1FFVm5YUzlpZnpsZkhONFdqMDhXWFZIc1phZDVfR3EzWVhxbjNNLTlWWHc?oc=5",
+   "source": "주간조선",
+   "time": "2026-10-29T23:57:09+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "백팩·SK증권, 자격 요건 갖춘 글로벌 투자자에 국내 주식 거래 추진",
    "link": "https://www.tokenpost.kr/news/market/429393",
@@ -15,20 +29,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbXFET2hsaWh4M3lCVzEzenBMN0J4X2xvbU03RkVxamhSSV92STVtZk1TbmFicE9NOGwxeUhOZ21GQVY5MS1EWDZXRV9WYlhINjJVdVRTOXRhNFEwWU9QU2VlNVo3MFpsVXfSAW5BVV95cUxNRFhxVElfcGtIWEFQZ0xEYUtmSUdJOHZCdkozamtrMC1OU3hoYk5yRzRtUXlXRGtIaE83RkdsUW1QTFlTUUVWblhTOWlmemxmSE40V2owOFdYVkhzWmFkNV9HcTNZWHFuM00tOVZYdw?oc=5",
-   "source": "주간조선",
-   "time": "2026-10-29T23:42:00+09:00",
-   "stocks": [
-    {
-     "name": "삼성전자",
-     "code": "005930"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   },
   {
    "title": "[상보] 미국 9월 PCE 예상 부합…근원 3.1%로 반등, 비트코인 1억740만원대 보합",
