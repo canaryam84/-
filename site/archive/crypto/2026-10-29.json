@@ -1,0 +1,45 @@
+{
+ "label": "10월 29일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.52,
+   "text": "+0.52%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ER2ZnOUhSdFpPMlhmcEs1S1hJRndFekZLdWxaOXROZkFYYWM2Q3JncGNXTkg4enBjRGZWM21Cd1B2LU4zYUtmbW1pWGxEdUp1OXNBVE4yWHBCSV8zMFMyS3FfSVFQZHhK?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "아노마",
+   "sub": "가상자산",
+   "pct": 63.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인브리핑] 비트코인 미 기술주 훈풍에 상승…아노마 63% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45S3NnakNHQlNXZm5SSWg2OEVXOHB6N1F5eFc4d1RDWU01eGhVTU9JWlFRSmJzTXhIcVNyaFl3OGd2RnctRUwzNFZjd3kxa25IM1poZlBwTkhCUlJHRmc?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-10-28T18:44:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "메타플렉스",
+   "sub": "가상자산",
+   "pct": 52.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "가상자산 거래대금 1조9천억원대로 감소…리플XRP 강보합 속 메타플렉스 52% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaDZ1WmtMYkoxOVhVNzl6Q3ZJTHUwWXZLWE5CNjFWc3FDeDQ4bFhySmx3OV9qVnlZZ2gzN0s2QW5UQmZQa0xqUHVwUUhGMElMcWpBaEQxN0tPSWE0RzhZbGxZbWpRZE5vbDRYUVZ5c1JfQQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-29T07:20:52+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-29T12:41:39.317738+09:00"
+}
