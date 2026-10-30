@@ -1,6 +1,6 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-30T09:13:02.581252+09:00",
+ "updatedAt": "2026-10-30T10:26:45.024653+09:00",
  "items": [
   {
    "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
@@ -5187,6 +5187,20 @@
    "dir": "up"
   },
   {
+   "title": "“환율 뚫은 압도적 실적”…삼성전기 목표주가 175만→190만원 [오늘 나온 보고서]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSMS1LcXFlS2VmZllHRUdubDJaMklJaWF2b0NPSW9RclpfRHlEZHpZSnRxbU5heC0tMVRFUlJYVDNIWjdXTXhsSUl3WkhISWZrb1E?oc=5",
+   "source": "매일경제 마켓",
+   "time": "2026-10-29T08:58:02+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "삼성SDI 3분기 영업이익 4천78억원…흑자 전환",
    "link": "https://www.yna.co.kr/view/AKR20261029040200527",
    "source": "연합뉴스",
@@ -5760,24 +5774,6 @@
    "source": "이투데이",
    "time": "2026-10-29T08:00:00+09:00",
    "stocks": [
-    {
-     "name": "삼성전자",
-     "code": "005930"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
-  },
-  {
-   "title": "SK하이닉스 ‘100조 환원’에 코스피 6000 탈환… ‘삼성전자 30조 배당’이 바통 이을까",
-   "link": "https://biz.chosun.com/stock/stock_general/2026/10/29/NNWX7PYACNCPPFKZQANMRJVDRQ/",
-   "source": "조선비즈",
-   "time": "2026-10-29T08:00:00+09:00",
-   "stocks": [
-    {
-     "name": "SK하이닉스",
-     "code": "000660"
-    },
     {
      "name": "삼성전자",
      "code": "005930"
