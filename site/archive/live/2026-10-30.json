@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T01:11:30.594845+09:00",
+ "updatedAt": "2026-10-31T02:06:57.466167+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1137,6 +1137,20 @@
    "dir": "none"
   },
   {
+   "title": "[마감분석] 서울반도체 특별한 공시 없이 3.93% 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VeWlTYXZJaThQNVdwRlpRREpiZnowZEhQT0RaMk5JR2NTZFV2SldIcXdIdlBBaV9BbmRBUWNwSTY3dlp4dUNJQ3oxYw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-30T15:51:42+09:00",
+   "stocks": [
+    {
+     "name": "서울반도체",
+     "code": "046890"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "이윤우 회장, 대한약품 주식 1450주 ↑…지분율 25.04%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WMmVqZ3RvcmpyMWlBYmlhTzNrbXdRQjdtZ1VyNnhWRjg4dmdSZ0V5NnlWLTgxSl9mQ0hwMnMxRXNELUdqY0wtY2V5MWFELVp1OWdVUXh2SEJqRWhfYmJQSVlIT05WTmN0ZUJOdGMzLXgwdVk?oc=5",
    "source": "데이터투자",
@@ -1159,6 +1173,20 @@
     {
      "name": "안랩",
      "code": "053800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 라온로보틱스, 특별한 공시 없이 24.19% 급등 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZLXB4bm1taE5wSDdzWnNzUDZwZ0xTdWdDWjNYb21lMTdJMFpYT0daQUJFbmUyMTVMbVVnMTFpSE9CVjBHOXBzYkFnaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-30T15:49:18+09:00",
+   "stocks": [
+    {
+     "name": "라온로보틱스",
+     "code": "232680"
     }
    ],
    "thin": true,
@@ -2861,6 +2889,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "원성용 대표이사, 지씨셀 주식 2000주 ↑…지분율 0.09%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbjVUVS1vckdDOVJqNXpuZ2hXYXJwWmZvaFdOZnBGVGx5SGRfcWJPLVZXZUVlSmZzM0VYVlhYcEtNUE1HSVl5R2MyU3JGUzdybTVqeERWTmtUTEJsU3V2YjN5cnF0LXpzYUVFZUZJalRzSnc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-30T10:07:43+09:00",
+   "stocks": [
+    {
+     "name": "지씨셀",
+     "code": "144510"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 인텔리빅스 '따블', 크리에이츠 30%↓…상장 첫날 희비",
