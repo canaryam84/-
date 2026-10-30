@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T04:35:52.798404+09:00",
+ "updatedAt": "2026-10-31T05:25:18.841852+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -413,6 +413,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[특징주] '골프 AI' 크리에이츠, 코스닥 상장 첫날 30%대 급락… 공모가 대폭 하회",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RDBNVEJiR3JWWUN0b3lOYmt4dHZTU2FlOV9fdG4wNmRERFJJckhGeGlWak9vTUo1V2tBdWZIS2V4N0tDMXpqS3V1dlpMeS1sem1Bczd6X2REUFM0aFNvRnBuSGNNZWdMSGc?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-10-30T17:07:46+09:00",
+   "stocks": [
+    {
+     "name": "크리에이츠",
+     "code": "439270"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "현대차 이어 기아도 포티투닷 유상증자 참여…1천901억 출자",

@@ -1,6 +1,6 @@
 {
  "label": "10월 29일(목) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T04:35:52.798404+09:00",
+ "updatedAt": "2026-10-31T05:25:18.841852+09:00",
  "items": [
   {
    "title": "107조 벌고도 주가 4% 급락…삼성전자에 무슨 일이?",
@@ -1407,6 +1407,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] HLB, 별다른 공시 없이 2.34% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xOG9SSFNYWGM3LVJkYlFVV1BmMjdDbWJic240Zmpha3o4SUUtdWRUQV94eXU5b0dPdDFIRGI4M2lDZHdaZFdNS2N5TQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-29T15:51:57+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "서울바이오시스 상한가 8580원…광반도체 양산과 수익성 주목",
@@ -5767,20 +5781,6 @@
    ],
    "thin": false,
    "dir": "up"
-  },
-  {
-   "title": "[오늘의 투자전략] 코스피 하락 출발 전망⋯“삼성전자 실적이 반등의 분수령”",
-   "link": "https://www.etoday.co.kr/news/view/2641432",
-   "source": "이투데이",
-   "time": "2026-10-29T08:00:00+09:00",
-   "stocks": [
-    {
-     "name": "삼성전자",
-     "code": "005930"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
   }
  ]
 }
