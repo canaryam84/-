@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T00:16:38.143843+09:00",
+ "updatedAt": "2026-10-31T01:11:30.594845+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1149,6 +1149,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 안랩 17.98% 급등 마감… 11만8100원 기록 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92RGR0b1dweVYxbFlFQ2hXYXNrTE5Md08yZ0lkb056OWlLemJHLTB0TFhyNGtSTzVMV1VidEV6VkdNcm1wa2t5SnJmNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-30T15:50:08+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[특징주] 상장 첫날 인텔리빅스 3.5배 상승 마감…크리에이츠 37%↓(종합)",
