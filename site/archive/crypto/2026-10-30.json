@@ -1,0 +1,59 @@
+{
+ "label": "10월 30일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.09,
+   "text": "-0.09%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kd3JnbVh1aVZxNVRNYjFIbXNFQXVCRk1nbXJldzhOTDdJOVd2TzctUlVsOWh4cWpCV2ZkWlVJbE9VOWZjOGtiT3pTaXc2aUE4aktRWlNpVU53TW0xbzltWnR2RlVtcHcy?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "파티클네트워크",
+   "sub": "가상자산",
+   "pct": 52.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 1억463만원…빗썸 파티클네트워크 52% 급등",
+     "link": "https://www.tokenpost.kr/news/cryptocurrency/429759",
+     "source": "토큰포스트",
+     "time": "2026-10-30T09:36:28+09:00"
+    }
+   ]
+  },
+  {
+   "name": "비트코인",
+   "sub": "가상자산",
+   "pct": 26.6,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "7~10월 STAR50 40% 하락…비트코인 26.6% 상승",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BS2hyd1ZSN1JKTEFPNWFza214X2gyYkgtRXFxT2Vrd0NIdXlEcDVIUEczNXZBQXlYTWY2UG9JWUV5a1JzNlpQeGNpaUxaRHZ2M3EwYXlHdTRna03SAVtBVV95cUxNQUtocndWUjdSSkxBTzVhc2tteF9oMmJILUVxcU9la3dDSHV5RHA1SFBHMzV2QUF5WE1mNlBvSVlFeWtSczZaUHhjaWlMWkR2djNxMGF5R3U0Z2tN?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-10-29T22:05:43+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이니시아",
+   "sub": "가상자산",
+   "pct": 22.72,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] 이니시아 22.72% 상승, 피해 자산 복구 지원 주목",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yT2puY2xtaXpmV2JpbzFJNVBIN3BvWEpIOTRjMXpKb196YVFDTXBRdk9GUDFjem41N2I1YVk3emxCajVpeUExeC1Vc0E4bXhiSmpVMkpxYnVhdEVYcGNoTm5yX0JQN0JCZUNoUW9NaXIzZFQ2?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-29T16:33:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-30T12:42:14.203144+09:00"
+}
