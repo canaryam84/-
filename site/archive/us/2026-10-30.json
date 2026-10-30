@@ -1,0 +1,24 @@
+{
+ "label": "미국 10월 30일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.09,
+   "text": "-1.09%",
+   "exact": true,
+   "source": "뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0teXJfN1RyN1dieFpVUE9qSHF4UjhCM2tDVThXMmRSMHVPVWpVemVYbXhmMUVSLVFzS0VQVmJOLWxXTXF6U2JfekM4YUU3UEJEOFI4QjFXTmpYYkpjUS1BVdIBeEFVX3lxTE9ROHh0bm1hR1VlWWdUczZBcXM4VU1WbU44SGxoeTZGSFVoWF9WcVlncUVKWElkMjFRRi1fTmw1ZTE2T3VuOFBweUZJSGVYM0lQRFpncm1SSUhDTVVSUGpnbmVXT1I2X1o1VnNEcmVXdUl2Y2FLaW1uTw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -2.86,
+   "text": "-2.86%",
+   "exact": true,
+   "source": "뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0teXJfN1RyN1dieFpVUE9qSHF4UjhCM2tDVThXMmRSMHVPVWpVemVYbXhmMUVSLVFzS0VQVmJOLWxXTXF6U2JfekM4YUU3UEJEOFI4QjFXTmpYYkpjUS1BVdIBeEFVX3lxTE9ROHh0bm1hR1VlWWdUczZBcXM4VU1WbU44SGxoeTZGSFVoWF9WcVlncUVKWElkMjFRRi1fTmw1ZTE2T3VuOFBweUZJSGVYM0lQRFpncm1SSUhDTVVSUGpnbmVXT1I2X1o1VnNEcmVXdUl2Y2FLaW1uTw?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-10-31T07:32:38.701503+09:00"
+}
