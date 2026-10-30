@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T02:59:49.410276+09:00",
+ "updatedAt": "2026-10-31T04:35:52.798404+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -57,6 +57,24 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[조타수] 실적 발표 날 주가 7.77%↓ LG CNS…AX 성적표는 아직, 공시된 AI 계약은 계열사 LG전자",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZ05HM3RaVHRlYlU3b0lFMVkzazdwSmVUSllpS0RPWFhlNWxWeFhPSUpxTTNjN0RpVi1GMUp5SXB0OENOMzhSTGxneXhDYlc3Y25LTW9LTzFyeVFnNUdpdTRxdFhhbE9FTWc?oc=5",
+   "source": "콕스뉴스",
+   "time": "2026-10-30T22:03:14+09:00",
+   "stocks": [
+    {
+     "name": "LG",
+     "code": "003550"
+    },
+    {
+     "name": "LG전자",
+     "code": "066570"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "삼성전자, 사상 첫 분기 영업이익 100조 돌파…주가는 6%대 급락",
@@ -1205,6 +1223,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "보해양조, 5억원 규모 자기주식 41만 9463주 취득 결정",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45ZnFVZUdqNWNiNFMwNnZwbDdMVFRkdWUzWUhZVnp3Y3ZBYmowM2lEUEhKZVdjVGtLcVkzMFRGTjl2NUMwMlpIOXRZQWk4OVdCTzFiNVVMcWxkZ2pqV1BGYXRoVzRHUUZ1QS1TaFBuRzY?oc=5",
+   "source": "데이터투자",
+   "time": "2026-10-30T15:46:28+09:00",
+   "stocks": [
+    {
+     "name": "보해양조",
+     "code": "000890"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 상장 첫날 인텔리빅스 3.5배 상승 마감…크리에이츠 37%↓(종합)",
