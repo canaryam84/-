@@ -1,0 +1,201 @@
+{
+ "label": "10월 30일(금) 정규장 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -3.48,
+   "text": "-3.48%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaDNJTUNRRVBoNmtQcHVoWkJDSFQ2TDNWamU2QjR5NnVQaWtfNnRXUm44dE9qVGUyajBBcWZOekd0SWZ2bk8xdU93T2RiZ2UwNE9QcEo1d3VXLWN3ZWN0a0w3WXdUTFU?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -3.83,
+   "text": "-3.83%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaDNJTUNRRVBoNmtQcHVoWkJDSFQ2TDNWamU2QjR5NnVQaWtfNnRXUm44dE9qVGUyajBBcWZOekd0SWZ2bk8xdU93T2RiZ2UwNE9QcEo1d3VXLWN3ZWN0a0w3WXdUTFU?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "SGA솔루션즈",
+   "sub": "코스닥 · 184230",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "SGA솔루션즈 상한가 2575원…상반기 영업흑자 전환 재조명",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZFJyeFM1NVZzTGlDekozclpsNnB3TjkyWGEtWGVHdERIYWFQb1JxeVFkbFdPckR5dUVvYVg1UWsyS0xsdlE2dDJwX2Z3ZDN4ZnBvUXNuZ1JIX2lGYmRnakYxOWloOF9SU21WUGZR0gFyQVVfeXFMT0RjMkNPTmx3dWlhaVRoZUpxZ1VySDk3cEdxTEVUUGtiRTBtbS1RTjRGb0I1VVQ4Q1E1WUdFaGxMWk96UklWemx3bEQtTTh4VjZWSGRHcDRrY1N6a1RoSHotaENIbU9vSjdlU0NJTm1YQTdB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:05:19+09:00"
+    },
+    {
+     "title": "줄줄이 해킹에 보안주 '들썩'…SGA솔루션즈 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVTJielZqdnhIS3FQQ3RLSGxIRWJXcXRkc1BWbEttdnFPQ1c1NXpuZlZNQk5CRmpqMk9TZzBZM3llWXVYT0p6cVdEMmtnSmx1RjZXWDRLNGE3NWdDN2JGOVk4Yk4ybWNYNU5XWFgxNFHSAXRBVV95cUxQQTBrdFYxZ3BvMWhaeUcwQ0pPX0lTNFMwZDQ0REFDWDl5QnpEMC0wUWxYY0laUVhEMEhFZm5rZXNWN1NNYWEtcHpGSkNnbEtkUEpWT20xbWVPYmQ3SXdmbGg5UFV0MFd4anhZQlJLU1JDRzZVeg?oc=5",
+     "source": "스포츠한국",
+     "time": "2026-10-30T14:26:29+09:00"
+    },
+    {
+     "title": "SGA솔루션즈 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUzExTVdaRDhNY0FZc2tpY0pROVctY0xrUUhhYzVPSnYwbHVUTzROWEd5VWRVVkNPMkxkc2tub190T3dyd2FtQWU4UVdyaFNILWdqRTlBbjVqclNiR1lMY0QxX0dqRV83MWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-10-30T09:45:24+09:00"
+    },
+    {
+     "title": "[급등락주 짚어보기] PHP 보안 취약점에 SGA솔루션즈 상한가…진양화학·형지그룹주도 급등",
+     "link": "https://www.etoday.co.kr/news/view/2642409",
+     "source": "이투데이",
+     "time": "2026-10-30T16:25:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "형지I&C",
+   "sub": "코스닥 · 011080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "형지I&C 상한가 873원…감자·유상증자 이후 실적 회복 여부 관건",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95NmJNQmtfN2NlYUlKdW9KaG0ycElZRmR1OWVGMVlWdkVCUnRxc0s1QWRTU1BEUVZBdG9lT0NUcUl0WXFueXI1aFoyMjlrbWppZGVmN05hY2tIR2FZYzBtS2k4ZFc2UDM1UzhnbWVB0gFyQVVfeXFMTjhVNjRTMHAwR3RBWU54N3I0UDVMZ3lHQWpZWkg5VWRRNGFHRi1tQ2hwM18wVUpJcUZKclZycXpNMmt3VmY2WFhmYW9hblh3U2owNkszY0tBd2dfQ0lPWmR0NDZ2S0hCZk9udEpRUjcwS2Vn?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:06:14+09:00"
+    },
+    {
+     "title": "인텔리빅스, 장 초반 127% 폭등…SGA·형지I&C 상한가",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12QXFCQmNUOGtLd0VWa1g5VnBNWmxDSGFTcFhoamFDTEROQmlBYTdBVGFPY2VPeXFWU1ZEeWJYUEFyWGpWcHkyeXJqc2lfdlBxc1lkN2hOWDRQaWZfRG1hMFRjdW9pY1I1MDhoNUl1RWRGd1drU2fSAXZBVV95cUxNdkFxQkJjVDhrS3dFVmtYOVZwTVpsQ0hhU3BYaGphQ0xETkJpQWE3QVRhT2NlT3lxVlNWRHliWFBBclhqVnB5MnlyanNpX3ZQcXNZZDdoTlg0UGlmX0RtYTBUY3VvaWNSNTA4aDVJdUVkRndXa1Nn?oc=5",
+     "source": "데일리머니",
+     "time": "2026-10-30T11:59:10+09:00"
+    }
+   ]
+  },
+  {
+   "name": "형지엘리트",
+   "sub": "코스피 · 093240",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "형지엘리트 상한가 1840원…학생복·스포츠 상품화 성장성 주목",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ReG5YVTFVTlhXVXFUZThacllsalM0M1hZa2Z4Rk5vN1l4ZGpCd01QZ1ZMMXJZRnktNlFhMWZXNW5nMUVKTE16MWtxNkoxUDE1a3p4cVF1dm1xcktoV1JMb19xamlPcGtQeGNTMG5n0gFyQVVfeXFMTmRnOGN3em9FY2NybU9oNW1LUUw4dldQazRFdHpCUWZ6NlZuTm9odlplQk9SSDRhVndLMDJDZ1hQOVR3Wnk0bTN3QV8xQzlDa040T21YVEtkWU5aUzVURkpIY0g3N0laTmlQb1BpQ01WUXBR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:05:49+09:00"
+    },
+    {
+     "title": "형지엘리트, 장 초반 23%대 급등…코스피 상승률 1위",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mUjU3dWY2LVBFaU5yVG9DR1BJOGZ4dnczUEFFWWk1WmdxVFFpX0VxYXByZXk3NVJQV0FpV2xDSm5PRy0talNDMk9qRzR3TEE2LXBjZEQzOWE5bXpTNzh6cUY3VWh0TWVFTHFv0gFrQVVfeXFMT2ZSNTd1ZjYtUEVpTnJUb0NHUEk4Znh2dzNQQUVZaTVaZ3FUUWlfRXFhcHJleTc1UlBXQWlXbENKbk9HLS1qU0MyT2pHNHdMQTYtcGNkRDM5YTltelM3OHpxRjdVaHRNZUVMcW8?oc=5",
+     "source": "경제투데이",
+     "time": "2026-10-30T10:48:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "쏘카",
+   "sub": "코스피 · 403550",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "쏘카는 자율주행 진출에 상한가…티맵 IPO 힘 붙을까",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVQ3a1lSbGx5M1hXRFg0Y1V3TVhlNU9ZY2VIYkk1bnVldWJUdExOMWFkUEVGeUFVT3JGeU5HcWc0ZHVpcTBhTm9Ld1hJRW5heEwwTnU4UnhhZw?oc=5",
+     "source": "한국경제",
+     "time": "2026-10-30T09:43:25+09:00"
+    }
+   ]
+  },
+  {
+   "name": "진양화학",
+   "sub": "코스피 · 051630",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "진양화학 상한가 3185원…거래량 509만주 집중",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4d9IBckFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:05:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "서울반도체",
+   "sub": "코스닥 · 046890",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "코스피 5600선으로…하닉 7%대 급락·서울반도체는 22% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSUc4Q2RsU0RWUDlkbVpPNEpId2gyX09RNi1kTkFVZU5iSFBocGhlUWlWWFloNmt0SElRdllsdWp3a2NPZHVNNHNqb3hZY2ZSTHNxOWFpUGlOdk1Lb3VlLWhxdmJYLUVVcFE?oc=5",
+     "source": "월요신문",
+     "time": "2026-10-30T10:00:33+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대원제약",
+   "sub": "코스피 · 003220",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[투데이's 특징주] 대원제약, 신약 임상 3상 성공 소식에 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxLVV1SjN1TklUZ3ozVGI0SE5OVXBiWkxIMVVQb3N6LUljdWFuMFNzVjNYc3NINnplZnJXUTlWa3hLVWNjR1VWTUFHRmN2Y0FZbGlnZW1TWG5GWExaMzVwMzM0YnQtWXhjQmt2RVY4ai0?oc=5",
+     "source": "투데이코리아",
+     "time": "2026-10-30T10:11:42+09:00"
+    },
+    {
+     "title": "[특징주] 대원제약, P-CAB 신약 임상 3상 성공…주가 15%↑",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdk5zaGFHUjhZcDlFd1FVQTNaMC1BbDIwV1RCY2RzYmpDZzdLRW5QSnlHd18zVW1kdnlhWXQ5c2lFZ2trejBUd0RBSjVDT3U2RTlKM1k2QkZPVTZvUlpRY1dWWmI4NXgxRUHSAW5BVV95cUxOLUg0QnZMX21FM3dwWWllc01TVEtfbU42ZjJnWnZXVjRwTDdVV0hVcHR1akJXTzhLSnhZQkh5cW00eUZ6bmhuX0w4dDh5a1NSdVhJWms3RlZsWWtJUWhzUmRKVWlhdmV5U2JVQUNIQQ?oc=5",
+     "source": "뉴스드림",
+     "time": "2026-10-30T09:25:46+09:00"
+    },
+    {
+     "title": "[특징주] 대원제약, 위식도역류질환 신약 임상 3상 성공에 16% 급등",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/10/30/VE6EYGUN2FEJBBGAVGVE3DCVKU/",
+     "source": "조선비즈",
+     "time": "2026-10-30T09:25:07+09:00"
+    },
+    {
+     "title": "[특징주] 위식도역류질환 신약 3상 성공에…대원제약 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jZGJUZDAwOTBMOTRyZWswNlFCTUZVYVdSbXlTVmtQRnVtajVyYVVVU0xtZ1owTDNLZnl1QjN2R1dHS1ltZFUyTC1wTUt1cG1EbnBOcw?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-30T09:25:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라온시큐어",
+   "sub": "코스닥 · 042510",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 라온시큐어 장중 15%대 급등 1만9000원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41NGYxMXNZZ2k3TXY1WmQxZU9fcWZTb3Fpa1BEemRGMGpSNlZJaWxKcUJUaTc0VF9WMjJPNm5pWXp4T0FBZ3hpdml4SQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-30T10:25:29+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-30T17:22:22.093463+09:00"
+}
