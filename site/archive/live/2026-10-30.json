@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T13:50:29.289784+09:00",
+ "updatedAt": "2026-10-31T19:04:00.670731+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1149,6 +1149,20 @@
     {
      "name": "HS효성",
      "code": "487570"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "BGF, 주주가치 제고 위해 자회사 주식소각…내달 5일 실적 공시",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RWpFdC1TQWstZlJ0YnNuaUNFUTFMR2tKSlJnWF9nZlYxWktFZFQtME9mdDhJdUJUN21HR3ktR0VadGxldzE4a20yWGlyaUlwVWZ6aC1obk10MFZmaVVNZndFOERJRloyUEZv0gFvQVVfeXFMTVVZMGI0Zmt3RU1QbHlfLV8wdTJ6SzJMdXN5T1FNV0tDeEVFb0R5ZDVwbmY0RzhaNVJwdHVtOGVfSUc4WkV6Tk5HV01SWkZRc0lMX1FzZ3RoaWZIcFBaZlZyYXh6VXFZdmYwSnRCdXBr?oc=5",
+   "source": "한스경제",
+   "time": "2026-10-30T15:54:21+09:00",
+   "stocks": [
+    {
+     "name": "BGF",
+     "code": "027410"
     }
    ],
    "thin": false,
