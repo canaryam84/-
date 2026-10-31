@@ -7,8 +7,8 @@
    "pct": -3.48,
    "text": "-3.48%",
    "exact": true,
-   "source": "Investing.com 한국어",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UQzFSUkczU082MFRXanBlRDZoczlDN0R6aXNobVNwMXg4aXVmeUc3dGt2VkVrWFVUN0NiUGotMmZlZU9rUGJoUUZycExhX0lkM010MEFDNTgwUEsyX0ZGaHNiNmVNamhocXlETVhBWDI?oc=5"
+   "source": "톱뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BcnhCeWlNOEU1RVZIbzk2X0tTY3FkcUNudTh0NVZhaUZrVmpncTdFTWZ4aHNfVGJXYnVHUHdvRGZsdjUtQlU5clBGVHQxaFh3dUhmcTlCSFdab2JBWGdSU0plUGlNRklDQzJ2V3JmWQ?oc=5"
   },
   {
    "name": "코스닥",
@@ -30,7 +30,7 @@
    "articles": [
     {
      "title": "SGA솔루션즈 상한가 2575원…상반기 영업흑자 전환 재조명",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZFJyeFM1NVZzTGlDekozclpsNnB3TjkyWGEtWGVHdERIYWFQb1JxeVFkbFdPckR5dUVvYVg1UWsyS0xsdlE2dDJwX2Z3ZDN4ZnBvUXNuZ1JIX2lGYmRnakYxOWloOF9SU21WUGZR0gFyQVVfeXFMT0RjMkNPTmx3dWlhaVRoZUpxZ1VySDk3cEdxTEVUUGtiRTBtbS1RTjRGb0I1VVQ4Q1E1WUdFaGxMWk96UklWemx3bEQtTTh4VjZWSGRHcDRrY1N6a1RoSHotaENIbU9vSjdlU0NJTm1YQTdB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EYzJDT05sd3VpYWlUaGVKcWdVckg5N3BHcUxFVFBrYkUwbW0tUU40Rm9CNVVUOENRNVlHRWhsTFpPelJJVnpsd2xELU04eFY2VkhkR3A0a2NTemtUaEh6LWhDSG1Pb0o3ZVNDSU5tWEE3QdIBckFVX3lxTE9EYzJDT05sd3VpYWlUaGVKcWdVckg5N3BHcUxFVFBrYkUwbW0tUU40Rm9CNVVUOENRNVlHRWhsTFpPelJJVnpsd2xELU04eFY2VkhkR3A0a2NTemtUaEh6LWhDSG1Pb0o3ZVNDSU5tWEE3QQ?oc=5",
      "source": "잡포스트",
      "time": "2026-10-30T16:05:19+09:00"
     },
@@ -48,7 +48,7 @@
     },
     {
      "title": "SGA솔루션즈 주가, 상한가... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUzExTVdaRDhNY0FZc2tpY0pROVctY0xrUUhhYzVPSnYwbHVUTzROWEd5VWRVVkNPMkxkc2tub190T3dyd2FtQWU4UVdyaFNILWdqRTlBbjVqclNiR1lMY0QxX0dqRV83MWc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rX3VsTzQ0ZlFocDZKX2hCOXIxa0NXWWxoMDBXVDkyODdyRy00QV9NNjFzY21MSEl0ajJDN3NhRmdiNXhZdHJiTFJOZllkalVpUkdjTzFXalFWbUxjMTYzYTBiN3AzSThv?oc=5",
      "source": "금강일보",
      "time": "2026-10-30T09:45:24+09:00"
     }
@@ -99,6 +99,28 @@
    ]
   },
   {
+   "name": "진양화학",
+   "sub": "코스피 · 051630",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "진양화학 상한가 3185원…거래량 509만주 집중",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4d9IBckFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:05:00+09:00"
+    },
+    {
+     "title": "[마감분석] 진양화학 상한가 직행 3185원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfbk9TbGJlVUs1cWpsdFlOMXpXNU1XQXF2bE9SN18xMHBYZ294T3JmNWJlU3FadHdFRC03UzF3RVhpWlJ2XzlNNV9GNA?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-30T15:48:59+09:00"
+    }
+   ]
+  },
+  {
    "name": "광전자",
    "sub": "코스피 · 017900",
    "pct": 30.0,
@@ -110,7 +132,7 @@
      "title": "[속보] 광전자, 장초반 상한가 찍었다…주가 1만원 돌파에 27%대 급등",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bXBvd3hNQTBpanlKTWVjZ0g3N3hfT2s5TkNLRFNMMzZTSWxoZGVoMnBsS2lnQmtNbk4tRFJXd21HcmZiYU9RdGp5TV9oSDNEZXpyQ05XOGl6QXZzYS10TWxmT1NCYUl6?oc=5",
      "source": "CBC뉴스",
-     "time": "2026-10-30T16:05:14+09:00"
+     "time": "2026-10-31T07:13:38+09:00"
     }
    ]
   },
@@ -131,18 +153,18 @@
    ]
   },
   {
-   "name": "진양화학",
-   "sub": "코스피 · 051630",
-   "pct": 30.0,
-   "limitUp": true,
+   "name": "라온로보틱스",
+   "sub": "코스닥 · 232680",
+   "pct": 24.19,
+   "limitUp": false,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "진양화학 상한가 3185원…거래량 509만주 집중",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4d9IBckFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4dw?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-30T16:05:00+09:00"
+     "title": "[마감분석] 라온로보틱스, 특별한 공시 없이 24.19% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZLXB4bm1taE5wSDdzWnNzUDZwZ0xTdWdDWjNYb21lMTdJMFpYT0daQUJFbmUyMTVMbVVnMTFpSE9CVjBHOXBzYkFnaw?oc=5",
+     "source": "재경일보",
+     "time": "2026-10-30T15:49:18+09:00"
     }
    ]
   },
@@ -251,5 +273,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-30T20:46:22.342595+09:00"
+ "updatedAt": "2026-10-31T17:15:42.516597+09:00"
 }
