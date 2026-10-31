@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T00:24:47.370822+09:00",
+ "updatedAt": "2026-11-01T00:57:19.724079+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -387,6 +387,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]한화에어로스페이스, '3분기만으로 판단하기에는 이르다' 목표가 1,150,000원 - 미래에셋증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tM3VoZGtGOWFkZEtkcU9qQ2FBTUQyeUd4SlJBUHNYZ1VERTlzcENiMGhXaGFEX0lfMm5rMEdLTWhXVW5abGstVzFoenV4bTZCZGRRNHRpaUZBRjVG?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T17:22:00+09:00",
+   "stocks": [
+    {
+     "name": "한화에어로스페이스",
+     "code": "012450"
+    },
+    {
+     "name": "미래에셋증권",
+     "code": "006800"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "효성티앤씨 3분기 영업이익 1천102억원…작년 동기 대비 97%↑",
    "link": "https://www.yna.co.kr/view/AKR20261030156700527",
    "source": "연합뉴스",
@@ -503,6 +521,42 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]KB금융, '흔들림 없는 이익 체력, 환원 가시성 유지' 목표가 210,000원 - 상상인증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5LTRkdVNGc1N2dFAzN19ycXowMmhGOXB4UjRnOWRzOEVCU1V3RWRjdzhRZWhXakloaXNmS1RHYm0wSUNJSWItVzZLSDRPTXJHd3NrMHJyNVpOZW4x?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T17:00:00+09:00",
+   "stocks": [
+    {
+     "name": "KB금융",
+     "code": "105560"
+    },
+    {
+     "name": "상상인증권",
+     "code": "001290"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]한화에어로스페이스, '3Q26 Review: 나무보다 숲을 보자' 목표가 1,300,000원 - 상상인증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44SDI3UFpzUjZzeU9kY21HMVhPVVVGN1NGVnN3NW5DYzlEeENSTmZpQVZjd2VjaExxMHFpckQzTFJHRXhOaEhXYTZCTzBrdURLTTlVdEFLMDFsN1hN?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T17:00:00+09:00",
+   "stocks": [
+    {
+     "name": "한화에어로스페이스",
+     "code": "012450"
+    },
+    {
+     "name": "상상인증권",
+     "code": "001290"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "시지트로닉스, 20억원 규모 유상증자 실시",
    "link": "https://www.mk.co.kr/news/stock/12191694",
    "source": "매일경제",
@@ -603,6 +657,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]삼성전자, '4Q26 예상 영업이익 137.3조원' 목표가 690,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJYm5TXzJQY2hxZWR6d0I4aWpVNW9UblVFcmQyY0QzVHYtOS1TaWJiTzA5V25LWXAzQVFRSmU1WVFBdkF4RjhlTWNpX1lHdEtCZWF3bEQwLVl2UHJh?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T16:47:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "HS효성, 3분기 영업익 381억원…전년比 159% 늘어",
@@ -1243,6 +1315,20 @@
    "dir": "up"
   },
   {
+   "title": "[마감분석] 라온시큐어 16%대 급등 마감 1만9450원 기록 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMdFlSWGUzU1lKTnlWUjR2ek5FUFRhQjRlWjZnQ0o4WGswYXVmbTdHaERtSktxZWVOeUl6dlJwZkVEWm8xMVV6aElySQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-30T15:50:47+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "이윤우 회장, 대한약품 주식 1450주 ↑…지분율 25.04%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WMmVqZ3RvcmpyMWlBYmlhTzNrbXdRQjdtZ1VyNnhWRjg4dmdSZ0V5NnlWLTgxSl9mQ0hwMnMxRXNELUdqY0wtY2V5MWFELVp1OWdVUXh2SEJqRWhfYmJQSVlIT05WTmN0ZUJOdGMzLXgwdVk?oc=5",
    "source": "데이터투자",
@@ -1755,6 +1841,20 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]삼성전자, '실적은 좋지만, 주주환원은 아쉽다' 목표가 350,000원 - IBK투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GVm1BWWxuSHN1cEphOUVfbGgzaWNGQ0oxUzVPem5CdG9BZ1ZyeEhTVjFFX1JtQjJQZFYxUkZLanUzQjdqX0hLbkNjVGJaSFZrTjc4WGdMdnZyYjZo?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:40:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[리포트 브리핑]삼성SDI, '훌륭한 실적과 미래에 대한 기대감' 목표가 700,000원 - 유진투자증권",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOaElKUlRtQ3VsSjJnNnJKeU5yLWZpZ0lYVEVzbGZBVTNJYm1hdno0ZUgxOVZiOGFVRUU3bDVNRzVBZjh6NFFlYXJnalhreWo5cGlqOHd0T0hONHF1?oc=5",
    "source": "뉴스핌",
@@ -1767,6 +1867,128 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]한화에어로스페이스, '3Q26 Review: 악재의 중첩, 4분기까지 지켜보자' 목표가 1,640,000원 - 대신증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhbXpzTk5XUmJZSzB5VTVVSlJUTjZMMDhjWG1zMkp1OFF1ZDNoTjJKWkN6ZGZsZWJIQjg1b0NKOF96bDh6WUxQVXhpYW1wMC16SzlPY082SDhTdnhR?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "한화에어로스페이스",
+     "code": "012450"
+    },
+    {
+     "name": "대신증권",
+     "code": "003540"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]세아베스틸지주, '3Q26 Review: 비수기와 고원가 재고가 겹친 3분기, 2027년 경로는 유지' 목표가 54,000원 - 한화투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUXc3M21hUnpvUHRmQTZ6OWNZbDduT0NBLUJuTHNaUHQwZkI1eUlrWE82WkNYeWNkeld2Zklqbm54ZDhSYURPc09zTklxcEZvMEozWFQ0a1N3d0lB?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "세아베스틸지주",
+     "code": "001430"
+    },
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]아모레퍼시픽, '확실히 좋아지고 있는 이익 체력' 목표가 185,000원 - NH투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12ckw5aTJOUDRmeUNPVVpEaGNJT0M5WnhHeE1hOGJvRE90YnNFMEZSSXlpRVhobzlyWGNfeWJaWVBPUnVvdnc0bEZYLXpoN25mYUhOeDIwWndyMVdZ?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "아모레퍼시픽",
+     "code": "090430"
+    },
+    {
+     "name": "NH투자증권",
+     "code": "005940"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]KB금융, '일회성 요인, 선제적 충당금으로 상쇄' 목표가 225,000원 - DB증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOX1MyaElRR1hvRklhUjFWSmN6bGZmTG5TUDJ1dWR4bXRTcVNuSjZ6LTVUUGUxU2pObVBKWHRsSGJJSkZOUGVyZnFWYVdUcUFaQ0N4VmZ2LVdrdGFp?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "KB금융",
+     "code": "105560"
+    },
+    {
+     "name": "DB증권",
+     "code": "016610"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]삼성SDI, 'ESS 2028년까지 매진' 목표가 730,000원 - NH투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51Q004YXpwWlRjaXlKZDlvQVVBUlQ0bVAtWDNGQkxNWUFNWHFqMUNOR2NwdDUydE4zdFpKc0JVbkJCVDg0RUxmNVRUd0FmM3V1QUNXODdFWlNXdzFq?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    },
+    {
+     "name": "NH투자증권",
+     "code": "005940"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]KB금융, '어려울 때 돋보이는 안정성' 목표가 226,000원 - NH투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVUhvWnNWVUEyZ21MaV84WmZGYklvejFnUnB2V1N4aXlIZ21ZRzNtMXBkRDRIV1h6aU5VU1VDV1ZzZmFLaUpqdGFXZnR4Y0NqVUpqLVNiWW8temhO?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "KB금융",
+     "code": "105560"
+    },
+    {
+     "name": "NH투자증권",
+     "code": "005940"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]SK이노베이션, '정유·윤활유가 이끄는 높은 이익 레벨' 목표가 220,000원 - 신한투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85U3Q0UGxnV2pfdVpsTEIzeWJZVnNHZUpnUjRKb0ZON3JXeGlET1YtVXkwblRadHJMRmVsbHZCWXBLZnBCTzRKalZTXzBMTmROVlJCNHJicXZZMnZ6?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T14:38:00+09:00",
+   "stocks": [
+    {
+     "name": "SK이노베이션",
+     "code": "096770"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "줄줄이 해킹에 보안주 '들썩'…SGA솔루션즈 '상한가'",
@@ -2780,6 +3002,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 라온시큐어 장중 15%대 급등 1만9000원선 돌파 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41NGYxMXNZZ2k3TXY1WmQxZU9fcWZTb3Fpa1BEemRGMGpSNlZJaWxKcUJUaTc0VF9WMjJPNm5pWXp4T0FBZ3hpdml4SQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-10-30T10:25:29+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
@@ -3961,6 +4197,20 @@
    "dir": "none"
   },
   {
+   "title": "삼성전기, 반토막 난 주가 되살아날까…證 “두 배 가까이 뛴다”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CYkdmc2ZqUmVvRnZtb0JBandsaXE0QkJuX29fRTV1a0cwTW9Wa1dZbjlrem54dEx0RHR1UV9DWFVoRXBtOEJJd1h4Z05IWnZ2clRSZnVjVkVkMDg?oc=5",
+   "source": "에너지경제신문",
+   "time": "2026-10-30T09:03:42+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 크리에이츠, 상장 첫날 공모가 대비 하락 출발",
    "link": "https://www.etoday.co.kr/news/view/2642082",
    "source": "이투데이",
@@ -4081,6 +4331,20 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]KB금융, '주주환원정책 고도화 가능성. 업종내 가장 편안한 투자처' 목표가 235,000원 - 하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13TllXM1poWjFKWDlTNnJUWGVyUXRVSXczQ2pzSU1lVjgtbC1pMzBmeDdPdUU4LVk4TjhxVlVIVjNKZkNvcGhOdjhld3FuS3Q3SFkydENMdHdqdVZo?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T08:46:00+09:00",
+   "stocks": [
+    {
+     "name": "KB금융",
+     "code": "105560"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "키움증권, 3분기 순이익 2386억원…전년比 26% ↓",
    "link": "https://biz.chosun.com/stock/stock_general/2026/10/30/2ZHLSDZY35BN7OLETGDKO5NRS4/",
    "source": "조선비즈",
@@ -4189,6 +4453,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]한화솔루션, '긍정적인 시장 환경 vs. 확인할 이슈 몇 가지' 목표가 40,000원 - 하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BUVFTbm8tamktSDhxNERjRVFyNnVwRUZMbzVEUDNxUklxdll2YjcxQUdhZzJYaFhkdmE0YWlMcXZkTjljbVZ2Nk44a2E5TTBDTVRBUm50d2lpTFdy?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T08:36:00+09:00",
+   "stocks": [
+    {
+     "name": "한화솔루션",
+     "code": "009830"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "iM증권, 롯데정밀화학 목표가↓…\"4분기에도 부진한 실적 예상\"",
