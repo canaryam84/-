@@ -19,6 +19,21 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0teXJfN1RyN1dieFpVUE9qSHF4UjhCM2tDVThXMmRSMHVPVWpVemVYbXhmMUVSLVFzS0VQVmJOLWxXTXF6U2JfekM4YUU3UEJEOFI4QjFXTmpYYkpjUS1BVdIBeEFVX3lxTE9ROHh0bm1hR1VlWWdUczZBcXM4VU1WbU44SGxoeTZGSFVoWF9WcVlncUVKWElkMjFRRi1fTmw1ZTE2T3VuOFBweUZJSGVYM0lQRFpncm1SSUhDTVVSUGpnbmVXT1I2X1o1VnNEcmVXdUl2Y2FLaW1uTw?oc=5"
   }
  ],
- "items": [],
- "updatedAt": "2026-10-31T07:32:38.701503+09:00"
+ "items": [
+  {
+   "name": "다이나믹",
+   "sub": "미국 주식",
+   "pct": 40.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[美증시 특징주] AI엔지니어링 그리드 다이나믹 40% 폭등…'떠오른 AI 수혜주'",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQnp1Q2FiV2htS3ZmVVdWczlzZlV6eHNLQnBLeHRkSExFTnlPWk4yS2NVV281RlNzWG96OFVVUUdjaDBKRzJtT1huRHphSEVybkxOSdIBWEFVX3lxTE5kal9nVk1lOTQwWmdzWGJwMzNld3g5ZTFmdWlzYUJINFR4N0liVFU3TkU4VEUzVU96RkN0VENSSkVRS1hLeV9CdmQ2dDhfdllpY0VNZGdsRkU?oc=5",
+     "source": "미디어펜",
+     "time": "2026-10-31T06:54:41+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-01T07:29:09.331995+09:00"
 }
