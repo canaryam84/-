@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T00:57:19.724079+09:00",
+ "updatedAt": "2026-11-01T05:21:26.552896+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1243,6 +1243,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]삼성에스디에스, '단기 성장도 비워두진 않는다' 목표가 250,000원 - 교보증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZE4zdlBMQ2xlY3d1X0JnYXRLaXJ4aVlxSHctdEx5SWZVazMxSHVtNzYzdXZYLU9FT3NVc0liT21ra1pMZVpkNGFFN0ZTbkQ0eFV2dTlKd29HN3RQ?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T15:56:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성에스디에스",
+     "code": "018260"
+    },
+    {
+     "name": "교보증권",
+     "code": "030610"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "HS효성 3분기 영업이익 381억원…작년 동기 대비 159%↑",
