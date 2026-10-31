@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T19:04:00.670731+09:00",
+ "updatedAt": "2026-10-31T21:31:59.904783+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1737,6 +1737,20 @@
    "dir": "up"
   },
   {
+   "title": "줄줄이 해킹에 보안주 '들썩'…SGA솔루션즈 '상한가'",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1SjlScnV2SEdUUEhDY2VKVEhjbTlVRlVkX3BiM3JYMDZBX0U1bXgxSld6RU1RQzFYR2w0MGRIaC1zM3dXVUZzc0hzNFQxcno3VWZ1bDF6Y1NydVpOclplRUdNSkFFQW5oMkVTc1pfb9IBb0FVX3lxTFB1SjlScnV2SEdUUEhDY2VKVEhjbTlVRlVkX3BiM3JYMDZBX0U1bXgxSld6RU1RQzFYR2w0MGRIaC1zM3dXVUZzc0hzNFQxcno3VWZ1bDF6Y1NydVpOclplRUdNSkFFQW5oMkVTc1pfbw?oc=5",
+   "source": "한국아이닷컴",
+   "time": "2026-10-30T14:35:21+09:00",
+   "stocks": [
+    {
+     "name": "SGA솔루션즈",
+     "code": "184230"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "\"100조 벌고도 주가 급락\"…삼성전자에 빠진 마지막 퍼즐",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZlBETUoySFNiUm9VRUk5OXBHQzNXM3NQaHUzeC15THpFcDdDS1Q5QWl5NC1rUzR1Q0FDb3E4bkZNcmMwYTdHbFAzdWFjeU1LdFFodTcxM09BU05neGczam95MEdyRmFPSEVjaVVVaXHSAXBBVV95cUxON2ZQRE1KMkhTYlJvVUVJOTlwR0MzVzNzUGh1M3gteUx6RXA3Q0tUOUFpeTQta1M0dUNBQ29xOG5GTXJjMGE3R2xQM3VhY3lNS3RRaHU3MTNPQVNOZ3hnM2pveTBHckZhT0hFY2lVVWlx?oc=5",
    "source": "엠에스투데이",
@@ -1815,20 +1829,6 @@
     {
      "name": "삼성전기",
      "code": "009150"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "줄줄이 해킹에 보안주 '들썩'…SGA솔루션즈 '상한가'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVTJielZqdnhIS3FQQ3RLSGxIRWJXcXRkc1BWbEttdnFPQ1c1NXpuZlZNQk5CRmpqMk9TZzBZM3llWXVYT0p6cVdEMmtnSmx1RjZXWDRLNGE3NWdDN2JGOVk4Yk4ybWNYNU5XWFgxNFHSAXRBVV95cUxQQTBrdFYxZ3BvMWhaeUcwQ0pPX0lTNFMwZDQ0REFDWDl5QnpEMC0wUWxYY0laUVhEMEhFZm5rZXNWN1NNYWEtcHpGSkNnbEtkUEpWT20xbWVPYmQ3SXdmbGg5UFV0MFd4anhZQlJLU1JDRzZVeg?oc=5",
-   "source": "스포츠한국",
-   "time": "2026-10-30T14:26:29+09:00",
-   "stocks": [
-    {
-     "name": "SGA솔루션즈",
-     "code": "184230"
     }
    ],
    "thin": false,
