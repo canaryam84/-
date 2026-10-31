@@ -1,0 +1,428 @@
+{
+ "label": "10월 31일(토) 국내 종목 뉴스",
+ "updatedAt": "2026-11-01T00:24:47.370822+09:00",
+ "items": [
+  {
+   "title": "스택스(STX) 24시간 11% 상승…비트코인 7만7500달러 회복",
+   "link": "https://www.tokenpost.kr/news/cryptocurrency/430638",
+   "source": "토큰포스트",
+   "time": "2026-10-31T21:30:23+09:00",
+   "stocks": [
+    {
+     "name": "STX",
+     "code": "011810"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "DB Inc., InvestingPro 적정가치 분석 후 56% 급등 By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TU3FmR3dKcjZDRVVLWjBEVWdBUVVaMVU2dkFXdUpXUjFEUTQ3NnZZMWU4U3lITnRZTFJwaVc3QXBIeTMzNTNvdnRvaFJ2ZG9Jc2pkTmItZVQ2amw5dWNPbXVYSmlOVHNBd3F5T2VPaXRwSktqT1E?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T20:44:00+09:00",
+   "stocks": [
+    {
+     "name": "DB",
+     "code": "012030"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한미반도체, InvestingPro 고평가 경고 이후 53% 급락 By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1paEtHMmJCajdhZTItZWFjM1plWnFVLW80MWs4RFdJWkVtWGxiLU9IeDc3Y2d5dDJjOC1rWmdIT3V2NGJoNUtlRmhJWERQcUc0Y21kTmdLRnJGbjIyZVBJdUVpRmFlT3NBdXFueklJUzM1ZVRzOHc?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T20:40:00+09:00",
+   "stocks": [
+    {
+     "name": "한미반도체",
+     "code": "042700"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "테스터 업체 주가 석 달 새 평균 166% 급등…디아이 성장 기대 커졌다",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GVllGOUx0Q1JvanV2XzZpc0I5NV9oaGNOZjNKWTJUVlpxNnJocnYyN3hLbk16UkhGaUlkeE9LUHdhZFczeXdvNE1oOUtZeHJ5RUs0bWphNjJoX2xjVUpJOS1yNG9KZ3lCTUIxMnk2eW9vY2QyMUVJ0gF3QVVfeXFMTkZWWUY5THRDUm9qdXZfNmlzQjk1X2hoY05mM0pZMlRWWnE2cmhydjI3eEtuTXpSSEZpSWR4T0tQd2FkVzN5d280TWg5S1l4cnlFSzRtamE2MmhfbGNVSkk5LXI0b0pneUJNQjEyeTZ5b29jZDIxRUk?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-10-31T17:09:32+09:00",
+   "stocks": [
+    {
+     "name": "디아이",
+     "code": "003160"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 최대 실적에도 주가 급락…AI 투자 거품 터지면 반도체주 어디까지 떨어질까",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrMkVxSUF4Z21kdTRXVXhCSlYyV3RYWjNsNjlfS0lNVUdEdmhjTDJpYThPVFBxUE0zWnN1OHQxazBuZlN3RWN2eUJIOEpDcml5UEdSUUxvU1E0OHRFRjgxMFl2NEtWVVhVdjlSS2k0d2pmZw?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T14:35:50+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "삼성전자, 최고 실적에도 주가 급락…이재용 증여세 때문?",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzMUNRY3ZJNE11X21MWFFoU1R4c25YRkxtc0NvOFkzQnhVOHM5S21INWpJRnI0Yk1wNlVyazhoMld4Sk1CR3NxbkcxZXFpZEdwcHBZNTZ2UE83T3pXX3Q1LTV0QQ?oc=5",
+   "source": "포쓰저널",
+   "time": "2026-10-31T14:06:03+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "기아 분기 매출 최대에도…주가는 11.73% 급락",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQWprczhSOGRSWDd3NGQ2dUgyd1U5bGxaS19Kc09SR181SFY0VTRqZW92MUJ6YW44SFEwWlVYTnlKczk2NGExMjRLajNsR3dmLTFDRjlTdEpsNzRvQk96T2R5WnBwbGs?oc=5",
+   "source": "자본시장뉴스",
+   "time": "2026-10-31T12:40:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "10월 4주차 현대모비스 주가 급등 후 급락 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56UFJLR0ZyeEo1QndHc2tPZXVZMFUtMWhBVVpaczdQSDlIRTV6VUowSDl4aHlMOEpUTUJHSG5MVW5VeS1GOVlVSTNmZU5pNlRJTlNBT2ktS2tkSFdKN1RtejZLakM3RkxjN25DSXZqUjUyQQ?oc=5",
+   "source": "중앙이코노미뉴스",
+   "time": "2026-10-31T12:12:23+09:00",
+   "stocks": [
+    {
+     "name": "현대모비스",
+     "code": "012330"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "최근 5거래일 삼성바이오로직스 주가 변동성 후 상승",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByZWVMM1pXQXRDMFJQSkRXcmpucGhQYS1IZkVEUlM5Nm5RYXZ6QU14RzdzaWNPV0Fta3ZrWm81em5rMnJ5WGRRXzNrVkpJLU9WWUZkTk0wcEdmRVgycWNGYzUxV3Y0cmFCa1lzMmpGMlZBZw?oc=5",
+   "source": "중앙이코노미뉴스",
+   "time": "2026-10-31T11:29:56+09:00",
+   "stocks": [
+    {
+     "name": "삼성바이오로직스",
+     "code": "207940"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "한화, 美 해군 함정 신조 첫 수주…필리조선소 인수 2년 만 성과",
+   "link": "https://www.etoday.co.kr/news/view/2642528",
+   "source": "이투데이",
+   "time": "2026-10-31T11:18:00+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "10월 4주차 대한광통신 주가 급락 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55alcwXzNaLWJNZ25aeUo1WUdxWWFzeWtuX3Q0UHd0Vmd2Z004bmdCZVpLLUxSY09QSThtT3phLW5saERWWkFwdnNfTk8xaU03cXp0V01SRS1vRVUzVWppaGdSaVJ2R3VaZmV6d3pxQUc1UQ?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T11:08:48+09:00",
+   "stocks": [
+    {
+     "name": "대한광통신",
+     "code": "010170"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "서울반도체 최근 5거래일 주가 급등 높은 거래량 동반",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FZEVIWGprVkVfT0FnVkY2VTk1Z3R1MWJXTjZIRzFDTnpEMHI0OEdMczBoWEdINDRZOUItQk5BMGwzQUpobDdYa2o0NXVfTWlrcms1ZDRSelVuWm50MXJpOUZtZUpqV2VxZEdzckZkcW1zdw?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T11:06:03+09:00",
+   "stocks": [
+    {
+     "name": "서울반도체",
+     "code": "046890"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "“‘반도체 업황 연동’ 보안株라 불러주세요”…36% 반등한 한화비전 [이주의 Bull기둥]",
+   "link": "https://www.mk.co.kr/news/stock/12192400",
+   "source": "매일경제",
+   "time": "2026-10-31T10:56:38+09:00",
+   "stocks": [
+    {
+     "name": "한화비전",
+     "code": "489790"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "인텔리빅스 주가 하루 만에 223.9% 상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYbkFObk9zT3JnN2E4b0YtXzBXMVBPaUd5U0ZMU0szcEpQVy0tRlYzUktZSzZVaGVxLWw2MVRyVkpteTI3MncwLUttRnU1azlVNTJDT3FieWZtSmY1bldIV0RNc0tnQjFNY0dPaEZCdWZXdw?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T10:17:33+09:00",
+   "stocks": [
+    {
+     "name": "인텔리빅스",
+     "code": "420610"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "안랩 주가 10월 4주차 8만원대서 12만원대 급등",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fb2t6QVo3aVNHZUE0cUtYcnlDa2dUaDc5MmRUdlhjbDhLNGVCV3BzbWVLZkg4Y3RveDZrS3JEVEtTYm5nQUV5b2JKZFl0bEt5R20yMk4tbm1OSmRjTFdvSC1IUU9VdE5zLXk5OGE3LVJsQQ?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T10:12:21+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "10월 4주차 두산에너빌리티 주가 하락 전환 급락 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SMWFXNjlHem80eC02RGZkWThvQktLaTREVXZOa2RHZlNQWW14TVIzZ3cxRDZJdUVsQ0tOR3JtcHNPdUZtdl85QVNsX1k2bjNKQVZYNEN5WEhwWW1BUlUwZEZsT2xLa0JPT3l4cEJzaHpadw?oc=5",
+   "source": "톱스타뉴스",
+   "time": "2026-10-31T09:57:59+09:00",
+   "stocks": [
+    {
+     "name": "두산에너빌리티",
+     "code": "034020"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+   "link": "https://www.yna.co.kr/view/AKR20261031021700060",
+   "source": "연합뉴스",
+   "time": "2026-10-31T09:46:21+09:00",
+   "stocks": [
+    {
+     "name": "엑스페릭스",
+     "code": "317770"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "'제카' 스웨인의 끈질긴 버티기⋯한화생명, G2 2-0 완파ㆍ8강 진출전으로",
+   "link": "https://www.etoday.co.kr/news/view/2642515",
+   "source": "이투데이",
+   "time": "2026-10-31T09:44:00+09:00",
+   "stocks": [
+    {
+     "name": "한화생명",
+     "code": "088350"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 2.64% 할인",
+   "link": "https://www.tokenpost.kr/news/insights/430456",
+   "source": "토큰포스트",
+   "time": "2026-10-31T08:30:22+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "중국 BYD 한국서 수입차 4위…현대차·기아 중국 점유율은 0.6%",
+   "link": "https://www.yna.co.kr/view/AKR20261028198700003",
+   "source": "연합뉴스",
+   "time": "2026-10-31T08:01:02+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "국제유가, 미 중간선거 후 이란전 확대 우려 경계⋯브렌트유 2.4%↑ [상보]",
+   "link": "https://www.etoday.co.kr/news/view/2642507",
+   "source": "이투데이",
+   "time": "2026-10-31T07:07:00+09:00",
+   "stocks": [
+    {
+     "name": "상보",
+     "code": "027580"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[베스트&워스트] 금융권 해킹에 안랩 50% 급등…지니언스ㆍ서울반도체 등 ↑",
+   "link": "https://www.etoday.co.kr/news/view/2642433",
+   "source": "이투데이",
+   "time": "2026-10-31T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
+    },
+    {
+     "name": "지니언스",
+     "code": "263860"
+    },
+    {
+     "name": "서울반도체",
+     "code": "046890"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[베스트&워스트] 로봇 기대에 씨티알모빌리티 55% 급등…CJ씨푸드1우 77% 추락",
+   "link": "https://www.etoday.co.kr/news/view/2642427",
+   "source": "이투데이",
+   "time": "2026-10-31T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "씨티알모빌리티",
+     "code": "308170"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "기아 주가, 오늘 급락한 이유는?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzVWt0QUZUVHpoczRHVHlnZG82TmtNZ3lVd0Jib0p4NXVKM0s4M2JhWWVUVGNVeUQtNDUyblJGUUxqSFlLZVBVSnFQYUs0SmlfLTJLanZNY0h3QThYTEVnRHZmbXgwTjh6dk1FTGoySnpLclZxSjhF?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T00:38:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "비트코인 추가 하락 가능성…봉크 가이, 알트 매도 압력 완화 가능성 제기",
+   "link": "https://www.tokenpost.kr/news/cryptocurrency/430299",
+   "source": "토큰포스트",
+   "time": "2026-10-31T00:32:20+09:00",
+   "stocks": [
+    {
+     "name": "알트",
+     "code": "459550"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "미국, 1억7200만 배럴 전략비축유 교환 계약 배정 마쳐",
+   "link": "https://www.tokenpost.kr/news/economy/430279",
+   "source": "토큰포스트",
+   "time": "2026-10-31T00:13:07+09:00",
+   "stocks": [
+    {
+     "name": "배럴",
+     "code": "267790"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "기아 주가 11.7% 급락…3분기 영업이익 예상 하회·4분기 전망 신중",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91NUMwcTBrMFZXWVljR2I2TlN5a0JzWXJ1RlY1YTAxd2ROZUpYeGUwV1k4UHMxLWhadThDT196VkRqdnV6ZENYMzhRcTkzQUg3QW1XdDJtUVU4WXMyUXNrb1R3aEJwX2xwZG5V?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T00:12:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686645618496",
+   "source": "이데일리",
+   "time": "2026-10-31T00:00:07+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주 상장] 코스닥 데뷔한 인텔리빅스 3.5배 급등 마감…크리에이츠는 37% 하락",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yUzFNTzJJQ2NtajRUTm8tNkFfUUtiUUh2dldGRkVaSURNZkR0ZV9WeE5VUTF1ZDhnVVBvN01wb0QycTRVeW5XSU1wdzdSZDFpX3phbkI4VGJzYWlNemQ1STR2RHdSVjVo?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-31T00:00:00+09:00",
+   "stocks": [
+    {
+     "name": "인텔리빅스",
+     "code": "420610"
+    },
+    {
+     "name": "크리에이츠",
+     "code": "439270"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-10-31T21:31:59.904783+09:00",
+ "updatedAt": "2026-11-01T00:24:47.370822+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -415,6 +415,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]두산퓨얼셀, '본격화된 해외 수주, 경쟁력 증명의 한해' 목표가 45,000원 - 미래에셋증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WV0d0WkJXaHRLSzVHWTNYbW9BbGkzUjBYM3gxem53bGd0R0pXYVBUOV9hUWp1ekxWbGphMWduTFI4XzFZOGFmZFA5bllGNkJEc0tKYThiUkxiTlZX?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T17:10:00+09:00",
+   "stocks": [
+    {
+     "name": "두산퓨얼셀",
+     "code": "336260"
+    },
+    {
+     "name": "미래에셋증권",
+     "code": "006800"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 기아, 3분기 실적 실망에 11% 급락 마감",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aTFrOEdLTDA0UXBFd3VfNmt4LWc0T21uelNZTllPYUhZb3RxUlhzd0VseFBxcVBjVEJxTVNxMXFPTWtWOXFIYm1NZmhTdGxBcnROUDlTR1dtRXZL?oc=5",
    "source": "뉴스핌",
@@ -571,6 +589,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]현대차, '3Q26 Re: 왜 서프를 내고 주가는 하락했는가' 목표가 440,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hR01LVks2dTVJdkk1ZDZ1MjNVY2FXbzJUVDFFU0g2VWxac2Vpam5hRlhiSVVhWkZVbm9xNFRGdTRIQjlLSFBEQlpsQXhLM0txNjhreFViLTVmRmZP?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T16:47:00+09:00",
+   "stocks": [
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "HS효성, 3분기 영업익 381억원…전년比 159% 늘어",
