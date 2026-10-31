@@ -1,0 +1,45 @@
+{
+ "label": "10월 31일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -3.29,
+   "text": "-3.29%",
+   "exact": true,
+   "source": "코인리더스",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LX3d3SHlYUjdXZlZMaE1IdV81MnRscE5EdVBYcEdlcHl6aVBBcnhHN0ZsRWc1OGpYc0ZZeElfN244cUtJX1hiOUdR?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "거래",
+   "sub": "가상자산",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "바이낸스 해킹 충격에도 코인 거래 25%↑…리플XRP 1% 상승",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iSFhTcW04V1R0c2pmUW5uOVQ1YnZORlVJTEViRnJadUZTMUlFZjBnYkZmeUtHb3JOUHNwTy1JUDY4bXJfMm52TER1bmdtZ2FyNTAxVlFnOWNJSXluR0RNdVJ6RDdZZlc2aUlILVRRMXZRQQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-10-31T09:00:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "메타플렉스",
+   "sub": "가상자산",
+   "pct": 22.69,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 메타플렉스 22.69% 급등 1위…2위 두들즈 8.94%",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwS1RBRHI0ZUlXQk92ZjBNZHBfVTVWRmRKNHNJa3BxOFN6d2tmWkNzOC1kR05Ga0t5MGJWbjdNdzljNWthaEZjem9n?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-30T12:00:34+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-31T12:39:02.057984+09:00"
+}
