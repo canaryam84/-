@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T05:21:26.552896+09:00",
+ "updatedAt": "2026-11-01T07:24:35.319700+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -675,6 +675,24 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]KB금융, '보수적 비용 반영, 주주환원 여력 양호' 목표가 235,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YcUFLZnVqSm1rUi0xWElmNjRnQWw3b09pZXNSdi1WV0pSNlpIR2tPYkNuR0Vuc2NTRnRkU3ZaNGxVNC1wdmJiaEhsM29CUUFOVS1UM3JlVXJzQ1Jm?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T16:47:00+09:00",
+   "stocks": [
+    {
+     "name": "KB금융",
+     "code": "105560"
+    },
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "HS효성, 3분기 영업익 381억원…전년比 159% 늘어",
