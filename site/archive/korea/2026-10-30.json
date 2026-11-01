@@ -179,34 +179,6 @@
    ]
   },
   {
-   "name": "대원제약",
-   "sub": "코스피 · 003220",
-   "pct": 16.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 3,
-   "articles": [
-    {
-     "title": "[특징주] 대원제약, P-CAB 신약 임상 3상 성공…주가 15%↑",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdk5zaGFHUjhZcDlFd1FVQTNaMC1BbDIwV1RCY2RzYmpDZzdLRW5QSnlHd18zVW1kdnlhWXQ5c2lFZ2trejBUd0RBSjVDT3U2RTlKM1k2QkZPVTZvUlpRY1dWWmI4NXgxRUHSAW5BVV95cUxOLUg0QnZMX21FM3dwWWllc01TVEtfbU42ZjJnWnZXVjRwTDdVV0hVcHR1akJXTzhLSnhZQkh5cW00eUZ6bmhuX0w4dDh5a1NSdVhJWms3RlZsWWtJUWhzUmRKVWlhdmV5U2JVQUNIQQ?oc=5",
-     "source": "뉴스드림",
-     "time": "2026-10-30T09:25:46+09:00"
-    },
-    {
-     "title": "[특징주] 위식도역류질환 신약 3상 성공에…대원제약 15%대 급등",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jZGJUZDAwOTBMOTRyZWswNlFCTUZVYVdSbXlTVmtQRnVtajVyYVVVU0xtZ1owTDNLZnl1QjN2R1dHS1ltZFUyTC1wTUt1cG1EbnBOcw?oc=5",
-     "source": "이투데이",
-     "time": "2026-10-30T09:25:00+09:00"
-    },
-    {
-     "title": "[특징주] 대원제약, 위식도역류질환 신약 임상 3상 성공에 16% 급등",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2Q3a0M2Wi02Q1hNeEVvdHV3VEEtdVhhODE0d3ZhTmstUHVGLWdsOXNJNjFTNDJQTDNzOTdtTjJvZWtjNVB6WEVDN3VSaWFpM1pEcWJ0dmFyRE5sTDJWLUpSM3lXSndKWTN2QTN4QWREYXg0VjNTY2xfVVVpZGYwdTlZbDV4ZnF10gGcAUFVX3lxTE1vdXZEOU9pWXY2X3VrNThDc1dBZVZiUzVpRUdlZk9UZUlObWFhWW9XdVctS2NQcTZyamtLVVN4enlLWU9PdHhfOW10VXpJMDBYeUtZVnFDUlpxd0o2eEg2SUJsd0xxZ0k3RUFaUi16djN1R0VmTEJ6T1lGQzVJTDRFbEJEWUgxMnVNSC1mTmhZcUkwcDJPZkw5bmdoVg?oc=5",
-     "source": "Chosunbiz",
-     "time": "2026-10-30T09:25:00+09:00"
-    }
-   ]
-  },
-  {
    "name": "라온시큐어",
    "sub": "코스닥 · 042510",
    "pct": 16.0,
@@ -227,7 +199,23 @@
      "time": "2026-10-30T10:25:29+09:00"
     }
    ]
+  },
+  {
+   "name": "대원제약",
+   "sub": "코스피 · 003220",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 위식도역류질환 신약 3상 성공에…대원제약 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jZGJUZDAwOTBMOTRyZWswNlFCTUZVYVdSbXlTVmtQRnVtajVyYVVVU0xtZ1owTDNLZnl1QjN2R1dHS1ltZFUyTC1wTUt1cG1EbnBOcw?oc=5",
+     "source": "이투데이",
+     "time": "2026-10-30T09:25:00+09:00"
+    }
+   ]
   }
  ],
- "updatedAt": "2026-11-01T17:17:15.377469+09:00"
+ "updatedAt": "2026-11-01T20:40:37.638738+09:00"
 }
