@@ -1,6 +1,6 @@
 {
  "label": "10월 31일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-02T00:58:38.005399+09:00",
+ "updatedAt": "2026-11-02T04:57:20.231338+09:00",
  "items": [
   {
    "title": "스택스(STX) 24시간 11% 상승…비트코인 7만7500달러 회복",
@@ -85,6 +85,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "최평규 회장, SNT홀딩스 주식 99만891주 장학재단에 기부",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLMGdzWGFiNDRISUN5WmVabnBoSDlqRWl3TnA0MkNPaG1adXctVk1TcEtZOHlsWjVveFcwV0xnbm8wSUFfakIzT2taR3A4T3dFbmtPM0x3M2t2anZsN1VOWG9xLUw5Zw?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-10-31T14:51:04+09:00",
+   "stocks": [
+    {
+     "name": "SNT홀딩스",
+     "code": "036530"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "삼성전자·SK하이닉스 최대 실적에도 주가 급락…AI 투자 거품 터지면 반도체주 어디까지 떨어질까",
