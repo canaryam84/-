@@ -1,6 +1,6 @@
 {
  "label": "10월 31일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-02T00:27:24.652754+09:00",
+ "updatedAt": "2026-11-02T00:58:38.005399+09:00",
  "items": [
   {
    "title": "스택스(STX) 24시간 11% 상승…비트코인 7만7500달러 회복",
@@ -43,6 +43,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[SK하이닉스] 60조원 추가 주주환원책 발표…SK하이닉스, 역대급 호실적에 증권가 '호평'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZVJYTjJ2ajdCcmQtWWRud3dZVzJxaHZQWUZlNnFXa2xHbDkyZmNYY3BnREhyVVQyUkU2elZZTGxySjgwelZpUDBydWRCWG1URHY3MWdPclVHVkVBUk9qZ09nTmJ2QUJS?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-31T19:38:18+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "테스터 업체 주가 석 달 새 평균 166% 급등…디아이 성장 기대 커졌다",
