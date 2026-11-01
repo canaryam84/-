@@ -1,6 +1,6 @@
 {
  "label": "10월 30일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T07:24:35.319700+09:00",
+ "updatedAt": "2026-11-01T10:32:23.045222+09:00",
  "items": [
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
@@ -1483,6 +1483,24 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]아모레퍼시픽, '좋아진 국내 체력!' 목표가 210,000원 - 교보증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTmQ5bWVjdkNrSHFJNEZEZTlKaFJJYVpGbFdUOVlWRVptMzl5clFlSkN6Uy1wRlhMc1JkNVFRZG52dFQtbzBaQnhKTEQyR3BsaWtxY0I5dzZlQ19G?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-10-30T15:40:00+09:00",
+   "stocks": [
+    {
+     "name": "아모레퍼시픽",
+     "code": "090430"
+    },
+    {
+     "name": "교보증권",
+     "code": "030610"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 바이낸스 해킹 의혹에 보안주 급등…SGA솔루션즈 상한가",
