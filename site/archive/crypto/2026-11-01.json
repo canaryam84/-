@@ -1,0 +1,45 @@
+{
+ "label": "11월 1일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.79,
+   "text": "+0.79%",
+   "exact": true,
+   "source": "토큰포스트",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fVXJrem1fd2t2bDB4SDg5dURnYVRTX0hfcWczR3d1TEVkUmVtT0ZHcWdGbUREQm5Wbm5ueWhwZFk3N2QtWE9fOEJSaUs1TU9XYUpzd0ZiUXh3emVacFd5UlFwUmE3UdIBZkFVX3lxTE1fVXJrem1fd2t2bDB4SDg5dURnYVRTX0hfcWczR3d1TEVkUmVtT0ZHcWdGbUREQm5Wbm5ueWhwZFk3N2QtWE9fOEJSaUs1TU9XYUpzd0ZiUXh3emVacFd5UlFwUmE3UQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "휴미디파이",
+   "sub": "가상자산",
+   "pct": 24.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 휴미디파이 24% 급등 1위…10% 넘게 오른 종목 2개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BMDNyNDdISDJQNVRKUDBZTlpqSjhDTkh0QmNCeURPWGluejhUbXFpeEFGZ0stR2pxTXNNUFN1TEJqTlByd1lENlB3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-10-31T12:00:30+09:00"
+    }
+   ]
+  },
+  {
+   "name": "리스크",
+   "sub": "가상자산",
+   "pct": 21.69,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "업비트 비트코인 소폭 상승 속 리스크 21.69% 급등…거래대금 1위",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BdzZGd2FTVjNSelZ0UzAwTGxDVHZrN1Bvc1hXOExaZDdxOHlLSWhTQ18yQ2NYeUw3SlJ6bnVrbm44cEFpRnlSZ3B3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-01T08:00:47+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-01T12:45:36.677074+09:00"
+}
