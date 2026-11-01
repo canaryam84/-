@@ -1,0 +1,372 @@
+{
+ "label": "11월 1일(일) 국내 종목 뉴스",
+ "updatedAt": "2026-11-02T00:27:24.652754+09:00",
+ "items": [
+  {
+   "title": "적정가치 모델은 후성의 주가 52% 급락을 어떻게 미리 포착했나",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XR0t2WTREWVZYT2wyelo5VWwyQTZPdUthT1RHY2dZeU9icmd3cXpOdkcwb2daM2M0TnQ3WXFQbmhwdjdLN09FbUxTeUZUZlg3dnRWX2dfVHBfRk5WbmZ1WGprX194VXBSQzZZNXR2eWpueXJLSXc?oc=5",
+   "source": "Investing.com 한국어",
+   "time": "2026-11-01T20:42:00+09:00",
+   "stocks": [
+    {
+     "name": "후성",
+     "code": "093370"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
+   "title": "카카오모빌리티 美ADR 상장 불발에… 카카오·TPG 국제 분쟁",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/11/01/FM7RUK7S45A3VJE5EHNOY2A2AQ/",
+   "source": "조선비즈",
+   "time": "2026-11-01T18:27:54+09:00",
+   "stocks": [
+    {
+     "name": "카카오",
+     "code": "035720"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "151개 기업에 ‘저PBR’ 꼬리표 붙는다 … 이마트·현대제철 등 시총 1조 넘는 5곳 포함",
+   "link": "https://www.mk.co.kr/news/stock/12192947",
+   "source": "매일경제",
+   "time": "2026-11-01T17:38:05+09:00",
+   "stocks": [
+    {
+     "name": "이마트",
+     "code": "139480"
+    },
+    {
+     "name": "현대제철",
+     "code": "004020"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 하이브(352820), 글로벌 공연 사업 확대…실적 고공행진",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQclg3UDZRaExzN2otM0V1V01aX1dWLVFvc3h3ZU40NHB0Y0VONnA4T215ZjhsaXdOX3RiNmxEMEU2WnlQd0ZVNjRUc2JvZWRJVVVvU3lRekd3NlVkbHpfdGFTT0VSc3M3ajRRZzFsYWE?oc=5",
+   "source": "인천일보",
+   "time": "2026-11-01T17:31:00+09:00",
+   "stocks": [
+    {
+     "name": "하이브",
+     "code": "352820"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[특징주] 에이유브랜즈(481070), 中 여심 잡고 성장 날개…시장 편중 부담",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRWNnVTE0LVYzVWNwUW1wTjNxTU1oNzJwX0szTml3aHJ0NFp3MzB3RFNkZDFDUGJwOEZGLWtva1JfTzRkWlhFQ0F4N0lxcnhidXliMGNQcUtTTnBRWGd3ME1Pelk4SlE3TlpTampCV1U?oc=5",
+   "source": "인천일보",
+   "time": "2026-11-01T17:29:00+09:00",
+   "stocks": [
+    {
+     "name": "에이유브랜즈",
+     "code": "481070"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "삼양식품 주가 하락…한화투자증권 “실적 전망 변화는 제한적”",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zNUZqRzRZN1M0T2lkUFRXNGVBU1VxLUlwN2UwMlNCWEdkQ0ZaY0RpTGVWUWxXam55b1l5Q3NDdDcyZFJTY1JvNlN0d1hYVTZQcFJLN1hFRUllcHZ2WUY2U2ZrOUdVbjhwTUw4bU15aTFKWExEbmdv0gF3QVVfeXFMTjM1RmpHNFk3UzRPaWRQVFc0ZUFTVXEtSXA3ZTAyU0JYR2RDRlpjRGlMZVZRbFdqbnlvWXlDc0N0NzJkUlNjUm82U3R3WFhVNlBwUks3WEVFSWVwdnZZRjZTZms5R1VuOHBNTDhtTXlpMUpYTERuZ28?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-11-01T13:36:52+09:00",
+   "stocks": [
+    {
+     "name": "삼양식품",
+     "code": "003230"
+    },
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "거래소, 저PBR 상장사 151곳 첫 공표…현대제철·이마트 등 포함",
+   "link": "https://www.hankyung.com/article/2026103177206",
+   "source": "한국경제",
+   "time": "2026-11-01T12:01:02+09:00",
+   "stocks": [
+    {
+     "name": "현대제철",
+     "code": "004020"
+    },
+    {
+     "name": "이마트",
+     "code": "139480"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "저PBR 151개사 명단 첫공개…현대제철 등 시총 1조 이상도 포함",
+   "link": "https://www.yna.co.kr/view/AKR20261031025200008",
+   "source": "연합뉴스",
+   "time": "2026-11-01T12:00:12+09:00",
+   "stocks": [
+    {
+     "name": "현대제철",
+     "code": "004020"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "유나이티드 렌탈스(URI) 주가는 210% 급등했음에도 불구하고 적정 가격 수준으로 보인다",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0NKdGJTekNlYy15WWFwYkxrV3lmN1oydUVRb1JRN3h4QXlRYVdQcXdkUS1xTTJ5OEZ1U29PUmVfLXEyczFnTGdRYlYxMWtvM0ZJZDNQVUpabENFWVFnMk41NjJzY3NOdW1ub0x0V3JTN2FTYkVwSXBzT0JTZGNTMExWM0hXVEs4emVLYzZzWWVPU21kYmg5bTBR0gGfAUFVX3lxTE9iczAwdmhJR21yZ3dMMUJNM0hLRndyVzh4NkhwWnZNUGpZcEhKOFBsWDg4X29QczZsM1RLOVlFNUFpUUwxSmttWU5QLTFhdngxTWxsa1d0SWlVY2h0aTFyMk01X2xPSmFDMXp1WEgwNEgxV1doOXdGRkxrb3pJQ085WlVicmh4M3JYR2lqVkoyOUZhbTFkbDVkOU1FWXl6Yw?oc=5",
+   "source": "Simply Wall St",
+   "time": "2026-11-01T11:59:01+09:00",
+   "stocks": [
+    {
+     "name": "유나이티드",
+     "code": "033270"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한섬 시스템 파리, 日진출…2030년까지 매장 10개 연다",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01367766645641456",
+   "source": "이데일리",
+   "time": "2026-11-01T10:29:52+09:00",
+   "stocks": [
+    {
+     "name": "한섬",
+     "code": "020000"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "현대건설, 5천990억원 규모 용산 한강로구역 재개발 수주",
+   "link": "https://www.yna.co.kr/view/AKR20261101018400003",
+   "source": "연합뉴스",
+   "time": "2026-11-01T10:19:23+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "현대건설, 5990억 한강로구역 재개발 수주…'디에이치 아벨린' 제안",
+   "link": "https://www.newsis.com/view/NISX20261101_0003849626",
+   "source": "뉴시스",
+   "time": "2026-11-01T10:17:57+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "증권사 목표가 단숨에 뛰어넘은 ‘LG전자’…요지부동 애널리스트들, 왜?",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Tmh6NjYzUlJrWDFXTkdiaHhXZkdJbWIwV2hOYk9KclZaNFBEcktIOVJwRFVRQlg1aW15dTZrWFhPTmdTRDVkVDV6b1VESDhLYXMzMXNGd2hORURkVFYwWU85Zw?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-11-01T10:00:11+09:00",
+   "stocks": [
+    {
+     "name": "LG전자",
+     "code": "066570"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공",
+   "link": "https://www.yna.co.kr/view/AKR20261101016500003",
+   "source": "연합뉴스",
+   "time": "2026-11-01T09:47:06+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "한화, 3575억 규모 美 해군 상륙함 건조 계약",
+   "link": "https://www.etoday.co.kr/news/view/2642599",
+   "source": "이투데이",
+   "time": "2026-11-01T09:22:00+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "한화, 필리조선소 인수 후 첫 美 군함 수주",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01216886645641456",
+   "source": "이데일리",
+   "time": "2026-11-01T09:15:35+09:00",
+   "stocks": [
+    {
+     "name": "한화",
+     "code": "000880"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "현대건설, 용산 한강로구역 재개발 수주…정비사업 13조 돌파",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01210326645641456",
+   "source": "이데일리",
+   "time": "2026-11-01T09:12:55+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "현대건설, 5990억원 규모 용산 한강로구역 재개발 수주",
+   "link": "https://www.etoday.co.kr/news/view/2642591",
+   "source": "이투데이",
+   "time": "2026-11-01T09:10:00+09:00",
+   "stocks": [
+    {
+     "name": "현대건설",
+     "code": "000720"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "한화생명, BLG에 0-2 완패⋯월즈 8강 진출 좌절",
+   "link": "https://www.etoday.co.kr/news/view/2642590",
+   "source": "이투데이",
+   "time": "2026-11-01T09:08:00+09:00",
+   "stocks": [
+    {
+     "name": "한화생명",
+     "code": "088350"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "영광·래블업·이에스티 등 상장[증시캘린더]",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01174246645641456",
+   "source": "이데일리",
+   "time": "2026-11-01T09:00:04+09:00",
+   "stocks": [
+    {
+     "name": "영광",
+     "code": "359410"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "한섬 '시스템 파리' 일본 진출…2030년까지 매장 10개 연다",
+   "link": "https://www.etoday.co.kr/news/view/2642577",
+   "source": "이투데이",
+   "time": "2026-11-01T08:36:00+09:00",
+   "stocks": [
+    {
+     "name": "한섬",
+     "code": "020000"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 2.70% 할인",
+   "link": "https://www.tokenpost.kr/news/insights/430748",
+   "source": "토큰포스트",
+   "time": "2026-11-01T08:30:36+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "에이비엘·보로노이, 유럽서 항암 성과…루닛은 美 신약개발 합류 [바이오 주간 결산]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01134886645641456",
+   "source": "이데일리",
+   "time": "2026-11-01T08:01:02+09:00",
+   "stocks": [
+    {
+     "name": "보로노이",
+     "code": "310210"
+    },
+    {
+     "name": "루닛",
+     "code": "328130"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표",
+   "link": "https://www.yna.co.kr/view/AKR20261031028400003",
+   "source": "연합뉴스",
+   "time": "2026-11-01T06:07:01+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "SK, 아끼던 티맵마저 내놨다… 중복상장 규제에 IPO 대신 M&A",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/11/01/REFL6KO24ZGDDMC6OUXNNKFGTI/",
+   "source": "조선비즈",
+   "time": "2026-11-01T06:00:00+09:00",
+   "stocks": [
+    {
+     "name": "SK",
+     "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "label": "10월 31일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T20:56:30.086183+09:00",
+ "updatedAt": "2026-11-02T00:27:24.652754+09:00",
  "items": [
   {
    "title": "스택스(STX) 24시간 11% 상승…비트코인 7만7500달러 회복",
@@ -56,6 +56,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "삼성전기, 사상 첫 200만원 돌파…현대차 제치고 시총 4위",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MWS1ySnVRVmN2NlNGYmNYN0NEN3k0ckNid25qQUNjQ01zbTJDUkpzVzFvZkIydkRSNWlOeVJjQzBZTEpabUZsWElOVk1ybklFTi1OeWF1U0RBR0NuTUZUejVrQQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-10-31T15:56:48+09:00",
+   "stocks": [
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
@@ -259,6 +273,20 @@
    "dir": "up"
   },
   {
+   "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+   "link": "https://www.yna.co.kr/view/AKR20261030067200008",
+   "source": "연합뉴스",
+   "time": "2026-10-31T09:00:38+09:00",
+   "stocks": [
+    {
+     "name": "영광",
+     "code": "359410"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
    "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 2.64% 할인",
    "link": "https://www.tokenpost.kr/news/insights/430456",
    "source": "토큰포스트",
@@ -285,6 +313,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "[속보] 광전자, 장초반 상한가 찍었다…주가 1만원 돌파에 27%대 급등",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bXBvd3hNQTBpanlKTWVjZ0g3N3hfT2s5TkNLRFNMMzZTSWxoZGVoMnBsS2lnQmtNbk4tRFJXd21HcmZiYU9RdGp5TV9oSDNEZXpyQ05XOGl6QXZzYS10TWxmT1NCYUl6?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-10-31T07:13:38+09:00",
+   "stocks": [
+    {
+     "name": "광전자",
+     "code": "017900"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "국제유가, 미 중간선거 후 이란전 확대 우려 경계⋯브렌트유 2.4%↑ [상보]",
