@@ -1,6 +1,6 @@
 {
  "label": "11월 1일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-02T00:58:38.005399+09:00",
+ "updatedAt": "2026-11-02T03:24:20.503795+09:00",
  "items": [
   {
    "title": "HC보광산업 5회 CB 전환주식 26만7391주 감소",
@@ -427,6 +427,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "실적 발표 앞둔 ‘SK하이닉스’ 주가 급락…증권가 목표가는 더 올랐다",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50XzZoVmFuX2JBQndZTFVuTGFkVFRXeW1TWktMSFJPWUk5c1c3ZFZqRkUtVTdxTEdsdkYzbHRQQ1I2bG5hOUxXVkFmU2hnd0VSdktobnY2bGVGVThHZVJTTjdYWQ?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-11-01T02:23:48+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   }
  ]
 }
