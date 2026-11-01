@@ -1,6 +1,6 @@
 {
  "label": "10월 31일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-01T00:24:47.370822+09:00",
+ "updatedAt": "2026-11-01T20:56:30.086183+09:00",
  "items": [
   {
    "title": "스택스(STX) 24시간 11% 상승…비트코인 7만7500달러 회복",
@@ -335,6 +335,36 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[주요공시] 삼성전자, SK하이닉스, 삼성전기, 한화에어로스페이스, 삼성바이오로직스 외",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqVU5OX1F3a0IxTk12NHBrbnNFbzdqVU1SQlY1b2tzUzBWWEVaODU0dFc5eVVVOFVFZlZWNURTdEVMa1M1Q2VoeWRtbDBOWEN6T0J5ZmQxakFYU21PUDVSVW5TcFM4UTNEalhxcQ?oc=5",
+   "source": "데일리경제",
+   "time": "2026-10-31T05:17:22+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    },
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    },
+    {
+     "name": "한화에어로스페이스",
+     "code": "012450"
+    },
+    {
+     "name": "삼성바이오로직스",
+     "code": "207940"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
   },
   {
    "title": "기아 주가, 오늘 급락한 이유는?",
