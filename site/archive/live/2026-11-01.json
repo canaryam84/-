@@ -1,7 +1,21 @@
 {
  "label": "11월 1일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-02T03:24:20.503795+09:00",
+ "updatedAt": "2026-11-02T05:23:03.432637+09:00",
  "items": [
+  {
+   "title": "인선이엔티 최대주주, 주식담보 계약 변경",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FajF3cHlFd25hTDdPQVVQTG51N3gzeFVJQmUzUmx2VkNpYi1RNF9tcVpJdXlmTUJhcTlCWmlVeHJ5bU9LY2ZQNnJmcEpTQVdoV0dSUWtkdmdGMDZDM2tyUEFHcGRnUQ?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-11-01T22:54:20+09:00",
+   "stocks": [
+    {
+     "name": "인선이엔티",
+     "code": "060150"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
   {
    "title": "HC보광산업 5회 CB 전환주식 26만7391주 감소",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZXo5NHA0NkRRTlNKMHlDYk9LbEE2ZTB3MFE3bnpFaDAzdWR1VDN0QkYwUm82RHpKZVJMUGV1OFZRQXIzQ2Z0ZFZOZW1yMGJHUkZ3ZmVWUzVxTG9YclY0dzUwYmRjUQ?oc=5",
