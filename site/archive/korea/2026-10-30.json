@@ -7,16 +7,16 @@
    "pct": -3.48,
    "text": "-3.48%",
    "exact": true,
-   "source": "연합인포맥스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNDU0T0FDMXVMajZtS0MtM3pHaERZOVBzQ2k4STBRNS1QcGh2RHJXbHNWcUtsSG1wU205NVZyZkt3aFdlZHhWbDc2d1VWQ0xieWpKYU0wb2dUQVVJd0JacnlhLUlpMGk1c0h4UnFOcWTSAXRBVV95cUxNeWxlX0pHTGd5UURBN2U4WU9QTkZDa1hEMXpyb1NlbjhfRXAwcFpDMXBwNXRLRGZoNVdya2tvYnNCbm85VU52ZnNSeDJweGV2S2R0RVE5TGtvcXVTdTRFOG1OZUlpeXVMRVVweGVVd0xlQVlCUw?oc=5"
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaDNJTUNRRVBoNmtQcHVoWkJDSFQ2TDNWamU2QjR5NnVQaWtfNnRXUm44dE9qVGUyajBBcWZOekd0SWZ2bk8xdU93T2RiZ2UwNE9QcEo1d3VXLWN3ZWN0a0w3WXdUTFU?oc=5"
   },
   {
    "name": "코스닥",
    "pct": -3.83,
    "text": "-3.83%",
    "exact": true,
-   "source": "연합인포맥스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNDU0T0FDMXVMajZtS0MtM3pHaERZOVBzQ2k4STBRNS1QcGh2RHJXbHNWcUtsSG1wU205NVZyZkt3aFdlZHhWbDc2d1VWQ0xieWpKYU0wb2dUQVVJd0JacnlhLUlpMGk1c0h4UnFOcWTSAXRBVV95cUxNeWxlX0pHTGd5UURBN2U4WU9QTkZDa1hEMXpyb1NlbjhfRXAwcFpDMXBwNXRLRGZoNVdya2tvYnNCbm85VU52ZnNSeDJweGV2S2R0RVE5TGtvcXVTdTRFOG1OZUlpeXVMRVVweGVVd0xlQVlCUw?oc=5"
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaDNJTUNRRVBoNmtQcHVoWkJDSFQ2TDNWamU2QjR5NnVQaWtfNnRXUm44dE9qVGUyajBBcWZOekd0SWZ2bk8xdU93T2RiZ2UwNE9QcEo1d3VXLWN3ZWN0a0w3WXdUTFU?oc=5"
   }
  ],
  "items": [
@@ -48,7 +48,7 @@
     },
     {
      "title": "SGA솔루션즈 주가, 상한가... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rX3VsTzQ0ZlFocDZKX2hCOXIxa0NXWWxoMDBXVDkyODdyRy00QV9NNjFzY21MSEl0ajJDN3NhRmdiNXhZdHJiTFJOZllkalVpUkdjTzFXalFWbUxjMTYzYTBiN3AzSThv?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUzExTVdaRDhNY0FZc2tpY0pROVctY0xrUUhhYzVPSnYwbHVUTzROWEd5VWRVVkNPMkxkc2tub190T3dyd2FtQWU4UVdyaFNILWdqRTlBbjVqclNiR1lMY0QxX0dqRV83MWc?oc=5",
      "source": "금강일보",
      "time": "2026-10-30T09:45:24+09:00"
     }
@@ -99,24 +99,18 @@
    ]
   },
   {
-   "name": "진양화학",
-   "sub": "코스피 · 051630",
+   "name": "쏘카",
+   "sub": "코스피 · 403550",
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 1,
    "articles": [
     {
-     "title": "진양화학 상한가 3185원…거래량 509만주 집중",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4d9IBckFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4dw?oc=5",
-     "source": "잡포스트",
-     "time": "2026-10-30T16:05:00+09:00"
-    },
-    {
-     "title": "[마감분석] 진양화학 상한가 직행 3185원 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfbk9TbGJlVUs1cWpsdFlOMXpXNU1XQXF2bE9SN18xMHBYZ294T3JmNWJlU3FadHdFRC03UzF3RVhpWlJ2XzlNNV9GNA?oc=5",
-     "source": "재경일보",
-     "time": "2026-10-30T15:48:59+09:00"
+     "title": "쏘카는 자율주행 진출에 상한가…티맵 IPO 힘 붙을까",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVQ3a1lSbGx5M1hXRFg0Y1V3TVhlNU9ZY2VIYkk1bnVldWJUdExOMWFkUEVGeUFVT3JGeU5HcWc0ZHVpcTBhTm9Ld1hJRW5heEwwTnU4UnhhZw?oc=5",
+     "source": "한국경제",
+     "time": "2026-10-30T09:43:25+09:00"
     }
    ]
   },
@@ -137,50 +131,18 @@
    ]
   },
   {
-   "name": "쏘카",
-   "sub": "코스피 · 403550",
+   "name": "진양화학",
+   "sub": "코스피 · 051630",
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "쏘카는 자율주행 진출에 상한가…티맵 IPO 힘 붙을까",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVQ3a1lSbGx5M1hXRFg0Y1V3TVhlNU9ZY2VIYkk1bnVldWJUdExOMWFkUEVGeUFVT3JGeU5HcWc0ZHVpcTBhTm9Ld1hJRW5heEwwTnU4UnhhZw?oc=5",
-     "source": "한국경제",
-     "time": "2026-10-30T09:43:25+09:00"
-    }
-   ]
-  },
-  {
-   "name": "라온로보틱스",
-   "sub": "코스닥 · 232680",
-   "pct": 24.19,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "[마감분석] 라온로보틱스, 특별한 공시 없이 24.19% 급등 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZLXB4bm1taE5wSDdzWnNzUDZwZ0xTdWdDWjNYb21lMTdJMFpYT0daQUJFbmUyMTVMbVVnMTFpSE9CVjBHOXBzYkFnaw?oc=5",
-     "source": "재경일보",
-     "time": "2026-10-30T15:49:18+09:00"
-    }
-   ]
-  },
-  {
-   "name": "서울반도체",
-   "sub": "코스닥 · 046890",
-   "pct": 22.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "코스피 5600선으로…하닉 7%대 급락·서울반도체는 22% 급등",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSUc4Q2RsU0RWUDlkbVpPNEpId2gyX09RNi1kTkFVZU5iSFBocGhlUWlWWFloNmt0SElRdllsdWp3a2NPZHVNNHNqb3hZY2ZSTHNxOWFpUGlOdk1Lb3VlLWhxdmJYLUVVcFE?oc=5",
-     "source": "월요신문",
-     "time": "2026-10-30T10:00:33+09:00"
+     "title": "진양화학 상한가 3185원…거래량 509만주 집중",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4d9IBckFVX3lxTE05SHZqVFBKd1hDV0gxMnVkdmN6cnVvOXl0RG1PRnZNRGxRQV9EbkprY2xRNGVHa3g1bndKZ2pfM0VGZG5rSjRJX2dEQzJZcTFYVGdvYl9tMUhlTEZGSnF4dkVyQmIwZGJoMzgtRHNEVlp4dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-10-30T16:05:00+09:00"
     }
    ]
   },
@@ -196,7 +158,7 @@
      "title": "[속보] HLB바이오스텝 VI 잇따라 발동…주가 21%대 급등, 장중 6820원까지, 일부 FDA언급도",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTDd2TWpGa3hIbG5veEpPWmZTcFhjSnc5RGlMQkU4b1RkakFhUWRETzFsWktVR0ZYbWh3Q3F1ZlFVdkw5OFJNX2o4cWZaX0h1d3NOM1pXNzY0bEtKYVB1UnlvSER1M3B3?oc=5",
      "source": "CBC뉴스",
-     "time": "2026-10-30T18:04:45+09:00"
+     "time": "2026-10-31T23:31:54+09:00"
     }
    ]
   },
@@ -222,14 +184,8 @@
    "pct": 16.0,
    "limitUp": false,
    "afterMarket": false,
-   "newsCount": 4,
+   "newsCount": 3,
    "articles": [
-    {
-     "title": "[투데이's 특징주] 대원제약, 신약 임상 3상 성공 소식에 15%대 급등",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxLVV1SjN1TklUZ3ozVGI0SE5OVXBiWkxIMVVQb3N6LUljdWFuMFNzVjNYc3NINnplZnJXUTlWa3hLVWNjR1VWTUFHRmN2Y0FZbGlnZW1TWG5GWExaMzVwMzM0YnQtWXhjQmt2RVY4ai0?oc=5",
-     "source": "투데이코리아",
-     "time": "2026-10-30T10:11:42+09:00"
-    },
     {
      "title": "[특징주] 대원제약, P-CAB 신약 임상 3상 성공…주가 15%↑",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdk5zaGFHUjhZcDlFd1FVQTNaMC1BbDIwV1RCY2RzYmpDZzdLRW5QSnlHd18zVW1kdnlhWXQ5c2lFZ2trejBUd0RBSjVDT3U2RTlKM1k2QkZPVTZvUlpRY1dWWmI4NXgxRUHSAW5BVV95cUxOLUg0QnZMX21FM3dwWWllc01TVEtfbU42ZjJnWnZXVjRwTDdVV0hVcHR1akJXTzhLSnhZQkh5cW00eUZ6bmhuX0w4dDh5a1NSdVhJWms3RlZsWWtJUWhzUmRKVWlhdmV5U2JVQUNIQQ?oc=5",
@@ -237,15 +193,15 @@
      "time": "2026-10-30T09:25:46+09:00"
     },
     {
-     "title": "[특징주] 대원제약, 위식도역류질환 신약 임상 3상 성공에 16% 급등",
-     "link": "https://biz.chosun.com/stock/stock_general/2026/10/30/VE6EYGUN2FEJBBGAVGVE3DCVKU/",
-     "source": "조선비즈",
-     "time": "2026-10-30T09:25:07+09:00"
-    },
-    {
      "title": "[특징주] 위식도역류질환 신약 3상 성공에…대원제약 15%대 급등",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jZGJUZDAwOTBMOTRyZWswNlFCTUZVYVdSbXlTVmtQRnVtajVyYVVVU0xtZ1owTDNLZnl1QjN2R1dHS1ltZFUyTC1wTUt1cG1EbnBOcw?oc=5",
      "source": "이투데이",
+     "time": "2026-10-30T09:25:00+09:00"
+    },
+    {
+     "title": "[특징주] 대원제약, 위식도역류질환 신약 임상 3상 성공에 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2Q3a0M2Wi02Q1hNeEVvdHV3VEEtdVhhODE0d3ZhTmstUHVGLWdsOXNJNjFTNDJQTDNzOTdtTjJvZWtjNVB6WEVDN3VSaWFpM1pEcWJ0dmFyRE5sTDJWLUpSM3lXSndKWTN2QTN4QWREYXg0VjNTY2xfVVVpZGYwdTlZbDV4ZnF10gGcAUFVX3lxTE1vdXZEOU9pWXY2X3VrNThDc1dBZVZiUzVpRUdlZk9UZUlObWFhWW9XdVctS2NQcTZyamtLVVN4enlLWU9PdHhfOW10VXpJMDBYeUtZVnFDUlpxd0o2eEg2SUJsd0xxZ0k3RUFaUi16djN1R0VmTEJ6T1lGQzVJTDRFbEJEWUgxMnVNSC1mTmhZcUkwcDJPZkw5bmdoVg?oc=5",
+     "source": "Chosunbiz",
      "time": "2026-10-30T09:25:00+09:00"
     }
    ]
@@ -273,5 +229,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-31T20:40:54.711995+09:00"
+ "updatedAt": "2026-11-01T17:17:15.377469+09:00"
 }
