@@ -1,6 +1,6 @@
 {
  "label": "11월 2일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-03T05:32:22.395847+09:00",
+ "updatedAt": "2026-11-03T06:30:09.744952+09:00",
  "items": [
   {
    "title": "저PBR 기업 76% 주가 상승…현대제철 11.6% 급등",
@@ -739,6 +739,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]GS건설, '일회성에 속아 구조적 개선을 놓치지 말자' 목표가 40,000원 - 현대차증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mX2ZteDdERzhSV0x0M2xlcDFhX3Y4ek9SOU9CaG5fQk1NNUJPM0x0STRtVVE2aVZfVTRQS2puUTF3bFliU3VtTS1vTVROS0VPNTdhc29RXzJrSVBr?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-02T16:26:00+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    },
+    {
+     "name": "현대차증권",
+     "code": "001500"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "KG모빌리티 10월 6천537대 판매…작년보다 31% 감소",
    "link": "https://www.yna.co.kr/view/AKR20261102144600003",
    "source": "연합뉴스",
@@ -870,9 +888,9 @@
   },
   {
    "title": "샘표·샘표식품 합병에 동반 상한가…매수청구가 '600억 변수'",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuMFRrNGJUNzZpaFBMVUNrX19FQ0hDbGlES1p1QUxQRmVvRkFKNDhSaXdsMlZaZTNCSWZjMTZPOWRfTnAtWG5SNnNLcmRIaHFJVXVGTmRpaTJrSk11STdIbDIzUElxZjk1Z3JNbNIBbEFVX3lxTFBuMFRrNGJUNzZpaFBMVUNrX19FQ0hDbGlES1p1QUxQRmVvRkFKNDhSaXdsMlZaZTNCSWZjMTZPOWRfTnAtWG5SNnNLcmRIaHFJVXVGTmRpaTJrSk11STdIbDIzUElxZjk1Z3JNbA?oc=5",
-   "source": "블로터",
-   "time": "2026-11-02T15:51:48+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodVhUXzZ2aEdid2U4TGNFNW14UXJ2YTA4ai1oVURjVTNTM2w3R1ZSbG9TS1dUTFM4RTIyZlZBQnVzNEtaOENvM01CQQ?oc=5",
+   "source": "Daum",
+   "time": "2026-11-02T15:51:53+09:00",
    "stocks": [
     {
      "name": "샘표",
@@ -5999,20 +6017,6 @@
    ],
    "thin": false,
    "dir": "up"
-  },
-  {
-   "title": "\"HL만도, 자율주행 투자로 수익성 둔화 이어질 것…투자의견·목표가↓\"-삼성",
-   "link": "https://www.hankyung.com/article/2026110290626",
-   "source": "한국경제",
-   "time": "2026-11-02T08:15:32+09:00",
-   "stocks": [
-    {
-     "name": "HL만도",
-     "code": "204320"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   }
  ]
 }
