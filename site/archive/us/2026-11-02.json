@@ -1,0 +1,59 @@
+{
+ "label": "미국 11월 2일(월) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.43,
+   "text": "+0.43%",
+   "exact": true,
+   "source": "뉴시안",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYTdCSFR2cnNuTVloVU5tbndRRkhKZEprQlk2bGd2TTdFNG9zT25Vd3d3am5Td3E0U09VVW1PeER6c0hrcVNFNkdxV09FTjZEY2FzVXlyTjB5WUxTcWhNXzRBS2N1bUZlWUY2Uw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -1.07,
+   "text": "-1.07%",
+   "exact": true,
+   "source": "뉴시안",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYTdCSFR2cnNuTVloVU5tbndRRkhKZEprQlk2bGd2TTdFNG9zT25Vd3d3am5Td3E0U09VVW1PeER6c0hrcVNFNkdxV09FTjZEY2FzVXlyTjB5WUxTcWhNXzRBS2N1bUZlWUY2Uw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Inovio",
+   "sub": "INO",
+   "pct": 229.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Inovio shares surge 229% as FDA approves first commercial product",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0lFNmp2TGM0WkJOWmYwcEpwNE5PMVRZVGx0RURTa1hCS2JuZS1jM3JhQnlBVHpiVUVzVGlLNl9JM29rdnpoem9VclRleG9zdGNKZ3VrVUYxWmlSWW9Ta0JIQ3o5M09MSmNXbXN3d08xSmNtM2gzSmV1SUhJY1hVVGE4OTJpeWlKMElETm9CQlVqVHZESHctbi1STnRFeWpFWWJnQmpzOE8tT1dHTm0wV3VWYV9RWnVtM0d2RHFmckZxMzJvUTRCb1FrcWhKQ3pX?oc=5",
+     "source": "Proactive financial news",
+     "time": "2026-11-02T22:30:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "IDEXX",
+   "sub": "IDXX",
+   "pct": 21.9,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "IDEXX stock soars 21.9% after earnings beat and higher outlook",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWRpclRneG5QS2pPU0c4cVFWdzdhbEFEcTFqVlphNUZPaVR0aW5EYkNYVkxhMk13UkphNEZhX0JQOUxweVhFdWZmbUlBb0pPVC1tNzhZR29Wb2wxdDR4TTE2UWhXSkxQQnpOYTRBNzFPVW5oVlF2RU9tZ0RCYUtNV3BVNkJkSkU4WTM5X01xOEVsdEV4ZlpEZGtjb1o4Y3pZMWV3RTBScw?oc=5",
+     "source": "TheStreet",
+     "time": "2026-11-03T06:00:44+09:00"
+    },
+    {
+     "title": "IDEXX stock jumps 20.2% after beating earnings and raising guidance, boosting S&P 500 funds.",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckxFVDdobF84TnpyWExrUGJ5RVVhUzREUWJVQmxzVV9ta19LWUFwWWxLSnU2NUp0OWhZTE9JY05GZlJPQ0hiSWdFSUJLcURaZUdVU1VHTHJSSmdzTkdxZkVFUExOWG40NUg3LVNMN2JfNndQcnJGSGFDUG5GcldHaHFZQW1DTFNLcHNDN0NzcEI4QzA4T3JrdEhjdEIxRXFvdHRBYWlKWnJfRVl2Ym1v?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-03T05:27:26+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-03T07:35:40.525422+09:00"
+}
