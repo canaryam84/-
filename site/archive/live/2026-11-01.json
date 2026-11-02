@@ -1,6 +1,6 @@
 {
  "label": "11월 1일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-03T00:44:25.882699+09:00",
+ "updatedAt": "2026-11-03T01:48:41.449652+09:00",
  "items": [
   {
    "title": "인선이엔티 최대주주, 주식담보 계약 변경",
@@ -416,6 +416,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[속보] HLB제약 주가 13% 급등 애프터마켓서 VI 발동…HLB 그룹주 동반 '껑충'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lZU1IM3BZdGpNdnZ1MHJDS2czRHBLdkN1S1lSdEJ2T0UyREFqZzZlSmd6MTZBNy0xTUF0OTM2UVduNFdMVTJ6MTJ1aUJ3dlFvRGh0N01uS3JuS2RMRXozNVl6VDdQMXlO?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-01T07:55:34+09:00",
+   "stocks": [
+    {
+     "name": "HLB제약",
+     "code": "047920"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
