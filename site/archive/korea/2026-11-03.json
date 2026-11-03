@@ -1,5 +1,5 @@
 {
- "label": "11월 3일(화) 정규장 마감 후 보도 기준",
+ "label": "11월 3일(화) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -26,31 +26,31 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 28,
+   "newsCount": 36,
    "articles": [
     {
-     "title": "호반 김상열 vs 조원태 ‘지분전쟁’…한진칼 보통부-우선주 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoaUdrTGVGTzV1dmVnaHpLZjUwM256SFVRQkNOajQ3Q1JjSENuR1RjX05KelQyOXFfY2FzaDJfZ0o4dkdRQWlLRC1MWFcxY3I4U1RuTGpST0dGdWl4Rk9zbE03QkNxTkVuWUE?oc=5",
-     "source": "금융소비자뉴스",
-     "time": "2026-11-03T17:06:00+09:00"
+     "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQTRYdzJuS3BNNWJzcFF5M1VUbVJsUl9iU1I1N3RpTHh3REpCYVYza3FxTERqWkJ5MlA2YUoyRVVpRE9YMkd0Z1QydDU4eXVJQTAtbmZQVDdYTGYzVVlQUUdTMVdwdTAtN2Rz?oc=5",
+     "source": "www.ksdaily.co.kr",
+     "time": "2026-11-03T18:34:59+09:00"
     },
     {
-     "title": "'경영권 분쟁'에 한진칼 단숨에 상한가…호반그룹의 속내는?",
-     "link": "https://www.hankyung.com/article/202611032791i",
+     "title": "조원태 vs. 호반 지분 경쟁…한진칼 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JSERrTVZUVjIyUy03NnFhOXlmV29PcWVFNFVJM3lMUTlJc0F1U2NlczllUjAwSG0xOUZ4X2I2cGJEWUdqTzdrSkRZRVRMQy1JblFxVmt5LXbSAVhBVV95cUxNSUhEa01WVFYyMlMtNzZxYTl5ZldvT3FlRTRVSTN5TFE5SXNBdVNjZXM5ZVIwMEhtMTlGeF9iNnBiRFlHak83a0pEWUVUTEMtSW5RcVZreS12?oc=5",
+     "source": "SBS Biz",
+     "time": "2026-11-03T17:52:00+09:00"
+    },
+    {
+     "title": "한진칼, 경영권 분쟁 가능성에 상한가…남은 변수 3가지",
+     "link": "https://www.hankyung.com/article/2026110336731",
      "source": "한국경제",
-     "time": "2026-11-03T16:42:47+09:00"
+     "time": "2026-11-03T17:48:14+09:00"
     },
     {
-     "title": "한진칼, 경영권 분쟁 재점화 조짐에 상한가…17만5200원 마감(종합)",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuRTY4NkkxN0tpZGtUR3Jka2J0YVM5NmpqbFBzS28zZWp5Q3VnYkVRX3VoZHFBSWc2ZmV1RUlJb3h6cE5vZGt6RmphOC1JNWNKel94VUpnbEJDVzFJUTc5Z3lCM1d2ZldwT2RhSFVpQ18wSmxlNXR6RtIBeEFVX3lxTFBuRTY4NkkxN0tpZGtUR3Jka2J0YVM5NmpqbFBzS28zZWp5Q3VnYkVRX3VoZHFBSWc2ZmV1RUlJb3h6cE5vZGt6RmphOC1JNWNKel94VUpnbEJDVzFJUTc5Z3lCM1d2ZldwT2RhSFVpQ18wSmxlNXR6Rg?oc=5",
-     "source": "뉴시스",
-     "time": "2026-11-03T16:24:48+09:00"
-    },
-    {
-     "title": "호반이 치고 올라오자 조원태 370억 맞불…한진칼 '상한가'",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQWY5UDA2RkhCaWdFem15STFXVE5Xb2EzQXJ3MDNCNnNUX1c2WDVyeS1JM1l4N1VKMGRSRkkyXy1JMENZV0dmUHU0RlFMQVkweDVYSWN2dHZTRWltRnNoaWVWTXBiU25UV1l2cVRlSQ?oc=5",
-     "source": "뉴스퀘스트",
-     "time": "2026-11-03T16:05:07+09:00"
+     "title": "[주식마감] '경영권 분쟁 가능성' 한진칼·한진칼우 상한가... 깨끗한나라, 한울앤제주, AP위성, 한싹 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11aXFZSDV3LTNlVTFhZFJRVWRFVzJJT2lDdEotNXBwbnhoSlVVWFBDc2o2UW1seHY2UkFxUG9JQmNGU3ZXc1R3UlZrd2U2TUJfa3AtRVFRRGxMSVlMOVFEdHVhZm1pVFpf?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-03T17:46:43+09:00"
     }
    ]
   },
@@ -82,7 +82,7 @@
     },
     {
      "title": "[특징주] 금융권 해킹 확산에 보안주 급등···한싹·파수AI 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vckkta1JDRFhCWHdzVnBvNFJoeXpMME9qaTJwdUswTWZvTlNhQ3FZdUVWZ3ZfWlJnSW53R3Z3NldKVXlNalo2TjVMbGRJaHpldzI2bjY4WGU2S2RPMTdIbzFmbDdpaThI0gFrQVVfeXFMTk5lcEFQSjJNMzh4VkV4MW0xVGtJQUNfNm9nTGJYM0N5M2c1dm0wTTJHNF9YVG02U1hwYVRjd2Q3V2F0R1RtRE1XOE1Qd0x0NUFPMFVzWkJId004VUxELTBTQzdod3h2WDgwU00?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PNUdXdmNjNl9CaUZoS0xHWWRzZi1MZXRTNE5vMUs1dUhsaTNRNENMZzk0Zk44aUJIcXdFM3prZWJZNnNCV2c4Vm5JR0ZzdmJsS01Db0ZPZFFEVnFXYWo1VkFqZ19UdTTSAWtBVV95cUxOTmVwQVBKMk0zOHhWRXgxbTFUa0lBQ182b2dMYlgzQ3kzZzV2bTBNMkc0X1hUbTZTWHBhVGN3ZDdXYXRHVG1ETVc4TVB3THQ1QU8wVXNaQkh3TThVTEQtMFNDN2h3eHZYODBTTQ?oc=5",
      "source": "현대경제신문",
      "time": "2026-11-03T09:51:31+09:00"
     }
@@ -110,7 +110,7 @@
     },
     {
      "title": "[특징주] 금융권 해킹 확산에 보안주 급등···한싹·파수AI 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vckkta1JDRFhCWHdzVnBvNFJoeXpMME9qaTJwdUswTWZvTlNhQ3FZdUVWZ3ZfWlJnSW53R3Z3NldKVXlNalo2TjVMbGRJaHpldzI2bjY4WGU2S2RPMTdIbzFmbDdpaThI0gFrQVVfeXFMTk5lcEFQSjJNMzh4VkV4MW0xVGtJQUNfNm9nTGJYM0N5M2c1dm0wTTJHNF9YVG02U1hwYVRjd2Q3V2F0R1RtRE1XOE1Qd0x0NUFPMFVzWkJId004VUxELTBTQzdod3h2WDgwU00?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PNUdXdmNjNl9CaUZoS0xHWWRzZi1MZXRTNE5vMUs1dUhsaTNRNENMZzk0Zk44aUJIcXdFM3prZWJZNnNCV2c4Vm5JR0ZzdmJsS01Db0ZPZFFEVnFXYWo1VkFqZ19UdTTSAWtBVV95cUxOTmVwQVBKMk0zOHhWRXgxbTFUa0lBQ182b2dMYlgzQ3kzZzV2bTBNMkc0X1hUbTZTWHBhVGN3ZDdXYXRHVG1ETVc4TVB3THQ1QU8wVXNaQkh3TThVTEQtMFNDN2h3eHZYODBTTQ?oc=5",
      "source": "현대경제신문",
      "time": "2026-11-03T09:51:31+09:00"
     },
@@ -119,28 +119,6 @@
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1haFlES04xSUZENkJkcWp1WmlSZ1VncWtJRXlNMkpCdGh6NlJtNUFkeVIyc1NUTVZTdHlGRjNUc1AwSGpDRVBib194SlFmTzIzVHBZeTNMd1JuWms3ZndRVnhhV1MyTFoxRVRtMWswOUppNkpxYkVtVdIBeEFVX3lxTE1haFlES04xSUZENkJkcWp1WmlSZ1VncWtJRXlNMkpCdGh6NlJtNUFkeVIyc1NUTVZTdHlGRjNUc1AwSGpDRVBib194SlFmTzIzVHBZeTNMd1JuWms3ZndRVnhhV1MyTFoxRVRtMWswOUppNkpxYkVtVQ?oc=5",
      "source": "뉴시스",
      "time": "2026-11-03T09:47:55+09:00"
-    }
-   ]
-  },
-  {
-   "name": "AP위성",
-   "sub": "코스닥 · 211270",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "[특징주] AP위성, KPS 위성 시험장비 납품에 상한가…우주항법 사업 확대 기대",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92aFIwaERKQm1VRlpubks1MGFpWEtJSnhaOGswdGVVTVRKMHRzWW92NExTcjMzSElES01ONFV1UlZIckhqZzJhLUtfZXdfZTI2Rk5pd0ViUHpFeEthRUktMTRSQWg1RGdBOFE?oc=5",
-     "source": "https://www.moneystorm.kr/",
-     "time": "2026-11-03T15:41:47+09:00"
-    },
-    {
-     "title": "[특징주] AP위성, 뚜렷한 공시 없이 장중 17%대 급등 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lY2lWS2tWNFJ1Tlh0TmxlRmdINlFIeE1maXZUWVkyZlJUa1JNV1llS08tNWsxTXVoZzhOZFlnUml2dmQ1Q0tRVF82SQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-03T10:24:20+09:00"
     }
    ]
   },
@@ -182,7 +160,7 @@
     },
     {
      "title": "로킷헬스케어 주가, 장중 26%대 급등... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VS3M3NWhUVkdralgzYVpoZFlMR1lPZDFUSk1NYjI1NFJyODY0SWhNVk1GcHJoR3c2amFEel9PaFZ2OURVbEc5anl4eGFfLU5PUXZIcUZNTWhxNWMyUnZXWFBHTTlOWmt6?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cWxpb0MzTlp6WVNha09sZUpZSWd4YS1ZbWdzb3hHdjJlRVdzTlBOdk5SaDZUTEY3TU1yM25acEQxcTU0WjBoUlJMbjdzZE94MjBGNUcxLVNaZi1YWk9uM3M2bDlrV3luS0E?oc=5",
      "source": "금강일보",
      "time": "2026-11-03T10:49:39+09:00"
     },
@@ -303,6 +281,22 @@
    ]
   },
   {
+   "name": "AP위성",
+   "sub": "코스닥 · 211270",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] AP위성, 뚜렷한 공시 없이 장중 17%대 급등 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lY2lWS2tWNFJ1Tlh0TmxlRmdINlFIeE1maXZUWVkyZlJUa1JNV1llS08tNWsxTXVoZzhOZFlnUml2dmQ1Q0tRVF82SQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-03T10:24:20+09:00"
+    }
+   ]
+  },
+  {
    "name": "피앤에스로보틱스",
    "sub": "코스닥 · 460940",
    "pct": 16.0,
@@ -319,5 +313,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-03T17:30:19.465006+09:00"
+ "updatedAt": "2026-11-03T20:52:54.421795+09:00"
 }
