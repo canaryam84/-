@@ -1,0 +1,39 @@
+{
+ "label": "미국 11월 3일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.38,
+   "text": "-0.38%",
+   "exact": true,
+   "source": "중앙신문",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPc1F4dTZDV1I3QkF5NGNSdWJWQWo3eEFIcUZhTHBqdG1MR19ETjBTaW12TmZuZXZUOURLQ0haQTUzZXMwMW11MVhTN2VZS2Y5eWxCX2xDQVRjRU9hTVlXa00zd3dlWXFvSHJodE9HUm5jZXJXRk54a21kQTUyQWhrUWZWTjBVaC0xMzBvQzBMVlpMSW14QktZSURXSXJ1SW40a0xFZXZHeGdiRU93SXdnNm1EV3JqUElCZHZmTkt5blI3R3RFS2h1WWRqVTY1VGJ1Wm9jSjZ6NlNnU3hiTjY1MjVTN3NoRnk1ZThRWGFGOS0wbUFHS0ozcmk0ajlVQW5XSW5WSUVnOUZZQm1QMXlJT2VmU0cxc1NTd3UzdDBaNVd5cUZIdmlJTkVrUTJKcEt2aVg3SjRlTFFEYi01TmhVVlZzaw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.83,
+   "text": "+0.83%",
+   "exact": true,
+   "source": "중앙신문",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPc1F4dTZDV1I3QkF5NGNSdWJWQWo3eEFIcUZhTHBqdG1MR19ETjBTaW12TmZuZXZUOURLQ0haQTUzZXMwMW11MVhTN2VZS2Y5eWxCX2xDQVRjRU9hTVlXa00zd3dlWXFvSHJodE9HUm5jZXJXRk54a21kQTUyQWhrUWZWTjBVaC0xMzBvQzBMVlpMSW14QktZSURXSXJ1SW40a0xFZXZHeGdiRU93SXdnNm1EV3JqUElCZHZmTkt5blI3R3RFS2h1WWRqVTY1VGJ1Wm9jSjZ6NlNnU3hiTjY1MjVTN3NoRnk1ZThRWGFGOS0wbUFHS0ozcmk0ajlVQW5XSW5WSUVnOUZZQm1QMXlJT2VmU0cxc1NTd3UzdDBaNVd5cUZIdmlJTkVrUTJKcEt2aVg3SjRlTFFEYi01TmhVVlZzaw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "HF Sinclair",
+   "sub": "DINO",
+   "pct": 253.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "HF Sinclair shares soar 253% on strong Q3 earni...",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTh5Mk5XR3pFRUFVTDdjRWRSVFREYjlCNEhUUEE4LW1LbkhISERUck9veVpqZjRLQV96NHJORHpFS1BQWEJLSWd4TEVuc3VOYk9STXV2UkhZMVFNWkhEQ3lRcjhxdnloV2ZGMUh6aldibXZxS3FWanc5WV9qaENGSVZsa2plTUE?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-04T01:17:31+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-04T07:36:35.639282+09:00"
+}
