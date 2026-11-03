@@ -1,6 +1,6 @@
 {
  "label": "11월 3일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-04T03:32:27.688934+09:00",
+ "updatedAt": "2026-11-04T07:13:39.729373+09:00",
  "items": [
   {
    "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
@@ -5397,6 +5397,20 @@
     {
      "name": "LG",
      "code": "003550"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "HLB, 美 FDA 항암 신약 승인에 상한가…그룹주도 줄줄이 上",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wa01vRHdreFpPbzB0V1h1SV9NRHNaZVBTNk5hYk5YS2FpUTZ4UFpiYVFKalJrcWxKb05rNDQ3bnJ6aFR5RFNsaXBDYWhqeFlwdEVlbTZwZWtYUGlWLUxQT1ZPcHNoM1Mw?oc=5",
+   "source": "TradingView",
+   "time": "2026-11-03T06:36:49+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
     }
    ],
    "thin": false,
