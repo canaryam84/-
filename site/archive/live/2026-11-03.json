@@ -1,6 +1,6 @@
 {
  "label": "11월 3일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-04T14:30:58.999909+09:00",
+ "updatedAt": "2026-11-04T18:20:53.017076+09:00",
  "items": [
   {
    "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
@@ -14,6 +14,32 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[속보] 빛과전자, 장중 상한가 껑충…빛샘전자·대한광통신·광전자도 동반 급등",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ELVI4OFhYUGN2eTBKOGJHdllPYzZoYm10Nkk2Q0VvZmRGazJXcmZpZi1GSVZzVWxSR1NPeDZFVmFHTVRDbkhfYU1VTS1Fdi1GajMteGhyWElCalFyazBDeHM1WQ?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-03T22:31:48+09:00",
+   "stocks": [
+    {
+     "name": "빛과전자",
+     "code": "069540"
+    },
+    {
+     "name": "빛샘전자",
+     "code": "072950"
+    },
+    {
+     "name": "대한광통신",
+     "code": "010170"
+    },
+    {
+     "name": "광전자",
+     "code": "017900"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
