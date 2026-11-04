@@ -1,0 +1,31 @@
+{
+ "label": "11월 4일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.45,
+   "text": "+1.45%",
+   "exact": true,
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVRxeXB1X2tSM05TS1NoaTVSOW9QanFZalF6Ymtjc25NVk1ReEl5eHQ0YzEtUFl6NEpxbFBTQUctSFBUNFJJN0ZUUXhrNTF0LWNYQVNOdkpON0Z6ZkVzZFFhUWU3M2ZHQjVsM0xPMFc3d3drdERwOGdUeWlFOGJmcUJ3ZFRqS25uQzVZMmFsMUpFT2xI0gGUAUFVX3lxTE5tVHF5cHVfa1IzTlNLU2hpNVI5b1BqcVlqUXpia2Nzbk1WTVF4SXl4dDRjMS1QWXo0SnFsUFNBRy1IUFQ0Ukk3RlRReGs1MXQtY1hBU052Sk43RnpmRXNkUWFRZTczZkdCNWwzTE8wVzd3d2t0RHA4Z1R5aUU4YmZxQndkVGpLbm5DNVkyYWwxSkVPbEg?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "버블맵스",
+   "sub": "가상자산",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "국내 코인거래액 7.2% 감소…리플XRP 거래 1위, 버블맵스 25% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hYkh0NmFsVE5NZzdab2hWNnFDbnJPcjB2OEhDNnNxSGpNeWhZMm9FNGJqRjRfREFtaFB5THNCd2hocGVwck42RHlkYzJTcG5GS2VkaEpHNXBpQXZDZ1A4UkRCd2lLUEFTZkt2YnR3VjFUUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-04T07:09:34+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-04T12:46:43.370268+09:00"
+}
