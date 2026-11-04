@@ -1,6 +1,6 @@
 {
  "label": "11월 3일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-04T18:20:53.017076+09:00",
+ "updatedAt": "2026-11-04T23:47:53.819593+09:00",
  "items": [
   {
    "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
@@ -1411,6 +1411,20 @@
    "dir": "up"
   },
   {
+   "title": "밸류업 관련주 희비…한진칼 상한가·파수아이 20% 폭등",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9idC1hX3hFU1hYT0lDeVhXTXRlM1JqZFE3cjhjb1JNa3o2M2pXdUozcWxHQ2E3a3k4aWNVVHR5eDdpcnlUcmhTMVY0eG51WVBySGRZTnFiSHkxQUc4d1QtYWxPdGhsREM0cDkxbGpJNDdJVHA1Vy130gF3QVVfeXFMT2J0LWFfeEVTWFhPSUN5WFdNdGUzUmpkUTdyOGNvUk1rejYzald1SjNxbEdDYTdreThpY1VUdHl4N2lyeVRyaFMxVjR4bnVZUHJIZFlOcWJIeTFBRzh3VC1hbE90aGxEQzRwOTFsakk0N0lUcDVXLXc?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-11-03T15:36:02+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "DL 3분기 영업이익 1천740억원…작년 동기 대비 59.1%↑",
    "link": "https://www.yna.co.kr/view/AKR20261103134900527",
    "source": "연합뉴스",
@@ -1419,20 +1433,6 @@
     {
      "name": "DL",
      "code": "000210"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "밸류업 관련주 희비…한진칼 상한가·파수아이 20% 폭등",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZaWxselQ3UzRiOHRrVVQwQzdNTUhpbmZtaEdXSnJlVkpIV1Z2RjF5eTFZbHdUREh4VHp0RkFzNFRDWWh0QWdLVkJjNmtfUkFhN3dfNVVGeXM3YlVoUXliVjYwZUxwYXlDMjF5UkFlUFhzVTTSAXdBVV95cUxPYnQtYV94RVNYWE9JQ3lYV010ZTNSamRRN3I4Y29STWt6NjNqV3VKM3FsR0NhN2t5OGljVVR0eXg3aXJ5VHJoUzFWNHhudVlQckhkWU5xYkh5MUFHOHdULWFsT3RobERDNHA5MWxqSTQ3SVRwNVctdw?oc=5",
-   "source": "핀포인트뉴스",
-   "time": "2026-11-03T15:29:59+09:00",
-   "stocks": [
-    {
-     "name": "한진칼",
-     "code": "180640"
     }
    ],
    "thin": false,
