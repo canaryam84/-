@@ -1,5 +1,5 @@
 {
- "label": "11월 4일(수) 정규장 마감 후 보도 기준",
+ "label": "11월 4일(수) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -15,8 +15,8 @@
    "pct": 1.5,
    "text": "+1.50%",
    "exact": true,
-   "source": "프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EbXU5WUY0ZGF0ZEN6RGdQOWt2SkJLMWpPMkJ2bzBrOEVxS2RZd1I1TjNlUlAybU9XZHlSNlZLRXhuYnZYVGdFMXNtOG1pTFhMNS01YjJ1VWhrVURwSjlzQw?oc=5"
+   "source": "버핏연구소",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qa0tTU0dwYkw1Z1RhdjVqSGNTcXl5SUx3elNIY0pCdUNoVzQ3OHhNZXdxQ2tKLS1tbld1OUQtcnNDeWZYdWNNYW8wMWpvcVhheGFaUVRHVnFTdDZ6bWVFM05B?oc=5"
   }
  ],
  "items": [
@@ -60,13 +60,19 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 3,
+   "newsCount": 4,
    "articles": [
     {
      "title": "대동금속 상한가 근접…주물부품 생산능력과 대동그룹 시너지 부각",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3NVgyb1ZYTmJrMTFnTzhwWmtlZG1aREhpRDVVeGNMbm5pQUFWU3NLdmY0VzNHcWw2RkcxN2g3MzUwME02NVlTOFpveGQ5UlhWR09wZUpYM2JUR3JsUTQ2NHllbTlRNWxJV3pLY0pn0gFyQVVfeXFMTkh2aDdSSU9PMm9xWENuR2hQdWY1QmRHc2ppXzJ0OFcwOVpVdHRFRnJzZGNyM25pTkUxdFpFNlZNMDdhMnVia1FUV0wtM1RnU1ZWT0tXMGEtdkdXQTBfeW5SN3FaVVppb2s3ZFlRS1FZa2x3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Idmg3UklPTzJvcVhDbkdoUHVmNUJkR3NqaV8ydDhXMDlaVXR0RUZyc2RjcjNuaU5FMXRaRTZWTTA3YTJ1YmtRVFdMLTNUZ1NWVk9LVzBhLXZHV0EwX3luUjdxWlVaaW9rN2RZUUtRWWtsd9IBckFVX3lxTE5Idmg3UklPTzJvcVhDbkdoUHVmNUJkR3NqaV8ydDhXMDlaVXR0RUZyc2RjcjNuaU5FMXRaRTZWTTA3YTJ1YmtRVFdMLTNUZ1NWVk9LVzBhLXZHV0EwX3luUjdxWlVaaW9rN2RZUUtRWWtsdw?oc=5",
      "source": "잡포스트",
      "time": "2026-11-04T16:15:44+09:00"
+    },
+    {
+     "title": "[오전시황] 증시 급락 속 대동금속 상한가, 외국인 1조5640억원 순매도",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBET1JOTjR4QWpfbHZ4TDJYaGhfdnBteTVpWnYyZ05Vd0JGbS0zeHRCQnlTeUJkRGtEZXp0SXkzakZLVWc1YTRkQjBuSWtMZXQtZ3Y2eF9pUG9aMEtnaURYTEZudU1fdVlzMkE?oc=5",
+     "source": "중기이코노미",
+     "time": "2026-11-04T13:47:55+09:00"
     },
     {
      "title": "대동금속 주가 장중 29.85% 상승해 2575원",
@@ -88,8 +94,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 3,
+   "newsCount": 4,
    "articles": [
+    {
+     "title": "[마감분석] 대동기어 특별한 공시 없이 18.93% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNT203YTZuLUQ2WDJoRWdxSVRpakVhaUs3eDlLbHBQWERlLWd6WVlhOE5OYzVZLTlCUEh5LTRwVUpXSzUwN09aZmJyaw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-04T15:50:07+09:00"
+    },
     {
      "title": "[특징주] 대동기어, 장중 24%대 급등하며 6500원선 진입 : 기업주식정보",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zbE9WWjd6NzBsX1FOVkVuNXJuYnFrSW1yZmZGdFFOeldwRm9WRmNYRWpsQW1FbjNkVjBIODhlRnk3Q0VpbnJ6U29Fcw?oc=5",
@@ -111,18 +123,24 @@
    ]
   },
   {
-   "name": "한진칼",
-   "sub": "코스피 · 180640",
+   "name": "아리바이오홀딩스",
+   "sub": "코스닥 · 290690",
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 1,
+   "newsCount": 2,
    "articles": [
     {
-     "title": "한진칼, 경영권 분쟁 가능성에 상한가…호반의 속내와 산은 지분 향방에 쏠린 눈",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41YjdfbVlxNDZmWEtSci1EN0xxRHZlRkJDT1FwUjBOQWN0ZGQ2bkJDYU1sS05uUHBpaVpva1dULWcyU0dsd1R1Wmt2Q2lTaHBhNS0wWFZKZzNJVGxvdjV1Z0M2enE5UXJHdVhXUGZDQdIBb0FVX3lxTE41YjdfbVlxNDZmWEtSci1EN0xxRHZlRkJDT1FwUjBOQWN0ZGQ2bkJDYU1sS05uUHBpaVpva1dULWcyU0dsd1R1Wmt2Q2lTaHBhNS0wWFZKZzNJVGxvdjV1Z0M2enE5UXJHdVhXUGZDQQ?oc=5",
-     "source": "더퍼블릭",
-     "time": "2026-11-04T13:24:28+09:00"
+     "title": "[특징주] 아리바이오홀딩스,치매치료제 글로벌 3상 발표 앞두고 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pby1DMkJhYjVyb2FFX3oybkxBdTd2aEZRcVNxS3IxQkRGSFdyUGRCSFJHRmNnTzNZOWdEQ1ZpdlZrRjlZOEcxWVVpX0M2M040c3hpeUR3WHNOTWIwSGplcDhuYzZNLTZoLS1HUA?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-04T17:57:31+09:00"
+    },
+    {
+     "title": "[주식마감] '알츠하이머 특허 확보' 아리바이오홀딩스 상한가… 깨끗한나라우, 케이엔알시스템, 대동금속 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zd2h6NExIVEJOSnNHbnRDeGdGdnY2WDVxR0NBTkxrY0hWR2lsV2NIY2dqU0NKaWg3SlE2UHhxMjJUb29Tc3FPY2pSZnVZVEcwQldOUHBwWnV3WnlvclJpWE5TT0w0QlNiaHc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-04T19:40:00+09:00"
     }
    ]
   },
@@ -143,6 +161,22 @@
    ]
   },
   {
+   "name": "한진칼",
+   "sub": "코스피 · 180640",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한진칼, 경영권 분쟁 가능성에 상한가…호반의 속내와 산은 지분 향방에 쏠린 눈",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41YjdfbVlxNDZmWEtSci1EN0xxRHZlRkJDT1FwUjBOQWN0ZGQ2bkJDYU1sS05uUHBpaVpva1dULWcyU0dsd1R1Wmt2Q2lTaHBhNS0wWFZKZzNJVGxvdjV1Z0M2enE5UXJHdVhXUGZDQdIBb0FVX3lxTE41YjdfbVlxNDZmWEtSci1EN0xxRHZlRkJDT1FwUjBOQWN0ZGQ2bkJDYU1sS05uUHBpaVpva1dULWcyU0dsd1R1Wmt2Q2lTaHBhNS0wWFZKZzNJVGxvdjV1Z0M2enE5UXJHdVhXUGZDQQ?oc=5",
+     "source": "더퍼블릭",
+     "time": "2026-11-04T13:24:28+09:00"
+    }
+   ]
+  },
+  {
    "name": "아미코젠",
    "sub": "코스닥 · 092040",
    "pct": 30.0,
@@ -152,41 +186,9 @@
    "articles": [
     {
      "title": "아미코젠 1050원 상한가 마감…바이오소재 사업과 재무개선 과제",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5OVFzZzMtQ2JLckV3emV6Y0M3TUlDcUVNdHg0QWFRYWtkTXRFc1pUbHZIVVQ1SUMxRlBmckU0M1V4dFg0WjA4dWwxd0VscVBhVWZJOUVVVm0wZEJXMktUZjdzN00wRDV2cE1seV9n0gFyQVVfeXFMUDg4aWF4U2R5eDRpQjR6aUZxMkdfTElINFlkRHhwcG1XbFVULW5pcFlfeWdpUGN6cHBLTkNhWFJzRXIwcVZRUWU0RnRpRFd2TkRFa1pJOUdLZkkxdjBCdENUemVBOGZPRG11Ym1VM1JneUF3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4OGlheFNkeXg0aUI0emlGcTJHX0xJSDRZZER4cHBtV2xVVC1uaXBZX3lnaVBjenBwS05DYVhSc0VyMHFWUVFlNEZ0aURXdk5ERWtaSTlHS2ZJMXYwQnRDVHplQThmT0RtdWJtVTNSZ3lBd9IBckFVX3lxTFA4OGlheFNkeXg0aUI0emlGcTJHX0xJSDRZZER4cHBtV2xVVC1uaXBZX3lnaVBjenBwS05DYVhSc0VyMHFWUVFlNEZ0aURXdk5ERWtaSTlHS2ZJMXYwQnRDVHplQThmT0RtdWJtVTNSZ3lBdw?oc=5",
      "source": "잡포스트",
      "time": "2026-11-04T16:33:50+09:00"
-    }
-   ]
-  },
-  {
-   "name": "샘표",
-   "sub": "코스피 · 007540",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "샘표·샘표식품, 합병 발표… 주가는 나란히 ‘상한가’ 직행",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VcEk0NzRTdUhFUWI4MW85NWR2aWZyZEhnTjBMSzU1bnFRS050dW5ZeWhkNVFGbUFrcDlRYU43Z0hBdTlSZ0E?oc=5",
-     "source": "매일경제",
-     "time": "2026-11-04T08:33:43+09:00"
-    }
-   ]
-  },
-  {
-   "name": "샘표식품",
-   "sub": "코스피 · 248170",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "샘표·샘표식품, 합병 발표… 주가는 나란히 ‘상한가’ 직행",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VcEk0NzRTdUhFUWI4MW85NWR2aWZyZEhnTjBMSzU1bnFRS050dW5ZeWhkNVFGbUFrcDlRYU43Z0hBdTlSZ0E?oc=5",
-     "source": "매일경제",
-     "time": "2026-11-04T08:33:43+09:00"
     }
    ]
   },
@@ -223,6 +225,22 @@
    ]
   },
   {
+   "name": "금양그린파워",
+   "sub": "코스닥 · 282720",
+   "pct": 19.91,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 금양그린파워 19.91% 급등 7770원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fMHB0dFo5T3ZwbVhpNXYzUnM0LUp1MWRVMndZRkZkN3ZZU1FKTWdOcGlxM21uQXo0X2lyWnVsUlE4N2FsUXBOV2F3RQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-04T15:49:35+09:00"
+    }
+   ]
+  },
+  {
    "name": "포메탈",
    "sub": "코스닥 · 119500",
    "pct": 18.73,
@@ -241,11 +259,17 @@
   {
    "name": "크래프톤",
    "sub": "코스피 · 259960",
-   "pct": 16.0,
+   "pct": 16.55,
    "limitUp": false,
    "afterMarket": false,
-   "newsCount": 1,
+   "newsCount": 2,
    "articles": [
+    {
+     "title": "[특징주] 크래프톤, 3천억원 자사주 매입·소각에 16.55% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCaGlrOUtJRjVpODB2WUlBSERpVlE4MzBZU0xmc0RuX3c1SkVoS0h2TmhZLUI2NFpBTWQ3LUpnWEtBWkVZQmh1U3hVTzZzRXJWTU1wejhMN0VhcGd0MENXcE4wSy0tMWdoUFE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-04T15:58:42+09:00"
+    },
     {
      "title": "[특징주] 크래프톤, 3천억원 자사주 매입·소각 공시에 16% 급등(종합)",
      "link": "https://www.yna.co.kr/view/AKR20261104042751008",
@@ -287,5 +311,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-04T17:31:11.394917+09:00"
+ "updatedAt": "2026-11-04T20:58:28.318764+09:00"
 }
