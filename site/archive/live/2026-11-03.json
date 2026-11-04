@@ -1,6 +1,6 @@
 {
  "label": "11월 3일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-04T10:38:30.829830+09:00",
+ "updatedAt": "2026-11-04T11:29:06.781859+09:00",
  "items": [
   {
    "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
@@ -4064,6 +4064,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "'저PBR' 대상 기업 151곳 중 115곳 주가 상승...일시적 상승 경계해야",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uRTU1UHVUNWtKOEVJSWNOYkVaWWFPU1M5dGRYUlpSTTNfNVVUMmtJSFFITllCc2huemVqbTlFSDdCZzVCWW9RUEE0aWpwUUhEbFFkaWF4M2MwOXFSS1dGRQ?oc=5",
+   "source": "증권일보",
+   "time": "2026-11-03T09:20:00+09:00",
+   "stocks": [
+    {
+     "name": "대상",
+     "code": "001680"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
