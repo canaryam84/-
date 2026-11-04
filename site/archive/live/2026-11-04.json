@@ -1,6 +1,6 @@
 {
  "label": "11월 4일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-05T00:42:16.747570+09:00",
+ "updatedAt": "2026-11-05T01:42:03.278371+09:00",
  "items": [
   {
    "title": "HLB, 美 FDA 신약심사 장기화에 급락…연내 허가 기대 내년으로",
@@ -193,6 +193,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "크래프톤 주가 두 자릿수 급등",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLYUh3NVhCTEd2dGxoUDNDVUpCMng2N1hSalVaajlIM3BpWWJQbWtuUnNIV3pGakd1Ym5WOXRaNGQyeTJLZlR1b0x0NzdrYkVvTFlVUjhjR0hfN1ExMUo0c2E0VUlFeGozNkl5TXdIbErSAXBBVV95cUxQS2FIdzVYQkxHdnRsaFAzQ1VKQjJ4NjdYUmpVWmo5SDNwaVliUG1rblJzSFd6RmpHdWJuVjl0WjRkMnkyS2ZUdW9MdDc3a2JFb0xZVVI4Y0dIXzdRMTFKNHNhNFVJRXhqMzZJeU13SGxK?oc=5",
+   "source": "글로벌경제신문",
+   "time": "2026-11-04T18:10:50+09:00",
+   "stocks": [
+    {
+     "name": "크래프톤",
+     "code": "259960"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[속보] 한진칼 지분 호반 20.69%⋯조원태 20.58%에 앞서",
