@@ -1,6 +1,6 @@
 {
  "label": "11월 4일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-05T01:42:03.278371+09:00",
+ "updatedAt": "2026-11-05T02:39:41.354896+09:00",
  "items": [
   {
    "title": "HLB, 美 FDA 신약심사 장기화에 급락…연내 허가 기대 내년으로",
@@ -1471,6 +1471,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "OCI홀딩스 10%대 급등, 20만원 눈앞…미국 중간선거·폴리실리콘 가격 상승 주목",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jaUJSd1JLTV9MSGpoUDBySHc1aE40YzVHOWlGUG9Kcmp6QWE3NDV3ckhoNWVCdGlPZ3ZWR3A1Q0hUNTYtaWxWalJGNmZQVGxDZy0zTVM1SC1PSXBZQkZ0NWEydUc4aThm?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-04T14:18:39+09:00",
+   "stocks": [
+    {
+     "name": "OCI홀딩스",
+     "code": "010060"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "현대백화점 3분기 영업익 946억원…작년 동기 대비 30.1% 증가",
