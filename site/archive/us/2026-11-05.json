@@ -1,0 +1,53 @@
+{
+ "label": "미국 11월 5일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -3.45,
+   "text": "-3.45%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0xTSnozbW9SZTlfZVZwUWhQbXBZTEpVYlpDZGRXMlc4NzNjaEtYUUp2M1E4UTN2aXNiX1NMTmIyZGxuVFpoNTh2MEN1Ti11NURQaXJOd3RtcWFmYzNrb2JmeVZrc2wyNmJVQks4cjk2aGc4Si15SDZZdmgtd0dwaEpwUzNraVo2Y0Zyb0lNWVN4YnZMZnV6VmRndFN4dTI2eEwxYlRVU0ZqTVNObHlHVmhKdjNURTg4cUk2MlR6ZVMtYkhTT1hv?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -5.52,
+   "text": "-5.52%",
+   "exact": true,
+   "source": "서울신문",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UWGRYazh0QnMwQUg3a0FjbkRwai0zcW9ERXlxdnp5LUZpdGF3V0NvSkNud2JwbmhOYkRManNTd005MHlMUnA2bkhRRGJTRW1zNmwzaEhNOU1oV09hTlJNSVRjcG9DSzJsa0dJdFNsYTZRTG1TTXRGSTFud0twQQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Applovin",
+   "sub": "APP",
+   "pct": 31.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Applovin stock rises 31% as revenue outlook tops estimates",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2E2ZlNFVDhvbmF4bm50cVJHeTdzTmFwRXZiS0V5VzI3UEcwM1htdEdXczI3NUpGY1VOa3h6cUpWYTZTT2paQm52VFhGSWZuQVY2Qy1HSTVQSGNUd3otdENiamxweXZXMlJBYU1xcnNBVU9SX09GN3h5UV9vbXh3X19OZ0I5SWRwSDlKUzdXdW16Yk16bTNKeHNqcUg?oc=5",
+     "source": "Yahoo Finance",
+     "time": "2026-11-06T00:03:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "JFrog",
+   "sub": "FROG",
+   "pct": 23.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "JFrog shares surge 23% on strong Q3 beat By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM05RYnVtUFlhSkEwU04wTnM3R0lXejAwUmlLWGc4RXU2Nk11NUNkdmVNMS16cU1icjRxTDFpNU14ZXBOSm5ON0tMbXZqX0tNRGFFeU1Sdy0ybU5EZGNvS0ZEYWp1X2VuN0ItcHVXZzlGX1N0UTk4b3dqV3d4WG5MV3FJeUtfaGlWU2puajJ0UF9NVnZJYkcxYUVnalR5dnVsZEE?oc=5",
+     "source": "Investing.com India",
+     "time": "2026-11-06T06:51:11+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-06T07:43:06.662066+09:00"
+}
