@@ -1,6 +1,6 @@
 {
  "label": "11월 4일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-05T09:26:49.520878+09:00",
+ "updatedAt": "2026-11-05T18:30:27.901566+09:00",
  "items": [
   {
    "title": "HLB, 美 FDA 신약심사 장기화에 급락…연내 허가 기대 내년으로",
@@ -4531,6 +4531,20 @@
    "dir": "down"
   },
   {
+   "title": "하나證 \"심텍, 목표가 21만원으로 상향…내년 영업익 17% 상향 조정\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PUEhFelJmRE5Ka2MwNnZYdmFaUS1CQnp2MlU2SmsxWm16NXpfQk95SHhwOFZGTFFGNDdmX1FQNEQ3cDZkQjdsdVpsbWRGcVpNZzlmYVRXYXhoZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "2026-11-04T08:49:51+09:00",
+   "stocks": [
+    {
+     "name": "심텍",
+     "code": "222800"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "하나證 “제주항공, 환율 하락 속 LCC 중 실적 돋보여... 목표가 7500원”",
    "link": "https://biz.chosun.com/stock/stock_general/2026/11/04/YPLPDIK3GVFUPNYM2ZXDHX7LOM/",
    "source": "조선비즈",
@@ -4543,20 +4557,6 @@
    ],
    "thin": false,
    "dir": "down"
-  },
-  {
-   "title": "하나證 \"심텍, 목표가 21만원으로 상향…내년 영업익 17% 상향 조정\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fay01VDVkYUkyTVR4UHh2ZURVcVlWd2x2Wk44VTBLdU1pUEZLM0VmZnRvd1FyekVkWG9EdENLSGpUZ1AzMzhSRHhvcl85UElQOVNjcVQtMEZGQzd4TWRqZdIBeEFVX3lxTFB2a2RlSDlleHlBYldhTHItREpONWFuZlU4VUI4U1hzeDF2UFhScU83WENPSmQzNjU5UDlWQURnSVM4c0VGd2dfSGhFN01ncm9SYmljOG11djdrcUc2Q1htZVFFLVQ2eG8xTjRxTGkybHZzZUYwS1NkUA?oc=5",
-   "source": "뉴시스",
-   "time": "2026-11-04T08:48:59+09:00",
-   "stocks": [
-    {
-     "name": "심텍",
-     "code": "222800"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "칩스앤미디어, 모빌린트에 멀티미디어 IP 공급…피지컬AI 시장 진출",
