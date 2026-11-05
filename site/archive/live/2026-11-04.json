@@ -1,6 +1,6 @@
 {
  "label": "11월 4일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-05T18:30:27.901566+09:00",
+ "updatedAt": "2026-11-06T00:44:34.837732+09:00",
  "items": [
   {
    "title": "HLB, 美 FDA 신약심사 장기화에 급락…연내 허가 기대 내년으로",
@@ -5477,6 +5477,34 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[속보] 삼성중공업 VI 발동, 오전장 주가 급등…9%대 껑충",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lXzdMb2lob3RDR1o2Q3N6ZnZCYUNRRFRPVlFtTWdiNDhFdUROcGRDSmloZ09oY1NBaEotRFZMOFJJOFpMS3J2V2JfTkZGcjVJRVJld0VHVWxCWVRyZFhLUmt4YV9veXVR?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-04T03:00:39+09:00",
+   "stocks": [
+    {
+     "name": "삼성중공업",
+     "code": "010140"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[속보] 삼천당제약 주가, 애프터장서 돌연 '껑충' 왜?…공시 살펴보니",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QdS1Ic0dLOENHam9LNXNaWHZzS2JZOU4zM25veDh5TlBCZmFGckxmaE11a3piMjBEWWpRVlpjVm43eWpiUzVJTEt0bUFpRkV4aXZwLWE5aUlpRXN4a2otUTVGbnRZY1Rl?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-04T02:45:57+09:00",
+   "stocks": [
+    {
+     "name": "삼천당제약",
+     "code": "000250"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "토큰화 주식 56개사 이의 제기…초기 대상의 79%",
