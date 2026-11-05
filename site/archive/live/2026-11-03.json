@@ -1,6 +1,6 @@
 {
  "label": "11월 3일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-04T23:47:53.819593+09:00",
+ "updatedAt": "2026-11-05T10:45:47.974468+09:00",
  "items": [
   {
    "title": "코스피, 동반 매도세에 5640선 하락 마감...지분 매입 경쟁 한진칼 ‘상한가’도",
@@ -1913,6 +1913,20 @@
    "dir": "none"
   },
   {
+   "title": "한진칼, 호반그룹과 조원태 회장 지분 매입 경쟁에 주가 급등",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkhqSnVHSWRRM0xzZ0ViNDFsZjVodFV5MkhWNzl1Y2N3c04wcjRDRENNaHlld3BtbGtDVXdrVGRnTUN5MzN2eEpOR0pBVmRyc016MWNHcHo5bnN5QkhKMng3ZE1mZ2J1Qm12bG1VYTJqZGt1UmczZ2dFVm15anZ6ZA?oc=5",
+   "source": "조선일보",
+   "time": "2026-11-03T13:37:33+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주]카카오게임즈, ‘도깨비의세계’ 흥행 기대에 4.22% 힘 받아…NH투자 목표가 1만6,000원",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3OWxhbjFRbVZ6SkpzaDl1RXhDMC1xNDVyWDNhN3dWcXZSRFN3c0ZackROWXFwTmxkc0dlcFNSajNDSDZtUWk3eFJIQ2tEem5qSWtyWEVMRUJYQkpXakotMHFXNXRDV1MtcHhJdNIBcEFVX3lxTFB6cHRZNGJRd3l1bXVjQmxTblo5RkNHN2VqN1ZpYTRaS1NmSjhfY3E5Qll5b2pSRDdMaFltV04zTlZIczNWTkJBM0EtcjlmWmNMcGxNdXM1UFg2TDFZN0ZsWG50V0VhVWZ2YUJ5Qnh5SzY?oc=5",
    "source": "남도일보",
@@ -2143,6 +2157,24 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[오전시황] 한진칼·한싹 상한가...삼전닉스 약세에 외국인 1조원 매도",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QS3JoU1RWQVN0bm5kelBoc2ZLRGNZZUsyRElkRWF0SnBnZVFuMGlQM0lWT3U1RTZ1ZVo1bm80UkxRay1nS1gtUGpjaTZKS1loeE5NQzNJYWFrU2p6YWItTUN1ZkxQM0tGR1E?oc=5",
+   "source": "중기이코노미",
+   "time": "2026-11-03T12:36:33+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    },
+    {
+     "name": "한싹",
+     "code": "430690"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "알테오젠, 3분기 매출 첫 1000억원 돌파…역대 최대 분기 실적",
@@ -3531,20 +3563,6 @@
    ],
    "thin": true,
    "dir": "none"
-  },
-  {
-   "title": "한진칼, 호반그룹과 조원태 회장 지분 매입 경쟁에 주가 급등",
-   "link": "https://biz.chosun.com/stock/stock_general/2026/11/03/G4ZTCZRUMVSGKNBVGY2DKNTEGA/",
-   "source": "조선비즈",
-   "time": "2026-11-03T09:39:03+09:00",
-   "stocks": [
-    {
-     "name": "한진칼",
-     "code": "180640"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "[리포트 브리핑]포스코인터내셔널, '3Q26 Review: 원자재 가격 상승 효과 본격화' 목표가 97,000원 - 메리츠증권",
