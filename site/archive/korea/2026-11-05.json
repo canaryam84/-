@@ -1,5 +1,5 @@
 {
- "label": "11월 5일(목) 정규장 마감 후 보도 기준",
+ "label": "11월 5일(목) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -26,13 +26,35 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 1,
+   "newsCount": 2,
    "articles": [
     {
      "title": "대동금속 상한가 직행…글로벌 인프라 투자 기대에 건설기계주 '불기둥'",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HLVAyaEN4OFc4XzEyYnZWcHk3bFY1cWFkQ3lmaXlnOGJVUW9IX29BVFFJS0tqaEp5dkVtOWZxWnFSZTNBTEVHakpPNlM0b3FMQmM3VEh2WHlhQ25TME1temtFVjdBQ2xoMG5lcmo4c0lLc1nSAXdBVV95cUxOSkhHNjhyZEdtblBhRDBUZndhNWMxZGZiQnFZZHB4UmxXakdmWmE3S1BMSjdJOEFyYWhzNUU3QVl1cnRYdHBqbXFDeVQtYzJUeDlPbzNMVkpmaVd3Ti12T05xc29PR2JpVmdGMUFuQks1U203b2VBbw?oc=5",
      "source": "핀포인트뉴스",
      "time": "2026-11-05T10:45:11+09:00"
+    },
+    {
+     "title": "대동금속 이틀 연속 상한가...한진칼 경영권 경쟁·기업 구조개편주도 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CdEZ4VDc2QnJxSnJrejZjc0hkQ0RFUlpWdEl5Q1JNN3ZmcFBUN0dNc3FUVF9ISENaUWtZbFRnd2FrS3diMVRhUkFyc3luMXI2azJGNXF2S0I0YjhISVV6cG1RRTE?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-05T11:25:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "성창기업지주",
+   "sub": "코스피 · 000180",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "성창기업지주, 상한가 잔량 집중으로 투자주의종목 지정",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNUFVcFU3amEtMEkxeU14ZVJBVGRPRVh3dFZvWkt0YjVWWlgxeEtEc3NlRUlCYWdqU0xUWHVkQlRkMmhtNlREZU5GN1RHb2ZKMkVCdEhNYzUzSThvaktmcENPbU1EMVpwRmQ5SUVLWUtKUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-05T20:32:38+09:00"
     }
    ]
   },
@@ -155,6 +177,22 @@
    ]
   },
   {
+   "name": "에스와이",
+   "sub": "코스닥 · 109610",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 에스와이 20%대 급등 2135원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xOGZ2N091bmx2MXMwMlFyeFZQTmNZMTd0ZlEtMWd5bzBhNkdPTG9jTXQ2bTRFZ2Vfczh1SEhLTFFUNTlfUENLNlNpQQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-05T15:50:03+09:00"
+    }
+   ]
+  },
+  {
    "name": "셀바스헬스케어",
    "sub": "코스닥 · 208370",
    "pct": 15.0,
@@ -171,5 +209,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-05T17:33:57.269296+09:00"
+ "updatedAt": "2026-11-05T20:59:56.569279+09:00"
 }
