@@ -1,6 +1,6 @@
 {
  "label": "11월 5일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-06T07:34:47.111362+09:00",
+ "updatedAt": "2026-11-06T08:42:31.857081+09:00",
  "items": [
   {
    "title": "성창기업지주, 상한가 잔량 집중으로 투자주의종목 지정",
@@ -3143,24 +3143,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "‘연내 허가’ 기대 꺾인 HLB 급락…휴젤 실적 충격·아리바이오 상한가[바이오맥짚기]",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1MGdBa3BrN3pCUUIwRFRYMDlOTEM0Xzh0by00YnhweW4zWDZKZG51bHpSN3dYNG9DUFN4bGUtSGZVWEpWRFpIMUxTM2xiWkNSSkVEWHZ5cUZWWEVqbEtHNzgydVJscnN1bnRTbUF3?oc=5",
-   "source": "팜이데일리",
-   "time": "2026-11-05T08:10:03+09:00",
-   "stocks": [
-    {
-     "name": "HLB",
-     "code": "028300"
-    },
-    {
-     "name": "휴젤",
-     "code": "145020"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "오리엔트정공, 경기도 '피지컬 AI 확산센터' 실증기업 선정",
