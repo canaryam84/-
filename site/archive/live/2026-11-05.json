@@ -1,6 +1,6 @@
 {
  "label": "11월 5일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-06T03:37:21.747072+09:00",
+ "updatedAt": "2026-11-06T07:34:47.111362+09:00",
  "items": [
   {
    "title": "성창기업지주, 상한가 잔량 집중으로 투자주의종목 지정",
@@ -87,6 +87,20 @@
    "dir": "up"
   },
   {
+   "title": "일양약품, 백혈병 신약 '슈펙트' 中 품목허가 신청 철회",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06904406645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T18:58:02+09:00",
+   "stocks": [
+    {
+     "name": "일양약품",
+     "code": "007570"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "휴머노이드 상용화 속도에 부품사도 분주…삼성전기·LG이노텍 공급 확대",
    "link": "https://www.etoday.co.kr/news/view/2644724",
    "source": "이투데이",
@@ -161,6 +175,62 @@
    "dir": "none"
   },
   {
+   "title": "\"모아라이프플러스, 주가 미달에 따른 상장폐지 우려\"",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06632166645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T17:43:07+09:00",
+   "stocks": [
+    {
+     "name": "모아라이프플러스",
+     "code": "142760"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "\"샤페론, 주가 미달에 따른 상장폐지 우려\"",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06619046645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T17:42:27+09:00",
+   "stocks": [
+    {
+     "name": "샤페론",
+     "code": "378800"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "\"좋은사람들, 주가 미달에 따른 상장폐지 우려\"",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06612486645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T17:41:51+09:00",
+   "stocks": [
+    {
+     "name": "좋은사람들",
+     "code": "033340"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "신라젠, BAL0891 美 임상 1상 변경승인 신청",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06609206645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T17:40:20+09:00",
+   "stocks": [
+    {
+     "name": "신라젠",
+     "code": "215600"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "현대차·셀트리온 … 美민주 압승에 주가 신바람",
    "link": "https://www.mk.co.kr/news/stock/12198728",
    "source": "매일경제",
@@ -183,6 +253,20 @@
     {
      "name": "SK",
      "code": "034730"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "더코디, 70억원 규모 제3자배정 유상증자 철회",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06596086645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T17:37:01+09:00",
+   "stocks": [
+    {
+     "name": "더코디",
+     "code": "224060"
     }
    ],
    "thin": false,
@@ -477,6 +561,20 @@
    "dir": "none"
   },
   {
+   "title": "한국금융지주, 3분기 순익 전분기 대비 72%↓…컨센서스 대비 반토막",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06245126645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T16:29:15+09:00",
+   "stocks": [
+    {
+     "name": "한국금융지주",
+     "code": "071050"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "[급등락주 짚어보기] 대동금속 사업 확장에 '上'…양 시장 하한가 無",
    "link": "https://www.etoday.co.kr/news/view/2644739",
    "source": "이투데이",
@@ -531,6 +629,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "SK바이오사이언스, 3분기 영업손실 112억…전년比 42% ↓",
+   "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06169686645642768",
+   "source": "이데일리",
+   "time": "2026-11-05T16:19:01+09:00",
+   "stocks": [
+    {
+     "name": "SK바이오사이언스",
+     "code": "302440"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "윤종복 기타비상무이사, 프로티아 주식 10만7940주 ↑…지분율 1.70%",
