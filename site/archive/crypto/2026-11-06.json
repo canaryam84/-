@@ -1,0 +1,37 @@
+{
+ "label": "11월 6일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -5.37,
+   "text": "-5.37%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPSFFXcDd0bVE2ZVVIRk96NGFNVWdVOE95OFNPX0Q5bG45Um0zNEZLaDVvRWtrWmNoTUgya0lMN3pZYjB4SjNpc21yQmlISW1tbEo0LXdxRjNoOEl3VFlMVnR2TXlSSDBf?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "디피니티브",
+   "sub": "EDGE",
+   "pct": 40.19,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "디피니티브(EDGE) 40.19% 급등…업비트 원화마켓 65% 하락 속 거래대금 쏠림",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92NExtVkRZbTg5eGZidkZyWHdIejdIaEl0bzFOVnBzcVA1Qk5KR2V0UkpRcUFPU0dLSFUxRTNVZ0poODJkOXlnZXhn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-05T20:01:28+09:00"
+    },
+    {
+     "title": "[업비트 TOP10] 디피니티브 37% 급등 1위…10% 넘게 오른 종목 2개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HeEp0ZGc5LU5ZdmpwbnhSZmcyZDhiYmc1ZHJuWHRnTmJlQ2c4dUxGVmlLWXNJTkNQc21VWEo1MkxwNzRqaUVnN0pB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-05T12:00:58+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-06T12:47:43.065204+09:00"
+}
