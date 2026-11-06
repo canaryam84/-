@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T02:37:23.251088+09:00",
+ "updatedAt": "2026-11-07T05:33:31.552587+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -639,6 +639,20 @@
    "dir": "none"
   },
   {
+   "title": "최민찬 부사장, SIMPAC 주식 4만4253주 ↑…지분율 21.89%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uRVNXeUJjLTM1Z0cyRkZqQ090TGEtZEhnUFZOQ2haVG1TNHFBQUQxcHYxcXAxc2NQenJSUGxBNU14RWpwcUxsMnZENnFjOEc0cW5xSHJLRVVnNUFESW1qdmxJblVuOUx3cUx4dzAxbGVFemM?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-06T17:05:15+09:00",
+   "stocks": [
+    {
+     "name": "SIMPAC",
+     "code": "009160"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "(주)초록뱀미디어, 티엔엔터테인먼트 주식 7만7619주 ↑…지분율 67.46%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jbmcwRUtLYlY5dXdvRWU5UXpaUTRzYkViclZsTklsRGdRYXdONU1PekVCc3pDb0ptN1JyVEtrTExkT0NpNmZyY1Vvd1lfWmF5X2lVcl9ONVVINGxNNVloRUl2RFNJNkdtaFdkYl9KMGlILTQ?oc=5",
    "source": "데이터투자",
@@ -651,6 +665,20 @@
     {
      "name": "티엔엔터테인먼트",
      "code": "131100"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "최정임, 에이루트 주식 1만6467주 ↑…지분율 7.96%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82SjZVNVY3NThVaFotN1NMRXd2RS1KazdCNDA0S2ZETmRSVmN0Z3lsTVE0ZmpmZlp2ZnlST2t6Yl81MzNuTk4yN28xYjdUY2dTU0szWXpqZ0Q4Y2pEMmN0TlJFZXpjWXVMNkQ1UlN3Q1Vmc0k?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-06T16:54:49+09:00",
+   "stocks": [
+    {
+     "name": "에이루트",
+     "code": "096690"
     }
    ],
    "thin": false,
