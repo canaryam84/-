@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T00:34:12.275772+09:00",
+ "updatedAt": "2026-11-07T01:38:07.902790+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -1589,6 +1589,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "조준희 대표이사, 유라클 주식 3000주 ↑…지분율 15.35%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uTjJMZ1JrbDFxcGgxMmo0MzVXWVp2NTJ4alhzSnZ1YzktN2ZWN3pxMlVPTDh5SU1zZGlYZXJ4ak14UzBjYmtCajNQeF9FcjNiMmFEdjdHcmNnamtpdjlQZkhDWWRhMXc5Nnl0V1Y5VlJBQVk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-06T13:25:06+09:00",
+   "stocks": [
+    {
+     "name": "유라클",
+     "code": "088340"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 씨어스, 3분기 적자전환에 '하한가'",
