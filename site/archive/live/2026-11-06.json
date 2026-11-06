@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T01:38:07.902790+09:00",
+ "updatedAt": "2026-11-07T02:37:23.251088+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -65,6 +65,24 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "컴투스홀딩스, 컴투스 주식 담보대출 계약 변경 공시",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5T1dWWlJpX1Y5ZDhpOUdJNjA2ZWF1LThrN3pkQlZfbzdmZlZSSU1WU2packdqOWFhYzBzbXlsLUk2S3ZEaTlrd3AxYWlETVBOU3RHbzl2emFueTAtSE1OZnZjVE5Cdw?oc=5",
+   "source": "비건뉴스",
+   "time": "2026-11-06T21:01:34+09:00",
+   "stocks": [
+    {
+     "name": "컴투스홀딩스",
+     "code": "063080"
+    },
+    {
+     "name": "컴투스",
+     "code": "078340"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "대동금속, 주가 급등으로 11월 9일부터 투자경고종목 지정",
@@ -147,6 +165,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "광통신 관련주 불붙었다…광전자 상한가, 빛샘전자 26%대 급등",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmdE5aeDU4a09RZTNtV2NZd1ZCbjZ5Q3g0N2tSTW9QLXkxNk1mUno2Q21IaXBQR2lzWUZaZzVsZUhSNUNxRTZrR0tYSGdMaXhfSVNoc3U2M3ZaTFl3UkdTRjB4SQ?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-06T18:59:05+09:00",
+   "stocks": [
+    {
+     "name": "광전자",
+     "code": "017900"
+    },
+    {
+     "name": "빛샘전자",
+     "code": "072950"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "삼성전자 노태문, 주가 급락 속 6.3억원어치 주식 추가 매입",
@@ -1589,6 +1625,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[대우건설 주가전망] 장막판 대형 공시 터졌습니다. 삼성전자 반도체 클러스터 낙찰 ! 하지만 아직 방심 하면 안됩니다. Qqqm (ofWnQY3pIR)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdmdUJWNENrbmJVLThYbnRMMUdjZlU1T1E5VWdoaWpOcW9zT09qeVp1QmpoXzlRcThoNTlUbGcyMFR0SUEyZTRkcUNxTXhobFByY3l0ZlRiN1NrMnhxZS1KMU5vdktlU3Qtb0ZLUm9mbXMwWFRTMXpIUU5BOTh3ZzB3?oc=5",
+   "source": "Unisba Media",
+   "time": "2026-11-06T13:32:29+09:00",
+   "stocks": [
+    {
+     "name": "대우건설",
+     "code": "047040"
+    },
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "조준희 대표이사, 유라클 주식 3000주 ↑…지분율 15.35%",
