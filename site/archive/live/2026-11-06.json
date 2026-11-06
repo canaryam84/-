@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T05:33:31.552587+09:00",
+ "updatedAt": "2026-11-07T06:27:29.442121+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -809,6 +809,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]HMM, '단기 실적은 호조, 중장기 공급은 부담' 목표가 24,000원 - 유안타증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GUHFRall4VWlMYmVBQmpMSTlTZ2RUdXdTTko1Ul9iZE5lNG1EalBwRFJyTV9DN2xFSG53Zk1uTXlPX2JnUmotZlh3VjRDSThncHN1ZWkwbEhIUkpx?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T16:26:00+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    },
+    {
+     "name": "유안타증권",
+     "code": "003470"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "씨젠, 3분기 영업익 21% 증가…비호흡기 진단제품 성장세",
