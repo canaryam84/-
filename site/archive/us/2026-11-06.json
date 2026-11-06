@@ -1,0 +1,67 @@
+{
+ "label": "미국 11월 6일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.46,
+   "text": "-0.46%",
+   "exact": true,
+   "source": "이코노미블록",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iUUkyY0RHbnd3NlBtLTZaejdoZGNQNUZ0bzcwRzRyUURsM0NDT01paHRuY0Uwdl9FVEpsM1lyd0xwaWZKZjNjVFBNTnJ2eVBa?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 1.09,
+   "text": "+1.09%",
+   "exact": true,
+   "source": "MTN 머니투데이방송",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwbmNIb2xFX1FFVnR2ajlad2dxdmoxNEpiZjFkRklaSWpPVzdhM2lQY1dtc1EyS29WVGx2Y1gwa3ZjZVBQZHlYOE5HdmVOeGM0SlFqT1gtSDdZNUozOXVJ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Moderna",
+   "sub": "MRNA",
+   "pct": 700.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Moderna stock soars 700% on cancer vaccine hope...",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmpOMnJObE5WSWR3N09vWTRPODhrODB2RzcxdDF6TVkxSEhwS1o5ckozZEdZVHIzNTFpbjYxMTY4MExNU1FtdnhaSmduZUlMWGN1UkUtZEdoQkk1aXNtZmhLbkd5SEUtbXEybFVBUjA2ZjJXMER6Y1U5cDRlN3luelFvOEZjVi1xTTQ5VURVc0VEZmt2R3VnLXd5V1g2OEJFU0JvRFlqbXdIWDRqWUE?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-06T22:25:53+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Firefly Aerospace",
+   "sub": "FLY",
+   "pct": 23.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Firefly Aerospace shares jump 23% on $1.3B rocket engine deal with AST SpaceMobile",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSkdUVW9ZMGI3Q3FQdXRlVkItZFhHXzlob2ZKYXh3cUNJOVhBNXhHZ3hyT09wRWFjeERhUEM5Q0NvYnNxM2IxcG12MTYybVBVeHYtX3ZINWJNVDRXekM4TkY5RjdtMmFFUWNqOU5XR0QyREdhYlg1Q3JNQ0xMQ25Fei1ZNkpqTzZramVyQ3FQQlNKNENoWW9wekV2eWhvWGJOd1hFdm1iM1pYbXRpU1B4WmNsa3VkWnBGVFpoeVp1MzlDcFlmal83dks2VHlhbDdGVEpHeVdhRjkyV3VycmNrRGE2ejNnUQ?oc=5",
+     "source": "Proactive financial news",
+     "time": "2026-11-06T20:04:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Cloudflare",
+   "sub": "NET",
+   "pct": 20.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Cloudflare stock surges 20% after strong Q3 earnings: here's what analysts say",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1YycllUQmNHaG9QamRJUlhWV2E5QmRrN2ZseXI4cHk4Vk9fWEpuRDdoSGNDeFhtTmxVQURjbzNnQnRTZDA0S2Y0NkNNeHVaODhqRVdHX1RJaDJQZHhpaW1HN0JrTFVBM2NqZkhDREw2NHVMd1M3LUJsT3R2SktFQjVaNXhrNGZTeXM1QTM1UGRvWUQ2M2M1UWkzT1hxU2VPd1pkRkFCWHhCeFBWejhCaA?oc=5",
+     "source": "Invezz",
+     "time": "2026-11-06T22:30:26+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-07T07:36:01.548405+09:00"
+}
