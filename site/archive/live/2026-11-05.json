@@ -1,6 +1,6 @@
 {
  "label": "11월 5일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-06T08:42:31.857081+09:00",
+ "updatedAt": "2026-11-06T17:02:34.481198+09:00",
  "items": [
   {
    "title": "성창기업지주, 상한가 잔량 집중으로 투자주의종목 지정",
@@ -1063,6 +1063,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[주가] 11월 5일 주요 제약·바이오·기기 5% 변동 현황 - 엔젠바이오 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91Tnp6WGUwbVJmRkZva3dpUHdncDNjUDZ5NzNsUEVBRGk1emx1SmpCLXBxVE1WSUo2LXJma2lWZ1lXbllKaHR5ZWcwbGJzcmw5ck9PdlZaR1ZSdFRNbUNPSDdHUUNIR0FEbldN?oc=5",
+   "source": "메디파나뉴스",
+   "time": "2026-11-05T15:36:20+09:00",
+   "stocks": [
+    {
+     "name": "엔젠바이오",
+     "code": "354200"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "미 ‘블루웨이브 쇼크’에 코스피 300포인트 ‘뚝’…삼성전자 7%·SK하이닉스 9%대 급락",
