@@ -1,0 +1,31 @@
+{
+ "label": "11월 7일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.19,
+   "text": "-0.19%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMnk2T0xmU1FOVk92dVVCemJDWEFtS2xoZHdsT0JFYlRkTlRIbDc0alIzc0FhUUlBVVJ4UmQ3aXV5N2xNNWpuR05vbnIxaU5qcjByY1VuOG1TLXZLb1hGMWNuVnRUUDNO?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "문버드",
+   "sub": "BIRB",
+   "pct": 22.13,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "문버드(BIRB) 22.13% 올라 상승률 1위…비트코인(BTC)은 보합",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wLWtpZ1QwMWxvTkpGbUZud3VCeFRjeVk1M3NnNnBCTThDYzlEQkk1aHF3QWNYaThOMUQ4eXRsbXBDWm8za212MFRR?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-06T20:01:31+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-07T12:44:10.677197+09:00"
+}
