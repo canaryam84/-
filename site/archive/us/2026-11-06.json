@@ -35,6 +35,48 @@
    ]
   },
   {
+   "name": "AppLovin",
+   "sub": "APP",
+   "pct": 60.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "AppLovin stock jumps nearly 60% after strong Q3 earnings and optimistic growth outlook",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhUS0yMGNwekRPdWExQ3B0cUlNUEREaEJoakc0ZmlYZVRsVmNTSUtINDg3YWlCcXBLcGloQVZhaVBSVmc4MVh4MGw3Sl8xeURTdEk5MWp2b2pjWlBMaXdyYzY1NzNkOEFDemtERVkwMFVwWHVnTmpv?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-07T17:04:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Clarivate",
+   "sub": "CLVT",
+   "pct": 40.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Clarivate shares jump 40% after strong Q3 and $600M divestment, improving leverage and outlook.",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlJIYlFnUFVHS2xwckI4b0lmaC1UZzFnYmhhbzZ0bWM0czhMR2hCanE0N0QzUlgwRnZ5UkwzU1RZaFhLV1Y3elc1R2JJd01CU2xjV2dqdllESEQzVTU1M2tFWk9QZmNENHY5R3BOVG11Qm9TODd0RGNGMmVGTFViQnB2S2ZHVUpKVE5CSVlTVXdFZV9GSzEzc0pLRE5GaUVCVE9mUUpPRHh1QjlwdEE?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-08T02:14:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "JFrog",
+   "sub": "FROG",
+   "pct": 30.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "JFrog stock jumps 30% post-Q3 on AI growth but faces valuation and competition concerns",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEVZSzljbGtTSXhpdVV4Q1B3eUZMN09IeWNzZHR2UFk1aldrNDdXZS1JMUN5bjI2THhhRG81eWRhZmZLeHFPbjl2OU5Vcm5UOVlvNFg3TkpCay1STENDMm1tRDlRQlBxYTNuZWxCOTlxWnJNUnQteGtiUl92b0hERng1T3RzQUVOS2tYVXl1UDJseDdHN3FfeQ?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-07T22:57:24+09:00"
+    }
+   ]
+  },
+  {
    "name": "Firefly Aerospace",
    "sub": "FLY",
    "pct": 23.0,
@@ -56,12 +98,12 @@
    "articles": [
     {
      "title": "Cloudflare stock surges 20% after strong Q3 earnings: here's what analysts say",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1YycllUQmNHaG9QamRJUlhWV2E5QmRrN2ZseXI4cHk4Vk9fWEpuRDdoSGNDeFhtTmxVQURjbzNnQnRTZDA0S2Y0NkNNeHVaODhqRVdHX1RJaDJQZHhpaW1HN0JrTFVBM2NqZkhDREw2NHVMd1M3LUJsT3R2SktFQjVaNXhrNGZTeXM1QTM1UGRvWUQ2M2M1UWkzT1hxU2VPd1pkRkFCWHhCeFBWejhCaA?oc=5",
-     "source": "Invezz",
-     "time": "2026-11-06T22:30:26+09:00"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2wtb2JhZjJMT2pVVk8yZnpIdThlb2FXR3FTcTlwYzRuaFJCSDVkbVN1Zk1uR1FHUWpPX0VXTENzRjF1bnV6b1V6OXFUUmd4emZOTnEyZGpFR0RnV2Myc2Nub3M5Ny1YMFNuVzNMX1FBREM0aHF3NGRRcDlBS1gwNHhyU2hzWGlvX3A4SG5xNW9JMWF1eXcycFI5VjBLR09iWHhqdDg4ejRkZEZCRW1lRlpSaEVYWktqMzc0ZEtkaXdYMWVNSGlRSnk3NU0?oc=5",
+     "source": "TradingView",
+     "time": "2026-11-06T22:28:40+09:00"
     }
    ]
   }
  ],
- "updatedAt": "2026-11-07T07:36:01.548405+09:00"
+ "updatedAt": "2026-11-08T07:30:36.345616+09:00"
 }
