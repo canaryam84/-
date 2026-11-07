@@ -133,6 +133,28 @@
    ]
   },
   {
+   "name": "엘리스",
+   "sub": "코스닥 · 0158S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "11월 첫째 주 엘리스 주가 20%대 상승세로 마감",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBja3JEOHFvN1FROXVJbXZVYUlaRTgxbFJ4RHZnTVlsQlc3QkhpWEdwcDdYVVA2Y2tyWXFxMGJWT3pxRmVXTHJldUxuSlVHbnV3VFgycFFRRWw4S2RtZ2tOTjdEMGlEWEdLOG9YMFhaTUluQQ?oc=5",
+     "source": "중앙이코노미뉴스",
+     "time": "2026-11-07T11:58:45+09:00"
+    },
+    {
+     "title": "엘리스 상한가 근접 7만9900원…상장 이틀째 변동성 확대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNamFXTWh4dE4xTXZ6WTlvb21IdXlfZmZRSzlLYUxVM2o5Q1RiODRfQy1SQ2pvRmI0SVlVYkNJaFMzNzh6bEltcWl1N1dqRllMWGpDOTdjcFZVTG90VzhHeVBqV2k1LXFrOWxRMlBYcHJjUdIBckFVX3lxTFBNamFXTWh4dE4xTXZ6WTlvb21IdXlfZmZRSzlLYUxVM2o5Q1RiODRfQy1SQ2pvRmI0SVlVYkNJaFMzNzh6bEltcWl1N1dqRllMWGpDOTdjcFZVTG90VzhHeVBqV2k1LXFrOWxRMlBYcHJjUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-06T22:33:04+09:00"
+    }
+   ]
+  },
+  {
    "name": "덕성",
    "sub": "코스피 · 004830",
    "pct": 30.0,
@@ -163,23 +185,7 @@
      "time": "2026-11-06T10:23:36+09:00"
     }
    ]
-  },
-  {
-   "name": "엘리스",
-   "sub": "코스닥 · 0158S0",
-   "pct": 20.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "11월 첫째 주 엘리스 주가 20%대 상승세로 마감",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBja3JEOHFvN1FROXVJbXZVYUlaRTgxbFJ4RHZnTVlsQlc3QkhpWEdwcDdYVVA2Y2tyWXFxMGJWT3pxRmVXTHJldUxuSlVHbnV3VFgycFFRRWw4S2RtZ2tOTjdEMGlEWEdLOG9YMFhaTUluQQ?oc=5",
-     "source": "중앙이코노미뉴스",
-     "time": "2026-11-07T11:58:45+09:00"
-    }
-   ]
   }
  ],
- "updatedAt": "2026-11-07T17:21:17.844529+09:00"
+ "updatedAt": "2026-11-07T20:44:51.130049+09:00"
 }
