@@ -1,7 +1,29 @@
 {
  "label": "11월 5일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T06:27:29.442121+09:00",
+ "updatedAt": "2026-11-07T14:11:53.291326+09:00",
  "items": [
+  {
+   "title": "[상한가 종목] 엠에스바이오-깨끗한나라 이어 에코캡 등 마감",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZ1U4WURLdlNlX2Q1ZzFObVJ4ejUwTHQzQXRjWEVuVDFtLWJlMngzOGtncThRUjVIY21sa1BRVllUN2Y5VGVFQzhWM2xTS0treHFlSEt4WnVzazd1RTAxX3VtSTFGQ190Y2V0OE5wWQ?oc=5",
+   "source": "이코노뉴스",
+   "time": "2026-11-05T21:30:00+09:00",
+   "stocks": [
+    {
+     "name": "엠에스바이오",
+     "code": "0013Y0"
+    },
+    {
+     "name": "깨끗한나라",
+     "code": "004540"
+    },
+    {
+     "name": "에코캡",
+     "code": "128540"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
   {
    "title": "성창기업지주, 상한가 잔량 집중으로 투자주의종목 지정",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNUFVcFU3amEtMEkxeU14ZVJBVGRPRVh3dFZvWkt0YjVWWlgxeEtEc3NlRUlCYWdqU0xUWHVkQlRkMmhtNlREZU5GN1RHb2ZKMkVCdEhNYzUzSThvaktmcENPbU1EMVpwRmQ5SUVLWUtKUQ?oc=5",
