@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-08T00:24:34.507198+09:00",
+ "updatedAt": "2026-11-08T06:58:05.026506+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -475,6 +475,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[오늘의 특징주] 한진칼우 상한가…호반·조원태 지분 경쟁에 우선주 강세",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPNnFvNm1NRm9zaU9oOXdzMW1DbDFLdWxGV0FMWWFEcWVmMHUwRzVKZ3UwbXZ6RG9xZkpQSzljUC1EV3A1bWh4ZnBQX28zcjBjMTZYbkRFYTNQakZjZzhWeTk2LU8?oc=5",
+   "source": "https://www.ppss.kr/",
+   "time": "2026-11-06T17:27:07+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "삼성전자 노태문 사장, 자사주 3000주 추가 매입…6.3억원 규모",
