@@ -1,6 +1,6 @@
 {
  "label": "11월 6일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-07T18:32:31.772669+09:00",
+ "updatedAt": "2026-11-08T00:24:34.507198+09:00",
  "items": [
   {
    "title": "코스메카코리아, 3분기 매출 35.7%↑…영업익은 제자리",
@@ -375,6 +375,20 @@
    "dir": "down"
   },
   {
+   "title": "[특징주] SK하이닉스 주가, 130만원선 붕괴... 이유는?",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SNWxEVjhxWU01VzdndllIeEtVMWI5VnhwVW5SN25EQ1dreEROOThUMFFDZi1yWVE4VlNZcUxuS2dPNzBnSDRoUHcxZ2p0Q1Foc3lQRzFfMVZYOVpHMzZYSTZxWWg0WDhqNlE?oc=5",
+   "source": "금강일보",
+   "time": "2026-11-06T17:33:58+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "오진상사(주), 서부T&D 주식 1만7313주 ↑…지분율 7.42%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1aWNROXVPSmJvSGJ5NDFQLVdwa1FRcGVNR1AxSmJiTWNaVGJncVBQUmpaV3hEeDdlRjl3NXR2TDFxOHJGc2JfX1Izck5qdXlxdHFmZW9xQVFjRE53X3NUZ3Fsb1hSTkFyTFdkVHRNMGJteEk?oc=5",
    "source": "데이터투자",
@@ -401,6 +415,38 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]KT&G, '새로운 중장기 로드맵 발표' 목표가 240,000원 - LS증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQWE0T2xURzhrREw2SF9LRF93NW1lbEpzbURUd1hhaXN0RzN5TzV1NWE4NmFaSVU3eXNiMWR3MHowWmhyemVjaVhHcDhxN21nSEJZQ0JjSGRlUmN2?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T17:31:00+09:00",
+   "stocks": [
+    {
+     "name": "LS증권",
+     "code": "078020"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]롯데렌탈, '견조한 본업에 배당 기대를 더하다' 목표가 63,000원 - LS증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKS3RBVmdvcE1XUU1EWFBVNGx0b3hqNWlsVzkwd295NWRFWmtKNzd3MjZpajNCdGx3OUJIMF9zTHNQU1ZkNFVYVHZtOTBCQjU0UGs4bERKTjl1LWU3?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T17:31:00+09:00",
+   "stocks": [
+    {
+     "name": "롯데렌탈",
+     "code": "089860"
+    },
+    {
+     "name": "LS증권",
+     "code": "078020"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "웹젠, 3분기 영업익 53억원…전년比 29.3% 감소",
@@ -550,6 +596,24 @@
    "title": "[급등락주 짚어보기] 한진칼 분쟁·우선주 랠리…씨어스 실적 악화 '下'",
    "link": "https://www.etoday.co.kr/news/view/2645212",
    "source": "이투데이",
+   "time": "2026-11-06T17:15:00+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    },
+    {
+     "name": "씨어스",
+     "code": "458870"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[급등락주 짚어보기] 한진칼 분쟁·우선주 랠리…씨어스 실적 악화 '下' · 시장 영향은?",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOGNqOU9hTjFrOGNTSFJHMjdWeDdJNllwT00xbjRDSGJRcVVtc1NmSEFkR0NqV0JzNnhMZjB0YWctMkZTQTJVTzVsTFRFdUdqY1FIRjZYUE8zb0hz?oc=5",
+   "source": "서플 뉴스",
    "time": "2026-11-06T17:15:00+09:00",
    "stocks": [
     {
@@ -721,6 +785,20 @@
     {
      "name": "프로티아",
      "code": "303360"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]CJ ENM, '이제 남은 건 비용과의 싸움' 목표가 55,000원 - 유진투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FMVBfaEktMlVmdlhtTGt1Qjl2S2VtajVJanpTN3lRUkxRWTRpSFdQOGxybThhZkFDR19FN0JqZ1pwSWwxMFRIdVg2Vkl3OWR6V2RzZHJjcGNzZXE4?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T16:50:00+09:00",
+   "stocks": [
+    {
+     "name": "CJ ENM",
+     "code": "035760"
     }
    ],
    "thin": false,
@@ -967,6 +1045,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]CJ ENM, '광고 저점 타진' 목표가 55,000원 - 흥국증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUE5fZXJaaUlWX3FYV3FmU2ZlSEFkc19MWDQ5WVRUcWcwUVE3VEdaTl9MUS1nTHNpb1hGM0gyQWZQbDRIb0tJazBVcm90bng2UHZUZm02NXlhSXZx?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T16:09:00+09:00",
+   "stocks": [
+    {
+     "name": "CJ ENM",
+     "code": "035760"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "교촌에프앤비, 3분기 영업이익 123억원…전년비 9.6% 증가",
@@ -2843,6 +2935,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]롯데렌탈, '재평가 진행 중' 목표가 61,000원 - NH투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wNDN1a3ZTd1ExVUxzV05xbkV6bkZuUXRydnV0SVB5bndfS3hLOHk0Sk9VVWVQSzhNZ1U0akFBSThiWFBBS1dBN3dzZjhtTDFKVlgtMXRKNlkyUXVy?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T09:56:00+09:00",
+   "stocks": [
+    {
+     "name": "롯데렌탈",
+     "code": "089860"
+    },
+    {
+     "name": "NH투자증권",
+     "code": "005940"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 씨어스, 3분기 영업손실 소식에…26% 급락",
    "link": "https://biz.chosun.com/stock/stock_general/2026/11/06/CE3YDSOQSRENLLGFQ5LE7TEZXI/",
    "source": "조선비즈",
@@ -3603,6 +3713,24 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]롯데에너지머티리얼즈, '비중국 전지박 쇼티지 전망과 판가 상승 기회' 목표가 50,000원 - 삼성증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZ2w1QkFVUVppazBZX0c2cVBmd3RnaXVrQWdSTlBlTG9wU2NubEZXcGlIUFQ4bFlXeFJzSmlobi02QXhpaFV2b1BBUk93ajFvQ1RuTU4zMzZjTlU3?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-06T08:37:00+09:00",
+   "stocks": [
+    {
+     "name": "롯데에너지머티리얼즈",
+     "code": "020150"
+    },
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "신한증권, LG화학 목표가↓…\"원화 강세로 적자 확대 불가피\"",
