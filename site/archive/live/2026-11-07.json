@@ -1,6 +1,6 @@
 {
  "label": "11월 7일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-08T00:24:34.507198+09:00",
+ "updatedAt": "2026-11-09T00:06:37.429597+09:00",
  "items": [
   {
    "title": "InvestingPro 적정가치 신호 이후 사조씨푸드 주가 55% 급등 By Investing.com",
@@ -305,6 +305,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "씨어스, 수익성 급락…주가 29.95% ‘하한가’",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVRDk5NFdGSEJhSDkxRUpLQXRuVGZrVDhyOWtOUkFyYTBSWXFKRHJXczZiLXEtNWxnU3lXbDZLRUl6MGhyR2pGaTBndFBkcmM0LXFqODluOExseklTUmVDVXVLRmV5anAt?oc=5",
+   "source": "데일리메디",
+   "time": "2026-11-07T06:35:00+09:00",
+   "stocks": [
+    {
+     "name": "씨어스",
+     "code": "458870"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "씨어스, 실적 악화 수익성 급락…주가 29.95% 하한가",
