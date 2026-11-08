@@ -1,6 +1,6 @@
 {
  "label": "11월 8일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-09T00:06:37.429597+09:00",
+ "updatedAt": "2026-11-09T00:58:52.935060+09:00",
  "items": [
   {
    "title": "InvestingPro 적정가치 신호 이후 컴투스 주가 57% 급등 By Investing.com",
@@ -141,6 +141,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 월요일 반등할까…미국 반도체주 4%대 상승에도 외국인 7.6조 매도 '변수'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03UDJuZVJSaUp6VHE1T2Z6Nk9ORzFma01tdXMyUlNRdV9hdk04MGtzSkI0Y0lkeFpES05rOWpKX2l6cFkwOGpwVUxyeGhtQUhuV0plbVBNQ2ZfWUVNd25mRTFLSy1rRDN6?oc=5",
+   "source": "시사프리즘",
+   "time": "2026-11-08T15:36:57+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓",
