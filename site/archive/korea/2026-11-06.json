@@ -60,8 +60,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 3,
+   "newsCount": 4,
    "articles": [
+    {
+     "title": "[오늘의 특징주] 한진칼우 상한가…호반·조원태 지분 경쟁에 우선주 강세",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPNnFvNm1NRm9zaU9oOXdzMW1DbDFLdWxGV0FMWWFEcWVmMHUwRzVKZ3UwbXZ6RG9xZkpQSzljUC1EV3A1bWh4ZnBQX28zcjBjMTZYbkRFYTNQakZjZzhWeTk2LU8?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-06T17:27:07+09:00"
+    },
     {
      "title": "한진칼우 상한가 8만600원…투자경고 속 가격제한폭 도달",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fVFZ6QWNfVWxZV0gyV0hya1I1MV9vdVJTWUdoeVlXWldDbVU1aUttLWRPc0lxRnQ1X05JaFpFSXRsNUhRZUt1dElDV3RHelY4S1RfVk1HQWZ5aFlmOEdIU3BMVHlQaktCclNJZjJ4U3dyZ9IBckFVX3lxTE1fVFZ6QWNfVWxZV0gyV0hya1I1MV9vdVJTWUdoeVlXWldDbVU1aUttLWRPc0lxRnQ1X05JaFpFSXRsNUhRZUt1dElDV3RHelY4S1RfVk1HQWZ5aFlmOEdIU3BMVHlQaktCclNJZjJ4U3dyZw?oc=5",
@@ -111,28 +117,6 @@
    ]
   },
   {
-   "name": "파이온엑스",
-   "sub": "코스닥 · 900100",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "[특징주] 파이온엑스 29.89% 급등…관리종목 지정은 유지",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQNFVyc1laNE13Q3dTdE8xZnBBNTRTb01JTkJUT0pLc2h5S2JEaHNQbDRmOFNqTVpUTUpqblczYVBaazkxcGlBaHpLbWNJYUx2VllITjVscDJhaUh4VDIwbW13UTVKOWUwaFE?oc=5",
-     "source": "뉴스티앤티",
-     "time": "2026-11-06T17:03:47+09:00"
-    },
-    {
-     "title": "폭락장세속 윙스풋·파이온엑스 상한가… 무슨 이슈 있나",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWkNMUU1tMnMwYnduVXdDQ2N3X2VpLVFKRWFMaUtJUFBhRXlPQWJRN1JZNktDc0RqS2owM2Fob1BtQWtiLVNQdjA3Wi1lT0RMV2oxOVhqNmpjUGRyVHA1MjJ1TGJaZG10bXozUEhGRTdNelHSAXdBVV95cUxNeWdUZ1FrdW5hd0YtRHc1MDNNRDZjaDJyVWQ0bHZ2Z3I4MlZBT1pFc1kyeUQtR2oyZW9uY3lWdG5qUVJ6NUMwaDZiNkMzWkYzdVdIVDlreGRrdGZDT3BfS1hneVFpZUVpdGhncEpCM2JlNkNMOUprUQ?oc=5",
-     "source": "핀포인트뉴스",
-     "time": "2026-11-06T09:46:57+09:00"
-    }
-   ]
-  },
-  {
    "name": "엘리스",
    "sub": "코스닥 · 0158S0",
    "pct": 30.0,
@@ -155,6 +139,22 @@
    ]
   },
   {
+   "name": "파이온엑스",
+   "sub": "코스닥 · 900100",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "폭락장세속 윙스풋·파이온엑스 상한가… 무슨 이슈 있나",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWkNMUU1tMnMwYnduVXdDQ2N3X2VpLVFKRWFMaUtJUFBhRXlPQWJRN1JZNktDc0RqS2owM2Fob1BtQWtiLVNQdjA3Wi1lT0RMV2oxOVhqNmpjUGRyVHA1MjJ1TGJaZG10bXozUEhGRTdNelHSAXdBVV95cUxNeWdUZ1FrdW5hd0YtRHc1MDNNRDZjaDJyVWQ0bHZ2Z3I4MlZBT1pFc1kyeUQtR2oyZW9uY3lWdG5qUVJ6NUMwaDZiNkMzWkYzdVdIVDlreGRrdGZDT3BfS1hneVFpZUVpdGhncEpCM2JlNkNMOUprUQ?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-11-06T09:46:57+09:00"
+    }
+   ]
+  },
+  {
    "name": "덕성",
    "sub": "코스피 · 004830",
    "pct": 30.0,
@@ -171,21 +171,21 @@
    ]
   },
   {
-   "name": "대동금속",
-   "sub": "코스닥 · 020400",
-   "pct": 22.0,
-   "limitUp": false,
+   "name": "한미약품",
+   "sub": "코스피 · 128940",
+   "pct": 30.0,
+   "limitUp": true,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "[특징주] 대동금속, 장중 22%대 급등하며 4000원선 돌파 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aR0NzNHlEelgtY1JsS3RRMUZndzF6TlNsZE9SbHFOTWxRZ3B3eGtadGNtNzViNko1N0I0SThYUFZfYjh0LThXbURsQQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-06T10:23:36+09:00"
+     "title": "[특징주] 한미약품, '상한가 뒤 숨고",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYY2FBZ09va1UtM0xHd09wZ29UOEp5WVNDRnF6emFiVnB5MXBiQTVEU3I5SndJTl9vNGhPWFZlaEstMGpmNDBTTkVoekNsNW83YnU2MGtETDduMW1vaGVTTEN0M2VpTDdl?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-08T03:11:53+09:00"
     }
    ]
   }
  ],
- "updatedAt": "2026-11-07T20:44:51.130049+09:00"
+ "updatedAt": "2026-11-08T17:20:21.756452+09:00"
 }
