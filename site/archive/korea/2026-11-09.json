@@ -1,5 +1,5 @@
 {
- "label": "11월 9일(월) 정규장 마감 후 보도 기준",
+ "label": "11월 9일(월) 정규장·애프터마켓 마감 후 보도 기준",
  "threshold": 15.0,
  "indices": [
   {
@@ -7,8 +7,8 @@
    "pct": -0.81,
    "text": "-0.81%",
    "exact": true,
-   "source": "연합인포맥스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Zbnc0RXdfOVo5ejFYLTRWTXJzdzdFVmtUak1aNHdOREl0MGo0OWJLT3dHQS1WUE0zRnV2SV9BcFlMRGFJTVI0dWtXU01rZThMdmJfaW01cGZ0VVlyd0tiLTdXMnZnbFIzNUl3b2ZRalXSAXRBVV95cUxQb0Z3bGxvS0c0N0t5LThzajVubk1CRE5RRjJ0T2dxN1FuQ2VYLTZ0RzdWQW0zdklhOHowNWdPMEZiQ3FwbHBhVnlFYnBHcHV4MWFpMlpRZjZBbzFuLWVjV3hYOXI0WnJ0X29RWk1CcTEybFZsXw?oc=5"
+   "source": "매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeHY4bzZVZHVka3MxLTZvVFNBSnZhZ2FmV29DM1JiSkNWWVgtMHJtREpYVFZiYzZzMkIxLUpDbGpRQmRxeEtXSE1NYjVNTHJqWmp3b3RYREVvRW9PVWJ1bzdKbGc?oc=5"
   },
   {
    "name": "코스닥",
@@ -16,7 +16,7 @@
    "text": "-0.82%",
    "exact": true,
    "source": "프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZTJLWFZ1aFFxYXNPMnRnY3ZrNkwxbTVXTlRKby1oalNGOTNibkpDU1c3UmE5MWhyY180N1I1RXBPUXF3a2Vvdl9CZzhmUG9MMnZLSHAyYl9jbl82cmJIWW1kTjQ5QQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NUDVCYUpnY19zajVVLUNaNkI0ZEwwdVl4ZHdYQUxnaXlId1lpNDBPaW9PYkh4eG0zU1F2Y1VYTUcyTXllOFo3d3J4VzJ0ZkR6VUs2Mlk3WHpKYndrYjlzWUFsYjhMSnF0TVRwQQ?oc=5"
   }
  ],
  "items": [
@@ -26,8 +26,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 8,
+   "newsCount": 9,
    "articles": [
+    {
+     "title": "[오전시황] 코스피 반등 …기관 매수, 한진칼우 또 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RTEh5aXRDMzlTejYxbjAzaGxGaDllY2c3SUNSdTI2azNqOXAtV0VkQzI0RXNqZFJfYzFPQWpGa1plS2tnRm9ZR01kanNQbEZiMzRpLVBKSlM3ODhiZGF6QTNHZ0pkdlpfYUE?oc=5",
+     "source": "중기이코노미",
+     "time": "2026-11-09T12:35:00+09:00"
+    },
     {
      "title": "한진칼우 29.90% 상한가…호반그룹·조원태 지분 경쟁",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92c3ZyQkM5dGdrLVRiSFhFVEo5cjBGSjBXanlEVy1HRW5tck14ZjczSGxlTHdRY3dlWU52U0xqS3QxUlVnbC1QV0hLQm9oUHFfLThVQkduRThzZkpEREJ6TnR0NEJ2V2lC?oc=5",
@@ -42,7 +48,29 @@
     },
     {
      "title": "'조원태 vs 호반' 지분 경쟁에 한진칼·대한항공 우선주도 '상한가'",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4yd9IBeEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4ydw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNUE0WkVfZzVNb0ljNEVRQUxEQWRtSnhXbmNDcXBfclZsdGxKRWlOM0h6dWQ4Y1NnMkZGWHJITUZ6SUVERlpHWlZQRFZkazBMOGFUZ2pJN3NBM1NrdVJ5etIBeEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4ydw?oc=5",
+     "source": "뉴시스",
+     "time": "2026-11-09T10:09:28+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대한항공",
+   "sub": "코스피 · 003490",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "대한항공우 상한가…통합 항공사 시너지 기대 확산",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KVUhvYnoweW9MZVYzRzN2eEV5cVQwaWRKUFFpeWRscm1DWmVxdmJ2V003YnNTUnVlVjRPcGZKcjljZ21nNjNKbnQtTjE3NHFlS2ZUWEhQU2pfQTQ1NHA1ZkpocWlsVnE5WjZMdWdR0gFyQVVfeXFMUDlWUEpQWFJQUnA1WVdQS2NBdWVBMUY5MFUzWHdiekUyVmlhUElwNVAwRUxwX2dxTzZyWjJEVXRmMzhzcUItdEZ0b0Rrc0FjbW44TmlzREczYVJ4cHZEc3N5RU5UWGpFbTY4MUxwLUxsc1pR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-09T15:49:26+09:00"
+    },
+    {
+     "title": "'조원태 vs 호반' 지분 경쟁에 한진칼·대한항공 우선주도 '상한가'",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNUE0WkVfZzVNb0ljNEVRQUxEQWRtSnhXbmNDcXBfclZsdGxKRWlOM0h6dWQ4Y1NnMkZGWHJITUZ6SUVERlpHWlZQRFZkazBMOGFUZ2pJN3NBM1NrdVJ5etIBeEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4ydw?oc=5",
      "source": "뉴시스",
      "time": "2026-11-09T10:09:28+09:00"
     },
@@ -51,6 +79,12 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wZ3l2XzBpd3ZpLXlSZkx3V1d5M0ZteDROTTVMUDU0eGd5ZkNtS3Atd1R4b1FnMjI2NlhLNm55dGZlS0Ixang5akw0a0FOdlhleFZhZGdPQ00yYWlhU2c?oc=5",
      "source": "뉴스투데이",
      "time": "2026-11-09T10:06:00+09:00"
+    },
+    {
+     "title": "[특징주] 호반 vs 조원태 경영권 분쟁에…한진칼우 상한가·대한항공우 20% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5leW1oc08zejhGMUxXcVNxbnB6c0Jlek9yNTlEbHVhUEFiRWpoWExWTlFqTXUyempmVnpSb3laU0c2R1BRWUdNaXduTzZYRmkwT1ZFWg?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-09T09:48:00+09:00"
     }
    ]
   },
@@ -139,34 +173,6 @@
    ]
   },
   {
-   "name": "대한항공",
-   "sub": "코스피 · 003490",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 3,
-   "articles": [
-    {
-     "title": "'조원태 vs 호반' 지분 경쟁에 한진칼·대한항공 우선주도 '상한가'",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4yd9IBeEFVX3lxTE8ycXJsMUdBTTZNcnBQZ2VXNjh0aXVydmZvMDRuSjlhZXJuc2M2YnROSEhtY2w4eEJHeE5jUzlLUTgzaUNpTHBXRmJ6cEQ4V0EyNkI3SEJfR1JjYXNqajRpLXlxZXZBTzhBRGxmdk9vZTd5VS10VG4ydw?oc=5",
-     "source": "뉴시스",
-     "time": "2026-11-09T10:09:28+09:00"
-    },
-    {
-     "title": "[N2 증시 풍향계] 한진칼·대한항공 우선주 ‘상한가’…보안주·NHN·바이넥스 ‘불기둥’",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wZ3l2XzBpd3ZpLXlSZkx3V1d5M0ZteDROTTVMUDU0eGd5ZkNtS3Atd1R4b1FnMjI2NlhLNm55dGZlS0Ixang5akw0a0FOdlhleFZhZGdPQ00yYWlhU2c?oc=5",
-     "source": "뉴스투데이",
-     "time": "2026-11-09T10:06:00+09:00"
-    },
-    {
-     "title": "[특징주] 호반 vs 조원태 경영권 분쟁에…한진칼우 상한가·대한항공우 20% ↑",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5leW1oc08zejhGMUxXcVNxbnB6c0Jlek9yNTlEbHVhUEFiRWpoWExWTlFqTXUyempmVnpSb3laU0c2R1BRWUdNaXduTzZYRmkwT1ZFWg?oc=5",
-     "source": "이투데이",
-     "time": "2026-11-09T09:48:00+09:00"
-    }
-   ]
-  },
-  {
    "name": "금호건설",
    "sub": "코스피 · 002990",
    "pct": 30.0,
@@ -185,6 +191,28 @@
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYjROYUhjOElxQWt5QVQtc1ZJQjNxajJ0U05SVGdUUFJmakJPREhJZUVnUE9sYVljc1pnZUhac0R3d0RSbFpkLU90N2hrUXo0bDNVUWhrTXBqaHNmZmkxcnU4QTljRlhMMVE?oc=5",
      "source": "금강일보",
      "time": "2026-11-09T13:11:59+09:00"
+    }
+   ]
+  },
+  {
+   "name": "덕성",
+   "sub": "코스피 · 004830",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "덕성우 상한가…합성피혁 본업과 테마 수급 분리해야",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vTHBneXYyTUZjeGhSa1JKREt0d28ycFJNcGtGV2RMOXcxUWRBS2Fxb0hwWnpGR1IxUl9kYW1KS1Z1SEtpa2gwbHBieWZpU1o4cHdHUE5GV0UwWDlMOWpVOHF1OVBsVG80YmhHQ3dRMzBCZ9IBckFVX3lxTE9vTHBneXYyTUZjeGhSa1JKREt0d28ycFJNcGtGV2RMOXcxUWRBS2Fxb0hwWnpGR1IxUl9kYW1KS1Z1SEtpa2gwbHBieWZpU1o4cHdHUE5GV0UwWDlMOWpVOHF1OVBsVG80YmhHQ3dRMzBCZw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-09T15:48:29+09:00"
+    },
+    {
+     "title": "덕성우 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTDAtcUVsTzM2Szh2WThBZHhnWi1DbFVjcDE0aFg3WG1iSkE4bldNeGlZQVJwRldSTTFuM240NmJiSjNBNHNaQWFBWEVlRGdWaVJSdk5hTFQzUzZoSm1lRmthX3JfT2RvY1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-09T10:16:44+09:00"
     }
    ]
   },
@@ -237,18 +265,50 @@
    ]
   },
   {
-   "name": "덕성",
-   "sub": "코스피 · 004830",
+   "name": "에코캡",
+   "sub": "코스닥 · 128540",
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
    "newsCount": 1,
    "articles": [
     {
-     "title": "덕성우 주가, 상한가... 왜?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTDAtcUVsTzM2Szh2WThBZHhnWi1DbFVjcDE0aFg3WG1iSkE4bldNeGlZQVJwRldSTTFuM240NmJiSjNBNHNaQWFBWEVlRGdWaVJSdk5hTFQzUzZoSm1lRmthX3JfT2RvY1E?oc=5",
+     "title": "[주식마감] '호반VS조원태' 경영권 분쟁에 한진칼우·대한항공우 '上'... 아시아사IDT, 깨끗한나라우, 에코캡, 한싹 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2amVUdDFHcGs3dktWSnIxc0lWaHBjalh6NThtaTNXM0FXSy1uQTUwUXp6eDNJMUdsWHc3Y1pOaXFSalFXLTk0WTVzWnZ4cDBsTVlKU1BkbXNDZ3Z2eE9JWFoxR3I5TGFHTWc?oc=5",
      "source": "금강일보",
-     "time": "2026-11-09T10:16:44+09:00"
+     "time": "2026-11-09T19:40:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한싹",
+   "sub": "코스닥 · 430690",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[주식마감] '호반VS조원태' 경영권 분쟁에 한진칼우·대한항공우 '上'... 아시아사IDT, 깨끗한나라우, 에코캡, 한싹 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2amVUdDFHcGs3dktWSnIxc0lWaHBjalh6NThtaTNXM0FXSy1uQTUwUXp6eDNJMUdsWHc3Y1pOaXFSalFXLTk0WTVzWnZ4cDBsTVlKU1BkbXNDZ3Z2eE9JWFoxR3I5TGFHTWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-09T19:40:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깨끗한나라",
+   "sub": "코스피 · 004540",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "깨끗한나라우 상한가…3만6248주 거래, 유동성 경계",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00b3FfSUtOVUh5bGNQV0lpSFNKS0s0TEhlRjF2SEJZdU5zTlRYNmNTQVZOVWpmbF9OLTQwTFNsUFlIVXd5MzBwdTdpV0taSVlrMWt2WmJNcG9Vd1hHN21mQ08wMEVDcGVNSFdZdkVvVDNsd9IBckFVX3lxTE00b3FfSUtOVUh5bGNQV0lpSFNKS0s0TEhlRjF2SEJZdU5zTlRYNmNTQVZOVWpmbF9OLTQwTFNsUFlIVXd5MzBwdTdpV0taSVlrMWt2WmJNcG9Vd1hHN21mQ08wMEVDcGVNSFdZdkVvVDNsdw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-09T15:50:02+09:00"
     }
    ]
   },
@@ -301,5 +361,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-09T17:46:10.137390+09:00"
+ "updatedAt": "2026-11-09T21:00:12.774484+09:00"
 }
