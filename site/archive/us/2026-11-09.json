@@ -1,0 +1,53 @@
+{
+ "label": "미국 11월 9일(월) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 2.15,
+   "text": "+2.15%",
+   "exact": true,
+   "source": "재경일보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40c0kzMlc1TmNoLVlIVFhwa2hpdFI5Y2N1Q1FwZkJ6M1VnYjdRQk9GcVllaEZCMFBSZHVGTHg4WWxTZDJfeFJMWW9iTQ?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 2.74,
+   "text": "+2.74%",
+   "exact": true,
+   "source": "아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CSTVnM3BFWXFSSWJlY1lORkNzWHM0NWVQd0tBb0Npa1hCbG9rMUQ2UHdQNEhkZVFuNWJ0NEk1UlhfaG5BcnpqTU5JWGxoM3RwbUtmam1aU2LSAVhBVV95cUxOQkk1ZzNwRVlxUkliZWNZTkZDc1hzNDVlUHdLQW9DaWtYQmxvazFENlB3UDRIZGVRbjVidDRJNVJYX2huQXJ6ak1OSVhsaDN0cG1LZmptWlNi?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Vir Biotechnology",
+   "sub": "VIR",
+   "pct": 22.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Vir Biotechnology stock jumps 22% after hepatitis delta Phase 3 trial success",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkk2V1VFbzR5V3RCTV8tbjVjdTZSZm9menlQMlZySHItNFlVRGJacW04VjdZYjhRalh2My1ONmNJXzE3ZW50R2YxdGU2OGRwODREVzVBZ2UwVDI2Y1liNndCZ3JSbVdoQ1NjNmlZdlpmcC1qNmR1cEw5VDIyYkJZNEZRUFBDaGgzdExyWXI2QmtzNFBaVjJKSk1ha091NVl2d0RrVU9iMEpnSzNyWl84dEliR1FoU1FTbHROMGp6OTZwejV0SFA2b3FadVJOdw?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-10T01:04:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Trade Desk",
+   "sub": "TTD",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "The Trade Desk shares surge 21% after earnings crush Wall Street estimates",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenVEMkdtYzFGVDRfQmRoaF9XZjZyVUJTRkhSSVBvbkxnbGs1VGtUSGU4SmFGVjBEUDJyOHY1U2RSbjNGcGhUb1JGeFZLVU1lX2t0TWNNSkJQTWVWcjlMejF6WnNmSlRIUnQ1LXlnQWFhYTliQ1RoM3RjRDZvUEJKQlBhdG1vaFY3UldmQ0hoeWpscDBXQVFIdzBkdVJPWVdoUGJpcHN6U0RTZnhaMzBWcllTdHJfOElYemNTU21ySXJNbTNlQUZRVA?oc=5",
+     "source": "Investing.com UK",
+     "time": "2026-11-10T06:42:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-10T07:40:13.606398+09:00"
+}
