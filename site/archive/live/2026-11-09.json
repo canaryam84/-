@@ -1,6 +1,6 @@
 {
  "label": "11월 9일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-10T22:05:57.103153+09:00",
+ "updatedAt": "2026-11-11T00:18:03.454821+09:00",
  "items": [
   {
    "title": "[상한가 종목] 아시아나IDT-박셀바이오 이어 머큐리 등 마감",
@@ -1031,6 +1031,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "‘약국 플랫폼’ 바로팜, 11월 코스닥 상장… “올 상반기 흑자 전환”",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/11/09/B65AQCJSJFAADF3HKRE6KD47SA/",
+   "source": "조선비즈",
+   "time": "2026-11-09T16:07:44+09:00",
+   "stocks": [
+    {
+     "name": "바로팜",
+     "code": "0153R0"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "장원영 대표이사, CS홀딩스 주식 1144주 ↑…지분율 53.84%",
