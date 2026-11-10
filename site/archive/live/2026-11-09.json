@@ -1,6 +1,6 @@
 {
  "label": "11월 9일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-10T06:44:30.241762+09:00",
+ "updatedAt": "2026-11-10T13:47:38.132558+09:00",
  "items": [
   {
    "title": "[상한가 종목] 아시아나IDT-박셀바이오 이어 머큐리 등 마감",
@@ -2897,6 +2897,20 @@
    "dir": "down"
   },
   {
+   "title": "삼성증권, 금·은·구리 선물 ETN 6종 신규 상장",
+   "link": "https://view.asiae.co.kr/article/2026110911030324166",
+   "source": "아시아경제",
+   "time": "2026-11-09T11:03:04+09:00",
+   "stocks": [
+    {
+     "name": "삼성증권",
+     "code": "016360"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 삼양식품, 원화 강세 속 순이익 감소 -4%대 하락",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDXzFQbnRkaDN6VmQwZWs2Qlo3UVlhVkxVc0M4cGxadHN2MndNOVhfLWIxWHZlQ0kyYnB3X09fWmhWU2ZYVF94Mk93TFNSOWRjRnBSR2VqY3pianF3eXVMMzVGVGc2S09HNFlUWTNB?oc=5",
    "source": "전국매일신문",
@@ -4311,20 +4325,6 @@
    ],
    "thin": false,
    "dir": "up"
-  },
-  {
-   "title": "삼성증권, 금·은·구리 선물 ETN 6종 신규 상장",
-   "link": "https://www.yna.co.kr/view/AKR20261109032600008",
-   "source": "연합뉴스",
-   "time": "2026-11-09T09:17:41+09:00",
-   "stocks": [
-    {
-     "name": "삼성증권",
-     "code": "016360"
-    }
-   ],
-   "thin": true,
-   "dir": "none"
   },
   {
    "title": "한진칼우, '3연상' 호반·조원태 지분 경쟁에 300% 폭등[특징주]",
