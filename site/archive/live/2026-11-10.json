@@ -1,6 +1,6 @@
 {
  "label": "11월 10일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-11T00:18:03.454821+09:00",
+ "updatedAt": "2026-11-11T06:22:29.439306+09:00",
  "items": [
   {
    "title": "미국 10월 CPI 전월 대비 0.4% 상승…시장 예상 웃돌아(상보)",
@@ -125,6 +125,20 @@
    "dir": "up"
   },
   {
+   "title": "알테오젠, 美 약가인하 충격 급락…소폭 반등",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMVlJoSGxDWG5OVDZ1YjM1TFJYbEN3OU4wRmFqSXZZWF9tclNuMGRsNkpXNTR4YWJ3WHJuVTBaZ3JsenJlNWtQWU5iWjhhUGI3NmZWbnJkcVRzR01hQTBVVzRmbk16Y3ln?oc=5",
+   "source": "데일리메디",
+   "time": "2026-11-10T19:24:00+09:00",
+   "stocks": [
+    {
+     "name": "알테오젠",
+     "code": "196170"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "에코프로비엠, 인니 자회사 유상증자에 6271억 투입…제련소 지분 취득 추진",
    "link": "https://www.edaily.co.kr/News/Read?newsId=05884326645644408",
    "source": "이데일리",
@@ -137,6 +151,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[주식] 한올바이오파마, 류마티스관절염 2상 발표...주가 26% '급등'",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LLVhfVE5tM1E2bi1QY29IbVFZTWlFV0MtY2VtT29Kakg5M1RKRGhWRjRGWUEyRVd2REZCaFpFNEMyaFJhTXNQRFdOSk1KYklqRURNb21YbEJNaU5ZMDZWeTFBSkRHbzVoYjdN?oc=5",
+   "source": "히트뉴스",
+   "time": "2026-11-10T18:26:21+09:00",
+   "stocks": [
+    {
+     "name": "한올바이오파마",
+     "code": "009420"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "신혼가전 다 여기서 샀는데…\"롯데하이마트 목표가↓\"[클릭 e종목]",
@@ -1429,6 +1457,20 @@
    "dir": "up"
   },
   {
+   "title": "오로스테크놀로지, 10억원 규모 자기주식 취득 신탁계약 체결",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iRktEeGVkVUJ4VWtRU2tac1pFUk9ydUJNLURKb2tGZmxFNVZlQ3dIOEszMDFuOHhiWEF6MFVabmJWamtJUnVqT1lSek5KMDFYX1FoUEFPNXk5dHU5eEN2QkUway15ZHBOdGR4dUJlOHg?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-10T14:10:24+09:00",
+   "stocks": [
+    {
+     "name": "오로스테크놀로지",
+     "code": "322310"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "신세계 3분기 영업익 1천643억원 '역대최대'…전년比 64.7% 증가(종합)",
    "link": "https://www.yna.co.kr/view/AKR20261110102451527",
    "source": "연합뉴스",
@@ -1473,6 +1515,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "지역난방공사, 3분기 영업손실 79억원…적자 전환",
+   "link": "https://view.asiae.co.kr/article/2026111013495899882",
+   "source": "아시아경제",
+   "time": "2026-11-10T13:49:58+09:00",
+   "stocks": [
+    {
+     "name": "지역난방공사",
+     "code": "071320"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "신세계 3분기 영업이익 1천643억원…작년 동기 대비 64.7% 증가",
@@ -3815,20 +3871,6 @@
    ],
    "thin": false,
    "dir": "up"
-  },
-  {
-   "title": "지역난방공사 3분기 영업손실 79억원…적자 전환",
-   "link": "https://www.yna.co.kr/view/AKR20261110041000527",
-   "source": "연합뉴스",
-   "time": "2026-11-10T09:16:39+09:00",
-   "stocks": [
-    {
-     "name": "지역난방공사",
-     "code": "071320"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   },
   {
    "title": "[특징주] 동원파츠, 상장 첫날 50%대 강세…청약 증거금 8.2조 몰려",
