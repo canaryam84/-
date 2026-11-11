@@ -1,6 +1,6 @@
 {
  "label": "11월 9일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-11T00:18:03.454821+09:00",
+ "updatedAt": "2026-11-11T10:20:36.335291+09:00",
  "items": [
   {
    "title": "[상한가 종목] 아시아나IDT-박셀바이오 이어 머큐리 등 마감",
@@ -3111,6 +3111,20 @@
    "dir": "up"
   },
   {
+   "title": "파마리서치, 증권사 목표가 상향에 강세…3.84%",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mblREaURRM0VTUXBlNW1tQmRtUTExOE1nY211MVUxOEsybmQ3Z2RMMlRFanlSVGo2cDQ5R2czQ1JOREl4RVdkMzg2NXdGYy1OZlE?oc=5",
+   "source": "매일경제",
+   "time": "2026-11-09T10:40:04+09:00",
+   "stocks": [
+    {
+     "name": "파마리서치",
+     "code": "214450"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 삼양식품, 3분기 영업익 증가에도 순이익 감소.. '약세'",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDQzR21DZ2pZbERyQkN2TlhESm5FeTY5QXFNeHBrUHJVb0Z1SEpncUNNRE5ZSkNqcWJkWXhFMXVmMy04V1gyTnhZclFVN1B1eF9pME1zNGpKQlA1M0NTMlVqR3BFYmx1Umo5NXpuR204NnVhamwwZ1A1MzFTd3JKVkx1UDc5X3Nt?oc=5",
    "source": "글로벌이코노믹",
@@ -3577,20 +3591,6 @@
     {
      "name": "딜리셔스",
      "code": "483350"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "파마리서치, 증권사 목표가 상향에 강세…3.84%",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVnBZZUowQW14aTE0NFJPVk1TeFJ5enFzZjNub21qS0VMOUxKeXQwVl8wZklWUURMYV91Z29jblRnN2VKV0dsVjZZTjNWN29GQVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "2026-11-09T10:03:28+09:00",
-   "stocks": [
-    {
-     "name": "파마리서치",
-     "code": "214450"
     }
    ],
    "thin": false,
