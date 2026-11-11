@@ -1,0 +1,59 @@
+{
+ "label": "미국 11월 10일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.3,
+   "text": "-0.30%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3JhNnRjanZjM1FMUFZJZ3pGbkpVSnlfemE1SFlZellORGtRN2FYaUVXRDZ6R0RXQWxqWUNOZUt0T19SczFIaWw0bVFhMGo5dGNFMTNIRkF4ZFBBeDdKYkYzRGc0RVJjNWxTOU1BdUdCZkVMUzgzNGlQTEpyYURFeUpkVnlMNFpWemhtRDFjWUhQRVBNc25faVFFMDdxT0J2M0ZBbGV4LTRCcThseE5iWV9rRl9xcnZha1dGbGU3MHlQOGYwdFM4?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.74,
+   "text": "-0.74%",
+   "exact": true,
+   "source": "매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cVdzZ0VyaVRGRTR4VF9XRkpJcXJtSHJFRmRWWmVxVmpwRlp1OXBHbGhtcU16a1o2OGtPM1VmaWc4blM0NHFlMUJlY1JIaXdvNk5yakhBLU9wOUFjM253dXRPclY?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "PepGen",
+   "sub": "PEPG",
+   "pct": 116.32,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "PepGen stock jumps 116.32% intraday as overbought readings flag risk",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fX2lTU1N1bkV4MThHRXJNSVVYYzlTczVCb1ptWWNBNWt2dFBJbXRBcFlWNUhDcHR0dXozVUlHOF83T0R4aFV2dEpvZFBKT1J6ZHZvaHdwcUpQLV9lY0xISTNVRGZHSWdFcEw5NzBTOHFKR3JrMEstY1Ftb2M?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-11T03:07:58+09:00"
+    },
+    {
+     "title": "PepGen stock soars over 100% on positive Phase 2 trial data for DM1 drug",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUJ1d2MzUHlSWjhiZ0tkRkVmNTVhX1IwYnczU2Q1aFM3anZ4R2U1bktGMFBsOGZwZ2J0NUFWcXVyTVp1VC1tR3U1SmMwLW5QVDJISGhGZWFPS3FGQVZlckRYNkNhN2pXTXZVWVBFLW93WUR6Y1R4R0VOazlKUXEzdlZhbWNlbEpubmYyTW1HRkVHOUFRY0xoakVQYWd4OXpIaHduQUNGdXhYbFJxNUg4RGpBc1ljblVWeUltQ0tPSjJuR056UDNR?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-10T22:39:42+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Sanmina",
+   "sub": "SANM",
+   "pct": 20.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Sanmina shares jump 20% after AI server sales lift quarterly revenue 84%",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0E3YVl4cWhtOFFuUnNuM1RjNmh3NHFPU21oRHdZaG9Lb0NwNFUzektzMTVZTkpMaFRYODN4cDFQVEVNaUJQOG5MR1hQUllwYmNwUTctdWZvSFR0TTFScDFoTDlNSzBsWjZKQWROUlMwRGdjd1NUUk9SREw4dzJQaXh6SkRCS0VjSEo3MHFoTWlFcGZKMjBDLXhXbkVTUlU?oc=5",
+     "source": "Startup Fortune",
+     "time": "2026-11-10T22:21:52+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-11T10:45:12.364593+09:00"
+}
