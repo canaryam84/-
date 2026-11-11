@@ -1,0 +1,77 @@
+{
+ "label": "11월 11일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -2.14,
+   "text": "-2.14%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjUldBUVR3S2U0bHFESWhLdTJBd1pWYjB6c3VoRVJ0akZyXzl1RTN3UVJmLVBCZ01NcUhEZnF6NVNwY09IaWJSVkFYd0dnRXpBMFFQMUNoN2ZwZ2N0cHpwMk9WdWJUeFd2?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "이니시아",
+   "sub": "가상자산",
+   "pct": 63.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인브리핑] 비트코인 1억100만원대 약세…이니시아 63% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RdzhCZW9fM2RlNFBMX2dDRy1IQnExVEx3MlV2MmZ6V1R3UHVscG1rRlNHT09wZ2JkVGI4ck1aNm1IREMzemJabGtnaDRjR0tIaGgyRmhKX2Qydk02RHc?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-11-10T18:02:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "폴리스웜",
+   "sub": "NCT",
+   "pct": 43.14,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "폴리스웜(NCT) 30.13% 급등…업비트 원화마켓 210개 종목 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81UnUzNjJqWFZDM3E1a3M1OXRzZ1ZaX2xXQkFNTHhUN1UxTTJreUZETktteElqVjVPX1FVQ29IUm90NVY0UmRiZ3Vn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-11T08:01:57+09:00"
+    },
+    {
+     "title": "폴리스웜(NCT) 43.14% 급등…업비트 원화마켓 69% 종목 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tenZOTmZhUVBjVWphYmtCUnoybmhGYVlNOElEWHpFd3Jael9YTEZwekZtc05MVnFoc0RZZEtaWTVHR3B0Y3ExNWZ3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-10T20:01:38+09:00"
+    },
+    {
+     "title": "업비트 폴리스웜(NCT) 34% 급등…파이버스(PIEVERSE) 거래대금 751억원",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FNV9fSDFsZEF0NFVmcGM2VlNtd0N4WnBOMTVoV0QtZGdfUmtHc0diUzVsNXlvTVdxMjk3b0RsT1g4R083LUR1c2hB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-10T13:41:53+09:00"
+    },
+    {
+     "title": "[업비트 TOP10] 폴리스웜(NCT) 35.14% 급등 1위…유의종목은 만트라 1개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41Zzc2ODRxd2FWQVdEX3V2N3FMYnVGVGJpQ2NGMkJpZ2FES0g3c2wwVF85bkdMMnRodjlHYnpGM0lvUjdpbTZUR01R?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-10T12:01:10+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스퀴드",
+   "sub": "가상자산",
+   "pct": 21.38,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "스퀴드 21.38% 급등해 97.1원…신규 토큰 변동성 부각",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Zm1aOGQ1czdHN2xfSmluc3B6MldQZUJrdUdVZWxiN2NlTVJwbUlxMzNOb0V0RDliS0lIRkZ3OGVwa0lsU2Q0X3Q5SkJwb1Nsd0pFbTVvMkZxSnN0S3RZdFBla2ZuY3pTVVFqQVpWR0N1d9IBckFVX3lxTE90Zm1aOGQ1czdHN2xfSmluc3B6MldQZUJrdUdVZWxiN2NlTVJwbUlxMzNOb0V0RDliS0lIRkZ3OGVwa0lsU2Q0X3Q5SkJwb1Nsd0pFbTVvMkZxSnN0S3RZdFBla2ZuY3pTVVFqQVpWR0N1dw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-10T12:55:12+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-11T19:34:16.750021+09:00"
+}
