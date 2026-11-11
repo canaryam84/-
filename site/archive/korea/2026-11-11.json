@@ -1,0 +1,291 @@
+{
+ "label": "11월 11일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 2.6,
+   "text": "+2.60%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QU2drOTNIZnYtR3BTV1VKVzRLeUUzTWNXUTdvQ3pvVlhXOGNDRmdSTXNka3g5Wm9QSzk5cnh6SmNINk1sZjBFODduUlptczRUQnVDUVhBV3pqU3VsLXZZZ0JFdWtYT1U?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 5.62,
+   "text": "+5.62%",
+   "exact": true,
+   "source": "매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2Y2RCSVczZ1B4aThmZEtMcGRPa1E2Tl9lOWJJVmNCbFVIVVRLbW1rOWg0cDZxQVNjSHpKVkd6aWNyYzdFYUt6SEFOYlN3OVdiY3FIWktEaXFyVlpOMXpvaDFudzM?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "에스텍",
+   "sub": "코스닥 · 069510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[주식마감] 공개매수 후 상장폐지 소식에 에스텍 '上'... 공시 없는 상한가 종목도 무더기",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qWjZObFhzNVVjekFLcVdmaUk2aXVROXlEMWNnZEQwTHo0bHJXLWFkc08yMXdESHVYMzVHTENIVzl3Nmw4ZHA3c1prempZRUdGX0RhS01YYUVqWXduVV9SaXJfU2MxbmRKakE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-11T19:40:00+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 에스텍·메드팩토 상한가…공개매수·항암제 기술이전에 매수세",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tV2d3d2NhNkk3amx2aDktelcxY2oxcWFlcGtKSUk5REpIMG9Tcm9BZnIxMEFTSXhvQzlSS2ZwQndEZmUwTVVxanh2WFExVEpEaC05aVpXVjBPLUVycko1LXBSa28?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-11T17:47:54+09:00"
+    },
+    {
+     "title": "[N2 증시 풍향계] 2차전지·반도체장비·보안주 대거 ‘불기둥’…에스텍·씨케이솔루션·예선테크 등 ‘상한가’",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRmV2SzZTVFNKVE5uV1pRd3pyd2lUZUROdFVuQXRLbUF6ZjV6RlptWGh4VkQzUnhfaUpsazhVcmppWXVFeVlIdDVVYnB1OUxOYXBTeU1mbFBJRF9EMEE?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-11-11T10:46:00+09:00"
+    },
+    {
+     "title": "[특징주] 에스텍, 공개매수 후 상장폐지 소식에 ‘상한가’",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/11/XFTETOGRSZBRDPJ2QYCFLAKA5Q/",
+     "source": "조선비즈",
+     "time": "2026-11-11T09:20:53+09:00"
+    }
+   ]
+  },
+  {
+   "name": "메드팩토",
+   "sub": "코스닥 · 235980",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[특징주] 메드팩토, 차세대 항암제 글로벌 기술이전 기대에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNTkzWU4yd3hKV0NVelNLajFVMnIwQnI2S2ZZbnYyQU1Ja2FJeVpfM3VGaGNmNmI5WDhjQS1IVXJvbnFDU1VfUk5iN1pEaVl3Zmd6RTRfMXNwLXBITFFGLWhxa0JDSGJ4b2oxdQ?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-11T18:22:58+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 에스텍·메드팩토 상한가…공개매수·항암제 기술이전에 매수세",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tV2d3d2NhNkk3amx2aDktelcxY2oxcWFlcGtKSUk5REpIMG9Tcm9BZnIxMEFTSXhvQzlSS2ZwQndEZmUwTVVxanh2WFExVEpEaC05aVpXVjBPLUVycko1LXBSa28?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-11T17:47:54+09:00"
+    },
+    {
+     "title": "[속보] 상한가 7개 종목 동반 질주…바이오인프라·메드팩토 등 가격제한폭 도달, 한진칼우는 상한가 이탈",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QcEllZlhMOUgydW5ILXQxODNmNkxUdC1pbHZXcTZQWlV3ZlZYQ2hRMnUyaU9INHdUMWc4cl9IcjhZUV9sX0ZVWnNDUHRkTmxrTEtpa0F1NkVPYnl1OG1tVUt2T0dXX1gz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-11T10:30:37+09:00"
+    },
+    {
+     "title": "메드팩토, 항암 신약 글로벌 기술이전 기대감에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Nc3pFTGFIVlZoeFNSaFF6UHFCOEc5NGozTG5fVi0zTWEzQ29oR0p6WFlpU0p5YUhFUkk0SE1LcDdtbXY2ZUljTm1fYXVuVlBOMWJENmsyeEVRdw?oc=5",
+     "source": "한국경제",
+     "time": "2026-11-11T09:47:25+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한진칼",
+   "sub": "코스피 · 180640",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "경영권 싸움에 춤추는 '우선주'…한진칼우 상한가 릴레이 뒤 급락",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04T2ZFd1JPRUdVY3RXV1VlSHpidmRSS09KTHEtams3X21RcGxzS2NDRE9vTWVtNGVGOHVDLTZ1cFdERWVfSzZRLUcwbmZnbU1uZjBBclcxeHNCR2p1WmRaWm1XNllRQkN3bDUzYnNoYw?oc=5",
+     "source": "뉴스퀘스트",
+     "time": "2026-11-11T17:08:36+09:00"
+    },
+    {
+     "title": "한진칼우 등 우선주, 상한가 뒤 급락…변동성 경고 : 금융",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mZ2c4czZxRjg3c24yZFRhR0EtbjhvYVNJeWhOckl0dVVVdjR0bm1uQThaMUo3elZjbEhsajJkM3ozVk1ZRnFsZEhESQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-11T17:06:40+09:00"
+    },
+    {
+     "title": "우선주 급등락 주의보…'지분경쟁' 한진칼우 등 상한가→하락(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261111067951008",
+     "source": "연합뉴스",
+     "time": "2026-11-11T16:03:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "씨케이솔루션",
+   "sub": "코스피 · 480370",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[N2 증시 풍향계] 2차전지·반도체장비·보안주 대거 ‘불기둥’…에스텍·씨케이솔루션·예선테크 등 ‘상한가’",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRmV2SzZTVFNKVE5uV1pRd3pyd2lUZUROdFVuQXRLbUF6ZjV6RlptWGh4VkQzUnhfaUpsazhVcmppWXVFeVlIdDVVYnB1OUxOYXBTeU1mbFBJRF9EMEE?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-11-11T10:46:00+09:00"
+    },
+    {
+     "title": "2차전지 장비주 '룰루랄라'…씨케이솔루션 상한가 투자심리 회복",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROF9PZVFqaTN0d21zaDRDQ19Gb0dPNS1uM3Bxb01TQVpuNUl2eGRYa1E2dFdHR2UzOTZYaFlCTUpNbU9Ga25yekhKSll2NjdXS0hqN2ZsNklxWjMwX0ZRQzM2bGtmVFdZNGw1OHpmenBESGZlRUFR0gF3QVVfeXFMUFE4X09lUWppM3R3bXNoNENDX0ZvR081LW4zcHFvTVNBWm41SXZ4ZFhrUTZ0V0dHZTM5NlhoWUJNSk1tT0ZrbnJ6SEpKWXY2N1dLSGo3Zmw2SXFaMzBfRlFDMzZsa2ZUV1k0bDU4emZ6cERIZmVFQVE?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-11-11T10:12:38+09:00"
+    },
+    {
+     "title": "씨케이솔루션 주가, 상한가.... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81N1FncVQtN1dhSzREdW9PYVdibE5FSXJKU1JTVkxxc3VNNjNiLWJ1VVdTUlhRakpLX280UUR1bV9FcVdKY1BEaWNNdWVfUTM3QzBXelFwRGlGVVVEUnhiZkx4R3BtRURXWmc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-11T09:20:14+09:00"
+    }
+   ]
+  },
+  {
+   "name": "노을",
+   "sub": "코스닥 · 376930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 노을, 지구홀딩스 최대주주 등극에 상한가…국내 진단시장 진출 기대",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qY0lUblFaMFotdjN5ZE5UcmUyUXhlY0tzbTkxRWR1S0V3YTRqQ01XUV9xdnR2cXFfNkJxQjBzOHYtWVcyQTVMeldiUDItNGctZ1NKN0E2X29GU2ozaU45eU9lZEF5NzMwUFE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-11T15:57:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지구홀딩스",
+   "sub": "코스닥 · 221800",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 노을, 지구홀딩스 최대주주 등극에 상한가…국내 진단시장 진출 기대",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qY0lUblFaMFotdjN5ZE5UcmUyUXhlY0tzbTkxRWR1S0V3YTRqQ01XUV9xdnR2cXFfNkJxQjBzOHYtWVcyQTVMeldiUDItNGctZ1NKN0E2X29GU2ozaU45eU9lZEF5NzMwUFE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-11T15:57:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바이오인프라",
+   "sub": "코스닥 · 199730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 상한가 7개 종목 동반 질주…바이오인프라·메드팩토 등 가격제한폭 도달, 한진칼우는 상한가 이탈",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QcEllZlhMOUgydW5ILXQxODNmNkxUdC1pbHZXcTZQWlV3ZlZYQ2hRMnUyaU9INHdUMWc4cl9IcjhZUV9sX0ZVWnNDUHRkTmxrTEtpa0F1NkVPYnl1OG1tVUt2T0dXX1gz?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-11T10:30:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "예선테크",
+   "sub": "코스닥 · 250930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[N2 증시 풍향계] 2차전지·반도체장비·보안주 대거 ‘불기둥’…에스텍·씨케이솔루션·예선테크 등 ‘상한가’",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRmV2SzZTVFNKVE5uV1pRd3pyd2lUZUROdFVuQXRLbUF6ZjV6RlptWGh4VkQzUnhfaUpsazhVcmppWXVFeVlIdDVVYnB1OUxOYXBTeU1mbFBJRF9EMEE?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-11-11T10:46:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라메디텍",
+   "sub": "코스닥 · 462510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "라메디텍 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ORUxYX3pFazJ2TW9QQ0pXT3l4VEx4Q3h6WnJ2WXVjWkZLSlNuUGFCMmpmb0lSZE9keTRWa2xYQy1yaXZHN2ZBYmIzb1VTeDZfOWx6LXBhbFpSUHlzLWhIREZGS2VjSjF4ZGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-11T09:35:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한진",
+   "sub": "코스피 · 002320",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "한진, 자사주 전량 소각 결정 후 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1teGNRVG1SVlB3cXdTMmVvTjRxc2xILTVRSFVncjVIS0JCRlEteThVc2YwTkFUbGJkQVJYVDF2blpfYmdNdzljbE55SlBoN2lzdVFWSndDaml3bWxJendxRVljbVhFVm5XSXJ6eDluajhrZw?oc=5",
+     "source": "스페셜타임스",
+     "time": "2026-11-11T15:53:01+09:00"
+    },
+    {
+     "title": "[특징주] '저PBR' 한진, 자사주 소각에 15%대 급등 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261111049151008",
+     "source": "연합뉴스",
+     "time": "2026-11-11T15:47:38+09:00"
+    },
+    {
+     "title": "한진 주가 16% 급등, 자사주 소각 효과",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3VGhuMnhwcGFWYW1paFg3RU8xYmhIUjdoZ0lZTmpub3N1V0hfazRWSjlpa0RhWnFyYWtkdjFNcWJNUzg2bDRIamFEUmNyM2ZwNUgyV3l6MTBfOWdFeVNIT054UU9tSlRU?oc=5",
+     "source": "공감신문",
+     "time": "2026-11-11T10:48:05+09:00"
+    },
+    {
+     "title": "200억 자사주 소각에…한진, 장초반 16% 급등[이런국장 저런주식]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZE4yYzB4U3ZsWGtHdUo4cnBRYm0tNEdHTUpwdE1Ja21FUDdJenN3Q0NOZ0RUVHY4VXdpdG9JejlvZmdqOHJxb3N1OVdIS1JGN3fSAVNBVV95cUxPMDBhbTJ5Z0hzcnRoVjUyTTFOT2VZTW1Dd0ozTVliVGpuSEgwazdJWDhqbXB3cHEwUU1IRkNQbi1mOWFEd1E3NER4X2tUOThLWjBIWQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-11T10:06:34+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이수페타시스",
+   "sub": "코스피 · 007660",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "이수페타시스 19% 급등…우주·AI 기판 투자심리 '활짝'",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEs4WW9DbUNTSmhkOU1TdWx3cTBoWkFiRlJZQVI3TG5JSDExX203ZFY0S3pENnJnQ1QweTJVQWhHX19MSFcyNFhNUURjUGRKb2l3ZG11eDZGSUQ1SUtFSENEdWpsM08xNHY5bkJwVWJCcEdyQ2lmQVRhRjBGbUZsdGlSN2hUOVFM?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-11-11T16:32:11+09:00"
+    },
+    {
+     "title": "미국 로켓랩 실적 호조에 MLB 전문 이수페타시스 주가 19% 폭등",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iLTAySHFqZll5cldVLTdlZTZ4ZER0Vm1xVFhTY2FLMzIzaUh2MVJFdWd2cW1qUVJVSkJCN3loWmJKcDBzV3BWcGoyak5DQU82enFmOEYxYXFCcjVRbV9hdW94dWVwRnFDc210RDBoSkJsbTJMeXpB?oc=5",
+     "source": "CNews",
+     "time": "2026-11-11T16:07:05+09:00"
+    },
+    {
+     "title": "PCB 관련주 전반적 강세…이수페타시스 19%대 급등, 코리아써키트·티엘비도 '껑충'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPalpzZmc3U053dU1SRTZIaVlUTkRTZndJaEtPXzNUaWVoYmhhVzlCUXZyRnFkSU9helZCRGFERkVsYkN4LV80TnpTM0VmYVVVN3dhSV9DTl9NcGtlNzNnMEdsc0NoNEZ6?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-11T11:52:15+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-12T00:31:56.605453+09:00"
+}
