@@ -1,0 +1,59 @@
+{
+ "label": "11월 12일(목) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.78,
+   "text": "+0.78%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01LWRhSl9CRWlablBfODlZUHVrSFhPczJ4UGEtenlpMkZORE5sUXlmU2Q4VmVncUdibEptOXJlc2M2b2hYMHhJQzg5cHNSTXRROUZuQjBheDhnb1ZJbVNxWFhmUFd2UjZm?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "카피보보",
+   "sub": "가상자산",
+   "pct": 48.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "카피보보 48% 급등…빗썸 거래대금 34억원 [특징코인]",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBONmF5MklaMnFTNjNXSTFjZDBfOWdJNWxrMjlhaS05aXl5a0Zsc09LeFl1VDhVSDliUU91ZzluaFpUWWk4TDVxYmh6VkRBY29nTjlLZjJxVFc4anE0eUJRS0ZUREg0Zw?oc=5",
+     "source": "뉴스1",
+     "time": "2026-11-11T14:59:24+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엘프",
+   "sub": "ELF",
+   "pct": 26.56,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 엘프(ELF) 26.56% 급등 1위…10% 넘게 오른 종목 2개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmV1dGY3UxR2ZmMVhFcFRUREIzczRkQ1VvYXRLUDIzcGJZUGdtMnNzS2wwbmxocjQwTnNOM09xTVBsVXV1aWs5aGZn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-11T12:01:41+09:00"
+    }
+   ]
+  },
+  {
+   "name": "메타플렉스",
+   "sub": "가상자산",
+   "pct": 23.04,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비트코인(BTC) 보합 속 업비트 61% 종목 하락…메타플렉스 23.04% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtUGtvQ2QtdEM0cG93SnRNTTRCdG05R1QyVU5PY0txVHRuZ0tZS05vUkVZczdoMnFTWUpwel9YbXNnN0FsV1o1Zk1n?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-11T20:01:37+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-12T19:48:48.541076+09:00"
+}
