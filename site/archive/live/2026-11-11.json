@@ -1,6 +1,6 @@
 {
  "label": "11월 11일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-12T11:35:59.846083+09:00",
+ "updatedAt": "2026-11-13T00:40:32.943899+09:00",
  "items": [
   {
    "title": "머큐리 시스템즈, 수주잔고 사상 최대...투자의견 상향-JP모건",
@@ -43,6 +43,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "한진칼 14.6%하락...'우선주 상한가' 풀리자 동반 붕괴 |",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91bTRvZVlMRlNPd05VV2ZoTG9CZzlGX1pHVkl0YVpnWDM0MDJtalQ2S2w2UUJlMUk0TnBZMEpiUjAxU3FXSXBmRkdrUk1EcFk4VHlFcFZBUEdXOTRieEN3cW1WNkhOblNwNk9BRktSQUNhb0U?oc=5",
+   "source": "더 이코노미",
+   "time": "2026-11-11T22:16:42+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[상한가 종목] 씨케이솔루션-심텍홀딩스 이어 메드팩토 등 마감",
@@ -2157,6 +2171,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "2차전지 장비주 '룰루랄라'…씨케이솔루션 상한가 투자심리 회복",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROF9PZVFqaTN0d21zaDRDQ19Gb0dPNS1uM3Bxb01TQVpuNUl2eGRYa1E2dFdHR2UzOTZYaFlCTUpNbU9Ga25yekhKSll2NjdXS0hqN2ZsNklxWjMwX0ZRQzM2bGtmVFdZNGw1OHpmenBESGZlRUFR0gF3QVVfeXFMUFE4X09lUWppM3R3bXNoNENDX0ZvR081LW4zcHFvTVNBWm41SXZ4ZFhrUTZ0V0dHZTM5NlhoWUJNSk1tT0ZrbnJ6SEpKWXY2N1dLSGo3Zmw2SXFaMzBfRlFDMzZsa2ZUV1k0bDU4emZ6cERIZmVFQVE?oc=5",
+   "source": "핀포인트뉴스",
+   "time": "2026-11-11T10:12:38+09:00",
+   "stocks": [
+    {
+     "name": "씨케이솔루션",
+     "code": "480370"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "대기업 상장사 절반, 공시기준 이하 투자도 이사회…SK·LG 가장 엄격",
