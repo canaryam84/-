@@ -261,6 +261,22 @@
    ]
   },
   {
+   "name": "JYP Ent.",
+   "sub": "코스닥 · 035900",
+   "pct": 20.41,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, JYP Ent.-음원/음반 테마 상승세에 20.41% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZZVlFTy05S0FFOV92WjhPVFRuYWdKbG9BZ2tCV2VrVkZXRFB2R2pxeUEtRXdpRUVQWGowMl9UaUNWVUlKcmc?oc=5",
+     "source": "매일경제",
+     "time": "2026-11-12T10:23:55+09:00"
+    }
+   ]
+  },
+  {
    "name": "비아트론",
    "sub": "코스닥 · 141000",
    "pct": 17.0,
@@ -293,5 +309,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T01:08:22.755010+09:00"
+ "updatedAt": "2026-11-13T03:52:53.918742+09:00"
 }
