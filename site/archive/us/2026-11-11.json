@@ -1,0 +1,115 @@
+{
+ "label": "미국 11월 11일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.48,
+   "text": "+0.48%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzJ4aEhyeF9jNGhTbVBTWFVtVERxZEJ6X0puTldud3RTc0V2ZlVTb3dGRlhZcEFTTVR0YUpPMzg3TWRMSUhfR3hJQTc0NTloU3RCVHZkbzRISjV6VE5YbHU5Z0RvdENjYlBoT0ZLTUoteFUzS0pBRzBsa3hUVGh4MVFlVXkxNjk1SktwMkZnS3owUFNoajlOMURLVTlWMmwycDgwZ1FNdWZjeUU2UU94OVQ0dTc3enA4ZjBSaXJpQ3Z6dmVra1E?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 1.6,
+   "text": "+1.60%",
+   "exact": true,
+   "source": "매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vOXVwSXB4MEs4ZlNPX2tLLWI3a0lKMDZESFljZTFsWTE2TzVKUHRmaHpVdnBLVU1qT2RsOEZybHByQUpNSzRZS05xQUw3NmhDZ2loTWhvVlZVUlBZUEI2ODBraGs?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "SHF",
+   "sub": "SHFS",
+   "pct": 88.75,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "SHF stock jumps 88.75% intraday while its daily trend stays bearish",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45cWpRSGs2V2FJLXgzeWFzSGl0eTdwNEtIQjl1Tkx5TVRmQkE5QUxRSGQ1aDZKa18xNWdrUGhHR0haNzd6T0dBRHcya2FzczVlSDRrZjNPcFJscDFXcm9fc1Z5OEZGNmd0RUZBa2RzRDlKQW9qcGljd1FkQ1NHZw?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-12T00:07:08+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Gevo",
+   "sub": "GEVO",
+   "pct": 38.13,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Gevo stock jumps 38.13% to $1.92 as RSI signals overbought",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MN2x0WWhOZDgwRXk5MmZrR2IzOVRxRlJCU1ItUlp0VE9CbmRRdFNQVnZBR1ZmU1k0NXJZaEFBU09PX1pmYXFPRnVRVnA0RDA2MW1pOERRSlBNeXpxX3QwczB4WHVzMGZFdzFOd19TTEZLU19sNXd1NWxXR1pYQQ?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-12T00:11:05+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Inlif",
+   "sub": "INLF",
+   "pct": 27.75,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Inlif stock jumps 27.75% intraday but remains below its $0.81 daily EMA",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHJhVVY4a1lWQzl0U05zYlBxUk9aaEpoNmE0X3FpQXpxM3FRNm5JOFpfeUtfcS1NVHQ3eVpveXpfdlV3THRKc0JIODVkb2lIaUlOM2xMN3RYTzNuRDY1ZlNFNkJPNlFNWlZwVmVaWHFfdlQwMGxlQnZNR1FuaDRsYUVSUQ?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-12T00:16:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "CoreWeave",
+   "sub": "CRWV",
+   "pct": 25.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "CoreWeave shares jump 25% after strong Q3 earni...",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmx1SEpsdjR6WVRqOG9Yb2RnQ2dBcnJZUU0xbkpscmJBZUVjTWR4YUJFRWNNelQtVmM1MzJZRmlxcHFfdVJXTWdTcHROT0w4Mk5JeWFYNmVoTk9LVFF5TDYyb0RBa1BNZl9FYlF4NDBXRTUyUDJnWlB1RVBCTk02VnkxcjNGd19a?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-12T04:46:25+09:00"
+    },
+    {
+     "title": "CoreWeave stock soars 23% after Q3 2026 earnings beat",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2OVJlTVF3OS1GUWlwY3JkUGtQWkRzUHNZODJ5Vy12VktBU2hLTWRVczBoWEtMSnNBekFoSWs3Ujg4NWd5dnpsZFVjdFBsa2Q2UF9HNjdub2NJcXJaY0JVLTZLdGtTc3BQUl83U1ZvMFdub3hH?oc=5",
+     "source": "Quartz",
+     "time": "2026-11-12T00:49:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Riskified",
+   "sub": "RSKD",
+   "pct": 22.29,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Riskified stock jumps 22.29% as revenue accelerates, margins narrow",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkVTd3YwNzlsSDQ3UWF5R0Vpa0JnMWdGdEhKa1FNeEQ1cHhHakZ1QlYtUjdSenh4dFk0bmVLNDVOV0RjMHJmbVBVUE1zaG43d0lnLVNIOXRUU1lPS1ZCdnpKUWRIQ1lpcGhEZ2JZWHAxNUxNOXFiS3gxYzFWSFNKZ1J3bVVfWnFYdktRVlJiLVRLd0FheEFid3ZpZG9ESmlzOTc3VHJyYUplLUhCZkNQUjFhdFVVbVIzbVJlN0pwNzFLSVlSaVdKU1hDTE83MVZKTFZaMXFjcXZ3dw?oc=5",
+     "source": "finchannel",
+     "time": "2026-11-12T07:39:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "코어위브",
+   "sub": "미국 주식",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[서학개미 생존공식] 코어위브 21% 폭등에 나스닥 1.6%↑… 엔비디아 174달러 회복",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tOEU5N2pCY3MzLXA3WlZ4SFNSeGg4QllQeWFMLTY5U0J2QVRxZkRpWTNIUVBuUTNRcUYwN0UyR0hxNmxJVEJPR0pn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-12T09:02:58+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-12T11:45:25.585121+09:00"
+}
