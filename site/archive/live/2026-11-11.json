@@ -1,6 +1,6 @@
 {
  "label": "11월 11일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-12T06:38:58.296242+09:00",
+ "updatedAt": "2026-11-12T11:35:59.846083+09:00",
  "items": [
   {
    "title": "머큐리 시스템즈, 수주잔고 사상 최대...투자의견 상향-JP모건",
@@ -1401,6 +1401,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[SK텔레콤 주가 전망] 긴급속보 개미털고 연속상한가 충격발표 2000억 매각 임박 #SK텔레콤 N (7QfVprsWjH)",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhSmI4a01Zd3l3bG1vRUJ4NXdUTmtXcW5Zc0NDRV9RblRodVdzZVYyNmVQMWlxUVN0a1o3eGVReHo2c1Nlb05heHF1N0NIWW5wWFcwaXVnbHpzWVZCVmdnaU84ckZVWjBfMzNV?oc=5",
+   "source": "Unisba Media",
+   "time": "2026-11-11T12:47:17+09:00",
+   "stocks": [
+    {
+     "name": "SK텔레콤",
+     "code": "017670"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "남학현 대표이사(사장), 아이센스 주식 1000주 ↑…지분율 6.99%",
@@ -3942,6 +3956,20 @@
    "title": "증권가 \"NHN, AIDC 사업 성장 기대\"…목표가 잇단 상향",
    "link": "https://www.yna.co.kr/view/AKR20261111030300008",
    "source": "연합뉴스",
+   "time": "2026-11-11T08:47:57+09:00",
+   "stocks": [
+    {
+     "name": "NHN",
+     "code": "181710"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "증권가, NHN AIDC 성장 기대에 목표가 상향",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDQwUkJXaGtnQnROR3hiOGcxcTNabTNkc01uOV9OYnpRbUtLSEcxRXJ1M19QY20tVmhuTWhsdjdCOTVyMWpWSGlfRE9QdHJyOVFxdGstdVMwTHd5YkhRZ3hGSjc5WEhGOWoxWE15dXRVdVdiVHVIXzZfR1J5MkdZekluUFhVMFRVUmYxWjNPeVV0MkJjOVE?oc=5",
+   "source": "데일리바이트(DAILY BYTE)",
    "time": "2026-11-11T08:47:57+09:00",
    "stocks": [
     {
