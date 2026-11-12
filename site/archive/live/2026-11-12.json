@@ -1,6 +1,6 @@
 {
  "label": "11월 12일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-13T00:40:32.943899+09:00",
+ "updatedAt": "2026-11-13T06:57:54.640559+09:00",
  "items": [
   {
    "title": "젠슨 황 퇴진에 엔비디아 11% 급락…AI 산업 파장 확산(상보)",
@@ -18,9 +18,9 @@
   },
   {
    "title": "'불륜 파문' 젠슨 황, 엔비디아 CEO 전격 사임…주가 10% 급락(상보)",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84ckNiNGtHRjhsdFdWcnp6eWxINDFDS1cwbmhVMm9CTTZmLVdRNVluay0wTS1nazF3M0V0ZjdIUXFkd0tua182LXZjVXgzbnhhY0w1cEZQYmtYNVZHZlB5VjZwOVBGODN4eGhiY3IyOTgwdw?oc=5",
-   "source": "KB Think",
-   "time": "2026-11-12T23:03:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TYzM2LUs2WnU2OTRoeVIyVGw2SVBNTkZyRHZHZm5PWFVQMUs5TTRROW1RT1dMMDJFWEJvdE56QTNqUEFxeTJsbWJUOF9LX0I2ZF82OTFCSGJyRFprbnd6c2hPTlpxZWtaY2dya1JhWG4?oc=5",
+   "source": "연합인포맥스",
+   "time": "2026-11-12T23:03:27+09:00",
    "stocks": [
     {
      "name": "상보",
@@ -1761,6 +1761,20 @@
    "dir": "none"
   },
   {
+   "title": "[특징주]티엘비, 목표가 상향에 12%대 강세···전날 상한가 이어 상승",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meTlyU3FZOGdDQ09FT1dNR2M2eFp0eHdzUWRCb1pkbExEaXdEbUgyNTdBMDZwNWhjV3hybzBoWmlJS3gwMS1PVE8zQmxyUnpndGtjNlJiVkk1UmlXUWxzQW9kTDhvRE810gFrQVVfeXFMTkhrUHFCdXFTS0dtcGVHY09FdUVPajFsd0hJRUZoRS0zeGFEYk5jaUlFbGdNYmNhOThJOGNTQm92cWdfWklWbUtJYWlXejNaaEpEN3o0eUt5WTMwRFdwM2FaeHFldy1Dd0Vpd28?oc=5",
+   "source": "현대경제신문",
+   "time": "2026-11-12T13:18:53+09:00",
+   "stocks": [
+    {
+     "name": "티엘비",
+     "code": "356860"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "특징주, 이노메트리-유리 기판 테마 상승세에 24.71% ↑",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYUNxMkt5dUdWRG4wNzl6aGIxRkdMY2d4UFVHTEd0MWV0UWdCdUtOSmtNUXNpTjdnTWo5N2o2RzFDZlRNUXpzOFZoTnRzdFMxUEE?oc=5",
    "source": "매일경제",
@@ -2039,6 +2053,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] 메리츠금융지주, 3분기 순익 '뒷걸음질'…주가 14% 뚝",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MYWlQR2toRmtQcVAxMklaOC1WbVdiTUJHdG55N0I1UHZyUjZLRFlnbklGRmFhU0NNZl9NNWFMSW1PcS12VnltcE1SYkdxY3ZVTVJ4MVk5bkZZbGhXU1dRLUVWQzFiSU9ZSk9J0gFuQVVfeXFMTWJGbTk0MVVNYW56WFhWZWtqZHlqQVdpanVObWVJM1FFSmFlYWcwYkNsRlA5X21QbVh5cEVveFJrenF0TnExU2J6aUUyZ0Z3dmpubWpZTnRNTk0wM3Rqb2Z6b0xJM0lUVHRQWjJ1eWc?oc=5",
+   "source": "뉴스드림",
+   "time": "2026-11-12T11:18:51+09:00",
+   "stocks": [
+    {
+     "name": "메리츠금융지주",
+     "code": "138040"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[1112시황레이더] 매드업, 20억 원 규모 자사주 취득 결정 등에 장중 상한가",
