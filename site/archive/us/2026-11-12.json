@@ -1,0 +1,53 @@
+{
+ "label": "미국 11월 12일(목) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -0.36,
+   "text": "-0.36%",
+   "exact": true,
+   "source": "중앙이코노미뉴스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVXdSbFZLVk1sMkJGNUt1VWdnNVBRUXNpVUlaa2sySzVySWNWTXR0TGVKc2RBVnZMWDFzYWpTcTQzWTRJSzhjVjZfVVpBTXdGLUc0NnVKRGVqYllDU2htVlB0YURXSldRTzlrNlE4ZUJnZw?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.39,
+   "text": "-0.39%",
+   "exact": true,
+   "source": "신아일보",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVWkxWUV6dFYzZmszZkM3aDhyZEhIYXE5RzBrR3VqcklrTkVzM1o3OWVmVUdLSnFoU2F2NGVFSGw3ZWlRYm9keWd2b014Y1ZWNDlvTkFOR2VMR0EzQWQ0RXBxNDZ6U084SnUya1REZUY?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Klaviyo",
+   "sub": "KVYO",
+   "pct": 65.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Klaviyo stock surges 65% after InvestingPro Fair Value spotted opportunity By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1NlbFJnOFRrbDZ4QXRLNmNUakFqNXN2YW9HNkdoYzlMSi1NU3d3VXN6NjJTdU00WFlvOHotU3BOZ0ozZTlRYXEyQlBPRko4MEtSdWNEcUY4WThqVTFtZFZpYVhiV3NGSmhWdjVoVGdQaFRwbzZ6VjJBZmRiWnNfaHd0TnF1SFAteFVfZzZMeTRYOEdCRGI3TlI1ZGpsdTZUUzBEYVFFXzl0U0FRUmI3V2xDNU80c3pZYUw3Tl91c25VaER1WGQwc2RiOTg4VXc?oc=5",
+     "source": "Investing.com South Africa",
+     "time": "2026-11-12T22:23:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "AXT",
+   "sub": "AXTI",
+   "pct": 23.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "AXT stock jumps 23% as its China-made wafers feed the AI optics boom",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXM2c21rUTZxeWh6ZDJ1XzhsSWhwNkktUFdZSzhER2pEVjNlTDJhSnpuN2ZZQjNLck9JV2NWQl9uTFE4VElGSU01VjBoTV9zcXFvSW5BV3RjQWxrMm9DamJwelkxUng0WnBjNDVSdktHNzVhdXAyR3NlR1ZIUlNnemJvTGMtZ3haaUcxblBJRk90X1hEajV1Nzh2bw?oc=5",
+     "source": "Startup Fortune",
+     "time": "2026-11-12T20:41:03+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-13T11:28:39.042934+09:00"
+}
