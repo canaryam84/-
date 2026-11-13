@@ -1,0 +1,51 @@
+{
+ "label": "11월 13일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -6.5,
+   "text": "-6.50%",
+   "exact": false,
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZzExQ01iQWd0dUtVdjFRY1kwOG02d2FNMm5TWUh2R293ZW5HSEVjWWo3QkJUWGJDUVNoeUhCWW5tU3g0NmNoalBvNHlfeGJfSXlGTHlOSlE1OENWbFpyMmZXTG5qQVV2YzM5NU5FSmFuZXdhSklPLWJSYUp6ZmFWb29TdTFNWmRpeWMwMWt2OXZYX3RwVUF5SjdwdnRvTjNUZ3lMa1NFc2plZVk1Sk40bUFmTkE4a25KQlF1Y0ZxZEg0NTZCZkNQd3MxMUptSUIycnRYNkw0MVdVemJOeWNNTTNISEdlMTZCSVE0WW5WWWc3aUxmbGlIb1VYLVYtRmNicWNZVUFmcHBvXzVpYlZQdzVXTGFza3dsdC1odWUycTg4UW0xMjZEdDIwVk5RM19DOTJnbDRZRmt3cThlcVExbkk0Q1JrZw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "롬바드",
+   "sub": "BARD",
+   "pct": 50.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 9,659만원…업비트 롬바드 50% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11WDZHOGNwa0pBd0FKSTJWN1loOTNhcm5DWnRERlBxWl9NRjBKbXFnU2VCSk8wbUlScjFFQU8yUTU0N0FUS0lCZUptNmVGLUtyVDFlTjhqZi1vY1VXWnRGdNIBZkFVX3lxTE45Wm5mcUZOQ1UwRV9uMWlFUFpTRW81dFFxc1llaGlKam1QSU5YRjQ3YkNYWWliS0xYaVczTHhfenpEVEhlSlpGX1c0a293QzFlUktQVWJpNW5nVkRhZEkzNUxETzRndw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-11-13T09:00:42+09:00"
+    },
+    {
+     "title": "롬바드(BARD) 46.90% 급등…업비트 원화마켓 70% 종목은 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmalFWZHV5QzE5QUxaZGZMU3BBcjNrVmlkUnV3Z1QtZkJOWkpGNHRLM2l0UERqTUQ4TlNEUU1IX1FKeTRKcC10V1BB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-13T08:01:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빗썸서",
+   "sub": "가상자산",
+   "pct": 20.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "에인션트8(A8), 빗썸서 20% 급등…해외 거래소보다 30% 비싸[특징코인]",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrUGpTVHJHeGo0ejg4MldmYlh1bEdTcFNFdWtVM3NwbUE3Z1pXYUd1ekFObkRUcEx5UDZMNWd0UlMtWkxlcnFqTjJyeUdIekFWckFMclI4NTUzVUZtT3VLcDU1ZHBqdw?oc=5",
+     "source": "뉴스1",
+     "time": "2026-11-12T14:56:36+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-13T19:44:24.490522+09:00"
+}
