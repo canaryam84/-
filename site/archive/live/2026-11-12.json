@@ -1,6 +1,6 @@
 {
  "label": "11월 12일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-13T11:22:43.344911+09:00",
+ "updatedAt": "2026-11-13T12:21:22.239009+09:00",
  "items": [
   {
    "title": "젠슨 황 퇴진에 엔비디아 11% 급락…AI 산업 파장 확산(상보)",
@@ -1287,6 +1287,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주]티엘비, 목표가 상향에 12%대 강세···전날 상한가 이어 상승",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ia1BxQnVxU0tHbXBlR2NPRXVFT2oxbHdISUVGaEUtM3hhRGJOY2lJRWxnTWJjYTk4SThjU0JvdnFnX1pJVm1LSWFpV3ozWmhKRDd6NHlLeVkzMERXcDNhWnhxZXctQ3dFaXdv0gFrQVVfeXFMTkhrUHFCdXFTS0dtcGVHY09FdUVPajFsd0hJRUZoRS0zeGFEYk5jaUlFbGdNYmNhOThJOGNTQm92cWdfWklWbUtJYWlXejNaaEpEN3o0eUt5WTMwRFdwM2FaeHFldy1Dd0Vpd28?oc=5",
+   "source": "현대경제신문",
+   "time": "2026-11-12T15:11:34+09:00",
+   "stocks": [
+    {
+     "name": "티엘비",
+     "code": "356860"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "옵트론텍, 3분기 누적 영업이익 100억원 돌파…전년比 4.3배 급증",
    "link": "https://www.mk.co.kr/news/stock/12206418",
    "source": "매일경제",
@@ -1745,20 +1759,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "[특징주]티엘비, 목표가 상향에 12%대 강세···전날 상한가 이어 상승",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meTlyU3FZOGdDQ09FT1dNR2M2eFp0eHdzUWRCb1pkbExEaXdEbUgyNTdBMDZwNWhjV3hybzBoWmlJS3gwMS1PVE8zQmxyUnpndGtjNlJiVkk1UmlXUWxzQW9kTDhvRE810gFrQVVfeXFMTkhrUHFCdXFTS0dtcGVHY09FdUVPajFsd0hJRUZoRS0zeGFEYk5jaUlFbGdNYmNhOThJOGNTQm92cWdfWklWbUtJYWlXejNaaEpEN3o0eUt5WTMwRFdwM2FaeHFldy1Dd0Vpd28?oc=5",
-   "source": "현대경제신문",
-   "time": "2026-11-12T13:18:53+09:00",
-   "stocks": [
-    {
-     "name": "티엘비",
-     "code": "356860"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   },
   {
    "title": "특징주, 이노메트리-유리 기판 테마 상승세에 24.71% ↑",
