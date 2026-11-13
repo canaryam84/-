@@ -30,9 +30,9 @@
    "articles": [
     {
      "title": "코스피, 외인 매도세에 5290선 하락 마감...수주 목표 돌파 금호건설 ‘상한가’도",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52My1jLVNxaVBoTTMtakp0QkVBaXJfUDRHRzBIUFEtZ2M2eVNTYlFlQzRWb1lELURoQTNBUTlzbk5qTlJJTjJhQ3Q1ZVZoU095TThTU2JYQnZvU0ZaMkZyRWhnWjZkNVUwNEdV?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSWxZTTQyY0tBbllOUmk5MGdOYS04WFVWQUN2bzBnU3ZMT0dPbUxjS092X3pvdkJwLUtIejlMS1lPYjFla3JKMEh2NDMzX0JpcTdXYzNWRnk4NWRpLWJEcnJuT2U5bmlXcTk0aA?oc=5",
      "source": "한국증권신문",
-     "time": "2026-11-13T18:22:21+09:00"
+     "time": "2026-11-14T01:27:10+09:00"
     },
     {
      "title": "금호건설, 3,720억원 규모 공급계약에 상한가",
@@ -64,9 +64,9 @@
    "articles": [
     {
      "title": "창업투자株, IPO 시장 회복 기대에 동반 강세…DSC인베스트먼트 상한가",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sUmRVc0hpVTNGekk4dnhDcUhCU29uNDE5djhjSHYzSVQyUlVHZ05iV3RoZ2dqT3JMaG9DREFtNWRQdXVPaG9JazlLT1VHRjZ2c0xJWEFTaWdPaHFsTndnd1kzdS1PbHhUdzYzckNzNUROalHSAXdBVV95cUxNVW41M2RTSUVLcGZlUVRxWlNmaXNxUEw3Y0tMcmFoaVZTaDZ3akowUmJRMU8ydXJOaTQ5ZEtveFoyalBjZnVEYkdaRXprcnRDeUl1S182Zk50dTUyVmhscWVnUm4tOGplR2dTeWhIVV8tU2RGREhZbw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VbjUzZFNJRUtwZmVRVHFaU2Zpc3FQTDdjS0xyYWhpVlNoNndqSjBSYlExTzJ1ck5pNDlkS294WjJqUGNmdURiR1pFemtydEN5SXVLXzZmTnR1NTJWaGxxZWdSbi04amVHZ1N5aEhVXy1TZEZESFlv0gF3QVVfeXFMTVVuNTNkU0lFS3BmZVFUcVpTZmlzcVBMN2NLTHJhaGlWU2g2d2pKMFJiUTFPMnVyTmk0OWRLb3haMmpQY2Z1RGJHWkV6a3J0Q3lJdUtfNmZOdHU1MlZobHFlZ1JuLThqZUdnU3loSFVfLVNkRkRIWW8?oc=5",
      "source": "핀포인트뉴스",
-     "time": "2026-11-13T20:16:44+09:00"
+     "time": "2026-11-13T20:46:03+09:00"
     },
     {
      "title": "[오늘의 특징주] DSC인베스트먼트·금호건설 상한가…벤처투자 정책·실적 개선에 매수세",
@@ -201,6 +201,22 @@
    ]
   },
   {
+   "name": "컨텍",
+   "sub": "코스닥 · 451760",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[속보] 컨텍 주가, 상한가 도달…코스닥 약세 속 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LR01ENDNZYk1ad0VDc2g4Q0pzVjFPOGlhRzZ4dXU5NlRoZUhVel9RbmFBamtlOHhsWVBaNFNuQ1MtdkI2VDdOZGl6QnhkV0xpNjZRWThCRmR1ZTlVemhqQ0g0MmoyRWRJ?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-13T23:32:32+09:00"
+    }
+   ]
+  },
+  {
    "name": "윙스풋",
    "sub": "코스닥 · 335870",
    "pct": 30.0,
@@ -319,5 +335,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-14T00:37:16.072805+09:00"
+ "updatedAt": "2026-11-14T03:29:56.277029+09:00"
 }
