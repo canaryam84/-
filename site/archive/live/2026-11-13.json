@@ -1,6 +1,6 @@
 {
  "label": "11월 13일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-14T22:51:57.455260+09:00",
+ "updatedAt": "2026-11-15T03:53:58.496198+09:00",
  "items": [
   {
    "title": "삼성전자 인수 논의 보도에 Modine Manufacturing 주가 급등",
@@ -139,20 +139,6 @@
    ],
    "thin": true,
    "dir": "down"
-  },
-  {
-   "title": "코스피, 외인 매도세에 5290선 하락 마감...수주 목표 돌파 금호건설 ‘상한가’도",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52My1jLVNxaVBoTTMtakp0QkVBaXJfUDRHRzBIUFEtZ2M2eVNTYlFlQzRWb1lELURoQTNBUTlzbk5qTlJJTjJhQ3Q1ZVZoU095TThTU2JYQnZvU0ZaMkZyRWhnWjZkNVUwNEdV?oc=5",
-   "source": "www.ksdaily.co.kr",
-   "time": "2026-11-13T18:22:21+09:00",
-   "stocks": [
-    {
-     "name": "금호건설",
-     "code": "002990"
-    }
-   ],
-   "thin": false,
-   "dir": "none"
   },
   {
    "title": "풀무원, 3분기 영업이익 40억원…작년 동기 대비 89.6% 감소",
@@ -380,6 +366,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "금호건설, 3,720억원 규모 공급계약에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZVQtenJvMDV0VG5pbHJiU3JRQkdLekZOSlN6cHpNSzhMUE03dFB2M3JmUHRrbzRvZzFFUUNmcDlCUkJ0d085U3RhajA0NnVnWWx6Wng3QkQ5MGxhVkE3b0gwa2cyQTZSVFJ1NQ?oc=5",
+   "source": "CEO경제신문",
+   "time": "2026-11-13T17:18:02+09:00",
+   "stocks": [
+    {
+     "name": "금호건설",
+     "code": "002990"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -765,6 +765,20 @@
    "dir": "down"
   },
   {
+   "title": "[리포트 브리핑]GS건설, '미국 블루웨이브 수혜주' 목표가 46,000원 - 하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IbDkzMW9taUtXNlJqdUxBbzVqWnhMOUhWU1dIaHE1R2s3eHlUcERvM1BOU1JaSUFWLThxazl0SGdiZm90Q0ZaR1JGMUo4UVhNZG5DNkZkYVVsUl8y?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T15:55:00+09:00",
+   "stocks": [
+    {
+     "name": "GS건설",
+     "code": "006360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "황호석 부사장(사내이사), 아이티엠반도체 주식 1560주 ↓…지분율 0.03%",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZHdOZG1UeFFHQ241YkNpNHM1RXVhVWluTFFPcEhJeXF6NjFfNnREQTB6SmZCdEQ5REZyd3BzYzRGaW81MVQzZ0FuVjNjQXduQV9UTF9tWXppb185Y3hVaWU0VGxobFNIVVRYNmFfeEl5dw?oc=5",
    "source": "데이터투자",
@@ -829,6 +843,20 @@
     {
      "name": "DSC인베스트먼트",
      "code": "241520"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 가온칩스 29.92% 급등 상한가 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5makpERi1HYVhBMmNFWENremg3clBuSmlRdHIyenNjVHJzZUFlU0pTTWNkQ0hJRzJSUUZTcTJRUG1oV29OazZkcGtnQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-13T15:48:02+09:00",
+   "stocks": [
+    {
+     "name": "가온칩스",
+     "code": "399720"
     }
    ],
    "thin": true,
@@ -1053,6 +1081,34 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]HMM, '실적은 기대 이상, 관건은 내년 운임' 목표가 23,000원 - iM증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DWTEyNnRaR0ZjTG5mSm01LVJhX0hIdlZFeUF4VGJLUkNLZkdCWmJ0ak5YZFRhVi1fRTZiZXhQMVhtV1ZTdko2ek5wU1F2VngxOF9VX3NQbkpKZXZE?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T15:13:00+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]KT&G, '흔들리는 시장, 흔들리지 않는 투자 매력' 목표가 250,000원 - 현대차증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aa1hDM0tKVXFyYmstT09KaG1QdmdTTFhxQUFJMlFQbGEyX1lueW15T2lEVTZTOUVRQkhpa0FLRFUtcVp1SGYycjZiZHdLVjF6QmVydm9lcjRPYmo5?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T15:13:00+09:00",
+   "stocks": [
+    {
+     "name": "현대차증권",
+     "code": "001500"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[핫타임] 한울반도체, 주식담보대출 공시 여파…23%대 폭락",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm1tRGxOMjJzX0NmdnB0WW5CMWQybmVYZUNyZ0JnQjN2WVR2ODVLRFE2SDNrM084Xzh1dmY2X182NUlJVFExS0xNUjFpbU0zcEc2TlVYRHjSAVhBVV95cUxOQm5tbURsTjIyc19DZnZwdFluQjFkMm5lWGVDcmdCZ0IzdllUdjg1S0RRNkgzazNPOF84dXZmNl9fNjVJSVRRMUtMTVIxaW1NM3BHNk5VWER4?oc=5",
    "source": "아주경제",
@@ -1165,6 +1221,20 @@
    "dir": "none"
   },
   {
+   "title": "\"HPSP, 수주 증가 예상…목표가 15% 상향\" [클릭 e종목]",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVBNZU9YSE51Q3c3NWxQSEE2SW1uS000a3dCSi1lT2FQUFh1eTNIeDBoUXJoUEJXa19TeVppQzRVMjlMd2k5TG5GaGtWc2ZBX0w3b0xYLW5aZFZqakZ6NjAxZ2otTzhvZXFmcC10V0s4NFB0dGtwVXMweHk1bHlhbXBB?oc=5",
+   "source": "아시아경제",
+   "time": "2026-11-13T14:54:00+09:00",
+   "stocks": [
+    {
+     "name": "HPSP",
+     "code": "403870"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "박인준 대표이사, 모나용평 주식 2700주 ↑…지분율 0.05%",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BckJ4US13eEVVOTZrNk9KbGdJZW5WTV9FQlRuMEMxR0prOVJNdGxIUjVBcjdaRnhJSXdBcUNYcHpPS3RoOVRZbHJXaTZSN0twVVQ3WnJhRzA0N3IwOS1fM1FtLW81am81TUhjOXhzX215dw?oc=5",
    "source": "데이터투자",
@@ -1221,6 +1291,20 @@
    "dir": "up"
   },
   {
+   "title": "나무가 1만7090원 상한가…3D 센싱 기대와 실적 전환 확인",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQdIBckFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-13T14:31:46+09:00",
+   "stocks": [
+    {
+     "name": "나무가",
+     "code": "190510"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "현대해상, 3분기 누적 순이익 7808억⋯전년比 23.1%↑",
    "link": "https://www.etoday.co.kr/news/view/2647932",
    "source": "이투데이",
@@ -1261,6 +1345,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "금호건설 주가 엇갈린 평가…상한가 수급과 건설 본업 주목",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBNjlhQ3lnRGZrRlVSNzU0LXdaelBFMV84ZlJ6UWR1VXdfV3ZNNFRsZTZqMmRlZjdiTjlCd29uRDNKWVMySy1adnY3UjZkTFI1X2VSbUxzeFk0NmtQUGZkdUNRaUlvTTZlVzhUY2lpbHBEQdIBckFVX3lxTFBBNjlhQ3lnRGZrRlVSNzU0LXdaelBFMV84ZlJ6UWR1VXdfV3ZNNFRsZTZqMmRlZjdiTjlCd29uRDNKWVMySy1adnY3UjZkTFI1X2VSbUxzeFk0NmtQUGZkdUNRaUlvTTZlVzhUY2lpbHBEQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-13T14:20:42+09:00",
+   "stocks": [
+    {
+     "name": "금호건설",
+     "code": "002990"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "구미현 이사, 씨싸이트 주식 173만5718주 ↑…지분율 29.74%",
@@ -1529,6 +1627,24 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]HMM, '독보적인 원가 경쟁력' 목표가 28,000원 - 미래에셋증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LX1Y4TmQ3U25xXzJiMlhOQmtyOGVZVHRmcXZrTWR5VXFUZFhCRWVVeThHcDFrUVhiSGZiT0REZjNwSUdfRXlBeElNQURKRVgyWDhtWk5TTzlvZlA4?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T11:45:00+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    },
+    {
+     "name": "미래에셋증권",
+     "code": "006800"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "미래에셋생명, 3분기 순손실 339억⋯전년比 적자전환",
    "link": "https://www.etoday.co.kr/news/view/2647864",
    "source": "이투데이",
@@ -1649,6 +1765,38 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]삼성화재, '예상 수준의 실적' 목표가 700,000원 - 한화투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XandVTGJTOHg5NXZfX21NUFJBeFF0VmZrTEVZUWdVdDZTanM2Vm9WZHBuYjY1QnIyOGFNY2hSWkk4TmhydnlUX2RTY2F4Q3M4ck1ONjNTd0hld0hf?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T11:24:00+09:00",
+   "stocks": [
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]한화생명, '비연속적 요인에 의한 적자' 목표가 5,300원 - 한화투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oUkxkY054R21xR21LTmEwcHYyMG50dnBnYlY2Y001eTM1TDBiak8xVVc1bEFmaG80Sk5DSnh1MGlPb0xqX1VQVWFpRURoQlhZMUtlRDNYSGx5Z2xX?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T11:24:00+09:00",
+   "stocks": [
+    {
+     "name": "한화생명",
+     "code": "088350"
+    },
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
    "title": "[1113시황레이더] 한미약품, 비만 신약 '에페글레나타이드' 우려에 따른 주가 하락 과도 분석 등",
    "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=218919",
    "source": "인포스탁데일리",
@@ -1677,6 +1825,24 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]LG, 'AI로 그려보는 그룹사 성장 전략' 목표가 120,000원 - DB증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YTEZsSzZmcTNFb1d1QzhBb1FESml6aUtVN3pzQU9aS2VzYy1iWm5iN0xoYzBuTHBwTXctMnZSczl0bWQycHJNcDNPYk5JUERuNGlUajk3TEdKOXhX?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T11:15:00+09:00",
+   "stocks": [
+    {
+     "name": "LG",
+     "code": "003550"
+    },
+    {
+     "name": "DB증권",
+     "code": "016610"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 고영, AI 서버향 정밀검사 수요 폭발…어닝 서프라이즈에 두 자릿수 상승",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02XzRyYUY5UW03Uk1CdEJ2MDNjeHVtV0JNUXdGRHRpNURIemVXM1BuLWZzU0hSbkRCaFZmRUE3bkpWRm9RclF2bnJoTU5nUlhxRjNGNV9JamFESWpqUVoyTlJ2M0JZcDBSWWtHaA?oc=5",
    "source": "와이드경제",
@@ -1689,6 +1855,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]NAVER, '성장 잠재력은 확인, 수익성은 숙제 ' 목표가 260,000원 - SK증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acDFrSDVXM3RnUzlZZnhOUFJLd0ctTGgyeTRRM3c5Y1dVQ3lET3k1SHV2T2pVZUZ4U2lOVU84M1czM09aZ2VYMXF0WEZqYlMwb05xNVR4YTR5RWVn?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T11:11:00+09:00",
+   "stocks": [
+    {
+     "name": "NAVER",
+     "code": "035420"
+    },
+    {
+     "name": "SK증권",
+     "code": "001510"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] ISC, 차세대 AI 반도체 소켓 거점 '송도팹' 착공에 두 자릿수 상승",
@@ -2043,6 +2227,20 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]한국가스공사, '캐나다 LNG가 하드캐리' 목표가 59,000원 - 유진투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QUEQ3alBfZVRDTmJNSXJTQWZoVE5wbTJ4VG5jazNXVzVkUHd1bWxVN1NXQ3NDZnFjTEhjc1dIdVJONDEyZUFrWVJlUGVqTEpub0Z3YzdhMzR6NHli?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T10:09:00+09:00",
+   "stocks": [
+    {
+     "name": "한국가스공사",
+     "code": "036460"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주] 이수페타시스, AI 기판 수요 확대 기대에 8%대 강세",
    "link": "https://biz.chosun.com/stock/stock_general/2026/11/13/TMU4GLRF75DDRO5HOPC3MPRVEA/",
    "source": "조선비즈",
@@ -2161,6 +2359,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]한화생명, '3Q26 Re: 아직은 비포장도로' 목표가 7,000원 - 키움증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LSmJ3NjY1VUhwU3RHVW5WRXdVbU9DQlB5bW5waFdfd2Z1NWp3YUJ4VnUwc3JyeXNoY0NEeDZETlBta296YTBmT21KQlg2NHBVdVhHX3lZbHlxbFZ1?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T10:00:00+09:00",
+   "stocks": [
+    {
+     "name": "한화생명",
+     "code": "088350"
+    },
+    {
+     "name": "키움증권",
+     "code": "039490"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] 금호건설, 3분기 호실적에 ‘상한가’",
@@ -3057,6 +3273,20 @@
    "dir": "down"
   },
   {
+   "title": "KB증권 제주항공, 연료 사용량 절감·부채비율 하락 긍정적…목표가↑",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITXBuZXM2LUVWUFdHRFhHRUh3eEFISWFRNEVxQmpxajBPV0o4S2UxY2doNjlLZUFUa0ZGRGN4LWxWSDI0SmJhaXNNSkFHMkl5RVRuYlJ1emzSAVhBVV95cUxPSE1wbmVzNi1FVlBXR0RYR0VId3hBSElhUTRFcUJqcWowT1dKOEtlMWNnaDY5S2VBVGtGRkRjeC1sVkgyNEpiYWlzTUpBRzJJeUVUbmJSdXps?oc=5",
+   "source": "아주경제",
+   "time": "2026-11-13T09:00:43+09:00",
+   "stocks": [
+    {
+     "name": "제주항공",
+     "code": "089590"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "HLB제약, 3분기 영업이익 8억5천만원…전년 대비 급증",
    "link": "https://www.yna.co.kr/view/AKR20261113027500017",
    "source": "연합뉴스",
@@ -3253,6 +3483,52 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[리포트 브리핑]한국가스공사, 'JKM 강세로 실적과 미수금 동반 증가' 목표가 55,000원 - 하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtdkcxMTR4bERyeVFzZzNyWmEtWS00b2dHWHhHQ0lHWjlBVmFONkhyYURRTzN6Vkw3aFVLWWw3NFdnLW1iZEVOWHk2Tjl2eEUxVWR3cl81dUJuUDI4?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T08:34:00+09:00",
+   "stocks": [
+    {
+     "name": "한국가스공사",
+     "code": "036460"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]HMM, '이익의 정점 통과 중' 목표가 23,000원 - KB증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tTUZHU294RVdOMk5DVEFzMVdpdy1FVWw1NGNENHhyX2FGVE5BMnM4NFJFOUxRUE8tRFlvTDNVWXN4T1hiQWJkZnUxZ0VfSHlvVG9OT3VKWXlHdjJD?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T08:34:00+09:00",
+   "stocks": [
+    {
+     "name": "HMM",
+     "code": "011200"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]한국가스공사, '어닝 서프라이즈 기록. 아쉬운 미수금 증가' 목표가 45,000원 - 대신증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcVpHOHJONHZDbHZBdDA2MnQ4czQ4c1piUzdVUU1xY3ZuMUVRRjF6ckRQVXNPWXNzMUtpanVpd0pVOHdPaURYU3E0ZTFhQ2Zxd3dxYXBJSjhhUmx4?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-13T08:34:00+09:00",
+   "stocks": [
+    {
+     "name": "한국가스공사",
+     "code": "036460"
+    },
+    {
+     "name": "대신증권",
+     "code": "003540"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "\"미래에셋증권, 스페이스X 투자 손실로 적자 전환…목표가↓\"-키움",
