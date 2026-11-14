@@ -1,6 +1,6 @@
 {
  "label": "11월 13일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-14T06:13:29.351959+09:00",
+ "updatedAt": "2026-11-14T10:31:35.197566+09:00",
  "items": [
   {
    "title": "삼성전자 인수 논의 보도에 Modine Manufacturing 주가 급등",
@@ -353,6 +353,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "골드만삭스(GS) 주가, 190% 급등 후 공정가치보다 낮은 수준으로 보임",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGtzRDZiVC1LX1dMZGpkQXpsRUxnNU42VlEya1FlQXNZWmNrdC1yZy1SV0hhQngzNnBTa1dKbDZDX2Y0UkwyZlplM0IyLUZjQVB2WGtZMGVGcWM0dGJ0SlAyakFPYkg4OGM1NjdNcDdERXNSWXUyeWt6OU51Y3lGQl9GeC1ub3RKYlR2RlJrRmdxNWY5c05LX2ZmTEhJeWwtdGt2SlhRTmdvWGs?oc=5",
+   "source": "Simply Wall St",
+   "time": "2026-11-13T17:25:19+09:00",
+   "stocks": [
+    {
+     "name": "GS",
+     "code": "078930"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[속보] 제닉스로보틱스 주가, 장후 애프터마켓서 돌연 급등…25% 껑충",
@@ -763,6 +777,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 심텍, 뚜렷한 공시 없이 0.73% 소폭 상승 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9INTFzV1dfcmhybFBTY1V3YXdmOC1qYzA0NXptTC1USk5pX2VfSEQ3Q1EyVm5NWnkxUXFybHMwVUJPSlg2eHpuZlR4dw?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-13T15:52:49+09:00",
+   "stocks": [
+    {
+     "name": "심텍",
+     "code": "222800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "비수기 지운 코스맥스…주가 사흘 새 17% 오르고 증권가 눈높이도 상향",
