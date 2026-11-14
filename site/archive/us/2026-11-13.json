@@ -1,0 +1,101 @@
+{
+ "label": "미국 11월 13일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.1,
+   "text": "+0.10%",
+   "exact": true,
+   "source": "뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.91,
+   "text": "-0.91%",
+   "exact": true,
+   "source": "뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Focus Universal",
+   "sub": "FCUV",
+   "pct": 108.33,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Focus Universal stock jumps 108.33%, trading at $6.25 as of 14:12 ET",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWVGTUxBYzFwSmpRZ0pmc29qaWNFOUFvMTJqb2hpTDlpdkh6d2YxZjNNcml0NFVSTGNhdDFYWkxOOEJCb1VwWW1SMjBiS2wxNmVWVGY4TUxWUU5CREVrTUIwR0loTVdqdkEzVTB3OGpnLWlNb0J5N3NCSE1UX2kwTGhMek5fM2NpYm5RbFh4UQ?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-14T04:19:20+09:00"
+    }
+   ]
+  },
+  {
+   "name": "VirTra",
+   "sub": "VTSI",
+   "pct": 56.11,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "VirTra stock jumps 56.11% intraday; RSI is overbought on three charts",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmZmQWZHUThCSTNQZVgzckdZUFIxdXJ3U1B6a1lvYU1pYUpRVXBIbXR4d3hDM1BiUXNPVGxzYVpNbDFjOW1KdmdsNmNjNDBOOF9mUDVOZDFpc2Y0NGJSSlNWakZjOGEzNFhxTHZiUkczaFpKMDZyRHZubmg3NHRlOGRKYw?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-14T04:22:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "모딘",
+   "sub": "미국 주식",
+   "pct": 30.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[美증시 특징주] 삼성전자, AI 열관리업체 모딘 인수 협상…모딘 30% 폭등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WbHVzNDVDTmx5NU9DVkpDOTR0TEdrdlJyN0VnU2gweGlJa28yVS1HNk0wZ3NuR0d2OXp5eS1sMlVFRFlpcndOa3pDTXM0TThKOHJjYdIBWEFVX3lxTE56dkQyWWpITlJ3V2NJdE9uY0pBcHJzaUdJNkJpeC1OQmJIdF85U0FGOG44XzFUS2V5ZkVkd3NaeXROVzB3MWttSHc3cW1vOTdVRURMQXRGc2w?oc=5",
+     "source": "미디어펜",
+     "time": "2026-11-14T04:54:35+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Liftoff Mobile",
+   "sub": "LFTO",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Liftoff Mobile shares surge 25% as AI advertising growth drives earnings beat",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3ZUZVRZcms3OGFmSnpkUVB3V3VNMFhfZ05zQzlwdVRlWEFDQjB5YzBiNElUcXdvT1BjaUg5M1dURjZvd0NwdmxRUWlCWkVuNGxVUmh0RmNRUGtwdmNTV2Jvcms4azJUV1B6ODdvZVM4eS00MU5QcXhVWElMVzlzZUtLYXMyZ0dvR0w5Zks1TzVMV0JlNGF2bjk4N2VFa2lHVEZzcGE0UUw2V29saDY3c1B1VGE0emU0WXM2d3MwaHN4bmhxS3U3bEc1RGMwU1V3aEdZS3R6TVFfRTJmQUhyYg?oc=5",
+     "source": "Proactive financial news",
+     "time": "2026-11-14T01:27:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Cerebras",
+   "sub": "CBRS",
+   "pct": 23.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "Cerebras stock jumps 23% on surprise profit, forecast jump, easing AI spending worries",
+     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObHprQUhDQVZMOWdNdFhmYkZUWWt6cE05MzJpR0pGQnIxc1dWYmFaRXVQSTk3VEhxNGl2aG5JMklIRWpYOXAzWUV0X0o0YnlhTzloQVZwV200MDZIcEYzOHQ4Y2k0OWJZV0pyNC1MMGxvd3hGTkNEUllwRTBRbWkyWWJmQXVURTFDenlBNTdvU1EyZzE4UHZHbTNObDBLTnJId2JrZ3dQeVdMc2YzSlo4WHJwWjFEY1FKUFE5NGs3bU5XYWpUMWtzNWhVOHNBZ3hqQ3U0b2tMVTFIWi1lZHp6YTJqR25nZ1ZreU1pVE1fU1V5bkpEeGdUd1l5dEVUcmJNUkRSLTNWNzlHeVFtcnFF0gGIAkFVX3lxTE84VFBJclhHVzYyZGNUOHNKWGUtSzFUYms2SjcyUkxSNnhVTjFfOHZHZlZ6aDhFMnY5YTFjM1M2Y1QybUZtUVBtdHlBU21VTXllbXJyZWxxS2JISzktSzc2LVZ0YzJjTmp4R083Wm9YN21uNGF5ZGZucHdvbUtyWDlUZTU0MjhPblB1OGxKUHZtbkhmYUQ1dXY5QkR5SlZWX1l3OW9xNzBnZURLUW1CZllXeEVMUHIzTXpUQ3NLbTdhVk5tYWctYUhWbm9uMVRZOHN6WVhYbEJKb2tWZ2tpajFGeE1rc0NEeDU1Sl9RbGt1VTdPVWVxWDZaN0JvRHpmSmZjTTQxaWJYTg?oc=5",
+     "source": "The Economic Times",
+     "time": "2026-11-14T01:02:49+09:00"
+    },
+    {
+     "title": "Cerebras stock jumps 23% on surprise profit, forecast hike, easing AI spending worries",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUFEzc1dFcWwwRldOM01KbDI5b0ZYdTdFVnpidkpER2EzVTRZQXpPNkpLRExNR1hYckJ3ejE1MERTTzRuT0N5RF8wc24tZVItZmNfOFpqZmdRdnZFdjV2dlRTM2JhdElaRVVBdENXcGZLQ3NiT2YzRHlzbndmOExuRjZBSENLaFpVNUpieEtLcHNCNVNhXzh3YmZFY01aSzA0eTF4REc4YkJ4UThvZjRhdjdfQ3hPNWJBNXV6RE5SLWVyMjJFU3JaNjZSQWJtXzBYdTR2d1RKdVZlS1ZTT2dMRm9ENVU0WFEybFlMWktoWjFfRzVTeWlDbC1taHNLS0NMZHA4eHZkUnbSAYgCQVVfeXFMTlBRM3NXRXFsMEZXTjNNSmwyOW9GWHU3RVZ6YnZKREdhM1U0WUF6TzZKS0RMTUdYWHJCd3oxNTBEU080bk9DeURfMHNuLWVSLWZjXzhaamZnUXZ2RXY1dnZUUzNiYXRJWkVVQXRDV3BmS0NzYk9mM0R5c253ZjhMbkY2QUhDS2haVTVKYnhLS3BzQjVTYV84d2JmRWNNWkswNHkxeERHOGJCeFE4b2Y0YXY3X0N4TzViQTV1ekROUi1lcjIyRVNyWjY2UkFibV8wWHU0dndUSnVWZUtWU09nTEZvRDVVNFhRMmxZTFpLaFoxX0c1U3lpQ2wtbWhzS0tDTGRwOHh2ZFJ2?oc=5",
+     "source": "The Economic Times",
+     "time": "2026-11-14T01:02:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-14T11:04:03.328394+09:00"
+}
