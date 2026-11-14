@@ -15,8 +15,8 @@
    "pct": 0.45,
    "text": "+0.45%",
    "exact": true,
-   "source": "한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SUUltcWNJekY5NkxDNGozREtVelZPNnBqbFBZLWlDc0xCWGdZM1gyRXZLbDQ1dU16X29TRDBma0NEU3BIYnVrOXdNUVRreUx3ZnoxcFozaG1ZUQ?oc=5"
+   "source": "마켓인",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5venVSQ1JzTmN1WkFWMEZ2eG1TNXlNajRsNUg2ZlZKUE55WGtrNEdJVHRlWlJieTJrNDVLX3NPTWtfVzhPNWQ3LXlRVEtLSDVzZjIwc0tnSWRNRjBDWm15aXVldkR4UWMxbDRyMndYYV9GdlU?oc=5"
   }
  ],
  "items": [
@@ -179,28 +179,6 @@
    ]
   },
   {
-   "name": "바이브컴퍼니",
-   "sub": "코스닥 · 301300",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "[특징주] 바이브컴퍼니, 최대주주 변경·80억 유상증자 소식에 상한가 직행",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWWRKMVV2QUNzcVFjNEx6TjRWSm10aHFGVzE0SFRRTUhGbk1jU2xNQkowelRzczllNzZiMEFCTThtVmx5d0ZKYlBxSWUxdURfaHB5M2FscjFaMEF6Zm13ME1wSlZkT1ZORjZqbg?oc=5",
-     "source": "와이드경제",
-     "time": "2026-11-13T11:03:13+09:00"
-    },
-    {
-     "title": "[특징주] 바이브컴퍼니, 경영권 매각 소식에 29.95% 급등",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGhBcGdsM09VY1JYS2Zza2ZnSWRyeHhCSVNLMjR4OWU0M19qVmtKZkU0QXhQaEd3WHNxQThrWElSYnV6RURGM0lHdWJYN0tuVHJxclVTNExKdw?oc=5",
-     "source": "브릿지경제",
-     "time": "2026-11-13T09:57:00+09:00"
-    }
-   ]
-  },
-  {
    "name": "컨텍",
    "sub": "코스닥 · 451760",
    "pct": 30.0,
@@ -233,6 +211,54 @@
    ]
   },
   {
+   "name": "바이브컴퍼니",
+   "sub": "코스닥 · 301300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 바이브컴퍼니, 최대주주 변경·80억 유상증자 소식에 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWWRKMVV2QUNzcVFjNEx6TjRWSm10aHFGVzE0SFRRTUhGbk1jU2xNQkowelRzczllNzZiMEFCTThtVmx5d0ZKYlBxSWUxdURfaHB5M2FscjFaMEF6Zm13ME1wSlZkT1ZORjZqbg?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-13T11:03:13+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나무가",
+   "sub": "코스닥 · 190510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "나무가 1만7090원 상한가…3D 센싱 기대와 실적 전환 확인",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQdIBckFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-13T14:31:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "삼성전자",
+   "sub": "코스피 · 005930",
+   "pct": 28.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "삼성전자 인수설에 美 모딘 주가 28% 폭등…시총 72억 달러로 급증 By EBN",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93SDVPV0I5UzF3WFNoOEgxQUZNa0NUbFQtTkpTekZXNmRMMWFVV0R3eFJCTFJUUUZsOGV0bTdpWU5WNHZWVmdKSnFfSmdvTEg4dnEtZDhldDBDTjJ2TXpSRkxuTFNYaVdwYmJkQXhBbnE?oc=5",
+     "source": "Investing.com 한국어",
+     "time": "2026-11-14T09:56:00+09:00"
+    }
+   ]
+  },
+  {
    "name": "제닉스로보틱스",
    "sub": "코스닥 · 381620",
    "pct": 25.0,
@@ -244,7 +270,7 @@
      "title": "[속보] 제닉스로보틱스 주가, 장후 애프터마켓서 돌연 급등…25% 껑충",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVEI5RXB5RmpmMHBiQldYZlhxOFJOY2tNbUQ1SnZ4Vi1JOF9WdnhocE55WmNjenBaX05NMVM3Y1huQXJSeVpqc2pxS2pxaUFYNk1wMFFqcmZyNGp5bF9yY1RCMUdUT0ZC?oc=5",
      "source": "CBC뉴스",
-     "time": "2026-11-13T17:19:57+09:00"
+     "time": "2026-11-14T19:38:25+09:00"
     }
    ]
   },
@@ -270,35 +296,13 @@
    "pct": 23.0,
    "limitUp": false,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 1,
    "articles": [
     {
      "title": "[마감분석] 금호전기 특별한 공시 없이 23%대 급등 마감 : 기업주식정보",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IRHdua3E3cGNCMTVTZmU1bHAxeVlCdXhKdGFDZzRCc01KSk1zcldwWE5kRk5Pc3pjTHJ1NnVyN1VUdFE4SGlaY21YTQ?oc=5",
      "source": "재경일보",
      "time": "2026-11-13T15:49:05+09:00"
-    },
-    {
-     "title": "[속보] 금호전기,VI 발동 16.52% 상승…거래량 346만 주 넘어",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oREVXQzlQOU1qQUtQY1E3VnVnWW53dmM1RG5FNEMzSjcyM3ZNSHgwdzFmOGN3dWRrMXhVM0RzdW1nakZOcTdBbnBSZ3hZTG43aWl1LV9JM0c1djdfeTlLRnRTaXFYV2lL?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-11-13T09:37:35+09:00"
-    }
-   ]
-  },
-  {
-   "name": "지니언스",
-   "sub": "코스닥 · 263860",
-   "pct": 20.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "'보안주' 지니언스 20%대 급등…3Q 영업익 253% 급증 - 머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TTllMNVRXQUdvZzFYRWVfSkk4U3h4dWNJX3A0SS1oUVhRUjVvRGwwN2p3cF85Q3ZnaDBUTnF5UFZLREgtanVwekh3a0xIcjlSYUtraVA2MmRvd09zVzJQOEVuQ3lyMXNW0gFuQVVfeXFMT3l1ODNUTkl1VUdmaVNpZTJNaUZaZ0lVNkxMNDE4dktKaEk4SUEydllMN01RVDJmZVdvZkVkdG9ja3NicC1Oejk5WFZqX3p6X0ZPVndHUXE3cVg2WU1uWm45YUdyalhmeTk0dkJ5Q2c?oc=5",
-     "source": "머니투데이",
-     "time": "2026-11-13T23:04:15+09:00"
     }
    ]
   },
@@ -335,5 +339,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-14T03:29:56.277029+09:00"
+ "updatedAt": "2026-11-14T23:25:09.056999+09:00"
 }
