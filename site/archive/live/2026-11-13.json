@@ -1,6 +1,6 @@
 {
  "label": "11월 13일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-14T10:31:35.197566+09:00",
+ "updatedAt": "2026-11-14T22:51:57.455260+09:00",
  "items": [
   {
    "title": "삼성전자 인수 논의 보도에 Modine Manufacturing 주가 급등",
@@ -1471,6 +1471,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "LG에너지솔루션 주가, 급락 후 지지선 시험대에 오르며 추가 하락 가능성",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXdBS3BGeURBLXhxeW81d0EwaFNXQ002UTZTV2R3dHdJNk9sTm5WMjJfVWRqbDc0UUZmX1QzaElKU3IydFlYOHJCOFZ1Q04xekF3c2NxcWtzeHpOWGU2Y0ExQW5QQkpyMkMycWlBZ1BBN2dydWJwZGhtVUJzcHdpaDJTQVk3TGZCdGV2enhfdGcyZ0tyNWc?oc=5",
+   "source": "Traders Union",
+   "time": "2026-11-13T12:07:21+09:00",
+   "stocks": [
+    {
+     "name": "LG에너지솔루션",
+     "code": "373220"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "한미약품 '에페' 우려에 시총 감소, 증권사 \"주가 하락 과도\"",
