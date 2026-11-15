@@ -1,0 +1,16 @@
+{
+ "label": "11월 15일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -9.13,
+   "text": "-9.13%",
+   "exact": true,
+   "source": "블루밍비트",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RE9taXEzM3dxREczSVFVMXdFc0lGRVFDZ1B5bkVNTEJ6Y0V4YUF2WnMtYjBmUDRNU08xZUxiUzM0TDV4NlZ3VTRuaGlzM3lp?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-11-15T19:35:09.376937+09:00"
+}
