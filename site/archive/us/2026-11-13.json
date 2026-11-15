@@ -7,16 +7,16 @@
    "pct": 0.1,
    "text": "+0.10%",
    "exact": true,
-   "source": "뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
+   "source": "파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dUFQWDA4S0lzX2lBWVRPbGZONFp1VWRidXo0dzFYZlZrdXAyRDRxTmlPWHoteVZjOGJscnFEbE93MVluYXNDZU1sWC1PQTRaTHVsUEZJeHhVWGtxR0hnaHBYMnd0RzRtWXfSAW5BVV95cUxPU05kYmVBUFVrVTBjc1pCbXhEU3Vzd0N5a3k2bUg2S2VmeFBWR01rWk12RU0xUklMMGRIcElQMmU1ank5MGI4VnYyV2FueVlncE5BaVYxZW1VN19uSmhncWNsM05JcEFOaEtqYVdPdw?oc=5"
   },
   {
    "name": "나스닥",
    "pct": -0.91,
    "text": "-0.91%",
    "exact": true,
-   "source": "뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
+   "source": "파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dUFQWDA4S0lzX2lBWVRPbGZONFp1VWRidXo0dzFYZlZrdXAyRDRxTmlPWHoteVZjOGJscnFEbE93MVluYXNDZU1sWC1PQTRaTHVsUEZJeHhVWGtxR0hnaHBYMnd0RzRtWXfSAW5BVV95cUxPU05kYmVBUFVrVTBjc1pCbXhEU3Vzd0N5a3k2bUg2S2VmeFBWR01rWk12RU0xUklMMGRIcElQMmU1ank5MGI4VnYyV2FueVlncE5BaVYxZW1VN19uSmhncWNsM05JcEFOaEtqYVdPdw?oc=5"
   }
  ],
  "items": [
@@ -35,6 +35,20 @@
    ]
   },
   {
+   "name": "Solesence",
+   "sub": "SLSN",
+   "pct": 90.22,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Solesence stock jumps 90.22% intraday as RSI reads overbought on all 3 charts",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyVkNOSDZmX21GMTVialQ3ZHdJdzdZaEFFRm83bkN0UEhRRG1ZbEFocWZqaW9zZndXT1pnS3d4cHRvNTJDNW1HOUJUeGVMaktqNkduZUpERDVyQWM4TVd5c2paU1VFbEhoQjdoMkV1dG9maUlBRlU0ZkRiMA?oc=5",
+     "source": "The Cryptonomist",
+     "time": "2026-11-14T04:20:54+09:00"
+    }
+   ]
+  },
+  {
    "name": "VirTra",
    "sub": "VTSI",
    "pct": 56.11,
@@ -49,6 +63,20 @@
    ]
   },
   {
+   "name": "모바일",
+   "sub": "미국 주식",
+   "pct": 30.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[美증시 특징주] 리프트오프 모바일 30% 폭등…AI엔진 매출 폭발, 어닝서프",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOZm5OSHFjTUdoalUwODRuN2JJNkZBUENiT0FCZU9NU2NUb1RuTUxsRzJlcDIzODJSSWxqYzEwTi14dC15WlVFNDVxeWZyTGRhRUhrb9IBWEFVX3lxTE5UQWs1dzlkWlNOWDluejQ1a0NqcDAzUW1GRTdqa1hpREdWMWtLajNaQ3U4NkJnMFhNVDNaTU0tal94NWxZNE1rZkEyVms1cGlUS0szWF8wT2g?oc=5",
+     "source": "미디어펜",
+     "time": "2026-11-14T07:06:23+09:00"
+    }
+   ]
+  },
+  {
    "name": "모딘",
    "sub": "미국 주식",
    "pct": 30.0,
@@ -56,7 +84,7 @@
    "articles": [
     {
      "title": "[美증시 특징주] 삼성전자, AI 열관리업체 모딘 인수 협상…모딘 30% 폭등",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WbHVzNDVDTmx5NU9DVkpDOTR0TEdrdlJyN0VnU2gweGlJa28yVS1HNk0wZ3NuR0d2OXp5eS1sMlVFRFlpcndOa3pDTXM0TThKOHJjYdIBWEFVX3lxTE56dkQyWWpITlJ3V2NJdE9uY0pBcHJzaUdJNkJpeC1OQmJIdF85U0FGOG44XzFUS2V5ZkVkd3NaeXROVzB3MWttSHc3cW1vOTdVRURMQXRGc2w?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56dkQyWWpITlJ3V2NJdE9uY0pBcHJzaUdJNkJpeC1OQmJIdF85U0FGOG44XzFUS2V5ZkVkd3NaeXROVzB3MWttSHc3cW1vOTdVRURMQXRGc2zSAVhBVV95cUxOenZEMllqSE5Sd1djSXRPbmNKQXByc2lHSTZCaXgtTkJiSHRfOVNBRjhuOF8xVEtleWZFZHdzWnl0TlcwdzFrbUh3N3Ftbzk3VUVETEF0RnNs?oc=5",
      "source": "미디어펜",
      "time": "2026-11-14T04:54:35+09:00"
     }
@@ -80,22 +108,16 @@
    "name": "Cerebras",
    "sub": "CBRS",
    "pct": 23.0,
-   "newsCount": 2,
+   "newsCount": 1,
    "articles": [
     {
-     "title": "Cerebras stock jumps 23% on surprise profit, forecast jump, easing AI spending worries",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObHprQUhDQVZMOWdNdFhmYkZUWWt6cE05MzJpR0pGQnIxc1dWYmFaRXVQSTk3VEhxNGl2aG5JMklIRWpYOXAzWUV0X0o0YnlhTzloQVZwV200MDZIcEYzOHQ4Y2k0OWJZV0pyNC1MMGxvd3hGTkNEUllwRTBRbWkyWWJmQXVURTFDenlBNTdvU1EyZzE4UHZHbTNObDBLTnJId2JrZ3dQeVdMc2YzSlo4WHJwWjFEY1FKUFE5NGs3bU5XYWpUMWtzNWhVOHNBZ3hqQ3U0b2tMVTFIWi1lZHp6YTJqR25nZ1ZreU1pVE1fU1V5bkpEeGdUd1l5dEVUcmJNUkRSLTNWNzlHeVFtcnFF0gGIAkFVX3lxTE84VFBJclhHVzYyZGNUOHNKWGUtSzFUYms2SjcyUkxSNnhVTjFfOHZHZlZ6aDhFMnY5YTFjM1M2Y1QybUZtUVBtdHlBU21VTXllbXJyZWxxS2JISzktSzc2LVZ0YzJjTmp4R083Wm9YN21uNGF5ZGZucHdvbUtyWDlUZTU0MjhPblB1OGxKUHZtbkhmYUQ1dXY5QkR5SlZWX1l3OW9xNzBnZURLUW1CZllXeEVMUHIzTXpUQ3NLbTdhVk5tYWctYUhWbm9uMVRZOHN6WVhYbEJKb2tWZ2tpajFGeE1rc0NEeDU1Sl9RbGt1VTdPVWVxWDZaN0JvRHpmSmZjTTQxaWJYTg?oc=5",
+     "title": "Cerebras stock jumps 23% on surprise profit, forecast hike, easing AI spending worries",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQWZ3QmxyLUJaWnZxa1VKMHE4Vk5Jd3hHUkFlM3FZOERtVEowV1RpVU44R1BCelJGTGpfcGoycExjUGVLU25iazRXamN1QUhfdWM5NHdwRTFnWFVXXzdzMDFmNDI1ZXpfbERrcGlVNmNibXFsLWN1c0p4S3F2Uk9ZdXBtMm9lNkt5Q1Y3bmZVbVpHRDByNTlYWFRBSFBCZVI4ZzZraUZpR0VaR3JCRWgtSjU3R2kxU3NxYk9xVmRBNm43d0YtZFJwd2d6VjFlQUhONXhRc0JoVnRnMHM3UndkMVhkaEV0YW1ncW9IbXh3bzRTMXRCNElKRWR3dkxqbW92S0s00gGIAkFVX3lxTE5QUTNzV0VxbDBGV04zTUpsMjlvRlh1N0VWemJ2SkRHYTNVNFlBek82SktETE1HWFhyQnd6MTUwRFNPNG5PQ3lEXzBzbi1lUi1mY184WmpmZ1F2dkV2NXZ2VFMzYmF0SVpFVUF0Q1dwZktDc2JPZjNEeXNud2Y4TG5GNkFIQ0toWlU1SmJ4S0twc0I1U2FfOHdiZkVjTVpLMDR5MXhERzhiQnhROG9mNGF2N19DeE81YkE1dXpETlItZXIyMkVTclo2NlJBYm1fMFh1NHZ3VEp1VmVLVlNPZ0xGb0Q1VTRYUTJsWUxaS2haMV9HNVN5aUNsLW1oc0tLQ0xkcDh4dmRSdg?oc=5",
      "source": "The Economic Times",
      "time": "2026-11-14T01:02:49+09:00"
-    },
-    {
-     "title": "Cerebras stock jumps 23% on surprise profit, forecast hike, easing AI spending worries",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUFEzc1dFcWwwRldOM01KbDI5b0ZYdTdFVnpidkpER2EzVTRZQXpPNkpLRExNR1hYckJ3ejE1MERTTzRuT0N5RF8wc24tZVItZmNfOFpqZmdRdnZFdjV2dlRTM2JhdElaRVVBdENXcGZLQ3NiT2YzRHlzbndmOExuRjZBSENLaFpVNUpieEtLcHNCNVNhXzh3YmZFY01aSzA0eTF4REc4YkJ4UThvZjRhdjdfQ3hPNWJBNXV6RE5SLWVyMjJFU3JaNjZSQWJtXzBYdTR2d1RKdVZlS1ZTT2dMRm9ENVU0WFEybFlMWktoWjFfRzVTeWlDbC1taHNLS0NMZHA4eHZkUnbSAYgCQVVfeXFMTlBRM3NXRXFsMEZXTjNNSmwyOW9GWHU3RVZ6YnZKREdhM1U0WUF6TzZKS0RMTUdYWHJCd3oxNTBEU080bk9DeURfMHNuLWVSLWZjXzhaamZnUXZ2RXY1dnZUUzNiYXRJWkVVQXRDV3BmS0NzYk9mM0R5c253ZjhMbkY2QUhDS2haVTVKYnhLS3BzQjVTYV84d2JmRWNNWkswNHkxeERHOGJCeFE4b2Y0YXY3X0N4TzViQTV1ekROUi1lcjIyRVNyWjY2UkFibV8wWHU0dndUSnVWZUtWU09nTEZvRDVVNFhRMmxZTFpLaFoxX0c1U3lpQ2wtbWhzS0tDTGRwOHh2ZFJ2?oc=5",
-     "source": "The Economic Times",
-     "time": "2026-11-14T01:02:00+09:00"
     }
    ]
   }
  ],
- "updatedAt": "2026-11-14T11:04:03.328394+09:00"
+ "updatedAt": "2026-11-15T10:36:07.100575+09:00"
 }
