@@ -26,7 +26,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 14,
+   "newsCount": 13,
    "articles": [
     {
      "title": "코스피, 외인 매도세에 5290선 하락 마감...수주 목표 돌파 금호건설 ‘상한가’도",
@@ -47,10 +47,44 @@
      "time": "2026-11-13T16:37:00+09:00"
     },
     {
-     "title": "금호건설, 7000억 수주·실적 개선에 상한가",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmRoSkt5TnVwb2djcmxLVk5MWTh2SUZKUmo4QVI1RmwtYnhRUk13Y29TYlBlTlJiQVBGWm9tNWJfOWF3aWxzM1F5MnJxRVdMYVNYZFo1ZWRUQkN6Tnd5UUlTcU9wZUozc0pHMDg4cFdFeDNwQnRldDdTRmlyLUp0ZWJTdThNRkFvODdJbGNLczR4NTlsanc?oc=5",
-     "source": "데일리바이트(DAILY BYTE)",
-     "time": "2026-11-13T16:36:06+09:00"
+     "title": "[오늘의 특징주] DSC인베스트먼트·금호건설 상한가…벤처투자 정책·실적 개선에 매수세",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85N1huVkhqT0JNQkl6MFh4Rkxpa0ljQW41N3pqcTRWTDhrSEt6emVwYjNqYnNEVjktMVlYel9yZVFFMEJTa1cxSHpWWTFRSFU0ZndQVVlKUTh2UDN2VzZndnhtZkQ?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-13T16:17:33+09:00"
+    }
+   ]
+  },
+  {
+   "name": "오픈엣지테크놀로지",
+   "sub": "코스닥 · 394280",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "가온칩스·오픈엣지테크놀로지 상한가, 일부 시스템반도체 관련주 '불기둥'…에이디테크놀로지·퀄리타스반도체도 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3dTZLTUhqalFReFpxaW9BS2F3UUFjMXRaX3E1T1B6U3IxejI1V05DaU11dkNTZ2lWTzVpQTFTMGt1aV9JM1ZiLVlwV1VSSEZvaE9RNGp2bGU4RnRJc1lmdjhTU2ZjUUNB?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-15T08:25:00+09:00"
+    },
+    {
+     "title": "[N2 증시 풍향계] 반도체·증권주 대거 ‘불기둥’…오픈엣지테크놀로지·금호건설·지니틱스 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RFFfbzd1dGhjOUozeUl0WkxWVndhZUhsbkMyQk44OFZmWks2SHZsYnVXNFBuXzJWUzVwUHdEVXVadE44c3NqQnRfeDhsYXphSkdjQmdHSTNvOE82U1E?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-11-13T10:09:00+09:00"
+    },
+    {
+     "title": "[특징주]오픈엣지테크놀로지, AI 반도체 기대에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBja3dCcm5YM3FnUmc0UjZKNXdzZmRnazhyMWtqQU1PR0kwakJUUDFQT3FOVkRFX0lULWtyTGdWVlZXZzhuTTU5cENfQ3l4QXRTX19XajFhN2Z0QXNINFZqMDJ2LXcwQU3SAWtBVV95cUxOMnJkUklUYV9qQlNUSkVpVUx0eU4xckFpVnNEVHJPR0JQUDVYdnZpcE5xdzFYcUpHMnk5NU1fSlRjd3c4ejZHOWNwWS1jN3h4VllHY1hwaXZQam4xZG9jaFFaQmx6WG5mSGZ3WQ?oc=5",
+     "source": "현대경제신문",
+     "time": "2026-11-13T10:01:42+09:00"
+    },
+    {
+     "title": "[특징주] 오픈엣지테크놀로지, 반도체주 강세 속 상한가 근접",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdGZsSnRHbkVJZXRPaUdwWVY4ZzMwNXJ5MDQ3c29JR09adENvTmV5c01uVV9qNjZWRzM4NkJxd181SU55MkxvUGZsSnVVUXRVX0dJX3V0eXRuQQ?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-13T09:35:00+09:00"
     }
    ]
   },
@@ -64,9 +98,9 @@
    "articles": [
     {
      "title": "창업투자株, IPO 시장 회복 기대에 동반 강세…DSC인베스트먼트 상한가",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VbjUzZFNJRUtwZmVRVHFaU2Zpc3FQTDdjS0xyYWhpVlNoNndqSjBSYlExTzJ1ck5pNDlkS294WjJqUGNmdURiR1pFemtydEN5SXVLXzZmTnR1NTJWaGxxZWdSbi04amVHZ1N5aEhVXy1TZEZESFlv0gF3QVVfeXFMTVVuNTNkU0lFS3BmZVFUcVpTZmlzcVBMN2NLTHJhaGlWU2g2d2pKMFJiUTFPMnVyTmk0OWRLb3haMmpQY2Z1RGJHWkV6a3J0Q3lJdUtfNmZOdHU1MlZobHFlZ1JuLThqZUdnU3loSFVfLVNkRkRIWW8?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sUmRVc0hpVTNGekk4dnhDcUhCU29uNDE5djhjSHYzSVQyUlVHZ05iV3RoZ2dqT3JMaG9DREFtNWRQdXVPaG9JazlLT1VHRjZ2c0xJWEFTaWdPaHFsTndnd1kzdS1PbHhUdzYzckNzNUROalHSAXdBVV95cUxNVW41M2RTSUVLcGZlUVRxWlNmaXNxUEw3Y0tMcmFoaVZTaDZ3akowUmJRMU8ydXJOaTQ5ZEtveFoyalBjZnVEYkdaRXprcnRDeUl1S182Zk50dTUyVmhscWVnUm4tOGplR2dTeWhIVV8tU2RGREhZbw?oc=5",
      "source": "핀포인트뉴스",
-     "time": "2026-11-13T20:46:03+09:00"
+     "time": "2026-11-13T20:16:44+09:00"
     },
     {
      "title": "[오늘의 특징주] DSC인베스트먼트·금호건설 상한가…벤처투자 정책·실적 개선에 매수세",
@@ -89,40 +123,6 @@
    ]
   },
   {
-   "name": "오픈엣지테크놀로지",
-   "sub": "코스닥 · 394280",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 6,
-   "articles": [
-    {
-     "title": "[N2 증시 풍향계] 반도체·증권주 대거 ‘불기둥’…오픈엣지테크놀로지·금호건설·지니틱스 등 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RFFfbzd1dGhjOUozeUl0WkxWVndhZUhsbkMyQk44OFZmWks2SHZsYnVXNFBuXzJWUzVwUHdEVXVadE44c3NqQnRfeDhsYXphSkdjQmdHSTNvOE82U1E?oc=5",
-     "source": "뉴스투데이",
-     "time": "2026-11-13T10:09:00+09:00"
-    },
-    {
-     "title": "[특징주]오픈엣지테크놀로지, AI 반도체 기대에 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBja3dCcm5YM3FnUmc0UjZKNXdzZmRnazhyMWtqQU1PR0kwakJUUDFQT3FOVkRFX0lULWtyTGdWVlZXZzhuTTU5cENfQ3l4QXRTX19XajFhN2Z0QXNINFZqMDJ2LXcwQU3SAWtBVV95cUxOMnJkUklUYV9qQlNUSkVpVUx0eU4xckFpVnNEVHJPR0JQUDVYdnZpcE5xdzFYcUpHMnk5NU1fSlRjd3c4ejZHOWNwWS1jN3h4VllHY1hwaXZQam4xZG9jaFFaQmx6WG5mSGZ3WQ?oc=5",
-     "source": "현대경제신문",
-     "time": "2026-11-13T10:01:42+09:00"
-    },
-    {
-     "title": "[특징주] 오픈엣지테크놀로지, 반도체주 강세 속 상한가 근접",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdGZsSnRHbkVJZXRPaUdwWVY4ZzMwNXJ5MDQ3c29JR09adENvTmV5c01uVV9qNjZWRzM4NkJxd181SU55MkxvUGZsSnVVUXRVX0dJX3V0eXRuQQ?oc=5",
-     "source": "브릿지경제",
-     "time": "2026-11-13T09:35:00+09:00"
-    },
-    {
-     "title": "오픈엣지테크놀로지 주가, 상한가... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SaWd4dTJDVDNfWVNVT1dRS1JNNno5eld3ZXJaY3p3WkpuWkJZWk1lbXNod3Exc0s1NE5yVWRTVExjVjA3OXVpdkc0bFpqOW94ekFoSmllYm5vZ1ZKYmNWdlpUWmtORmhfc0E?oc=5",
-     "source": "금강일보",
-     "time": "2026-11-13T09:28:14+09:00"
-    }
-   ]
-  },
-  {
    "name": "가온칩스",
    "sub": "코스닥 · 399720",
    "pct": 30.0,
@@ -131,16 +131,16 @@
    "newsCount": 4,
    "articles": [
     {
+     "title": "가온칩스·오픈엣지테크놀로지 상한가, 일부 시스템반도체 관련주 '불기둥'…에이디테크놀로지·퀄리타스반도체도 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3dTZLTUhqalFReFpxaW9BS2F3UUFjMXRaX3E1T1B6U3IxejI1V05DaU11dkNTZ2lWTzVpQTFTMGt1aV9JM1ZiLVlwV1VSSEZvaE9RNGp2bGU4RnRJc1lmdjhTU2ZjUUNB?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-15T08:25:00+09:00"
+    },
+    {
      "title": "[특징주] 코스닥 정책 기대·NPU 설계 부각… 가온칩스, 상한가 직행",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsa1FQaDNzblFpbm5KaVF0OXlKdVRSRU9yV0JOU0tGQWNFSkpLTjlQbXFYdnp6ZUhkaEgzVnlTQXJCdlNmQW1QdlIxYTI1VW1HOW1oX2w3czFtaFdxTWoxU1YtYlFfVWI2Rnc?oc=5",
      "source": "https://www.moneystorm.kr/",
      "time": "2026-11-13T17:04:34+09:00"
-    },
-    {
-     "title": "[마감분석] 가온칩스 29.92% 급등 상한가 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5makpERi1HYVhBMmNFWENremg3clBuSmlRdHIyenNjVHJzZUFlU0pTTWNkQ0hJRzJSUUZTcTJRUG1oV29OazZkcGtnQQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-13T15:48:02+09:00"
     },
     {
      "title": "가온칩스 장중 27% 급등…반도체 설계주 강세",
@@ -211,22 +211,6 @@
    ]
   },
   {
-   "name": "바이브컴퍼니",
-   "sub": "코스닥 · 301300",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "[특징주] 바이브컴퍼니, 최대주주 변경·80억 유상증자 소식에 상한가 직행",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWWRKMVV2QUNzcVFjNEx6TjRWSm10aHFGVzE0SFRRTUhGbk1jU2xNQkowelRzczllNzZiMEFCTThtVmx5d0ZKYlBxSWUxdURfaHB5M2FscjFaMEF6Zm13ME1wSlZkT1ZORjZqbg?oc=5",
-     "source": "와이드경제",
-     "time": "2026-11-13T11:03:13+09:00"
-    }
-   ]
-  },
-  {
    "name": "나무가",
    "sub": "코스닥 · 190510",
    "pct": 30.0,
@@ -239,6 +223,22 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQdIBckFVX3lxTE5EcmY4M21Wb2Z0eUJxQ3BGYTE0T2lTUjhCUW9XQ0VSX1R0WGtvQkZTdExCSG5yVlduN3NMZnJkUlhMdFpQMmw4cUpVQkZaYXFyVkczb2tUUmpHRjNHUTJFSmtYMDdEWk1fc1J2TDZTeWFxQQ?oc=5",
      "source": "잡포스트",
      "time": "2026-11-13T14:31:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바이브컴퍼니",
+   "sub": "코스닥 · 301300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 바이브컴퍼니, 최대주주 변경·80억 유상증자 소식에 상한가 직행",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWWRKMVV2QUNzcVFjNEx6TjRWSm10aHFGVzE0SFRRTUhGbk1jU2xNQkowelRzczllNzZiMEFCTThtVmx5d0ZKYlBxSWUxdURfaHB5M2FscjFaMEF6Zm13ME1wSlZkT1ZORjZqbg?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-13T11:03:13+09:00"
     }
    ]
   },
@@ -268,9 +268,9 @@
    "articles": [
     {
      "title": "[속보] 제닉스로보틱스 주가, 장후 애프터마켓서 돌연 급등…25% 껑충",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVEI5RXB5RmpmMHBiQldYZlhxOFJOY2tNbUQ1SnZ4Vi1JOF9WdnhocE55WmNjenBaX05NMVM3Y1huQXJSeVpqc2pxS2pxaUFYNk1wMFFqcmZyNGp5bF9yY1RCMUdUT0ZC?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPdWhhcEdoRzZEOXVPR0RpUWdWQ05CY0FwLWcwTFN1V2xqYTI0XzBtdnVFYTBNN2VFa2hJSjZrbXFFMS1nSF85dERDX1BNa3VKQVJDLXFURXh0dmU5cUdJd1ZwWUNpZ0U?oc=5",
      "source": "CBC뉴스",
-     "time": "2026-11-14T19:38:25+09:00"
+     "time": "2026-11-13T17:19:57+09:00"
     }
    ]
   },
@@ -321,23 +321,7 @@
      "time": "2026-11-13T15:50:09+09:00"
     }
    ]
-  },
-  {
-   "name": "에스와이",
-   "sub": "코스닥 · 109610",
-   "pct": 16.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "[마감분석] 에스와이 16%대 급등 2305원 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSWk1ZbVhfOFd6dkxEQ3FlcTZIVTJNNU1jNWFBU2ZwejJNSXRhWjR0NEVuWDZSbU9WYVJVQTJXUktUU2ZvM1pjc1hSMA?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-13T15:50:24+09:00"
-    }
-   ]
   }
  ],
- "updatedAt": "2026-11-15T02:01:53.811113+09:00"
+ "updatedAt": "2026-11-15T23:55:42.288923+09:00"
 }
