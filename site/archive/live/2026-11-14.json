@@ -1,6 +1,6 @@
 {
  "label": "11월 14일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-15T18:55:06.671919+09:00",
+ "updatedAt": "2026-11-16T04:52:45.519650+09:00",
  "items": [
   {
    "title": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등 [이주의 Bull기둥]",
@@ -119,6 +119,20 @@
    "dir": "up"
   },
   {
+   "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+   "link": "https://www.yna.co.kr/view/AKR20261113076800008",
+   "source": "연합뉴스",
+   "time": "2026-11-14T09:00:03+09:00",
+   "stocks": [
+    {
+     "name": "영광와이케이엠씨",
+     "code": "345290"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
+  },
+  {
    "title": "[온체인 주식선물] SK하이닉스, 정규장 종가보다 3.15% 할인",
    "link": "https://www.tokenpost.kr/news/insights/438113",
    "source": "토큰포스트",
@@ -130,6 +144,20 @@
     }
    ],
    "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "비수기에도 실적 날았다…K뷰티 호황 탄 코스맥스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02N0VlWEdGVHY3V2NsVWxHMG4tMGp2cEJsLUJ0WjJiWmxTOGZCQUh0UmVOQ2VvamlabzlKeXdsbmI0bk92MnpCWUR2U2xLaldMMlVub1lWOXczUWhoLUc2X2c3ZWRFNExsbV9NaWFIMnpnTTA?oc=5",
+   "source": "마켓인",
+   "time": "2026-11-14T08:00:08+09:00",
+   "stocks": [
+    {
+     "name": "코스맥스",
+     "code": "192820"
+    }
+   ],
+   "thin": false,
    "dir": "none"
   },
   {
