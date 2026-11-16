@@ -7,58 +7,30 @@
    "pct": 0.1,
    "text": "+0.10%",
    "exact": true,
-   "source": "파이낸셜투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dUFQWDA4S0lzX2lBWVRPbGZONFp1VWRidXo0dzFYZlZrdXAyRDRxTmlPWHoteVZjOGJscnFEbE93MVluYXNDZU1sWC1PQTRaTHVsUEZJeHhVWGtxR0hnaHBYMnd0RzRtWXfSAW5BVV95cUxPU05kYmVBUFVrVTBjc1pCbXhEU3Vzd0N5a3k2bUg2S2VmeFBWR01rWk12RU0xUklMMGRIcElQMmU1ank5MGI4VnYyV2FueVlncE5BaVYxZW1VN19uSmhncWNsM05JcEFOaEtqYVdPdw?oc=5"
+   "source": "뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
   },
   {
    "name": "나스닥",
    "pct": -0.91,
    "text": "-0.91%",
    "exact": true,
-   "source": "파이낸셜투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dUFQWDA4S0lzX2lBWVRPbGZONFp1VWRidXo0dzFYZlZrdXAyRDRxTmlPWHoteVZjOGJscnFEbE93MVluYXNDZU1sWC1PQTRaTHVsUEZJeHhVWGtxR0hnaHBYMnd0RzRtWXfSAW5BVV95cUxPU05kYmVBUFVrVTBjc1pCbXhEU3Vzd0N5a3k2bUg2S2VmeFBWR01rWk12RU0xUklMMGRIcElQMmU1ank5MGI4VnYyV2FueVlncE5BaVYxZW1VN19uSmhncWNsM05JcEFOaEtqYVdPdw?oc=5"
+   "source": "뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10VE14Vl9vV1FWUFFPV0tpOUV3R3dxdkh4NXFWOGpFd2hzOTl6OUEyUmc3VzJNcFBydjBxUVJfLVNHREM4bFhyc0xSeDJYajZYS0cxTVF1VlpmbklmbXc?oc=5"
   }
  ],
  "items": [
   {
-   "name": "Focus Universal",
-   "sub": "FCUV",
-   "pct": 108.33,
+   "name": "Bumble",
+   "sub": "BMBL",
+   "pct": 68.0,
    "newsCount": 1,
    "articles": [
     {
-     "title": "Focus Universal stock jumps 108.33%, trading at $6.25 as of 14:12 ET",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWVGTUxBYzFwSmpRZ0pmc29qaWNFOUFvMTJqb2hpTDlpdkh6d2YxZjNNcml0NFVSTGNhdDFYWkxOOEJCb1VwWW1SMjBiS2wxNmVWVGY4TUxWUU5CREVrTUIwR0loTVdqdkEzVTB3OGpnLWlNb0J5N3NCSE1UX2kwTGhMek5fM2NpYm5RbFh4UQ?oc=5",
-     "source": "The Cryptonomist",
-     "time": "2026-11-14T04:19:20+09:00"
-    }
-   ]
-  },
-  {
-   "name": "Solesence",
-   "sub": "SLSN",
-   "pct": 90.22,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "Solesence stock jumps 90.22% intraday as RSI reads overbought on all 3 charts",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyVkNOSDZmX21GMTVialQ3ZHdJdzdZaEFFRm83bkN0UEhRRG1ZbEFocWZqaW9zZndXT1pnS3d4cHRvNTJDNW1HOUJUeGVMaktqNkduZUpERDVyQWM4TVd5c2paU1VFbEhoQjdoMkV1dG9maUlBRlU0ZkRiMA?oc=5",
-     "source": "The Cryptonomist",
-     "time": "2026-11-14T04:20:54+09:00"
-    }
-   ]
-  },
-  {
-   "name": "VirTra",
-   "sub": "VTSI",
-   "pct": 56.11,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "VirTra stock jumps 56.11% intraday; RSI is overbought on three charts",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmZmQWZHUThCSTNQZVgzckdZUFIxdXJ3U1B6a1lvYU1pYUpRVXBIbXR4d3hDM1BiUXNPVGxzYVpNbDFjOW1KdmdsNmNjNDBOOF9mUDVOZDFpc2Y0NGJSSlNWakZjOGEzNFhxTHZiUkczaFpKMDZyRHZubmg3NHRlOGRKYw?oc=5",
-     "source": "The Cryptonomist",
-     "time": "2026-11-14T04:22:49+09:00"
+     "title": "Bumble stock soars 68% after InvestingPro Fair Value call By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFhHa01JU092b1hWRlZiN3pvbzI4VUxWTHk1NS1DWHhRNWtzdkMtQkc4QTJxcFM0NHpVazR5Uk85dWMwNFZ4Q0c1R29IWmVfcXVWbXJjbkVSYlRvNUlYZFdUTXJuZVczOHJtN0piWEVFbm0xTjNKM09EOWRfTTRZdFc3QjNRbjdjaVY5YzhxR1llenlERGoyc0tabHNHTEtBcHE1ZG1NeUhmMEFMeHd0UjVieXJ2MXlQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-15T20:23:35+09:00"
     }
    ]
   },
@@ -119,5 +91,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-15T10:36:07.100575+09:00"
+ "updatedAt": "2026-11-16T10:39:38.044776+09:00"
 }
