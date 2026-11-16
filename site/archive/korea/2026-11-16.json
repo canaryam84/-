@@ -26,8 +26,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 12,
+   "newsCount": 13,
    "articles": [
+    {
+     "title": "[오늘의 특징주] 지슨·세코닉스 상한가…AI 부정행위 방지 대책에 보안株 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RZTJ2elFpRzlUNXBGVDlpbUo5NldJSDA5TXR5UmQ3Z1ZwOW94ZXZIRHFKdllmWFB1RWZmZEp5TmphTnUwQTZHUDBKVWpVakVKdWliSlJhVTJWNWp4amZwbWN0SHg?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-16T23:08:09+09:00"
+    },
     {
      "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
@@ -45,46 +51,6 @@
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ybTEtU01HMTI3Q0pwaml5Z3RqUWxST21wSEc5RE55T0owNV9OZ19WOUlUUEdXVGlSakFKdDhLTkNSNGQ5MmtDemJ5NlVGQk11VWZsa3psLUlUTENUaXFEYzJRUDhRZURscFE?oc=5",
      "source": "https://www.moneystorm.kr/",
      "time": "2026-11-16T16:43:58+09:00"
-    },
-    {
-     "title": "지슨 주가, 상한가 기록... 이유는?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nWTBrcDZEYkQxNVJtUEdid1BsU0dpa0plRlNBMVc0MHNLek40aDdPTjUxVlktUkpRNm8tTDNOVFFtOHcxX2RhVUFISXlleVRSbENqZ3hrZGE2ZWh1bl9naDBSU3ZMenJYYmc?oc=5",
-     "source": "금강일보",
-     "time": "2026-11-16T16:12:51+09:00"
-    }
-   ]
-  },
-  {
-   "name": "나무가",
-   "sub": "코스닥 · 190510",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 7,
-   "articles": [
-    {
-     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
-     "source": "금강일보",
-     "time": "2026-11-16T19:40:00+09:00"
-    },
-    {
-     "title": "[마감분석] 나무가 30% 급등하며 1만8850원 상한가 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Y3ZXd01BM0FRWUVYeW5WcU53X01PMDhYa3RFQnJXVmxySzVyb3lSRkRxZjJ5ZzFYZGdIcnljNFFLSFpJOC1hQnlDWQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-16T15:48:07+09:00"
-    },
-    {
-     "title": "[속보] 나무가 주가, 상한가 도달…오전부터 급등세 이어",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mSE1ETnJ2QnA4YWNrQ29Hc2h4WmZ3ZnI2NlJHSW9hcmZnVWxuWWRnRUpqWXZ0Q211WUVWd09jWVdWaU1VRnZhbEVFRmdsYmQzRXFxTmRIMGhwOGstTUg1cnZDUDJKUnNq?oc=5",
-     "source": "CBC뉴스",
-     "time": "2026-11-16T14:40:17+09:00"
-    },
-    {
-     "title": "[특징주] 나무가, 특별한 공시 없이 장중 24%대 급등세 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZ3FiaVVISFFZYlFqTVhQUlpud0QzVDFaV3gwLXNXNHNmVDZHT2RCSkY3QWtmWFotcWR4VERsWEcyZ0NCUE42bzZDYw?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-16T10:22:50+09:00"
     }
    ]
   },
@@ -128,8 +94,14 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 5,
+   "newsCount": 6,
    "articles": [
+    {
+     "title": "[오늘의 특징주] 지슨·세코닉스 상한가…AI 부정행위 방지 대책에 보안株 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RZTJ2elFpRzlUNXBGVDlpbUo5NldJSDA5TXR5UmQ3Z1ZwOW94ZXZIRHFKdllmWFB1RWZmZEp5TmphTnUwQTZHUDBKVWpVakVKdWliSlJhVTJWNWp4amZwbWN0SHg?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-16T23:08:09+09:00"
+    },
     {
      "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
@@ -147,12 +119,40 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qT0NYVXBXVTB1emFxVVE0TUVpWl9IS25fOGw1ZXJWZGhqSXVIeGxEVXVsaEdyRHFsX3F3UU8tTXpiR1VjN2U0eC1mSklEY1VzSWdWMkhENUQwX1I1MkxTaS0ydzkyQQ?oc=5",
      "source": "비건뉴스",
      "time": "2026-11-16T14:09:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나무가",
+   "sub": "코스닥 · 190510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
     },
     {
-     "title": "AI 안경 부정행위 논란에 AR 관련주↑…세코닉스 29% 급등",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtV0RQcHZkLVBuUmFGdEtaM1cwRXlRWnRMZVQ2a1hsbnAyVjlpV3E4NjJHemQ4NDJibElPWV9handKc25nb19ocFV5SFdXSm1aSVJMbXZKa2ZDdHU4R1M2UdIBeEFVX3lxTE1qT2pvUnVzczE0SWttQTVrNlJhNmRhWU9GQmR5bVlZSTJmVTcxSmZ4bVdoemlwdGp1RVkyR05sdW4wWlZzQjdROG9lYlNmWDhYTGxJU3dlV3A0N3ZDOE8xdWM3T19PTGFNZkduMUgyVEFPajJuTXV1dw?oc=5",
+     "title": "[마감분석] 나무가 30% 급등하며 1만8850원 상한가 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Y3ZXd01BM0FRWUVYeW5WcU53X01PMDhYa3RFQnJXVmxySzVyb3lSRkRxZjJ5ZzFYZGdIcnljNFFLSFpJOC1hQnlDWQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:48:07+09:00"
+    },
+    {
+     "title": "[속보] 나무가 주가, 상한가 도달…오전부터 급등세 이어",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mSE1ETnJ2QnA4YWNrQ29Hc2h4WmZ3ZnI2NlJHSW9hcmZnVWxuWWRnRUpqWXZ0Q211WUVWd09jWVdWaU1VRnZhbEVFRmdsYmQzRXFxTmRIMGhwOGstTUg1cnZDUDJKUnNq?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-16T14:40:17+09:00"
+    },
+    {
+     "title": "'AI 안경' 관심에 카메라 모듈주 '들썩'…나무가 24% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tb054Z0Y2dzFVeVhLTVVEODlmdDFTWUJHakdtNmlOb0ZYbktJcnpDMFpqT190RDZUQlRvdXRaYjZDR0FhdHdSeVNwQU5rQjFKNVoyX2RpWjR3WjJCbTJOMNIBeEFVX3lxTE41ckhRQVM2VkhyUExGd1dub25Hd3llc2ZxZVlxckdpMFdsN1RjQWJmSGJIcjRPek9ndHNzalBZZ3phbFRoQTZ2Yjc2VWZCWjF2eVhxMU1QYkU0UWxtTlE1b0JSWFR1ekJpemY4d09GbXJqcXZmd0dZMA?oc=5",
      "source": "뉴시스",
-     "time": "2026-11-16T10:50:23+09:00"
+     "time": "2026-11-16T10:11:22+09:00"
     }
    ]
   },
@@ -421,5 +421,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-17T02:19:20.833396+09:00"
+ "updatedAt": "2026-11-17T05:59:25.810093+09:00"
 }
