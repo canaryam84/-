@@ -1,7 +1,25 @@
 {
  "label": "11월 15일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-16T04:52:45.519650+09:00",
+ "updatedAt": "2026-11-17T01:37:11.572617+09:00",
  "items": [
+  {
+   "title": "조선주, 대체로 강세…한화오션·HD현대중공업 상승, 새주 주가 향방은?",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pcTZCYXBrSXBJMGUzSlE2T21HYWlwbVVYaWluM19xYlZfM0U5dTJPUDhWUldiN3kya2xaUEpHb25KeHpYNzlSUGN0Nm5McF8zckZCZ1BpU2tteEJONEljbXpDblZIUVZf?oc=5",
+   "source": "CBC뉴스",
+   "time": "2026-11-15T19:53:51+09:00",
+   "stocks": [
+    {
+     "name": "한화오션",
+     "code": "042660"
+    },
+    {
+     "name": "HD현대중공업",
+     "code": "329180"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
   {
    "title": "삼성전자도 SK하이닉스도 아니다…개미 자금 쏠린 '1위 주식'",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUXpVWFZIZk5FODF5aU5Na21xY29qYmtWU01NckxGeGJtTUliUnVfVmVDRFpqaEVUcG83eFFQVkYxMlZxcFBkLU1qVzBQMFEtcmxBUHln?oc=5",
