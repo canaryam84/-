@@ -1,0 +1,425 @@
+{
+ "label": "11월 16일(월) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -3.59,
+   "text": "-3.59%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMzd5LUp1dlpkNnd5RUNSYzQtSnZnVGRTVjFJRXJScVcwaE9zemFHQWJRTGxoNG9iNXJyTWgtSWplNXE4UG9sNzB1MkpBYk84UnBFeThReGdsRDBlbml6dUxMZk1vclE?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -4.86,
+   "text": "-4.86%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMzd5LUp1dlpkNnd5RUNSYzQtSnZnVGRTVjFJRXJScVcwaE9zemFHQWJRTGxoNG9iNXJyTWgtSWplNXE4UG9sNzB1MkpBYk84UnBFeThReGdsRDBlbml6dUxMZk1vclE?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "지슨",
+   "sub": "코스닥 · 446840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 12,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
+    },
+    {
+     "title": "AI 부정행위 논란에… 보안기업 '지슨' 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zNE15d3RTUDcxTUROcE5qdnJWNk44S29neU84aGVpQW5FT0k0ZTNDNlpicU5SM2V1U0ZndHhZV09fTy0xRGNPUmVYTUZ5bHg3UVAwS3YxZElSZw?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-11-16T18:25:26+09:00"
+    },
+    {
+     "title": "[특징주] 지슨, 'AI 커닝' 방지 대책에 상한가…전파탐지기 7200대 보급 추진",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ybTEtU01HMTI3Q0pwaml5Z3RqUWxST21wSEc5RE55T0owNV9OZ19WOUlUUEdXVGlSakFKdDhLTkNSNGQ5MmtDemJ5NlVGQk11VWZsa3psLUlUTENUaXFEYzJRUDhRZURscFE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-16T16:43:58+09:00"
+    },
+    {
+     "title": "지슨 주가, 상한가 기록... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nWTBrcDZEYkQxNVJtUEdid1BsU0dpa0plRlNBMVc0MHNLek40aDdPTjUxVlktUkpRNm8tTDNOVFFtOHcxX2RhVUFISXlleVRSbENqZ3hrZGE2ZWh1bl9naDBSU3ZMenJYYmc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T16:12:51+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나무가",
+   "sub": "코스닥 · 190510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
+    },
+    {
+     "title": "[마감분석] 나무가 30% 급등하며 1만8850원 상한가 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Y3ZXd01BM0FRWUVYeW5WcU53X01PMDhYa3RFQnJXVmxySzVyb3lSRkRxZjJ5ZzFYZGdIcnljNFFLSFpJOC1hQnlDWQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:48:07+09:00"
+    },
+    {
+     "title": "[속보] 나무가 주가, 상한가 도달…오전부터 급등세 이어",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mSE1ETnJ2QnA4YWNrQ29Hc2h4WmZ3ZnI2NlJHSW9hcmZnVWxuWWRnRUpqWXZ0Q211WUVWd09jWVdWaU1VRnZhbEVFRmdsYmQzRXFxTmRIMGhwOGstTUg1cnZDUDJKUnNq?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-16T14:40:17+09:00"
+    },
+    {
+     "title": "[특징주] 나무가, 특별한 공시 없이 장중 24%대 급등세 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZ3FiaVVISFFZYlFqTVhQUlpud0QzVDFaV3gwLXNXNHNmVDZHT2RCSkY3QWtmWFotcWR4VERsWEcyZ0NCUE42bzZDYw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T10:22:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "영광와이케이엠씨",
+   "sub": "코스닥 · 345290",
+   "pct": 30.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "[특징주] 영광와이케이엠씨, 코스닥 상장 첫날 19%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wU2xHVGQ2NUw2LUh4ZFN0b1VlM0hJYWNqYndoeVBRSkFsRkR3RmZNeDlFaWIyaGpkRHVGeVZqVWRYd1RXNGRKckpfSmpiQ2VvWVh3eVhUX0NjQQ?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-16T09:58:00+09:00"
+    },
+    {
+     "title": "[특징주] 코스닥 새내기주 '영광와이케이엠씨' 21% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WVXFhYU5CNkhEWE5wWUxjdkJ0NDRLbHY0b1VpMDBfYVBsdGlrVm9MS094WmZocnhtaUlLaTdjNHh1NFRMUXVNOU9YT05ldGZLejdtaFFlbWVhOS05?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-11-16T09:54:00+09:00"
+    },
+    {
+     "title": "[특징주] 영광와이케이엠씨, 코스닥 상장 첫날 20%대 강세",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/16/WRHCWKZ7PVD4LO23JMJ4GUHJMQ/",
+     "source": "조선비즈",
+     "time": "2026-11-16T09:36:49+09:00"
+    },
+    {
+     "title": "[특징주] 영광와이케이엠씨, 코스닥 입성 첫날 공모가 대비 16%↑",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBra1kyQm93Ry12bnJaUjJtWkhPNFBFbEp4eFFpbWsxX21OUGpmbm96TDVjYkJ4Ulo0N0JScy15ZUFIM3FSRElXZmNnblFhdUVKYm92N2NIWGbSAVhBVV95cUxQa2tZMkJvd0ctdm5yWlIybVpITzRQRWxKeHhRaW1rMV9tTlBqZm5vekw1Y2JCeFJaNDdCUnMteWVBSDNxUkRJV2ZjZ25RYXVFSmJvdjdjSFhm?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-16T09:15:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "세코닉스",
+   "sub": "코스닥 · 053450",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
+    },
+    {
+     "title": "세코닉스 상한가 마감…전장 카메라·광학부품 점검",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RVnRXYjhGVFk4WnZHYnZWa25oSTE0YXhZNXlrbmdkNXd2a2dHdnpfNXJpRnZkU1J5NzBpV2dLdHZGLVlLVy11cVNGMzJlQkUwei1kV05YUk9UT1pfWTE5SEIwc2JXWG9WblZOeEpn0gFyQVVfeXFMTXc1RHdvX1ctN0w3eDd5bjNsRzNlLVN4Q2d0YklqXzVucloyNV9LbDhnVm9fOFp5SmdsUDNJZmFTQWtXSjkzOHFQWEN0M3lEQVJJV1dLWTRZVkxYbmxjSVJiUkRrNTh4eXVhOEg4cHViVzhR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-16T15:39:58+09:00"
+    },
+    {
+     "title": "세코닉스, AI 시험 부정행위 논란 속 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qT0NYVXBXVTB1emFxVVE0TUVpWl9IS25fOGw1ZXJWZGhqSXVIeGxEVXVsaEdyRHFsX3F3UU8tTXpiR1VjN2U0eC1mSklEY1VzSWdWMkhENUQwX1I1MkxTaS0ydzkyQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-16T14:09:50+09:00"
+    },
+    {
+     "title": "AI 안경 부정행위 논란에 AR 관련주↑…세코닉스 29% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtV0RQcHZkLVBuUmFGdEtaM1cwRXlRWnRMZVQ2a1hsbnAyVjlpV3E4NjJHemQ4NDJibElPWV9handKc25nb19ocFV5SFdXSm1aSVJMbXZKa2ZDdHU4R1M2UdIBeEFVX3lxTE1qT2pvUnVzczE0SWttQTVrNlJhNmRhWU9GQmR5bVlZSTJmVTcxSmZ4bVdoemlwdGp1RVkyR05sdW4wWlZzQjdROG9lYlNmWDhYTGxJU3dlV3A0N3ZDOE8xdWM3T19PTGFNZkduMUgyVEFPajJuTXV1dw?oc=5",
+     "source": "뉴시스",
+     "time": "2026-11-16T10:50:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "LK삼양",
+   "sub": "코스닥 · 225190",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "LK삼양 주가, 상한가 직행... 웃음꽃",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vVTlYaHR4ajcwOU9XeWlVdG1OZm5RRmdKVVJfWjhiQkcwZXF3YzNyRUVVeUg4LUFjMzBieFBhM3ZmQ1AzOEpHNWJ5N2FZdmpsTC00c09nNGxLYkNuS0d4Q2stekoxQ2RSZlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T16:22:14+09:00"
+    },
+    {
+     "title": "[마감분석] LK삼양 상한가 직행 4735원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EdHRvRVJOQ3ZOYl8xazVKaWVaTl9PcWRRWkoyaENwNEd3eFo1Q3Mxa0JwT2VTQ0NybDFSOElQX01PZ2FITFZVdzhNbw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:48:23+09:00"
+    },
+    {
+     "title": "LK삼양 거래량 3,431,159주…29.90% 상승 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CalBrMDVmWE13MlVRSU1VV2Q2dHVrR2piMF9QcE9OejR0djlka1pvU2JCVThIYmNSeHFYaUFDcTNMcF9kU2VCYWNPSWtORHJTREgwVERXeFp0cUZHSVIydnVaTnVfOElvNkp2YTVR0gFyQVVfeXFMTVZJZW11TkQ0UFA0aGVhbjAwZVU2U1pxdXp2WVQ2YWlWUk1mX3RJb1BuTVo5OEs5NFc4Qk1DSXY0SDdnWkVIel9OQ2VmYVhGSXkwd18zb1dzVV82UlBVTFBzdEtIOXBLb3FrZDV5MmdKT3hB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-16T15:39:00+09:00"
+    },
+    {
+     "title": "LK삼양, 장중 4,735원까지 올라 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hc2o0Vnloa1ZYT0REZVRVM0Z0R3JGR2UyTC1YRm1DSWJyRzU5WWZoVTM5b0lmZ3VTbHA5WlMyS3Q5T0hoa2d3a3E0a2NJbWhRSGlKX1o3YjlOMHhZNUlPbG4xdGxQdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-16T14:30:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "코아스템켐온",
+   "sub": "코스닥 · 166480",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "코아스템켐온 30% 폭등쇼… 생물공학주는 신약 기대에도 혼조",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PSGRQbXJTSTVtdnNMam5iRmpSUk5pZ25pSUFuUWNkcXh3NWxhSDE0Nm1UcVRJRzBORGJ5cm04WmdFRWt2dU9GWlFVOE9oY0drU1o5aVZONVNZTzRQR3FYSGpYTmVuY1ZRaHROTGl5WThJaGl4TmJ30gF3QVVfeXFMT09IZFBtclNJNW12c0xqbmJGalJSTmlnbmlJQW5RY2RxeHc1bGFIMTQ2bVRxVElHME5EYnlybThaZ0VFa3Z1T0ZaUVU4T2hjR2tTWjlpVk41U1lPNFBHcVhIalhOZW5jVlFodE5MaXlZOEloaXhOYnc?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-11-16T20:16:56+09:00"
+    },
+    {
+     "title": "[특징주] 코아스템켐온, 루게릭병 치료제 美 FDA 3b상 협의에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YaEkzMEhVLTBISGNkS1RlUjJvd0pRdV9iNW1mT0wtTENIVFJPN01Uck9hcHExNVMyTjZHa0hhazgzQnhOZnc5NGk1YnhObjltdm9raThqN1ZSOE1lbXpBRTN5MFBuMWdoREpDVw?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-16T18:30:28+09:00"
+    },
+    {
+     "title": "코아스템켐온 상한가 마감…줄기세포 치료제와 비임상 CRO 점검",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94anlUTU9NV3A5cVd0Umhhc1Q3cjBpTGpZSUJWLUNhVFJTMGRjSGxMX01QR2U0R3ZyTV8yT18xRzc4UjBIZGR1clVRdGJDakV0SThUc09jOTQ0dGlXVHhwc2R3dmdZbkZrQXBVbERn0gFyQVVfeXFMT3NENjR2NHh4Tkl6MThkOEJYc2lrcXB3MEo5V0Ewc180aVczUG5uam56N0NzeHQzLWN1Szd1SlFobVpwRENObHhueDE0bGxoZGM3eGJEc1ZvVGZPVHlyUGM3NmcydEQyVy1OOWh3OWdzNUxR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-16T15:38:14+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지니틱스",
+   "sub": "코스닥 · 303030",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
+    },
+    {
+     "title": "지니틱스 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00ZV9LMU5qQUF3dEh5dk1vSnJMVVJsVk10ZFRhNjJlRXJwMG94ZmwwRUx1TzJ6c2ZMSWJueU1QU3VDWEFGVkxfOXdKUEdINFRoZEh4dzJsNkhuR0Zqa2tVdmFpRGhYTWtIYXc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T16:16:42+09:00"
+    },
+    {
+     "title": "[특징주] AI 부정행위 방지 수혜 기대주 급등⋯지슨·지니틱스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oT0lIVTlHbXl3dEswaWJqNVNQNGVoRURpdm1xNm1rR2FRUHRiTjJmbVFKTEQ1M2E2SXhuSGUta1FkUTJja1FqUnB1eHQ3OWNGU3BvcEhQX1FJZw?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-16T09:39:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "M83",
+   "sub": "코스닥 · 476080",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] M83 주가, 상한가 기록... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KalRfc0lJcUJHdl9YLVhWbGJ0YkU2d1R0UURLc0VEVDEtcEtyMENCV1g5NXNVWVB0UXB6S0ZfVDY1V1BYRDFvUWdtenBzMjBWOFJtQWMwR05icU4wVDJfLWFLeGtwSlBzZVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T16:24:47+09:00"
+    },
+    {
+     "title": "[N2 증시 풍향계] 우주항공·AI 부정시험 방지 수혜주 ‘불기둥’…M83 ‘상한가’, 영광와이케이엠씨 ‘20%대 강세’",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zYTJ4OEtuTDJjZ2NLRlhwMXZXbllMZ2ZqbEJndTdVSnRuMWxjTWhBOVNPMEZvY1lXdTlTRTdLR01tMlphcm1Eb1RzNjZtQ09mVmEtX2pPNThIdTF3T0E?oc=5",
+     "source": "뉴스투데이",
+     "time": "2026-11-16T10:27:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카티스",
+   "sub": "코스닥 · 140430",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[주식마감] ‘AI 안경·부정행위 논란’에 나무가, 지슨, 지니틱스, 세코닉스, 카티스 등 상한가... M83, 코아스템켐온 등 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT1YtV0lxdWpLNUppM0I3RnFSVlVOV01jSVFJWUpIbTdUU1pBODF3YVRVR0Frb2puWHhqWVdQVC1wYWlNTmR3dXVISWJiZF8tNFpVa2Vrc01felloZDFMczIzVHZxMnRZOWc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-16T19:40:00+09:00"
+    },
+    {
+     "title": "특징주, 카티스-물리보안 테마 상승세에 29.87% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ER1c5bHFpTUk1ZnYwSHdRdXVMcGhmcDNrcHA2WkJHNjhNUlBSYWFvaldBcHdVSElHZjZzdUItNXZ4RkhtRmZRTXA3TXo0V04wU3c?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-11-16T09:16:38+09:00"
+    }
+   ]
+  },
+  {
+   "name": "시선AI",
+   "sub": "코스닥 · 340810",
+   "pct": 26.23,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 시선AI 주가 26.23% 급등하며 3200원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81OHJwVm9WMzhmV185MFVrZGZrYmJSTEItVEprVG9YcU5Vb3FsQ1lORTRRLUZKTGJFa3k1cTBxNnEzZ3Y3aHRLZ2x0RQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:49:19+09:00"
+    },
+    {
+     "title": "시선AI 거래량 4,485,814주…26.23% 상승 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM291Z1VUVkdiOGN3Y0xLc3Bud1JUMHpOOTRqLTR6bElUcnpkNlZhZWVxaU4tM00yOVAxc19QNVlzN3hBUFp1TlJ6aE1ycE0wNk1scC1DOFFjLThaV0FtZDBqZXNsdEFlT2RYc0dR0gFyQVVfeXFMT0dlaVBzN3FtWEFxMThnX0V6RmRfbHo3MjFKeG5MNnRxVUM5cXl3a2kwZ0wydE1KRmthSjMyUkR6X2VFajdnRFB6QVJYVEREU1RiMnZFZGxmczZBWWxRSXZaRG9JSURHRlRMNEt1SmwtMkd3?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-16T15:40:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "이노메트리",
+   "sub": "코스닥 · 302430",
+   "pct": 23.14,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "이노메트리(302430), 11월 12일 23.14% 상승 마감",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aN1JqV3Q2QWJqdjltaDcwN1k3Yk5vZVpMNmo0Nk9Gb1N5bTRwQXlyeWhHMG0wcXd6NnhiVHRQeGFuaG1heVN4a2RIYUNYWV9TM2o3SExodTlnUVFsTTgwclV3?oc=5",
+     "source": "시사매거진",
+     "time": "2026-11-16T10:09:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "미래에셋벤처투자",
+   "sub": "코스닥 · 100790",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[마감분석] 미래에셋벤처투자 17%대 급등 1만4700원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52bUI1NkJkaGkyZkNQRGtEUDVtVVJCcWJUTk8xVWxSbTdIYkg2TVFvZy1rSHlvNE1qS2h1X3FWR2tvbm1xQmlXUmswbw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:52:24+09:00"
+    },
+    {
+     "title": "미래에셋벤처투자 거래량 6,368,519주…17.13% 상승 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4M2FFUzBJM2ZadzFPc2RQV3d6bW1PbjQ2MzJNNnhXdG9pZnJLb2I5b1lVbF81NmFrNjdwaWEwdzZudHZkdVJ0aVY5Nnhubnlobk9NLVlzOE9zSjFVOWVLbFUtbU5NOUY0cTBEYk1B0gFyQVVfeXFMT0lpLXBqdnlpUWhzS25MVEFtc3hjVXIwb1V0VEV3UVBXMkpaRWFHZjJLUEhKaFEtb0JsWHJSSUNWdzJxWGU0eXJKLTIzenpsdTdsVVh0eURyRlQyNTBpbzJjUWhpMHVmWEpGcE5XcjM3eFd3?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-16T15:42:16+09:00"
+    },
+    {
+     "title": "[특징주] 미래에셋벤처투자, 스페이스X 본체 회수 성공으로 주목…22% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbDRVMHJ0Tm8zOURLZ0xaVmtUbng1ZDBVYTByLUstUUZiX1IwTm9qR2dBc1BvZHlsOEVoRnhvbWNnVjNzTkVyMF9ZMlBmWmlFRWNEN284SURkQdIBWEFVX3lxTE9ZcE53aU04NzRCQjM1VFFQMmY2NFJ1QWZackZxTTNlcXlJNHUwNy1kNGJwaWRuT2VUY1QtSHhnaGZFUnBlSHdJalFER3R6SlRBc09pRHc2dmY?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-16T13:56:38+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아남전자",
+   "sub": "코스피 · 008700",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 아남전자 특별한 공시 없이 19%대 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMNTR0eFJBaFpBOVIzTjhRMkY5WmZuNC1OTVprWjR2Yi0tSXZjV2YzcURNTVNMelZmcVhRUloySHk5b2lCTkY0SW5IYw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:49:54+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴프렉스",
+   "sub": "코스닥 · 085670",
+   "pct": 18.24,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 뉴프렉스 특별한 공시 없이 18.24% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTVNqSUNhY0g4OXoxZWRIS2lCTFBuREZjNjVCU2pORWl4Q0VoYlhnY3V0d29NU3J5R0d1QVFMMndRMVUtQlJHSGp2dw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T15:50:10+09:00"
+    }
+   ]
+  },
+  {
+   "name": "피앤에스로보틱스",
+   "sub": "코스닥 · 460940",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 피앤에스로보틱스, 장중 18%대 급등세 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3eWhsMjh5LXRFVURmc0Z4YzlEX2I2Tm16OFJVMVcxUVFVS1ZETGw1d0l0Qi1XdFY5LU5aN2NDNVhvRkpDQ2s5ejA3aw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-16T10:23:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "퓨런티어",
+   "sub": "코스닥 · 370090",
+   "pct": 15.09,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "특징주, 퓨런티어-카메라모듈/부품 테마 상승세에 15.09% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQTdTaFJyYXJhNjM1cFdMaTdhQWE5RGRNbWxOUGstRkxYTC14Q2g2aElZVDhpSHg2ZXJHVlhCal8xdlp3cXJkNlRiWHoyMWRhcnc?oc=5",
+     "source": "매일경제 마켓",
+     "time": "2026-11-16T09:16:55+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-17T02:19:20.833396+09:00"
+}
