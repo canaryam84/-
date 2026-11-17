@@ -1,0 +1,39 @@
+{
+ "label": "미국 11월 16일(월) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.41,
+   "text": "-1.41%",
+   "exact": true,
+   "source": "아이뉴스24",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04QXpUZlVlcldLMWloQ2dfWVVWOWdwdV9kVDRtdU1rS0VHNi1ybGhndEg1aXg3VnV5Y1l4UEFwU3U4dDJlRkRhOXVSOA?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -2.49,
+   "text": "-2.49%",
+   "exact": true,
+   "source": "산경투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZHhXMTZWM21GbGNIUWJiSnZyVDVTMl9WQTZQNHYxTkJ4Y2J5R1VoemFxMktzN3JPNThjTGNqM1VZblZOd3dxWV9vQ3B2N09peVNQYzFiVXhrQU5nZVlEelRUa1k5dGhXM2NlUGNBbDbSAXRBVV95cUxNQWdBZnUtWFU0OEJNeTlGRXVXeHg3Wm1XUFhtQVhwdnNxeFhXT3BPb0Y2ZXQ3dTN3ZWVUQUdUelNxTTZEME5ySWYyblRmbEFzSXo5MWczR0pDYjB2bVlwNmJGQTdhM2laSVVyM0pyWTk1Z08zRQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Lexeo Therapeutics",
+   "sub": "LXEO",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Lexeo Therapeutics shares surge 25% on interim data for LX2020 gene therapy",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFlONUdpUWRRQWN5dGVhVnNzdElUMTNHdVdTRzRTOW9IQ2dMWkZINkNQbTQ5anllam9obWtnamFZdVZ6WkNkZTJtYWFMZjBWZlBUWkZNX1E1THhFWGw3cGFiM2lRVnFXTjk1LVNhSjh4WnBxOGFqNnBLV2xNVWpSamJMZ29WOFJIOGNySkVKX1NhenVLcUIyYmhmdk8tWWl3cHBfclNTWG9WQktFNkoxSmxFMUVBNFhPcmZQTXdXZ1lZRHRXOXlTYzlTMA?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-16T23:37:44+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-17T13:22:31.399324+09:00"
+}
