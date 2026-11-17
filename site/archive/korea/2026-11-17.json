@@ -1,0 +1,215 @@
+{
+ "label": "11월 17일(화) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -2.59,
+   "text": "-2.59%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -2.34,
+   "text": "-2.34%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KMmlyUTU3cnRiVndOQXV4aDFHcXNzdTJiaHlINVJ1MlB3aDh1MEd2WjQyOU1qRUh1VzlJNzJVNTJLQWJIMjdaNmRqajkySlZWVFd3Mm9NYkE5a2ZaUnJv?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "계양전기",
+   "sub": "코스피 · 012200",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "[특징주] 계양전기, 현대차 부품 공급업체 선정에 상한가…전기차까지 공급 확대",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54US1uV0hUcWl3dktOYTVmclpDUzJiSFhVQjVsODllWm0xWWJxUU42T0w5cmtCVHRhcmw3cnpKYkdpc0ZCTi1Wc2MzbXdzUmRobWJPYlNxSF9zQWFNYTZmZEZ1cVBOdlV3WlE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-17T19:08:16+09:00"
+    },
+    {
+     "title": "계양전기우 상한가…우선주 수급에 변동성 확대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByTS1IQUlEczFNWkhpbmk2U3M0WmpZTFQ3X0x0U0pqclBEMnlBZG1seGs3RU5sTkpMZ2dQYl9qREEtSnprekxVeFRpZUdLOGVuUmhzdUZPWlZmNV9BY3o5M3R4WjZKaUxJR3dmeHFMYzMzQdIBckFVX3lxTFByTS1IQUlEczFNWkhpbmk2U3M0WmpZTFQ3X0x0U0pqclBEMnlBZG1seGs3RU5sTkpMZ2dQYl9qREEtSnprekxVeFRpZUdLOGVuUmhzdUZPWlZmNV9BY3o5M3R4WjZKaUxJR3dmeHFMYzMzQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-17T15:56:49+09:00"
+    },
+    {
+     "title": "[마감분석] 계양전기 상한가 기록 2935원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FcG8xWDltdWp6VXNteUt4M2RjU2tFeVF1M3F5WV9JUHpBNm5ZbmpXaU1MdjEyZWFWSFN0V3Uwa3BQWEd2WEQxQ0xKRQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T15:48:49+09:00"
+    },
+    {
+     "title": "계양전기, 현대차 부품사 선정 뒤 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DTjE0clNUYTdxOXljaVUxVHhyT3RaV01xT3ROZXBmWHBHWVpJX1BfX3VPOUJmY0NPUlpWS2NSazVoUjA1ay1Wd0thbVRMd1NVMllYU1ZGQVNnYlFPQ2NGeGJVZERhdw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-17T13:03:05+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지슨",
+   "sub": "코스닥 · 446840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 8,
+   "articles": [
+    {
+     "title": "[특징주] 지슨, 'AI 커닝' 논란에 이틀 연속 상한가",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xTFB0dGVtY3RsbDhERUZRTFZvVGVlYmQ1OERNb3hCcXdVNFRQcmlPbE5SOVBvRkJzOWE5SmJ0OEJDOVFrdXJQZVZNSjNGZW1JRXBYX29SbHNaaVY5RUFvMkd5RlNzcjZkc0Z1Sm1vbnY?oc=5",
+     "source": "비즈트리뷴",
+     "time": "2026-11-17T19:45:00+09:00"
+    },
+    {
+     "title": "[마감분석] 지슨 29.96% 급등하며 6030원 상한가 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrWm9sX01XRmMwVlhFdlBrYmtMam9ObDN0VjZURXcwN2wyUl8ta3pFSVg5d0x5QTFFc2NzTXphdmpOSWxqcGYzNDJhdw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T15:48:15+09:00"
+    },
+    {
+     "title": "[마켓줌인] 지슨, 이틀 연속 상한가…‘AI 부정행위’ 방지 대책 수혜 기대감",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubVM5cnQ5VklpRXpLcm5kVUw5UXdtNkNpb2ZaRDBITmRiSzY0aUw5R2xsZUNGQUsyeUtUOXp3NE16QVVsM2EwRkNJYnJNMER2QXRaX0k1VmRBZmpFb1FfZXF1bWdZcV9Sc2FUS0VfSdIBb0FVX3lxTE1ubVM5cnQ5VklpRXpLcm5kVUw5UXdtNkNpb2ZaRDBITmRiSzY0aUw5R2xsZUNGQUsyeUtUOXp3NE16QVVsM2EwRkNJYnJNMER2QXRaX0k1VmRBZmpFb1FfZXF1bWdZcV9Sc2FUS0VfSQ?oc=5",
+     "source": "투데이신문",
+     "time": "2026-11-17T14:34:16+09:00"
+    },
+    {
+     "title": "지슨 29.96% 상한가…무선 보안 사업 기대에 거래량 급증",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tZndmbGkzYWsxdEhVR0hldmVmaGUtMVg3eWM5bnNfdkx6cS1RT09aT0RlZ3VMOHNZUGdnb2thNWdDREpRMGdZU0FTLVhCcXlDc0RsSndfdG5vdHhmakVPdktKTWtXTk9yZG9pY0dlMkpmUdIBckFVX3lxTE5tZndmbGkzYWsxdEhVR0hldmVmaGUtMVg3eWM5bnNfdkx6cS1RT09aT0RlZ3VMOHNZUGdnb2thNWdDREpRMGdZU0FTLVhCcXlDc0RsSndfdG5vdHhmakVPdktKTWtXTk9yZG9pY0dlMkpmUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-17T14:23:05+09:00"
+    }
+   ]
+  },
+  {
+   "name": "인디에프",
+   "sub": "코스피 · 014990",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "북미 회동 기대에 남북경협株 급등…인디에프 28%↑[코주부]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vc2FVT2Q5NEtlX1lJSU5iRTFna0FWUUZDTHBQX21CTElwUE9EM0lnM2EzSGJJY0NiWVNvbWVfU0lLcTJYR2hURmpxd3JPdjdVdmfSAVNBVV95cUxNSk9kYkc2bkdkS2R4c2ZULUl2b0dHRGNfTGVpMUpMTUxpZlc3d21nY3pNRlhlYnk1bUNoa2ZsTnd6dDduaFYyT3hWQTJ2X3BYYWhzWQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-17T13:45:48+09:00"
+    },
+    {
+     "title": "인디에프 주가 장중 29%대 급등, 북미 정상회담 기대감에 남북경협주 강세",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBQl9JVG5ibmhhbmtIaW9YR3h0bjlLRWhfdndJSWZCclBjdmdzekppb2k0cnM5QXRSR20tV1I2X3hzcXBMU2RuWVU3ZWZ5RGx1cVRvMkhBSDMzd193M3FsUnM1T0RTdzhWMktqdkU0SGRuSFU?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-11-17T10:29:41+09:00"
+    },
+    {
+     "title": "트럼프 \"中서 김정은 만날 수도\" 남북 경협주 강세…인디에프 상한가",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMlZ6dHBfQW1HYmNjOUp4V1oweFFFOG5sc2ZQODZ1U0xLcWxURkliMk54N1NkdE9pckFkMTE0X0Z0SWVZY1QwaG5fY1dJQm9DNk4zcHdXRjVmOFJJUzB6cUZlOFNaamZQNmtxLUVpUHR6eXJBekN5bNIBeEFVX3lxTFBjMlZ6dHBfQW1HYmNjOUp4V1oweFFFOG5sc2ZQODZ1U0xLcWxURkliMk54N1NkdE9pckFkMTE0X0Z0SWVZY1QwaG5fY1dJQm9DNk4zcHdXRjVmOFJJUzB6cUZlOFNaamZQNmtxLUVpUHR6eXJBekN5bA?oc=5",
+     "source": "뉴시스",
+     "time": "2026-11-17T09:51:33+09:00"
+    },
+    {
+     "title": "트럼프·김정은 회동 가능성에 남북경협주 들썩···인디에프 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRVlwUWJMcW1DWDdVLVhrNmRwMkd5Mm1NRUlMaUZFWkpkOG1GYmdqTmMtd0VJNGlhMVVIYllDazk3WmdlUkJnMHE1WGhOdjFETFJYTG4zbVhfU0xoblJacmsxbEJUeFpOZ0E?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-11-17T09:38:42+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나노팀",
+   "sub": "코스닥 · 417010",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "나노팀 29% 급등에도 하락 종목 속출… 2차전지주 차별화 '눈에 띄네'",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HYTNXVm51Mk1aUG1nbUoxNHl6WEtzaVpqN1JoWFduVVJPNlFxOHczTThqdGNwcFRLa3VqcEVHMXlPb0NxVllQTlRHZDZ5bUhWT2VubXJOdmN6cGowcHI2dkkwTHZFc3htZlZkZ3JVa2pHczDSAXdBVV95cUxOTy1KcEdjUXFKR0NGckdhUjdGQzNwUU5CeWZYcnF1dGxDVjdZdHJQRUZyNXIzeF9MdHlkSHZiOG82cTYyeHRncWxFQWQxS3kxNHpJRDNPa2ZUYlIwbERiR3hpdDZndlNkajc0QjktVzlVSEdZSHlMMA?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-11-17T16:01:00+09:00"
+    },
+    {
+     "title": "나노팀, 美 우주항공 방열소재 공급 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcExGUVVZMV9tbUFzMUY1blhMd2VMNHh5STNvOVhlX3QwanlTUktkVnpGbmlWTjhzNnlEQ3F5cHZEa3pCUkw0c1dCR0VoNE44ZXR1b1NyLXp3UDF5Vk4wMzRfVVdRRmFkRUgyRnZhQmdJM2h5c3NPZ0VVaU5zVkNoVl9qdGZmOGJyTk1DQmZXc3NQeXplQVE?oc=5",
+     "source": "데일리바이트(DAILY BYTE)",
+     "time": "2026-11-17T09:16:29+09:00"
+    }
+   ]
+  },
+  {
+   "name": "가온칩스",
+   "sub": "코스닥 · 399720",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 가온칩스 장중 17%대 급등 4만원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pelE1MGVkSk5vVmUtLXNOZ0J0WmtpSlM2TGpkTkVRQWphMzN6aUZaOENQem5lbHJTVkdCaFN3LVN2LWYtd09xSkJDbw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T10:24:23+09:00"
+    },
+    {
+     "title": "가온칩스 23% 폭등·오픈엣지 급반등…8000억 AI 프로젝트 수혜",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yU3Z1SDJjdnViTEtQREJwVGViU2k0S1NybExMZXV3YVdNX3FsT2NDRW8teV90RjVpUDB0RDNISDV0dEt2RWl3aTdEeEV3Vk05UUF1T05VZGlZT0kwektNejUyZGdBVVVJ?oc=5",
+     "source": "https://www.2news.co.kr/",
+     "time": "2026-11-17T09:43:00+09:00"
+    },
+    {
+     "title": "가온칩스 24% 급등…8000억 'K-AI 반도체' 정책 기대 여전[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94eEZPUVVESk03LXFtMW9HQVMtLVNHeTdPeXY2dkFhNktDbEEzWjN1d0txNlpmM2M0d1VsZlpQRnRYUlk3VVlZWVd6TTRwNVkyU0g2eHFvYlZha2k3VFd3?oc=5",
+     "source": "뉴스1",
+     "time": "2026-11-17T09:38:49+09:00"
+    }
+   ]
+  },
+  {
+   "name": "세미파이브",
+   "sub": "코스닥 · 490470",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 세미파이브 17%대 급등 1만3360원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VMWpCRkZOeUNwcTBDS1M1RXZnXzY0VDIxdVE2THBlbjF2YkowM1REbnVxTzZGaEh3S2h0elpudUFIVkM4SE5SZG4xUQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T15:50:31+09:00"
+    },
+    {
+     "title": "[특징주] 세미파이브 장중 21%대 급등 1만3850원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zOUlTZDNqLUZBNkJFNV9heGVsTC0zMWYzUTdHVXlPQXRxSEVrZ0JrbW1EQ3dGRFdfNUR3YUZBdFAwX3dZMU52Ujh1aw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T10:23:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "오리콤",
+   "sub": "코스닥 · 010470",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 오리콤 19% 급등 마감 5510원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtQUlVeDlSQnBDdnNULS1fVUJOQVMzbDRmaXFETjJVdDFRYk1UdnhkTkRnaHRGR2duTGUzRlpYX2hrWDk2OWh5Nm1lbw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-17T15:49:40+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-18T04:49:24.723714+09:00"
+}
