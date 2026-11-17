@@ -1,0 +1,73 @@
+{
+ "label": "11월 17일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -0.8,
+   "text": "-0.80%",
+   "exact": false,
+   "source": "https://www.standingout.kr/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBY0pGVGRnaWM2andHdmd1WFF6Q1VlQWsxb2x2LW0yeml4bkFjWkVrbW9rSnFuY0tHaHBOdUxJMHhuUWNFZzgwZ0dyRXRDcUgxUGdxeUtVaFg0c0J6cmRKRnlFeEp0VnNFZjBn?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "후마파이낸스",
+   "sub": "가상자산",
+   "pct": 52.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 8,922만원…빗썸 후마파이낸스 52% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IaV9lekI0SkNuMjhqemcyVVZiamNPQzVEYW1OV0pDclE0X2NwTDRIeG1yNFNBUFJnWDlKakVZWkRfRlJzZXFybjJBTm41bnlTcVpGWkF5TDdJUUhoWmRzeNIBZkFVX3lxTE40cmJpN0tIZ0l4ek04Wkk3a2tqaW5KNVZRZEdaOTEyZlo1cjc3eTBxc0UwS0NfbTVLUEFhUzRWMFVfb0RrZjJ6WTA1MlJvODN0R0NEWFBQTzFxX2NQWnB5eEdHSURHUQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-11-17T07:30:36+09:00"
+    }
+   ]
+  },
+  {
+   "name": "토큰",
+   "sub": "가상자산",
+   "pct": 42.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "백팩, 美 파생상품 거래·청산 인가 확보…토큰 42% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FM0p2WnRqYjMtNmZoc1ZxWlRScHM1eDhxcjJ3TGNoS0lhQ0RlM3RDbGxReVRFbzhVOTdkcEpTblZGTXZGMDVGbTZIOEZEXzd1?oc=5",
+     "source": "블루밍비트",
+     "time": "2026-11-17T10:07:28+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Seeker",
+   "sub": "가상자산",
+   "pct": 30.39,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] Seeker 30.39% 급등, 비트코인·솔라나 동반 상승",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0aVAybGYzWDNPQ016TUlRM0V6RDVEUHhveE1kU1hSdDJ3eUNVOXNod00zWW1kcVdRVmlVbVdLeU5wRzBXWXZ3WmFMM3A5VTQzYkc4aQ?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-16T16:27:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "시커",
+   "sub": "SKR",
+   "pct": 23.85,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 시커(SKR) 23.85% 급등 1위…10% 넘게 오른 종목 2개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13dm9VeS1yNUpXc0VoVjdWaGV0LXlXanBteXdJVDBZUkcyOVVITGdzVzk0dEhWREhQX0haQlpFUEhjMUpvTmVGYjFn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-16T12:01:08+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-17T20:37:15.067121+09:00"
+}
