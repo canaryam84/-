@@ -1,6 +1,6 @@
 {
  "label": "11월 17일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-18T01:34:05.965225+09:00",
+ "updatedAt": "2026-11-18T08:41:26.233426+09:00",
  "items": [
   {
    "title": "유나이티드 내추럴 푸드, 유기농 식품 성장·인플레이션 수혜...'매수' 상향-골드만",
@@ -1637,6 +1637,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "아리바이오랩·코아스템켐, 동반 급등…HLB테라퓨틱스는 3상 실패에 '下'[바이오맥짚기]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzVubi1zZmgwdGloYVBaSmhTcFpKNDFyR3Fmd0FqZzBnNzVZX2JDWGVOZlRYTWtnSFYyMmphWHZNTHZLOU5vcG1QUTF1ejZaWE1UTzBCLWVrRlFOcVppZVNwaFRRX19DX01wM2loeVdLS2dfY1Q1YmJ6SXBMY0I2Tw?oc=5",
+   "source": "이데일리",
+   "time": "2026-11-17T10:02:02+09:00",
+   "stocks": [
+    {
+     "name": "HLB테라퓨틱스",
+     "code": "115450"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "제이케이시냅스, 3분기 누적 매출 55% 증가…부채비율 100% 아래로",

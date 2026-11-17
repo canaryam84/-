@@ -1,6 +1,6 @@
 {
  "label": "11월 16일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-18T01:34:05.965225+09:00",
+ "updatedAt": "2026-11-18T08:41:26.233426+09:00",
  "items": [
   {
    "title": "로킷헬스케어, 회생기업 이노피아테크 70억원에 인수 추진",
@@ -4505,6 +4505,20 @@
    "dir": "down"
   },
   {
+   "title": "지슨, AI 시험 부정행위 방지 수혜 기대에 상한가[종목NOW]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SY196VnQ4V19wb0kwdEpnUEt0Ync1QkkxR1UyUjhETVV0N19FSDN3Q2w1TlZZMDVOaXpZMndIeU1zQlFUeDlTVTNELWx3bjZTcjdTa3dzbm1SQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "2026-11-16T09:31:58+09:00",
+   "stocks": [
+    {
+     "name": "지슨",
+     "code": "446840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "AI 커닝 논란에 보안·카메라株 급등…지슨 상한가[핫종목]",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eUFPUHFqNkxOOVNQdXY3aDRRYlROZ0tEcHdFUDBUaGJBTUYtTVB2MXdrVEhReEw1MU5qcURxdmlodjBrN09mSDd3M0JaN0dMVFpiYk04Qk9lSV9RSm9n?oc=5",
    "source": "뉴스1",
@@ -5767,20 +5781,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "삼성SDI, 미국서 수조원대 ESS배터리 수주…LFP시장공략 본격화",
-   "link": "https://www.yna.co.kr/view/AKR20261116016700003",
-   "source": "연합뉴스",
-   "time": "2026-11-16T08:09:12+09:00",
-   "stocks": [
-    {
-     "name": "삼성SDI",
-     "code": "006400"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
   }
  ]
 }
