@@ -1,0 +1,383 @@
+{
+ "label": "11월 18일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 1.99,
+   "text": "+1.99%",
+   "exact": true,
+   "source": "연합인포맥스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSNnBuYWxwQ09xWkhmM09IdlFZMXBvQlBFM2JrWE1rQjJZQ3VTQnNRYXNMaW1WWmJ2ZFRfMVl2STZLaFNMSktmenhETDJQRTRMaU41QUZ6ZzNGSUpuSFF2NTg4T3l0bUJNeGZLbkoxeVA?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 1.96,
+   "text": "+1.96%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wM2l3ZnFBek5uaHY3SjIzNlVkRWcyMTZnbC1xN0UtVDJ3SXptZDViNHFmQU9LR2dsRzk2aWNKejZSOGlrSEVGS0JkYzE4aFYxY2tUQkpvd3pRY0k0X2NF?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "에스엠",
+   "sub": "코스닥 · 041510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkR0xLMG5pWW9Edm9Va19ZU3Z6NlZuY1dQWHY1cVg4NmFzUzlYTHhMRm03d0ZiYkFNZmNKQWh0RmpQWU8yM3B6bnRqbzdiQVpZVVhnLUNkaHpaMEpVQmkxTDZiMDk1U0NP?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-18T22:17:41+09:00"
+    },
+    {
+     "title": "에스엠 주가 상한가 9만9900원…한한령 해제 기대에 웨이션브이 중국 공연 재조명",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14aV9LVG1CZm5fR3RzbVhrS1pSSFo0SlVvLUxqUkpJY3VSYWpxNVh1NFZFR1ExU2t0bjhzN2x1clpHTkVWekRCRU9nNTRvMGF6QUE4NHBQZzUwNTVGcF9qYXhXSUNuNDRxS0k1VXZUVHBQUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T20:55:54+09:00"
+    },
+    {
+     "title": "'한한령' 해제 기대감에 엔터·게임·여행주 급등…에스엠 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NMnNtODdqNDkwM2ZSSHUzZi0ya2Exci1oWTN0eWd2NGRXR0NteU5GLV9NMmtaa2RfYXhvTzBMZGpEeUxsVTNqbmFobUgzV2QzaDdTVlJyOHBYMndaNDI0ekYxSUNsNVVXYWxSag?oc=5",
+     "source": "뉴시안",
+     "time": "2026-11-18T20:37:28+09:00"
+    },
+    {
+     "title": "[특징주] 한한령 해제 기대감에 엔터·콘텐츠주 시간외 급등…에스엠·스튜디오드래곤 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhd0swMEFyX3FTQjNFX2xodEo4c2l5bWpQdzZOYVV5TVd0dk5FblRjcWpnR3lqWXd3emNZN0d2REd3X0tsNnBWaHRGRDZRS3pJT1Vib25pNExoMWxscmVsT09ucG5ZNGVMRUE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-18T18:53:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스튜디오드래곤",
+   "sub": "코스닥 · 253450",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkR0xLMG5pWW9Edm9Va19ZU3Z6NlZuY1dQWHY1cVg4NmFzUzlYTHhMRm03d0ZiYkFNZmNKQWh0RmpQWU8yM3B6bnRqbzdiQVpZVVhnLUNkaHpaMEpVQmkxTDZiMDk1U0NP?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-18T22:17:41+09:00"
+    },
+    {
+     "title": "한한령 해제 기대감에… SM·스튜디오드래곤 등 엔터주 상한가",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04726486645647032",
+     "source": "이데일리",
+     "time": "2026-11-18T22:17:12+09:00"
+    },
+    {
+     "title": "[특징주] 한한령 해제 기대감에 엔터·콘텐츠주 시간외 급등…에스엠·스튜디오드래곤 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhd0swMEFyX3FTQjNFX2xodEo4c2l5bWpQdzZOYVV5TVd0dk5FblRjcWpnR3lqWXd3emNZN0d2REd3X0tsNnBWaHRGRDZRS3pJT1Vib25pNExoMWxscmVsT09ucG5ZNGVMRUE?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-18T18:53:39+09:00"
+    },
+    {
+     "title": "[속보] 스튜디오드래곤 주가 29.98% 상한가 급등…한한령 빗장 풀리나 촉각",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yenR0U01WTmZLT0JsaVdpRzRfdkhrSXU4NTlLTzFGTWxlZmQxNl9iOXVZakpjYU1fU3ZsanA1cmNHdXF0S0VGOWpPWE5aNFFLQXpLRkI5NFJ0cldCMXZQVnNJWHpnY2d5?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-18T17:08:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "빅웨이브로보틱스",
+   "sub": "코스닥 · 0035S0",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[급등락주 짚어보기] 아리바이오랩·빅웨이브로보틱스 ‘상한가’⋯상폐 유예株↑",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LZUt2WkRLREtITXpmbU1ZQWdvX3Z5OTBjUEw4RGloekZZdVZmWnRacGVZMDlOUml1N19iNFNkWTRBOGlVUGItSjh6VjA4V2tuYVlTWXF4eklnMUQ1RVpKNEx5Rm10VV9CMmk4OTFn?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-18T17:20:00+09:00"
+    },
+    {
+     "title": "[특징주] 빅웨이브로보틱스, 로봇 테마 훈풍 속 장중 상한가 '폭발'",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZ2IxZnEtQ0oyQVhocnFtQ3BaLU5UMGJoVHpoM1poU05Da2l4RG1fTjZzbHRqU3p4RU1QRVJLZU1YYlpfX3JYQ1YzbXZRUERBcWlVMlQ3YjItcWRFcGxVSkJld2NmUGhiOXR5WQ?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-18T14:43:47+09:00"
+    },
+    {
+     "title": "빅웨이브로보틱스 장중 상한가 1만7090원",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVklTS0lOUFpjVnpwZDhCXzBYZ05ZY3FlSVpGRm8wTzBCZThfVDY4LVhIUUV0TTBOMnlNeVBpRHB4MGNrM01JMlpWR2lPamNRbDM3TTZUb1A2YjFaOVlXbGl2VGZ5QQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-18T13:38:58+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하이브",
+   "sub": "코스피 · 352820",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "SM·하이브·JYP 상한가 ‘불기둥’···정작 정부 문서엔 ‘K팝’이 없다 [가요판]",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SUHFya2RhakhDaUx5enRiN0N3T2o1cGtpVjBsY3hmeVVfOUJqQ0xlcUVmc1ZkUUtwUld5XzhoUG9xUFVUTlNOYWxEUWM0VXd0WjZTdC16TlBfQkVEUWfSAWNBVV95cUxQa3FrSm8wbFdyZnhhTFFvdXV0d1F5bzFYQzRobjM2SHc2TGZvdEVvVTgxcUJFYXVJNkI5R05VdjJPMm90V1dJRFZ5Q3dmakxUc3lEMllLRnM3NENYd1QxakNPc1U?oc=5",
+     "source": "스포츠경향",
+     "time": "2026-11-18T17:57:00+09:00"
+    },
+    {
+     "title": "하이브 주가, 애프터마켓 19% 급등…日 키홀더 인수에 노기자카46·SKE48 IP 확보",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fcElfQkEzQ3liTjV6clEycmlFbkxiaFlZMTZ4czlDUTJQeXgyaEVLaksxcEFMMVNycWRhOW1nQ0ZXLUpKNmlwdzJyQy1jX29HUEpCaTV2Xy1sZm9RVFN3dXNfakdRZ08weWNqcFpZdVZydw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T17:03:21+09:00"
+    }
+   ]
+  },
+  {
+   "name": "썸에이지",
+   "sub": "코스닥 · 208640",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "게임 ETF는 바닥인데...썸에이지 또 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80angza3pvZ1QwNjFMX21GRE55VU9pa3VkMVFvcGhwSU5IbWRsSVpYcjBJUkUtcDFBay1uYjd3UjlRRkZnVl9GTldraWRrYks4MWZTVXlJbHRRVlJfY0wzdk8tdmxkUdIBakFVX3lxTE83T2RIU25Cell3Q2ZCNUhOSS1teGt6dzNqZ0VueVR5ZnRkTDFvajl1N1dNajNGY29ZOXpwSGNsN0F1RG1OcVdUOEpycVg4eHJITmZQVUFNRTlUaHJYWkJBakNLVU1jSkNqUWc?oc=5",
+     "source": "게임와이",
+     "time": "2026-11-18T18:56:54+09:00"
+    },
+    {
+     "title": "[업앤다운]게임주 상승…썸에이지 상한가·플레이위드↓",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5veVBvaXZWcjVGTEtyNXU2SUxuTktkSW1uZk1YaE5WZVJPYTdxSy1GaTBTWjBZZkFmbXBMeHJsTDlRQ1k0aDJobzI4bC10aEdhcUoxU2dwMFljR2ZVU2EyZg?oc=5",
+     "source": "NSP통신",
+     "time": "2026-11-18T16:06:48+09:00"
+    }
+   ]
+  },
+  {
+   "name": "예선테크",
+   "sub": "코스닥 · 250930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "예선테크 상한가, 외형 성장 뒤 순손실·상장 요건 점검",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOEJldnNMQ2E1MlltQlhoeWE0VEo0TGJKV3o4c1JJd3VnZ2EwOU1sMFlsQW5pWUUxUkIxeXpsUEhFTVhIaWFCdWVUVVhweGNGSmZaT1N2Mk9SV21rUVplQ2lyRVdmLXh5VmJWTzR1cmhXUdIBckFVX3lxTE5DOEJldnNMQ2E1MlltQlhoeWE0VEo0TGJKV3o4c1JJd3VnZ2EwOU1sMFlsQW5pWUUxUkIxeXpsUEhFTVhIaWFCdWVUVVhweGNGSmZaT1N2Mk9SV21rUVplQ2lyRVdmLXh5VmJWTzR1cmhXUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-18T15:53:09+09:00"
+    },
+    {
+     "title": "예선테크 1424원 장중 상한가…거래량 232만주 넘어",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTkN3Ukk0NE5wRTdyY2tiR0pxUHJMZTlnVmMtQXJMcXdUY0xrODl3Y3pYYld4dVhZei1YUEtiZXF6VkJSQnBTNU1sY0NyTTA5Vmt5M2VqMno2anJDMHlRS2hwRGhfZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-18T13:54:46+09:00"
+    }
+   ]
+  },
+  {
+   "name": "YG PLUS",
+   "sub": "코스피 · 037270",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한·중 정상회담 '한한령 해제 기대감' 에스엠·YG PLUS 등 상한가 - 머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NQUxwZTFraU53WTN2SDNUc3MySEpQVUpLdTB4enBGa0R4OVJ0Q2RvZzdYMGM1RWcwd05RLVI3UUtGUTY4anVFOVdWaVIyMFY5SWlvVGNxeEdMY3Q0bFgwWVJqX1VmME1a0gFuQVVfeXFMT1diNDY0M2JKV1JObFY0WXYtcTNSY2kwUG1hY3lNTDV2VTlxcGlrcm9HclJRM3BiM0gzVDhYRk04YmszQjhFU0hUcURiQmtnUE1rM0tMZVU0clRYVF9JX1p0dFBqLWt3NjJleDBtTWc?oc=5",
+     "source": "머니투데이",
+     "time": "2026-11-18T17:22:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "파인엠텍",
+   "sub": "코스닥 · 441270",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "폴더블 부품 실적 효과…파인엠텍 1359원 상한가",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqSFMtUE56QlI2ZWltTzlmcmIzRjgtVEcwbWdlZk91OXJLNk95RU91WDB4bktXX1NXaENwZXVOQ2U1ZFRGZjdaLTJraHFmYVYzQk1DZlF2YWpQbW9kQzgwNkIxbXl2YmtLT1ViNHBfcVQ2Z9IBckFVX3lxTFBqSFMtUE56QlI2ZWltTzlmcmIzRjgtVEcwbWdlZk91OXJLNk95RU91WDB4bktXX1NXaENwZXVOQ2U1ZFRGZjdaLTJraHFmYVYzQk1DZlF2YWpQbW9kQzgwNkIxbXl2YmtLT1ViNHBfcVQ2Zw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-18T15:53:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "계양전기",
+   "sub": "코스피 · 012200",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "계양전기 주가, 현대차 공급망 진입에 상한가 찍더니 9% 급락…거래량 173% 몰렸다",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TSUJlMVFWMUdHbG9mb0x2X1dIRDJSSERQUk5fLWtUS3NBNFRTWXFQdkZLUlcwWmhXUUo3d0trbjNnTTJ6bDUwRU01MDNkdXk1bFd3THhfcE5qZklFTkVvUW9WQXBGODFXVURadElJY0dtZw?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T11:57:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아리바이오홀딩스",
+   "sub": "코스닥 · 290690",
+   "pct": 21.68,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 아리바이오홀딩스, 21.68% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UUtMVEpISHdNeDNfd0RPUzM2Y3pSQUp3eng4d1hEUnVnOVo3NmJBLUc2WW9iNmwyU0RIZE9RU2NBbHhWV2c0T0RCQQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-18T15:48:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "파수AI",
+   "sub": "코스닥 · 150900",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[마감분석] 파수AI 19%대 급등 5440원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xRkp3VFNJX3ZYMzA4cjhob2NXQjNnRERfcE52d2JTdGxweVFEV0xtaXF5cDFsVWJWMWppMEhXVGJYcGpvQWR2c2N5QQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-18T15:48:59+09:00"
+    },
+    {
+     "title": "[특징주] 정부 보안점검 강화에 보안株 급등…파수AI 18%↑",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1WEhOTzc0QThiMFpqRkNFLUwwZk5ZdVpTMTBKX25LRDFieWVSaVotTmtOLXZQWDV0ek1GNDhsZnUxVHRWa1dBak94bU1XQ2YybkJtY2l3NUtmdExi?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-11-18T10:06:00+09:00"
+    },
+    {
+     "title": "마이데이터 관련주 전반적 강세…파수AI 21%대 급등·파이오링크도 두 자릿수 상승",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OaXBwTkhqbi1PZGtKSFM4R2l4OTZpWlFMM2ZRZEZpRUFFV09XaXY5Tm9zOHRBUGpMVUhLQ2MzZ2VFVTduS3hndl80YjMzZUhKajh5VURYOFBCX2RuRWNKY1dmemJDM1Jq?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-18T11:41:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "레인보우로보틱스",
+   "sub": "코스닥 · 277810",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "코스피, 기관 매수세에 5000선 회복...레인보우로보틱스 20%↑",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kckNJcjdnSnpVT1hSbXBVV1BUaE0yRWNEUTlWYWJZY2REUmtScENQWEI3WV9QSS1mWGlXb3V4RFNEV0RzLXhWWTZwMk5MWmRCZWUzRzA2cVkzR3BMXzZENEpKNUN4U2VtcnBxdWJyU3E?oc=5",
+     "source": "오피니언뉴스",
+     "time": "2026-11-18T16:01:21+09:00"
+    },
+    {
+     "title": "[마감분석] 레인보우로보틱스 20% 급등 마감하며 40만원 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzQTBpQjBIQXBDazJUZmNtRFVGb0dkMlFRdVU5QUxGNVBKWUMwRS13ellteTlaVXVnSU4xS3FmUkJQNVk4LXc1eVc2bw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-18T15:48:31+09:00"
+    },
+    {
+     "title": "[특징주]레인보우로보틱스, 삼성SDS 자회사와 로봇 협력에 20%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcG15VmVFNkhVR19sTkpfeUZyWEU1Q09GeHJZWnZpMEtkSHE5aHQ5UW1VNl93eFJZRzZKOUJZeXIwalp5VHk2TktUb3d3LXk3eTNxam1sOVU0QVlJRzc5WU9RTmgzbGZm0gFrQVVfeXFMTnBlWXFVRWZLS3BSUV9FaUlhVGs2OHpROXdLVkZQaVdPUTY4aFIxakY2OEdYTWtVRmhCcGNkUENkS1ZRbzlfaHRQNERKb1FqbUl0aWg5ZFFQZWJEdlhRT3Q4andhZ21COG9TbFU?oc=5",
+     "source": "현대경제신문",
+     "time": "2026-11-18T14:42:05+09:00"
+    },
+    {
+     "title": "레인보우로보틱스 주가 20% 급등, 40만원 돌파…삼성전자 계열사 협력에 로봇사업 기대감",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54Nk5vVVZwcGg0bkFMMnFYWFdxdjJrZExwdGx6RFoyR0tGMVZkS2JfTU9nbEc5SFlHdmtFTF85UElSS0htUF9ENHNHZ0EzYUJKaE1TSkk3XzNBX1NZZlR1Y0pVMi1aOEVDMFA2SlhGTkx3UQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T14:15:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한싹",
+   "sub": "코스닥 · 430690",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 한싹 장중 16%대 급등… 4000원선 회복 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDY1FKMll1Q1dkNnFTMlBYRWRnQ1VFQWt6M1RoeTI5dkpTMXMta3VOX1cwU0Jtb3RtazRYei1NZXJfcjYxQ0NhQW1Gaw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-18T10:24:17+09:00"
+    },
+    {
+     "title": "[특징주] 한싹 주가, 16% 급등... 수능 부정행위 방지 대책에 '보안주' 부각",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Vi1ZSktQdEZ0WkJpNEZWbDNTMTdORnRXU05QUjZOYmZaZGFoelVFM2stRnMzSTZqSl9ncVRzMjNQc2NiV2o0VHRmQlJ3TnFmT1RtYUtibmE3cFR4SkZyOTZ2TEQ0TzVZY1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-18T10:13:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "두산",
+   "sub": "코스피 · 000150",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "두산, 엔비디아 호실적에 장중 16% 급등 후 6%대로 상승폭 축소…CCL 수요 기대",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByaWtrNEp4M3hPb3JvUFAzWkxvYlJieXFFak5HbG9FY3h5NWpWODBlVWh3RnNRMnpLTmRLSEFQR0J4R0ViVnJQQVVPR3BXZV9GSWVIbXBqQzlIM3dJbWw0Qm96bTcxaFRqNVpwcTVKNGdFQQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T11:39:18+09:00"
+    }
+   ]
+  },
+  {
+   "name": "와이지엔터테인먼트",
+   "sub": "코스닥 · 122870",
+   "pct": 15.88,
+   "limitUp": false,
+   "afterMarket": true,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "와이지엔터테인먼트, 애프터마켓 15.88% 급등…한한령 완화 기대에 엔터주 들썩",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNGNWZkYtTUxYdTIwUkVXTXNlWFJqUlMzNVl2anNGMWJ3SWhwT0xCemxRcUNCYXByS2Y5RTdVU2NJZ0FnNUprSnJJbUJRZFVxNHVPTG5JdXludE9aaHdmSWNHVGxYWUt3SkcyUGVRa2xxQQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-18T17:09:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "피앤에스로보틱스",
+   "sub": "코스닥 · 460940",
+   "pct": 15.63,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 피앤에스로보틱스 코스닥 시장서 15.63% 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jelNQVWhEa0dtcFNiVXZMZWgwZHR4X0YxLUFtZkpsRFlsZlphcFhTRmVndWl5Z0Nkbk5oRlUzVkhjVmpici1ldDVDWQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-18T15:50:04+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-19T04:23:18.150012+09:00"
+}
