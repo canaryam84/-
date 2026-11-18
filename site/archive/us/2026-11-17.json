@@ -1,0 +1,71 @@
+{
+ "label": "미국 11월 17일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.64,
+   "text": "-1.64%",
+   "exact": true,
+   "source": "뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84bzI1Z2hYOFdCV0tFV3VqUk1VQWdXdk9SWnkzRWltNVQ5NEd2NEo3dE9JeW9XM3MyQkdtYTNZd19ueW5WdlhQeEp1QUMySXdsekVKLWliUHg4VG9N?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.74,
+   "text": "-0.74%",
+   "exact": true,
+   "source": "뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMdIBeEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "SELLAS Life Sciences",
+   "sub": "SLS",
+   "pct": 240.0,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "SELLAS shares jump 157% after company says its leukemia vaccine extends survival in a Phase 3 trial",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFozLWlXNHlhMXQ3N3JIM2pOc2J6VnQzZEF2NGxKR28wOFVZSko0Wlp5Z1pHTGd3RkJBQkJCN1JDZ0VFQ0RnTVlHSEx4SWUzcmlzT25GY0JyWWkzbUxTS0lMaXBoZWFaODNoWFlSYjE1aFJhc0liUWh1SHJreVZiN0lBLTRqYjZobmxrTTQwb0U0cS1peUt0djNub2htODNPVFk2UGc4cGZaVUlmYmoyYUdn?oc=5",
+     "source": "Quantisnow",
+     "time": "2026-11-18T09:40:00+09:00"
+    },
+    {
+     "title": "Sellas stock soars as much as 233% on leukemia vaccine trial data",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FQ1B5MzVtZWJVajRWOFJkdXlRc2U1US1jRURRTy1uZFU2OEhqRlljUUpHbmJnWXlpV1RrNmg5S2xhTVZDVHRXekk4VklPRWZfVDF1TFo3b00tY1dRWmtWWU5DSS03LVp0SDVJc0xiLUt2TElnNmc?oc=5",
+     "source": "Quartz",
+     "time": "2026-11-18T03:28:08+09:00"
+    },
+    {
+     "title": "Sellas Life Sciences shares surge 175% after cancer vaccine succeeds in late-stage trial",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcnp2ZUJGZjZ6eXhDaU5GN2UyRmpPZElHUldNSUlmYm5rd3dtSDltRHNsYnFGdjZMS2REU3gxV2tKdjY1MDh1RndpbFh0WFpBeUctRW14RFJSMzJwdDVVbVZkNllBQVVlMC1TYVhfaDBEV0xQV1V6Z2xHc2dvb3R6TlN0cVNnUEtyX1FyM3ZRYjAyRkl5UVN4WTY0SndCWVpmMEMzY25Vb0RmTW04RFpBckRRbFhBSTBuek9nRVBkWERHeEdSUnhVV19fcmJqN042eng5YUIxQ3ZyRkNBMUlZMzRlajdFdTJIVkQ1UjJHaw?oc=5",
+     "source": "Proactive financial news",
+     "time": "2026-11-18T01:20:00+09:00"
+    },
+    {
+     "title": "SELLAS Life Sciences stock soars 240% on positive cancer trial",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnVjUHpGMEtEaHl4T3NYVlVBWVcxZTh6WlF4TzVmMUVxeWFWZmRlYkJsMTdXLS00R0ViN3dfb2lTQmdoSE5HR3NUVEpDbjF1bEUxUDJFcHFNSUpuY1NaM0UyZDhmczNINFZ6aWpoUzZtWGNXUXdlRVRxaXlHVGdPaUNuRTRwejBYemlsYWZsMnNxNnFoVE9ieE14VzVwempwV1A0aUthWHRjMnFOSDVUYlVSdzJDaG5fTWc?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-18T01:15:04+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Lucky Strike",
+   "sub": "LUCK",
+   "pct": 22.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Lucky Strike shares surge 22% as founder proposes take-private deal",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmRQc1loTjFMMzZhb2RKdkVUbDlFQVBLOXNSR2F2Z0IzZVE0YkYxT2F3c0lneWFiWEpyN00weWp4Y0lUODdhWVFENmozN2ZlVUZfdEgzT0pRN1IxbXVhTkZuak95Vjh4UFRiMnVSRDdiYmdkOER6Vk1fS0hBZXd2RnBIaUlRanpHVGZlNFI1MFkzWTRjUDN2RXdNYnpXSzAxUmlVY0M3WUVfRE11bzl2ay1uelJnR3NBTXk5dmJYd0lzeHRJV2xhcEZCc2gxN19fQlRhaWN2al8xd1ZFLVJFR1pna3RpbHFsRGMtQ9IB8gFBVV95cUxNakRZd0REYlVYLXJ2cUdTOVVIcnVpc0pScV9CNE94TGNHM0NLa0RxVHktTk1kaHd0aS11N2ZaTnVtT3Bqck94cXhPNDNKNzRFUWdDV2lnZHJuQUY3NGVrb3BXNUVuT2hnYUtxdTVEb21nMFZuVkdoS01ZNzVPNTRfSWRCdXJkbWVqNnpQeHlfMmdfRUxucXg0SzdTM3plYzNibGJMTGVnclBNQURvRTZxSmlCSDkyY19zeGd1b0xhcF9vY2FCc2JKdnlvWmgtVmIwMXhyWDJIZFlJa1JkU2RWMm9jUjlfUUVBZDBoakhqWGZBUQ?oc=5",
+     "source": "The Economic Times",
+     "time": "2026-11-18T04:25:07+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-18T12:26:25.592876+09:00"
+}
