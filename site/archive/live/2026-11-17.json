@@ -1,6 +1,6 @@
 {
  "label": "11월 17일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-18T08:41:26.233426+09:00",
+ "updatedAt": "2026-11-19T01:03:36.029833+09:00",
  "items": [
   {
    "title": "유나이티드 내추럴 푸드, 유기농 식품 성장·인플레이션 수혜...'매수' 상향-골드만",
@@ -51,6 +51,20 @@
    ],
    "thin": true,
    "dir": "down"
+  },
+  {
+   "title": "[단독] AI 커닝 비상령에 상한가 직행한 지슨 6030원 랠리 전격 해부 - 국가자격시험 부정행위 충격과 수능 보안 강화가 불 지핀 연이틀 가격제한폭",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41NEdXZnFHRWx0RkZWemc5LXhmU1VHd2tyVXNGRVQwRDVBbFVNbkI3aTBSeUZDazI5ajN1aXBNT1pwcVJ6Q0wya2NPYklJMTE5NWlfUk9pcVZZR25FcXB5a3NvNlQxcW9kMFlUbDdvMDZGaUV6S1HSAXZBVV95cUxONTRHV2ZxR0VsdEZGVnpnOS14ZlNVR3drclVzRkVUMEQ1QWxVTW5CN2kwUnlGQ2syOWozdWlwTU9acHFSekNMMmtjT2JJSTExOTVpX1JPaXFWWUduRXFweWtzbzZUMXFvZDBZVGw3bzA2RmlFektR?oc=5",
+   "source": "데일리머니",
+   "time": "2026-11-17T20:31:07+09:00",
+   "stocks": [
+    {
+     "name": "지슨",
+     "code": "446840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "지슨, 주가 급등으로 투자경고종목 지정 가능성 안내",
@@ -2311,6 +2325,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "정호륜 반도체사업부제조부문담당, 제우스 주식 1053주 ↑…지분율 0.01%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBS1pjTGNoUmVhczlySVlNQmZzTkVuUVE2NnhFZVc3NXJOUnRkc3lPYUtWdlZ5QU1WbFlkMTdQTkNxTDJ2M0lyVS04TzJJaExuck1aN3dheURoQ1lwLVlnN2dWUFlPZm5sdWp2Zjl1Q24taUk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-17T09:24:31+09:00",
+   "stocks": [
+    {
+     "name": "제우스",
+     "code": "079370"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "코스피, 美 반도체주 폭락에 장중 5000선 붕괴…삼성전자 2%↓",
