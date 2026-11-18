@@ -1,6 +1,6 @@
 {
  "label": "11월 17일(화) 국내 종목 뉴스",
- "updatedAt": "2026-11-19T01:03:36.029833+09:00",
+ "updatedAt": "2026-11-19T07:59:21.331472+09:00",
  "items": [
   {
    "title": "유나이티드 내추럴 푸드, 유기농 식품 성장·인플레이션 수혜...'매수' 상향-골드만",
@@ -2087,6 +2087,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "AI 부정행위에 무선 탐지 기술 주목···지슨, 이틀 연속 상한가 터치",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTzFudWg1TGZKZmhlSGJLXzhhcHpWaW85Szl0ODNDMkQ4NEpUSEtaaGx5cXRUVTVNMWQzTFM0ZC1jRUhNVVl4VWdsdzFZWDFYdTlVUzVmOU5qZHcxQ1IzUnFHS1dWaTFJQ0E?oc=5",
+   "source": "뉴스웨이",
+   "time": "2026-11-17T09:37:48+09:00",
+   "stocks": [
+    {
+     "name": "지슨",
+     "code": "446840"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "NH투자증권, 리서치포럼서 내년 코스피 목표치 9200 제시",

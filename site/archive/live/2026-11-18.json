@@ -1,7 +1,21 @@
 {
  "label": "11월 18일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-19T01:03:36.029833+09:00",
+ "updatedAt": "2026-11-19T07:59:21.331472+09:00",
  "items": [
+  {
+   "title": "바로팜 주가 급락 영향? 상장 첫날 환매청구권 5억원 행사",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XaE5ZZ0p3QVdMUXhoaUJtSVFrOWpTWklXakQ5Nk1iUGxSd3pVaE43bVFxS2kwYlJ5SFdPYkFUdnRIUVVka3lnZUZNWXMzZTF0eE5zazF3?oc=5",
+   "source": "데일리팜",
+   "time": "2026-11-18T22:41:10+09:00",
+   "stocks": [
+    {
+     "name": "바로팜",
+     "code": "0153R0"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
   {
    "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkR0xLMG5pWW9Edm9Va19ZU3Z6NlZuY1dQWHY1cVg4NmFzUzlYTHhMRm03d0ZiYkFNZmNKQWh0RmpQWU8yM3B6bnRqbzdiQVpZVVhnLUNkaHpaMEpVQmkxTDZiMDk1U0NP?oc=5",
@@ -1889,6 +1903,20 @@
     {
      "name": "삼성전기",
      "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[Company Analysis] ['SGA솔루션즈] 사이버보안 수요 확대에 주가 급등 'SGA솔루션즈' … 외형 성장 속 수익성 개선 주목",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcG9BWThOcXJUSC1NX2RtRWVKNXNQanpwTmVZTndaZWlfM2FsdzM4ZTVvQ0l4NFd6T0NJOG5kd09PdXNGOUhjZVdrLW85cXVDLUNSODJGRTZYQmxYV3VJQUFGemw3SDRLUW81YUhaUQ?oc=5",
+   "source": "비즈니스리포트",
+   "time": "2026-11-18T10:15:00+09:00",
+   "stocks": [
+    {
+     "name": "SGA솔루션즈",
+     "code": "184230"
     }
    ],
    "thin": false,
