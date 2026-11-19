@@ -379,6 +379,22 @@
    ]
   },
   {
+   "name": "블랙야크아이앤씨",
+   "sub": "코스닥 · 478560",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "블랙야크아이앤씨, 상반기 역대 최대 실적에 20%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTDVvQnJFdHZuX01IOWt4ZXVOeHVQdEVpU0hmdW1pa0lRNHBmeXZLUWlhdkRtaW00V2ZKRnJQdTc0MW5RbWF2eTktcmVVWXAzeGxXMVFuWXRkQ0E0QTl3UEUtYUZFOVgt?oc=5",
+     "source": "TradingView",
+     "time": "2026-11-19T10:00:23+09:00"
+    }
+   ]
+  },
+  {
    "name": "제주항공",
    "sub": "코스피 · 089590",
    "pct": 19.0,
@@ -509,5 +525,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-20T01:43:30.282928+09:00"
+ "updatedAt": "2026-11-20T04:28:19.593651+09:00"
 }
