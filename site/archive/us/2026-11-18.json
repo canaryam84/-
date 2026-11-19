@@ -1,0 +1,39 @@
+{
+ "label": "미국 11월 18일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.11,
+   "text": "-1.11%",
+   "exact": true,
+   "source": "M이코노미뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZm5xbnplcFBYVlBvbTFZN1ZJOVRhMUJxVnQxTlFUbFZFVkI0MWlnVXlCMk1lNkQ5alFnNGdRREFyaFdRNHNGS0dYWGhBMVZmX2I4OFRoMVBxcTEwR2h2SE9Ybi1FN2s?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 0.42,
+   "text": "+0.42%",
+   "exact": true,
+   "source": "M이코노미뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZm5xbnplcFBYVlBvbTFZN1ZJOVRhMUJxVnQxTlFUbFZFVkI0MWlnVXlCMk1lNkQ5alFnNGdRREFyaFdRNHNGS0dYWGhBMVZmX2I4OFRoMVBxcTEwR2h2SE9Ybi1FN2s?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Portillo’s",
+   "sub": "PTLO",
+   "pct": 67.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Portillo’s stock surges 67% after InvestingPro Fair Value signal By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVhoWi1kOFZ0MDhnR3VqVzU3bmJab1VNVEF2cTIxQy02b2EtRjRhSm1zM0w5cnlOejUwT096N0Z6OXFHQXVadmVVN1hqRVd5WHhKeDBRRGZCZ19TQS1NVHJrR0FxSWdHSldtdXRENWpOeEppb1lNZ3pIRThScFNRNVRqY2V3X0RSY0M4LVo5V04wOGt0cTNTUzJHa0pCVGV3MWZ1UXFGZ0JuMjgwZ2hfU1NPUWRySWtZc29lY21wOUc?oc=5",
+     "source": "Investing.com India",
+     "time": "2026-11-18T20:18:50+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-19T11:59:51.125758+09:00"
+}
