@@ -1,6 +1,6 @@
 {
  "label": "11월 18일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-19T21:59:08.847806+09:00",
+ "updatedAt": "2026-11-20T08:07:58.775803+09:00",
  "items": [
   {
    "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
@@ -513,6 +513,20 @@
     {
      "name": "CJ ENM",
      "code": "035760"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[증시다트] 현대차·기아 목표가 동반 상향…실적 온도차에도 ‘로봇 프리미엄’ 커졌다",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWZ2b3Q1QWtBQXpXN2tyZUQ0MTlvN2p6TVBRWFd5ZmZRMXpMRU15YXVFaGk1dlZrLTVLQkdzaXQ1MEJlWEg3NHp0VnYtNUJzRnFiVA?oc=5",
+   "source": ":: 위즈경제 ::",
+   "time": "2026-11-18T17:00:00+09:00",
+   "stocks": [
+    {
+     "name": "기아",
+     "code": "000270"
     }
    ],
    "thin": false,
