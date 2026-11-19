@@ -1,21 +1,7 @@
 {
  "label": "11월 18일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-19T13:03:56.676993+09:00",
+ "updatedAt": "2026-11-19T21:59:08.847806+09:00",
  "items": [
-  {
-   "title": "바로팜 주가 급락 영향? 상장 첫날 환매청구권 5억원 행사",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XaE5ZZ0p3QVdMUXhoaUJtSVFrOWpTWklXakQ5Nk1iUGxSd3pVaE43bVFxS2kwYlJ5SFdPYkFUdnRIUVVka3lnZUZNWXMzZTF0eE5zazF3?oc=5",
-   "source": "데일리팜",
-   "time": "2026-11-18T22:41:10+09:00",
-   "stocks": [
-    {
-     "name": "바로팜",
-     "code": "0153R0"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
-  },
   {
    "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkR0xLMG5pWW9Edm9Va19ZU3Z6NlZuY1dQWHY1cVg4NmFzUzlYTHhMRm03d0ZiYkFNZmNKQWh0RmpQWU8yM3B6bnRqbzdiQVpZVVhnLUNkaHpaMEpVQmkxTDZiMDk1U0NP?oc=5",
@@ -181,20 +167,6 @@
    ],
    "thin": false,
    "dir": "none"
-  },
-  {
-   "title": "목표가 하향이 상향의 5배…NHN 등 하락장 속 눈높이 높아져",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQ2ZiQTVmdkQ0SEhicUsyc3BsQ3pJa0lia3UtelRpS3RLZXJ1aVJHemNlY0VrQzNweXk2dS1MNG9uTVBjUm9HcE9NT0ZNRjVWVTNRcWVQQk1WRVQtWEdodw?oc=5",
-   "source": "헤럴드경제 미주판",
-   "time": "2026-11-18T18:40:00+09:00",
-   "stocks": [
-    {
-     "name": "NHN",
-     "code": "181710"
-    }
-   ],
-   "thin": false,
-   "dir": "down"
   },
   {
    "title": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
