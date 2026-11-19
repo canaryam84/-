@@ -1,0 +1,513 @@
+{
+ "label": "11월 19일(목) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 1.39,
+   "text": "+1.39%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0S0RjQ0tiWFJUUmlBZ3RQTk43LS1OR1lqWFJYVWVuY1J5MjJ2dXBYbDJJYVlZblhRSXM0MmYwS3JLcFdrOFUxS3YtVE84dmJCY3BSb3h1NmNaaXE2Z3hrWnlVUFZacFk?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 3.32,
+   "text": "+3.32%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0S0RjQ0tiWFJUUmlBZ3RQTk43LS1OR1lqWFJYVWVuY1J5MjJ2dXBYbDJJYVlZblhRSXM0MmYwS3JLcFdrOFUxS3YtVE84dmJCY3BSb3h1NmNaaXE2Z3hrWnlVUFZacFk?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "스튜디오드래곤",
+   "sub": "코스닥 · 253450",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 15,
+   "articles": [
+    {
+     "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T19:40:00+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 에이스토리·스튜디오드래곤 상한가…한중 FTA 타결에 콘텐츠·여행株 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11M0hGTUhPaWIxSjZ4N1NFcEVkYnY1YVMyRV9aVTdTLWY2REd6WEotZm5aRGlNN3FwNkswelNYai1BSmU0bGJBSkxNUTdsWTJuRDRxcTR4TjZMaktabUZta0JZNjA?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-19T17:03:00+09:00"
+    },
+    {
+     "title": "스튜디오드래곤 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tVWFCTjFpY0w1aGs4UFRFREZFd1V4QWR4U09OV0VSdGpjMTB1ZFh3WlROZ1QzeWNUMXJySGQ0UW4tS3p2cERsVkJZdjJjWnZVZXo4UlF0Q2pwY1dDNW9CNnI4TWsxdUtVVFE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T15:12:03+09:00"
+    },
+    {
+     "title": "스튜디오드래곤 상한가…한중 FTA에 드라마 공동제작 기대 [종목NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSDlUWjJyaW9rZ2JucWZFdzdHdUhoS1FGU3B4bUtIQVNFbjJMWHUxTkFqeXl6VFNaQ1hRSlhiU3hnWTZyelFVTUFTZXVrZG9XZVF1bmJoV1hVZw?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-11-19T14:53:54+09:00"
+    }
+   ]
+  },
+  {
+   "name": "노랑풍선",
+   "sub": "코스닥 · 104620",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 11,
+   "articles": [
+    {
+     "title": "노랑풍선 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUHlhb1FBaGlodWJmZFJWZS1ycXU1M2VGMzI2b2t2Z05lRldCZExBbF9YSmNueUsxUEh6VThTek5YbDJnQ0RMenpXd3gxUEpsNi16aHpuaWxzNGZOMXoxV1E3ajBTYWp0OHc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T14:48:18+09:00"
+    },
+    {
+     "title": "한한령 완화 기대감에 여행株 급등…노랑풍선 상한가 [이런국장 저런주식]",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UZjZvMUN2N09JeElxYm1hT0gwYTlvOVloelJkVlRqZFZWcDhTZGRyeXZ2UXpCbG5KSy1tRm1Udjd0QVJzemFiYWE3UEExVjgtUlZ30gFTQVVfeXFMTVRmNm8xQ3Y3T0l4SXFibWFPSDBhOW85WWh6UmRWVGpkVlZwOFNkZHJ5dnZRekJsbkpLLW1GbVR2N3RBUnN6YWJhYTdQQTFWOC1SVnc?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-19T14:17:29+09:00"
+    },
+    {
+     "title": "한중 FTA 타결에 에이스토리·노랑풍선 상한가...콘텐츠·화장품株 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUUVzVlVDZ2xMMS1ndDFHS3M4VWIwMnpEYWlWRm5vT2VFZHJvRWt1amxGbU5RTFA4SGl4aFhxVkVzRWlOX1NsM092cE5XeHJsQmdTTXN6X3BybmVMZ1FEdVVabHQ?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-19T11:22:01+09:00"
+    },
+    {
+     "title": "[특징주] 한중 FTA 타결 하루 뒤 노랑풍선 29.98% 뛰었다",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mMWIwV2FPN01rYXNnMC14aFNmNUdUUkt2Z0FITVRxc0xCSm1KOC1YQ3NibmUxNjIwTHBtUXZWNGk2dnl4bHpxc0RGWVZ2TmYxMUtWdV9wVFZYQm1ueUFwWTJzLVh0X3M?oc=5",
+     "source": "자본시장뉴스",
+     "time": "2026-11-19T11:15:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국화장품",
+   "sub": "코스피 · 123690",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 8,
+   "articles": [
+    {
+     "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T19:40:00+09:00"
+    },
+    {
+     "title": "한국화장품 주가 장중 상한가, '한한령 해제' 기대감에 화장품주 강세",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ecl9TbTNVdkI1WHRkR1Fib01OOXV2ZGJxcERUZ1pGWmFkYTllcTh6b1JxcTYyN2VDaUhzSmlFSVpEa3hKT2hraENSa0FCQW1TcjJpVEt0Q1MtOE1nQWxwNUdKR2JKNGFxeElGanNSSGNPbXc?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-11-19T11:23:23+09:00"
+    },
+    {
+     "title": "한중 FTA 타결에 화장품주 급등…한국화장품 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ub0NaNWRYWi0zMzNGY1RkRXh0eFpWRS1peFZCMTVSN3NKcmhjX2U3NTBRZzg4TUZsZnlWZTAxcGNkMDY0QVM5bmk4OTZQSlEzbTBVbGNZU3FXOV9aQmI1bS1fRExfT1lq?oc=5",
+     "source": "https://www.2news.co.kr/",
+     "time": "2026-11-19T11:09:00+09:00"
+    },
+    {
+     "title": "화장품주, 韓中관계 개선기대 강세…한국화장품 '상한가'[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YR2ktUkhxbkExWmRwNzhIb2IwbXBKSVAxZW9qaHpYRGIwcUg1dmNFNlNXeEVDUWJsNlZhRHIxc2JXbmFsNmRRcG9oeFlENENBbDhwQXkzQWRmSGNuSUdZ?oc=5",
+     "source": "뉴스1",
+     "time": "2026-11-19T11:04:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이스토리",
+   "sub": "코스닥 · 241840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 8,
+   "articles": [
+    {
+     "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T19:40:00+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 에이스토리·스튜디오드래곤 상한가…한중 FTA 타결에 콘텐츠·여행株 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11M0hGTUhPaWIxSjZ4N1NFcEVkYnY1YVMyRV9aVTdTLWY2REd6WEotZm5aRGlNN3FwNkswelNYai1BSmU0bGJBSkxNUTdsWTJuRDRxcTR4TjZMaktabUZta0JZNjA?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-19T17:03:00+09:00"
+    },
+    {
+     "title": "에이스토리 상한가 마감…콘텐츠 공급계약 공시 이후 2730원",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKRzBBc2xGdlNCWXlOWlhJSUE5NWMyeXpsSGw1Y2l1cTh2dVRpa0tINWZMNTZMY200bG82ZXd2WWNsSzktNFFxaDRScjBScTFEbHJyNF9uWlZhQlZVRnpzQ0xtdzE5ZGlPUzlORmFn0gFyQVVfeXFMT2lWRVhqNVNHcWxoaHRzNGU3RWtVRWRrUzNkNzZrS29uQnB3c1VLSkd4OF9tVHdPa0ozdWl3UlZEbjE2dGhDMjd4Y2QtUzNpbFdWazk1d3A5NmFTbE84MDJjWTVXSXFJM0ZtRHR0blRXNEVR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-19T15:58:29+09:00"
+    },
+    {
+     "title": "에이스토리 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Y0lzR2Q0SDAyTGFvbVlDS2h4bklVZWdXVFNxNjBKQ3FHR1hhd0lPVEJaRHNvZmw5bXZUREd4UFFhLTdTTWhvbXVrSDNCTTVqQ3RJNUVYRF9iWnlRQkVzd2JzaE5iUEtYTGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T14:15:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "썸에이지",
+   "sub": "코스닥 · 208640",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[업앤다운]게임주 상승…위메이드맥스·썸에이지 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWFAxU1piNUk1dlVGcmdGNXYyYUZGYnJMS0tBVDJOOXZONXhDcVVvT3hQd2JWcWpLYmlhWHY3elZNd0RlUjNRVFlRbWJ4Q3RIRWpoT1puNzBrLUNDYXMxNw?oc=5",
+     "source": "NSP통신",
+     "time": "2026-11-19T17:23:41+09:00"
+    },
+    {
+     "title": "[1119시황레이더] 썸에이지, 경영권 변경 계약 체결 소식에 상한가",
+     "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=219010",
+     "source": "인포스탁데일리",
+     "time": "2026-11-19T13:42:20+09:00"
+    },
+    {
+     "title": "[속보] 미스터블루·썸에이지 상한가 '터치'…모바일게임 관련주 동반 강세, 중국 시장 기대감 커지나",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OaGs3TmNHLWE4aDE2VjFweFRMeEI2Ql80WU96a2l4VXhvYjZ3enZmV29RVlozekNNQ0MyS2ZNa21nSy1GTU1semdycWZqTFlVZV9XdG95Q2pBT0s0em51X2U0dlpadmJ0?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-19T10:22:57+09:00"
+    }
+   ]
+  },
+  {
+   "name": "미스터블루",
+   "sub": "코스닥 · 207760",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T19:40:00+09:00"
+    },
+    {
+     "title": "미스터블루 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DWW1DSEJlWU5lWVJnZWNNdVdpSncwQ3JSS2c3bXNaQVV1Ri1rWkEyak9qQk5sNTV3eGNmdnFMZ0RPUzRaTDViMUpXeGhFZlVyN2V4NktWVmxiQWluM0ZZZU9XYnVWZHhmVEE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T14:30:42+09:00"
+    },
+    {
+     "title": "[속보] 미스터블루·썸에이지 상한가 '터치'…모바일게임 관련주 동반 강세, 중국 시장 기대감 커지나",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OaGs3TmNHLWE4aDE2VjFweFRMeEI2Ql80WU96a2l4VXhvYjZ3enZmV29RVlozekNNQ0MyS2ZNa21nSy1GTU1semdycWZqTFlVZV9XdG95Q2pBT0s0em51X2U0dlpadmJ0?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-19T10:22:57+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뷰티스킨",
+   "sub": "코스닥 · 406820",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-19T19:40:00+09:00"
+    },
+    {
+     "title": "뷰티스킨 장중 2005원까지 올라 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tZVYwRGpLR0dMbm13WjZWcWtPc09HWlFtY1g5UVdkZV9pT0NRZnhBU1lVRmxvZExXeFFlVXdibklmSDVKMUdjdW1McnVPbFktcXJoVlpqSGZvb1FZbnFqcnlJQ0w1QQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-19T14:07:47+09:00"
+    },
+    {
+     "title": "한중 관계 개선 기대에 화장품주 들썩…뷰티스킨·한국화장품 상한가 [종목NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LNC1iVWlSOVN2R2xiN3BXZ3czQkhTV0ptaVBpVWZhSGFTZzZLY2FKTGFydW84ZkduYmJWTF9GX1NpVmVIWndrY1dmVXRqVW1PeGI4YmFtWllYZw?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-11-19T10:56:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "위메이드맥스",
+   "sub": "코스닥 · 101730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[업앤다운]게임주 상승…위메이드맥스·썸에이지 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWFAxU1piNUk1dlVGcmdGNXYyYUZGYnJMS0tBVDJOOXZONXhDcVVvT3hQd2JWcWpLYmlhWHY3elZNd0RlUjNRVFlRbWJ4Q3RIRWpoT1puNzBrLUNDYXMxNw?oc=5",
+     "source": "NSP통신",
+     "time": "2026-11-19T17:23:41+09:00"
+    },
+    {
+     "title": "위메이드맥스 29.91% 급등…자사주 소각과 적자 실적 교차",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41TVRLQ0JxMTFhcm5wV0RXSkJ0dEVEMXh1NlRxY29IeWZDTEM3dDJ5SThNWXBSbnRlN0FhNEVlekEzb3hManFpQ2lDTUZqWmVRd0FIbjA1RFdQT2pjVkF4VWVrdC1Edkw0YzMtVmxR0gFyQVVfeXFMTTg3cjloSUcxLW9qdXJHclB5LU84R3EzaEJmeHp5cmhfZnozV01LTlk0dlAyZ01TRUs3b213UzNzNmdKOHRfSEVGcmJqVTR5b0dOVUV1aGZzcmpPNGdRS0hTNkpLdXhBUVNLODJXZDNvQi1R?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-19T16:00:02+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한울앤제주",
+   "sub": "코스닥 · 276730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "한울앤제주 29.96% 상승…872원 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmNk1PVk56MmdCbURvbVZWWjc0VXV0RElqQVhGUzdLMjg3NW9QeGpLeW1zM1BYaldjZ2xuN1lIa1F0UHoteXctYlBQenRLYTQ2eHBNQTE1MWs5bDBjMm9KdEZKbnl0eGN2bnF2SjRn0gFyQVVfeXFMT1htZUVmWFdSMjFLVWNWVEVKckpoMjZQckY3R2cyMXpMbjFFZFF1SDZYRkk0VEE2ZVZEM0hTU2FoWExRTmJtWlJJejVDR3E4bGp1LVhqdUY5SVlscmg2UUFBcHM4cHdZanlwWnVYTzhSV0hR?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-19T15:59:27+09:00"
+    },
+    {
+     "title": "[단독] 한울앤제주 872원 상한가 폭발, 한·중 교류와 신사업 축포 쐈다 - 동전주 탈출 시동 건 한울앤제주, 872원 상한가 배후와 수급 해부",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiOGU2LWlrY3QzUk5WbWQza0JlS1RuQm52Mm5ndGNCTXhnTVBDdXVkUy1PNWppcmZPWVFXblpZSFJmYk51TlpqdFpILTc1eEhaLU5MNUV1aFFFakpZNXpBVV9EaWhpMzJKZUlaM1Y2c2stZ9IBdkFVX3lxTE95aUdva2tmOXZjeUJqN3ZaNE9Va0hZaV8zQW9vcXl5ZkRwdkVpeFV6SEZrZ0JSQ05ONUJsdnNLeGNRaWt4ZktqYy1hQnZyM0NJQW5BZnk5Y0VfemE0aDMxWkdaVmREVG1icWxGSUIySWd5aUp2cHc?oc=5",
+     "source": "데일리머니",
+     "time": "2026-11-19T22:41:19+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지슨",
+   "sub": "코스닥 · 446840",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "지슨 상한가 7090원…보안 사업 성장 기대와 적자 실적 동시 부각",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MRG1jWTdvN2ZkUjVpMVUzQVQ4cXhlOXlvQ25ydEtzemRWVjVfa3owUnllWmtVOGRHRHRLODJ2WDk4WldyT19XdmhscmpsLXJ1T29UNmYzTl9laEJGYmtiWmlPejBidms3clNuSDdn0gFyQVVfeXFMT0lJaWFUeVhiR255cHp4bkFQZjdQeWhpR0E5UkJfOWJxeUxwVVhXOGl1d0JQbE5yN2k5WXh0eHFDNlAzQThvUm5ZbE9INklJM0Jydld3SHcwcWo5cVI3YTNKOXFDVFZ6NDRDa3V1WThOb1lB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-19T16:00:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "CJ ENM",
+   "sub": "코스닥 · 035760",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 중국 시장 다시 열리나…K콘텐츠주 급등, CJ ENM 24%↑",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlNmFQWnVkbWNYcF9kWS0wcFRtNUZocWJMM2ZxOW53QldtX0swal9vOTJTQWo2eEhLRTQ3OG16Y3I3Z05pOWV0bDVXMUdZeDY2VDRuVFc0TkVYeUprVm1ka29sNTRSeFBNSVBYZ9IBcEFVX3lxTE5RV0Q2Q0g0VzlfQ0ZXLUM2TVRoYjd1Y3A3UXVGUDBrMlRHQUlNdHBjODA5NmVBN0c2d2ZiWlVwWHhhd0NUUENOUWEyOHJ5TWx5SXdTWWlLM0VhXzZlYUdPNVZhTndHcHN2NHBhZUJHNHI?oc=5",
+     "source": "남도일보",
+     "time": "2026-11-19T11:20:00+09:00"
+    },
+    {
+     "title": "[특징주] CJ ENM, 한한령 완화 기대감 지속에 22%대 급등…이틀 연속 강세",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jZ0IzZ2dqVWRPSDF1QWpYMF94dEZPNFVsY2QxeUR3a21qYXBfYy1ZSUViR3BDZG05andrTllrQXk4MjZkRjVCbG00aG1mcUUtOG8yT2FWbGNMY2ZyaTBrbkYtNFZUMkx4WEZpeg?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-19T10:30:23+09:00"
+    },
+    {
+     "title": "[특징주] CJ ENM, 장중 23%대 급등하며 5만1000원대 진입 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DaHhaYkl3LXcxaWFlZ2FldHRKNVp2VWJ5OHBrRkh2elVsQS1GOUJyQ0JZT1ZfazJJSnotOU9LUG1iX2d6aXZrMnVHTQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T10:22:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하나투어",
+   "sub": "코스피 · 039130",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[마감분석] 하나투어 16.26% 급등 3만5750원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBveWFsSjZwTkY0RG1GSS12aERzSGwwcUhZYU52U09mbDRKU0JjSHEzLU5kTURWbjgwWlV1cHRacXplTnVvZ1liR1BVZw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T15:49:23+09:00"
+    },
+    {
+     "title": "[특징주] 한한령 해제 기대에 여행주 급등…노랑풍선 ‘상한가’·하나투어 18%↑",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/19/KXVWEFVWRFDPHBEOPA3NSSHO4Y/",
+     "source": "조선비즈",
+     "time": "2026-11-19T10:17:02+09:00"
+    },
+    {
+     "title": "[속보] 노랑풍선 상한가·하나투어 20%대 급등…여행 관련주 '들썩', 한한령 해제 기대감에 껑충",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbVdvejNIX1ZtY0xhamZRaXpfb1Y5VnFvSFZMamEzMXZ1NDRXVDRnby1yWmdsbUR6cmVzQWRYeGRlQjVkQkdrT3ZLZjZVZEhYcDBiNlZUdVpLX21lS2ZHaHlCSWhrMEpm?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-19T10:16:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스와이스틸텍",
+   "sub": "코스닥 · 365330",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "에스와이스틸텍 거래량 1164만주…19.71% 급등",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53UFRLd0J1NWF4Z0FqMUJSdml5UjMwSFR6VTBKalJDc0UzMEl5cXBXc3FHWktJN0NjU2JDZWdCN1VTek1ka2NjOGFKTmhSR1dLNTQ2YjlMbk10M1ZId05JcWJJbWlzQnlJMzFLQ1p30gFyQVVfeXFMUGJjVFlaUm5kM09Ra3ZfSy1CMnN5aWVVSm9sOC1IVDBWTUZEaWFBS08wWlctVWhpYWduTkRpbmF1amFVQ1IzRlBwWUl5azBoWXlQdjVZMDZNMm5sczdxa1A3Q0Rvc21TS2ctZFhhTUFLRjln?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-19T16:01:53+09:00"
+    },
+    {
+     "title": "[마감분석] 에스와이스틸텍 20%대 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56bm5aN3Y4TW8tLUMzX0N3THhoTTBmSk9JOG0yZFN0SHpsSDYtQXhnVzBLR25FN3VwY2ZTTFJJRmZTcFB0bnBCRHJfdw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T15:48:54+09:00"
+    }
+   ]
+  },
+  {
+   "name": "제주항공",
+   "sub": "코스피 · 089590",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 중국인 방한 수요 확대 기대…제주항공 장초반 17%대↑",
+     "link": "https://www.yna.co.kr/view/AKR20261119064300008",
+     "source": "연합뉴스",
+     "time": "2026-11-19T10:40:26+09:00"
+    },
+    {
+     "title": "[특징주] 中 노선 탑승률·운임 개선 기대…제주항공 19% 급등",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/19/JI6SJTA6QFD5VCGIQTX3SSZCC4/",
+     "source": "조선비즈",
+     "time": "2026-11-19T10:33:42+09:00"
+    },
+    {
+     "title": "[특징주] 한한령 해제 진전에 항공주 강세…제주항공 17% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92cUEyb0d5RkNJMklzWEVwSkUzSkp3eUhqcG1uWjhZRDR4ZkNyRWhSbmg2bkQteUc1eHotd182bk9QZzFUbENmMjhQdGNMb3pfbk56VjZfWkFGNEdHWGFrc2h5bFFxLUFWTEdLTUlJQU5fQQ?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-19T10:17:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국화장품제조",
+   "sub": "코스피 · 003350",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 한국화장품제조 장중 18%대 급등 1만2000원대 진입 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJdHM3SS03d25aU0tqT2lfRk8wRUp1VTV3UUtIdURmSHJUamlmdXlKRWlVTG0zY29STVM5bmp6VnJQb1dvbWhYclhudw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T10:23:11+09:00"
+    }
+   ]
+  },
+  {
+   "name": "참좋은여행",
+   "sub": "코스닥 · 094850",
+   "pct": 17.53,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 참좋은여행 17.53% 급등 마감하며 4290원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xY19KVXZRZXZNMUlZbm5Ob3FpSlFVMzdlWXJLdmxPN21oUU9JNEw3YXFqeEtvQThPUnhfOGZGVVNuUXJMOWtyMnV5aw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T15:49:10+09:00"
+    },
+    {
+     "title": "특징주, 참좋은여행-여행 테마 상승세에 16.95% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sWWotT2JIQWNqMFZwUU1nWkU1d0VNQjlYbVFmME54aTEwS2t0a0J4bnhxN2FmaHFWNnY1MjB3YVpqczh1TGc?oc=5",
+     "source": "매일경제",
+     "time": "2026-11-19T10:28:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "페니트리움바이오",
+   "sub": "코스닥 · 187660",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 페니트리움바이오 특별한 공시 없이 16%대 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmNHQVRiV0I2NUlfb01SdGZUeGI3bG9SdEJQcUtvV3JRSEZscllmUllZVDFGbkl1TWp4QnVZRlgxTkZqbFRNY0Uydw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T15:49:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "토니모리",
+   "sub": "코스피 · 214420",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 토니모리, 한한령 완화 기대감 수혜…15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMXVQZ3RiZ2lJdTVpSnVsNnREWVBCeWZ6NWNJTXVTZE52azZJX3M1MlVYVlBrWmpSUW12ZTVLRkZUQUJMTkRZM0RPem1DTWFqMjFUWnM0c0U2UdIBWEFVX3lxTFBiZDhoYnNSU0lTR05FM2hQeW15WE5NdTk3TzRUM2lpdVl4YV9tNzBqY3ZUcko3QlpteC03OGtRa3J3aVZsMVFhWUR3MmNYQnVVTHFrR2hDeW4?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-19T14:51:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "씨어스",
+   "sub": "코스닥 · 458870",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 코스닥150 신규 편입株 '들썩'…씨어스 15% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lLUpyNG5rV0EwbThJbjhRVUw1Y0MyX3JzS1Fqd1FvVGNNbzNVNVp1MkpScjJvbUQ2Yi1udU5xb1RPeUhQQ0JOZkRUOWtlaXM5dUNObnhTV3RTOGly?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-11-19T15:22:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "디어유",
+   "sub": "코스닥 · 376300",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 디어유 15%대 급등 2만2800원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16aWJwM2lMUWRzZmFzOE9iMDFpc0RuZ21fcmthcThheURKNkR6aXI2MndVdEVYWmcxeVM1X3hHUUZPOS1LbjRoZ0FkTQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-19T15:49:59+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-20T01:43:30.282928+09:00"
+}
