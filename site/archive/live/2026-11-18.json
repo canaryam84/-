@@ -1,6 +1,6 @@
 {
  "label": "11월 18일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-19T07:59:21.331472+09:00",
+ "updatedAt": "2026-11-19T13:03:56.676993+09:00",
  "items": [
   {
    "title": "바로팜 주가 급락 영향? 상장 첫날 환매청구권 5억원 행사",
@@ -181,6 +181,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "목표가 하향이 상향의 5배…NHN 등 하락장 속 눈높이 높아져",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQ2ZiQTVmdkQ0SEhicUsyc3BsQ3pJa0lia3UtelRpS3RLZXJ1aVJHemNlY0VrQzNweXk2dS1MNG9uTVBjUm9HcE9NT0ZNRjVWVTNRcWVQQk1WRVQtWEdodw?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "2026-11-18T18:40:00+09:00",
+   "stocks": [
+    {
+     "name": "NHN",
+     "code": "181710"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
@@ -1119,6 +1133,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "에이엘로봇, 상장 첫날 24% 급락…현대차證·우리벤처 등 FI '비상'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsd2Rvd2Q4UzNGM1p2cl9kYXJkSU1nY1c1T2NvcjFCeWEyb280d2todWZYYWdYS0lJTm1GQzhaR3d2UnpDUGRSUFBKRlF0MTBRVEFLdGhrbzAtY184aDhTeFB2MmI4TVZ1b0E?oc=5",
+   "source": "금융소비자뉴스",
+   "time": "2026-11-18T15:43:00+09:00",
+   "stocks": [
+    {
+     "name": "에이엘로봇",
+     "code": "471800"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[특징주] 삼성전기, 엔비디아와 협력 강화에 7%대 상승(종합)",
@@ -2927,6 +2955,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "상상인證 대한항공, 합병 효과 나타날 것…목표가 4.3만원으로 상향",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OVjVMVW12Tm92UTBXQlE0a2ZCWDRUbHNPNXRkcUpxS1V1UWZoUW1ZbWFhRmFqUS1SY3FzV1lxUDRHZ25qclpTYVFYQmNTSmMzZUtZcnFhMkU2Z9IBWEFVX3lxTE8tODdOcmVVNWxUZnVIRmJsb3ZJX1o2cU9TNG93emo3NE5FYTdaUlBDR201UmZscFh5dGZfZFkwZnZhNEVPQmRPc1JQUkpSQm03WkZHTGVrWlc?oc=5",
+   "source": "아주경제",
+   "time": "2026-11-18T08:49:11+09:00",
+   "stocks": [
+    {
+     "name": "상상인",
+     "code": "038540"
+    },
+    {
+     "name": "대한항공",
+     "code": "003490"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "하나증권, 아이에스동서 목표가↓…\"경산 아파트 분양률이 관건\"",
