@@ -1,6 +1,6 @@
 {
  "label": "11월 19일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-20T01:10:24.582775+09:00",
+ "updatedAt": "2026-11-20T12:56:23.929205+09:00",
  "items": [
   {
    "title": "[상한가 종목] 한국화장품-에스와이 이어 위메이드맥스 등 마감",
@@ -47,6 +47,36 @@
     {
      "name": "HS화성",
      "code": "002460"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[주식마감] 한한령 완화 기대감에 ‘콘텐츠·화장품주’↑… 한국화장품·스튜디오드래곤·에이스토리·뷰티스킨·미스터블루 등 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RHNPTUtSQTJLYjJyYl9EQlJqOWlhbjJJMEdabVExRWwxWVZNcHhGX2xES1RSNHF6UzlYSGRsRGVmcURVQ0dNdHBDaDN5c3ZZeVg5NV9xNHdjVjFpb2VtSkszV00tT2JBWVE?oc=5",
+   "source": "금강일보",
+   "time": "2026-11-19T19:40:00+09:00",
+   "stocks": [
+    {
+     "name": "한국화장품",
+     "code": "123690"
+    },
+    {
+     "name": "스튜디오드래곤",
+     "code": "253450"
+    },
+    {
+     "name": "에이스토리",
+     "code": "241840"
+    },
+    {
+     "name": "뷰티스킨",
+     "code": "406820"
+    },
+    {
+     "name": "미스터블루",
+     "code": "207760"
     }
    ],
    "thin": false,
@@ -543,6 +573,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] 옵토닉스, 뚜렷한 공시 없이 15.35% 하락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jb2RwdV92TzQzcEx3T1R0TGVWamFJejhYajJyRTY0RGV6ZXdaREZzaXFHaHlqeUZ2eUpQWnIzTndEdXN1VTFvVEFVQQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-19T15:50:28+09:00",
+   "stocks": [
+    {
+     "name": "옵토닉스",
+     "code": "493260"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "[마감분석] 디어유 15%대 급등 2만2800원 마감 : 기업주식정보",
@@ -1250,6 +1294,20 @@
     }
    ],
    "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "오길호 대표이사, 에스씨디 주식 1만2500주 ↑…지분율 0.24%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YbFRybldaby1RTFdnNVpwdWdEWjU5cnoxNTJocGNMMmlTZHJ0T2RfM2x2VWV5Q3BxTjEtN2o0ejQyWjdGNW5RZ3psbHRMQllEb2dTWnROR3Q2MG9EM0FRRk5sYXBTakEtd19TSnZIUEp3c0E?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-19T11:52:44+09:00",
+   "stocks": [
+    {
+     "name": "에스씨디",
+     "code": "042110"
+    }
+   ],
+   "thin": false,
    "dir": "none"
   },
   {
@@ -2317,6 +2375,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] HLB, 뚜렷한 공시 없이 장중 2만6000원대 약세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5REw2VjBZN2dwTnM2Y3NSelVOWndsQmlvZ01QUndnYlBEeWNUQm9sOG9leWt4bFNBUkg0TWM4X3NPRWw2dGkyaGtZMA?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-19T10:26:01+09:00",
+   "stocks": [
+    {
+     "name": "HLB",
+     "code": "028300"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "[특징주] 한한령 해제 기대감…스튜디오드래곤 장 초반 상한가",
    "link": "https://www.etoday.co.kr/news/view/2650235",
    "source": "이투데이",
@@ -2343,6 +2415,20 @@
     {
      "name": "에스엠",
      "code": "041510"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 안랩, 특별한 공시 없이 장중 4%대 상승 흐름 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FS0JTN21mRFkzRWFlajhrX3NCQWZiMWdzZXBMY2VteU44NWRLcExDWkNYOFdYS0dHU2xhaFBRTzMxUVlEWGxMXzRiVQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-19T10:24:49+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
     }
    ],
    "thin": true,
@@ -2421,6 +2507,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] SK하이닉스, 분기보고서 공시 속 장중 약보합세 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55UUV0WkFaVzU4WWljd2h4ZmRnc2JIZEF4YnV4YzVxakFVdmJyX3FsUU5BUXU1Yk1VeXc2Mkw0TDRwUXBCZC1YSWdfaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-19T10:20:34+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "none"
   },
   {
    "title": "[특징주] 한한령 해제 기대에 여행주 급등…노랑풍선 ‘상한가’·하나투어 18%↑",

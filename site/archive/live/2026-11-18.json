@@ -1,6 +1,6 @@
 {
  "label": "11월 18일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-20T08:07:58.775803+09:00",
+ "updatedAt": "2026-11-20T12:56:23.929205+09:00",
  "items": [
   {
    "title": "스튜디오드래곤·에스엠 애프터마켓 상한가…한한령 해제 기대감 폭발",
@@ -239,6 +239,20 @@
    "dir": "down"
   },
   {
+   "title": "[공시 Pick] 이씨에스, 30억원 규모 자사주 취득 신탁계약…애프터마켓 16%대 상승",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWllnUWFOZldCZnoxUUxDcUd0dlRZVnZUdFJkOVpBOEtQMmktd1JmN0gybzdyNHJ2WnFJRXpiVllXSFBkS0lDWHZmSlRGV1lyU1VnMmcwdlUwWGVDSkE?oc=5",
+   "source": "뉴스투데이",
+   "time": "2026-11-18T18:15:00+09:00",
+   "stocks": [
+    {
+     "name": "이씨에스",
+     "code": "067010"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[클릭 e종목]\"AI 성장옵션 장착한 GS, 목표주가 ↑\"",
    "link": "https://view.asiae.co.kr/article/2026111815262202490",
    "source": "아시아경제",
@@ -325,6 +339,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "박상규 부사장, 펌텍코리아 주식 3000주 ↓…지분율 4.23%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95SUJOSTNuMGhDT0k3QURRS1g1R1hXaTZJcUdDdTU0WXktXzJpUjRuYXF4aThEa0FtZnZHWC1rWC1hZ2U5ZkxZRnJVemp6TjMyT2NWNTZTVHlTOEdaQWk0Y1otdnBQbF83QnhpdTl4SDBfdkk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-18T17:32:44+09:00",
+   "stocks": [
+    {
+     "name": "펌텍코리아",
+     "code": "251970"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[속보] 와이지엔터테인먼트 주가 애프터마켓서 14.99% 급등…한한령 해제 기대감에 네티즌 관심 집중",
@@ -995,6 +1023,20 @@
    "dir": "up"
   },
   {
+   "title": "씨엔알리서치 14% 오름세…CRO 실적과 주식소각 교차",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51b01DaEg3Q3RvdGlEa2dHV2hxMUh3R0JUTTl6WVFITnBiVUM5c0ZFbWpTSTAzY25GX2preTgxOFRDT1RHNmIzdE05MTVpMlh5LUJXb004SHNlM2ZLX2staDEwMDZiLTNlTUZrNnZR0gFyQVVfeXFMTUxvWThuY3FtWnJuejAyS3BqX2JpV193UW56LVFkVG15bFpiVXJQMHZpbTBnTWFDZkVEOHlLX0R5MnBwUmFOOGZVa1VrSjhPVWk3YnlPaTI5SmFwbnZjLUc1Y1lMcndnX3JGemhOU0NDcEtB?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-18T15:57:14+09:00",
+   "stocks": [
+    {
+     "name": "씨엔알리서치",
+     "code": "359090"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "10대 1 주식병합 결정에도 장중 26% 급락 … CG인바이츠, AI 헬스케어로 위기 타개할까",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15LXdqX3JBY05GZUZzVHNvMGl1ZE85NTBoekROeWk0bjM3WW4yd0dLWm8yTzVXLW9raGUtNVBnNmw1R0VPNjBkM3hKX2htRHU1cnRpUUQzbE9HVEpvYmtoZUJ2VFJsWVNIcmhkT2VXa1Ewb09rRXZjaW96VdIBgAFBVV95cUxOY0ctN3BnMFFFQVRxUVNQMlhocF9yd2tCcGo3QmZHNjhadGtEQUVlQkJieHhMXzRIT2pCRWxnZ184RC1SY3IxcHVMb29NajI5RXN6RXYwWU40aEFaS0N3b0tjaEpCTldNZVhBVFBpdF9WSTJNUHJrcVdsLVVoRDVoQw?oc=5",
    "source": "뉴데일리 경제",
@@ -1093,6 +1135,20 @@
    "dir": "down"
   },
   {
+   "title": "[마감분석] 옵토닉스, 뚜렷한 공시 없이 17.17% 급락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XMnNodWJSdjdNZGROMWMxU2ptd1hKYU42REhJVnk1NFRoMTZiTDFXejdZSFhMbDdkX19peUluZTk4MnN4emRhb3VINA?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-18T15:49:29+09:00",
+   "stocks": [
+    {
+     "name": "옵토닉스",
+     "code": "493260"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
+  },
+  {
    "title": "[마감분석] 파수AI 19%대 급등 5440원 마감 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xRkp3VFNJX3ZYMzA4cjhob2NXQjNnRERfcE52d2JTdGxweVFEV0xtaXF5cDFsVWJWMWppMEhXVGJYcGpvQWR2c2N5QQ?oc=5",
    "source": "재경일보",
@@ -1105,6 +1161,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[마감분석] 에이엘로봇, 뚜렷한 공시 없이 24.32% 급락 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtZ2VLWjNSSjJuS3ctLXRZOHJ0WVdzVHlnSTVDV2h4ejhnZWMyOHZrbzFaQnh2OW5LLVBFQ25IUXg4NXhUV0FrZU5IWQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-18T15:48:01+09:00",
+   "stocks": [
+    {
+     "name": "에이엘로봇",
+     "code": "471800"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "카디프생명 인수로 눈 돌린 한투…신한은행도 지분 매각 채비",
