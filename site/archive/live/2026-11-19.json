@@ -1,7 +1,21 @@
 {
  "label": "11월 19일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-20T12:56:23.929205+09:00",
+ "updatedAt": "2026-11-20T21:43:12.266082+09:00",
  "items": [
+  {
+   "title": "‘검은 금요일’에도 상한가…한진칼우, 경영권 분쟁 기대에 ‘불기둥’ [종목Pick]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4bXh4V2E4ZU0wUGFLTVhyWXJ6Mk8yVXgwTWJWWk11UXlnUHpKZGJ2a1R6am43SmF3ZF9uNVNFX1ZXZm9ycGFwczlnbmtNQ242SFlqdDRTVmtubHV4RmVKaw?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "2026-11-19T23:46:00+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
   {
    "title": "[상한가 종목] 한국화장품-에스와이 이어 위메이드맥스 등 마감",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSVYwM3pvQUd6THM3aHVuMWRSQjFqRC1rOFl5RUdSRDk3d2JtUFRpSUZYbVd4eUk3ZjRrU0pYVExkR2JHWE1xcmlPN1lCczByWjN4dThid2FNa0szUjJRckQ0cm8zLW5NT2ZJdXpR?oc=5",
@@ -772,9 +786,9 @@
   },
   {
    "title": "스튜디오드래곤 상한가…한중 FTA에 드라마 공동제작 기대 [종목NOW]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSDlUWjJyaW9rZ2JucWZFdzdHdUhoS1FGU3B4bUtIQVNFbjJMWHUxTkFqeXl6VFNaQ1hRSlhiU3hnWTZyelFVTUFTZXVrZG9XZVF1bmJoV1hVZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "2026-11-19T14:53:54+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHWGlSdm5LSFowcjRLcm9TTGpUeTZldk1neENXV1FXQW5Wd3EySVpEMGttX0w4cVM3ZVRheG10TUdpci1TSzhsWklXWVIwb3lzMkpV?oc=5",
+   "source": "네이트",
+   "time": "2026-11-19T14:54:00+09:00",
    "stocks": [
     {
      "name": "스튜디오드래곤",
@@ -1165,6 +1179,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "매수세가 뒷받침하는 상승세 속 아모레퍼시픽 주가 상승",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTW1uWDJjWk53ay1lOS1kUXlxcHRSNXZEWEJhRi1FUzdrTUVTZVZjR1VzU29fZndBekVxbWpENDBpcDZpUHhVZ096YUFZR05RbkVockFjUy1Fb1BWVEF4WkJxQlcyUS01MFBPTHJEY2xJN0tXemFPVllaNDV1N044TlRNUkhVS3Y3bk9oZFQ3RDhaT1U0NFpCZFM2Q2ZjZw?oc=5",
+   "source": "Traders Union",
+   "time": "2026-11-19T13:11:21+09:00",
+   "stocks": [
+    {
+     "name": "아모레퍼시픽",
+     "code": "090430"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[ET특징주]제주항공, 중국인 방한 수요 확대 기대에 상승세",
