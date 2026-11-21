@@ -1,6 +1,6 @@
 {
  "label": "11월 20일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-21T21:24:44.846344+09:00",
+ "updatedAt": "2026-11-21T23:59:46.406613+09:00",
  "items": [
   {
    "title": "[상한가 종목] 삐아 이어 한진칼우 등 마감",
@@ -353,6 +353,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "㈜바이오스마트, 티씨머티리얼즈 주식 130만728주 ↑…지분율 47.77%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4za2dBeTIxdXFZVjVhb3NTbkZ6T3hRUlNGdW82eGNyREZOM29KYXByLTdFM09hUWd5ZTZ6QXQtUEdpNUpfdGlaSFBrem5pVDVjZ2J6V3dWcEdsV2hiUDVsMTFCNDZUb0M0cmMzMDk0TEFJLUk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-20T16:50:06+09:00",
+   "stocks": [
+    {
+     "name": "바이오스마트",
+     "code": "038460"
+    },
+    {
+     "name": "티씨머티리얼즈",
+     "code": "125020"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "‘검은 금요일’에도 상한가…한진칼우, 경영권 분쟁 기대에 ‘불기둥’ [종목Pick]",
@@ -849,6 +867,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "박문현 사장, 효성오앤비 주식 3만5000주 ↑…지분율 27.32%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OUGR2NWJEXzdZZjZtS2p4ZEI1eGVkUlFPRjZ5NHE2bnRIc1dxNU9iWExzWTFieUpCd0w5THNvbGdBRU5JY1ZQOGtSOGUxNHdIdmx0Tnd0enJGSkJXNzhQSE1yOXlhM01CdmFnQnY0eHloQWc?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-20T13:53:00+09:00",
+   "stocks": [
+    {
+     "name": "효성오앤비",
+     "code": "097870"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "코스피 이어 코스닥도 매도 사이드카…삼성전자·하이닉스 6%대 급락",
@@ -1435,6 +1467,34 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] '연말 유커 특수' 면세점株 강세…글로벌텍스프리 8%↑",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kQjFIX2pJNHQwNzI5eGdfMVFOQnVDUTlaNHA3WnM3WFhQckZvZURtVEx0ME5yaHdTQlhOZWJwVFEtMlMyQkdEQWxMSVMwcjFQaGlqUUhReFpnMy1k?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-20T10:23:00+09:00",
+   "stocks": [
+    {
+     "name": "글로벌텍스프리",
+     "code": "204620"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "홍성소 회장, 신일제약 주식 3000주 ↓…지분율 1.97%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iY2pjaFdHc1FaeklBUUFoYUFvV24xaEwxa3J0LXJqaVNLNzhtVzFJekJLYjZ3eHN5MWVGLXRBTFpkSlZVdm1nUjJFVVpOX1d0d2VTa3NINUVORk4xR1JaRVFTSTlPOGE3TWJicWdWc0ZOM1k?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-20T10:22:21+09:00",
+   "stocks": [
+    {
+     "name": "신일제약",
+     "code": "012790"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "하나에어로, 코스닥 상장 첫날 66% 상승세 [특징주]",
@@ -2309,6 +2369,20 @@
    "dir": "up"
   },
   {
+   "title": "[쩐의흔적] 신동빈 일가가 가진 롯데지주 주식, 100주 중 99주는 회장 몫",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VU0JGUkNQUVZMRk9ZTHdIaFlYdklPcTN0T3pPV0QyYTNCRXIydG02Qm1SNEcwUnVMb2EtZ3E5WF9CYzRydDY5VXU1QndtZUVyNFU4cm1CdnIxVmczdmN3TUF4WVZaR0JVTjVsZXREONIBb0FVX3lxTE1VU0JGUkNQUVZMRk9ZTHdIaFlYdklPcTN0T3pPV0QyYTNCRXIydG02Qm1SNEcwUnVMb2EtZ3E5WF9CYzRydDY5VXU1QndtZUVyNFU4cm1CdnIxVmczdmN3TUF4WVZaR0JVTjVsZXREOA?oc=5",
+   "source": "더퍼블릭",
+   "time": "2026-11-20T08:52:38+09:00",
+   "stocks": [
+    {
+     "name": "롯데지주",
+     "code": "004990"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "\"한한령 완화 기대감…'로밍도깨비' 유엔젤, 관련주로 부각\"",
    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02036886645647688",
    "source": "이데일리",
@@ -2857,6 +2931,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "당국 제동 거는 와중에...SK디스커버리, 7년전 PRS로 5000억대 차익 [공시 한 끗]",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMREpSdmJOd0h4VDNZNUJxemJRbk1CamFuVW9Xd1N2VUlqWDNNOHpTeFZnRE9tUzhrX0NFNVMza0dPbVRiQXN2VE9HYlBIcVJmR3FzdjFBR2fSAVRBVV95cUxQTXRFNXpIOUtJLWIxT1lha2h0ZlhKUFdfSEVYdjhjc1pOcU5rZkRJZWlNczYxZ21KX0NGZmZTamNjMmdjMlpfdGV2WUtNZ1hTRllfNFU?oc=5",
+   "source": "세계일보",
+   "time": "2026-11-20T06:10:01+09:00",
+   "stocks": [
+    {
+     "name": "SK디스커버리",
+     "code": "006120"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "이마트, 참치회 30% 할인…와규 최대 50% 저렴하게 판매",
