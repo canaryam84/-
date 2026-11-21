@@ -1,0 +1,24 @@
+{
+ "label": "미국 11월 20일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.93,
+   "text": "-1.93%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnktcmxiZmxLamxpa0ozWXVZeDBCZm9IcmlIVXh4c3RKdXA4VFVmRkpmMzJPYWNDTFdZYmtkYk5XYTlzeXF5OFZqeUpGV0pzRXhBS2hKYWdoMDdmVTZEUkpHWnM4ME5ldkZuUXpJSVNMRkNPTUUtT2hrTGxxOWFwTXdPcXFwZFlyb1Vrb1dHUzl0bERzcEFXay04anY4dmRWeFpKU0pqckxtQ25wdkV2ZXBEYnc2VFM1Mll0ZjhNLVQtbkx0dHFZ?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -5.28,
+   "text": "-5.28%",
+   "exact": true,
+   "source": "뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QeXdvM21uNFpSZUY3eUpRNU9wc0pVLWtwUlkzWEk0UXZ5d0NYTFQyR1hXRkxqOWdjV2pCM01IQjBBYkJzNGZMdkpkcUV4dXhOZWdfRGZDMndLR281U2c?oc=5"
+  }
+ ],
+ "items": [],
+ "updatedAt": "2026-11-21T12:01:38.034337+09:00"
+}
