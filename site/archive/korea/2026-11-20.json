@@ -7,8 +7,8 @@
    "pct": -5.21,
    "text": "-5.21%",
    "exact": true,
-   "source": "연합뉴스TV",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53WW1rdUktOVczUEttS19kbWdtRXNzOEwwM1VIVk5hc2ptZk5uaEEzZkpwX3dxSEJkX1VWWDNTOVpiaUwyS0J2V296VjlpQlJIOTBXREVCT0ZBSUZGcWhkdkpDNzU4dUE?oc=5"
+   "source": "시사저널e",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1cXBZZzktVHU3ZWhOblNkazg0WUx6ZWJpajFhSk91MVQ4cFVHa1dqdzdMeDZ1bGY0X0lhLUpWNFg1SHpFbEdUQmNoeENmaUVqX0IzaDh2SnBjVW41Y05RQl9URjhHdjNqZ3RLdWdETkI2UQ?oc=5"
   },
   {
    "name": "코스닥",
@@ -55,6 +55,40 @@
    ]
   },
   {
+   "name": "한진칼",
+   "sub": "코스피 · 180640",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "한진칼 우선주까지 상한가…증권가 \"단기간 경영권 이전 가능성↓\"",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSXUzZlU1UjZVWUF1cmt5NFlzaTEtRmpXVDNyWVotekhUZERGaS1EeERNYmlsaHBpeUlKLU9NNFdPYS0tcEctTjd0SlJnYXFjbEhiYWZyUGNVMG9sSjZHalh2RENaYjRsRUI4aVFPLXc?oc=5",
+     "source": "연합인포맥스",
+     "time": "2026-11-21T09:10:07+09:00"
+    },
+    {
+     "title": "한진칼, 경영권 분쟁 재점화 가능성에 27% 급등 [특징주]",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tNkI0OV9NS1VYeENMOUtIQ1h4c2dsRk9rZVd5Y21HWnl1WjQzWFpISGJhMVdONzJUdzJPVDkwWjFPdXNyNWJYY214ZDFxVW01YUpZLW5XeUx4aE44dkJzdElvNA?oc=5",
+     "source": "쿠키뉴스",
+     "time": "2026-11-20T23:15:21+09:00"
+    },
+    {
+     "title": "‘검은 금요일’에도 한진칼우 상한가…지분 경쟁이 투심 자극[마켓시그널]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGTUY2amxtZTA4c0tVN0FHeGx2Y0NQRHFYaGEwTVhCU0NPdDhhbkhZZUJqQmpoTWh1Z1JNdG9BMTFkSkF1dWtLc1Ryc2N1S2ZrVUHSAVNBVV95cUxPZ2VPTHhmLW5paFJ3azVQbVVnYm5ySGszNGV5dk15eWhsb2o1WFBjUGZ5SnE5dVBOTVRuRDVLTUgydWN3cFVBd2xDRGFNMHgxU3phUQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-20T17:26:36+09:00"
+    },
+    {
+     "title": "한진칼우, 상한가 진입.. +29.99% ↑",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KaHhtOE1VWUZBd25zNWlyRjhFcDRlaVU5OXZTZTNWRnNZemZHVU8yY0ZWYTB4WmVtUHoxemRKaEJJejhtQWRIZ2tkcUhEY3FTRGc?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-20T09:36:04+09:00"
+    }
+   ]
+  },
+  {
    "name": "타임X AI",
    "sub": "코스닥 · 304840",
    "pct": 30.0,
@@ -89,28 +123,6 @@
    ]
   },
   {
-   "name": "한진칼",
-   "sub": "코스피 · 180640",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "‘검은 금요일’에도 한진칼우 상한가…지분 경쟁이 투심 자극[마켓시그널]",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGTUY2amxtZTA4c0tVN0FHeGx2Y0NQRHFYaGEwTVhCU0NPdDhhbkhZZUJqQmpoTWh1Z1JNdG9BMTFkSkF1dWtLc1Ryc2N1S2ZrVUHSAVNBVV95cUxPZ2VPTHhmLW5paFJ3azVQbVVnYm5ySGszNGV5dk15eWhsb2o1WFBjUGZ5SnE5dVBOTVRuRDVLTUgydWN3cFVBd2xDRGFNMHgxU3phUQ?oc=5",
-     "source": "서울경제",
-     "time": "2026-11-20T17:26:36+09:00"
-    },
-    {
-     "title": "[급등락주 짚어보기] 자사주 의혹 수사 중 한진칼우 ‘상한가’⋯크라우드웍스 下",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1UFJDVXA0QWZyY2FELVB4WF8tSGxYcGo1ZG5XNGlmZ25aV3JldktnSnpUdHVmVGRRRFNFeVI1Rm83MFpHOHRhWjFEOENIT2xJbkRKWg?oc=5",
-     "source": "이투데이",
-     "time": "2026-11-20T16:45:00+09:00"
-    }
-   ]
-  },
-  {
    "name": "아우딘퓨쳐스",
    "sub": "코스닥 · 227610",
    "pct": 30.0,
@@ -133,22 +145,6 @@
    ]
   },
   {
-   "name": "노랑풍선",
-   "sub": "코스닥 · 104620",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "한한령 기대감에 여행株 급등…노랑풍선 상한가 - 머니투데이",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xNXJRWGktamRJdTkwM3dKejh6U0JsMkg5Y0d2UmFrc2xUZUZYQ3R3SExoREZMdFRiaHhLeGxFSktmM3g0MmpPMzdOMDY4dmxTMjczVGJ6TlFQa2x4OEd0eXloNENCWTlr0gFuQVVfeXFMUEFZd2NTZUlISXh3TkVXN2JQRUt1dWg2WDdJM0FCaUZyVnpuUXZqRVVwVGdEX2M1ZVVaQ1VKblR1R0ZUaUZ0RjdBVm1sYm1GYkM3TEFKdGdJRmFqNDB5UnRCWC1NbzhjdzlscnllakE?oc=5",
-     "source": "머니투데이",
-     "time": "2026-11-20T16:21:27+09:00"
-    }
-   ]
-  },
-  {
    "name": "한국화장품",
    "sub": "코스피 · 123690",
    "pct": 30.0,
@@ -165,24 +161,50 @@
    ]
   },
   {
+   "name": "한화갤러리아",
+   "sub": "코스피 · 452260",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한화 3남 김동선 효과?…한화갤러리아 ·한화갤러리아우 ‘상한가’",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TODRMX3RpWmtjcTloWi1YVWNLMWl4R3h1bXBfd1RxTi1mZHZtQ241LVZOdEtJT1ZVaHJJMmlJVEtLZDc2ZER4bzNDNV9oRUlfUEFONTNQcjQ2TTN0UDFOMm5ONA?oc=5",
+     "source": "쿠키뉴스",
+     "time": "2026-11-20T17:37:52+09:00"
+    }
+   ]
+  },
+  {
    "name": "HLB생명과학",
    "sub": "코스닥 · 067630",
    "pct": 24.0,
    "limitUp": false,
    "afterMarket": false,
-   "newsCount": 2,
+   "newsCount": 1,
    "articles": [
-    {
-     "title": "[마감분석] HLB생명과학 15%대 급등 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FeG9Ld3Y4UDg5Z0JQeUI5UmFnOFMySi1STUU2bDR1WnFaNGdoODVVOTNMYnppQ0syTFFXcVozMzlSMzUxSGZ6LUltaw?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-20T15:49:29+09:00"
-    },
     {
      "title": "HLB생명과학 주가 24% 급등…수차례 VI 발동 속 변동성, 전일 합병 공시도 눈길",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NUFIQW0ycTRpX19hSXpYQkhNM2lRMzY4Mi1iNVRXRVVBa0hKcFctN0puU21manREX05Ya3NTenplU2lFTEg3bmUwT1IxMmlXa2pCNW9XakxNZ0FEWnZUemxKTjV3VG5U?oc=5",
      "source": "CBC뉴스",
      "time": "2026-11-20T13:58:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "금양그린파워",
+   "sub": "코스닥 · 282720",
+   "pct": 22.19,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "금양그린파워, 22.19% 급등…9,690원 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVWXZpSjNVRVdjYmVaYW16SGk3TFhXR1RiQWhkLThjVllVMlcyNkhFWXJEYXM5M19QWUZvMUIwOVVZREhEWGctUlRvMzNrVEswZEZkSTVRaXowU2ZDQ0RwczZ1WEJnaVZWc3JET3h30gFyQVVfeXFMT2FqVDZXakpmaWVVMDU5aGx6bkoweC00VUdkdFY0SEdFRUlraUh0WV9PYXJscm1KNUZsR0VMRXlGT09Kc083a20wSlI4bjRrRnVFOEFCdmtwbEdITmVVYUpPUlJxYkRLbEx1SW9nVzlCTHZB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-20T16:17:57+09:00"
     }
    ]
   },
@@ -247,5 +269,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-21T04:05:04.042202+09:00"
+ "updatedAt": "2026-11-22T00:31:37.874590+09:00"
 }
