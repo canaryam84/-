@@ -145,22 +145,6 @@
    ]
   },
   {
-   "name": "한국화장품",
-   "sub": "코스피 · 123690",
-   "pct": 30.0,
-   "limitUp": true,
-   "afterMarket": false,
-   "newsCount": 1,
-   "articles": [
-    {
-     "title": "[특징주] 한국화장품, 상한가 이어 18%대 상승…한한령 완화 기대",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FTlc2a0U3QWJ2WFhYXzQwUDdWS0poLTk4Ym9sZWthcHhWWGVBMkdScHp4TVlkTzZDODkyZlhlUUxVRWwwbjBJM25nYjBNeHp4T3FDTg?oc=5",
-     "source": "이투데이",
-     "time": "2026-11-20T09:13:00+09:00"
-    }
-   ]
-  },
-  {
    "name": "한화갤러리아",
    "sub": "코스피 · 452260",
    "pct": 30.0,
@@ -173,6 +157,22 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TODRMX3RpWmtjcTloWi1YVWNLMWl4R3h1bXBfd1RxTi1mZHZtQ241LVZOdEtJT1ZVaHJJMmlJVEtLZDc2ZER4bzNDNV9oRUlfUEFONTNQcjQ2TTN0UDFOMm5ONA?oc=5",
      "source": "쿠키뉴스",
      "time": "2026-11-20T17:37:52+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국화장품",
+   "sub": "코스피 · 123690",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 한국화장품, 상한가 이어 18%대 상승…한한령 완화 기대",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWSUNnaC1MMi1kYkdUWDNWTlBUNVRJZzdVQmtxYnp3NE54QkR4ZkZlTzQzaWFndHJ6WldLOHA0WTFGaElyX05JN3ZQZVprZ0VmRUI0UGJybUNxTGJlU1F0WDhXaVhNVVlSNjU2LUZn?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-20T09:13:00+09:00"
     }
    ]
   },
@@ -269,5 +269,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-22T00:31:37.874590+09:00"
+ "updatedAt": "2026-11-22T02:57:16.701229+09:00"
 }
