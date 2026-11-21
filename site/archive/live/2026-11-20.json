@@ -1,6 +1,6 @@
 {
  "label": "11월 20일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-21T12:19:33.672479+09:00",
+ "updatedAt": "2026-11-21T21:24:44.846344+09:00",
  "items": [
   {
    "title": "[상한가 종목] 삐아 이어 한진칼우 등 마감",
@@ -21,6 +21,34 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] 급락장 속 '새내기' 하나에어로, 상장 첫날 왜 출렁였나",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNLWp1WUE1VGpsX3cyNldfT1RFQl9JMDZ0ektxRE1xTkRteC1qT0xSa1poTmVocy1YM24wSGpBdGExeWJPOVN2UnVpeTdwTHNVX3BNZXliRFFqRzdIMDFZZTA2dlRwUURPblE?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-20T20:32:26+09:00",
+   "stocks": [
+    {
+     "name": "하나에어로",
+     "code": "271160"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "[특징주] 큐로셀, 국산 CAR-T 치료제 건보 적용에 애프터마켓 17% 급등…림카토 상업화 본격화",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FQ2l4RDZuYmdEUmh4Qy1pQTh4UWc0OWxGTElqRVdfcGRSZkNWRzRvbHVmUTBfY0pyWXUyczdaSjkyMlB1VFNqdldYejdtN1YtY18tMnBYdnNkNVMxVWIwOVdyeHZZMEtiamc?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-20T20:11:56+09:00",
+   "stocks": [
+    {
+     "name": "큐로셀",
+     "code": "372320"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "바로팜 상장 첫날 국민은행 최대 출자 KB펀드 ‘폭탄 매도’ 논란…주가 65% 폭락",
    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaFJIM0NSYzRtemlQZk9DMm9sVEFkNHRhcGNXY3Q2Qy1xUEliNWRSRXE5NWdybV9iYl8ybUlxSmVuTi1iNlB2THZoUG50MXpRTjF6TnpJVjNPTnhGV0tJOFBlMGtVM054WEZTSm9kRnduYVM4UnlHRFpjOF9IMUZsNktsaFNDa2Fwa1ZrS04xMWJ5Q2R0ak9zeUpYSVd0N2pKOUtJNm05S1pYaXBlS0tJRlZzcDhndVRnM0ZaOEFpeEE1d2UwSmlxeU1nR3RjNk9SSW5PZVVtNjNwV2RieUxab2tPZHJvSGQweWp5TWtBdzlwOENrZFN6VkZ5LXVlMllOVUNFNTM2bEpMU0NRUmpMRFZOQnlWNko1RU1CSl94ODdqS2FYV2tfVUJzVzEwT0lMY3drMG1adUc?oc=5",
    "source": "뉴스필드",
@@ -33,6 +61,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "[특징주] 금양그린파워, 2300억원 AI 데이터센터 공사 수주…애프터마켓서 급등",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYktyVWVVS09yZFRLUjc1b1pHNXhUSGEyazR6QzVBMGFQSUUycmdRNnl3RlpURTY2Y01PRGdKVGo4S2FlRE5fdFZZTDd5SDlrOUg5Vk5MclRLbGZLZUQ2X3N3UXNGX2Y3ZXc?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-20T18:31:02+09:00",
+   "stocks": [
+    {
+     "name": "금양그린파워",
+     "code": "282720"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "SK하이닉스, 키옥시아 간접 최대주주 등극…투자법인 CB 주식 전환(종합)",
@@ -89,6 +131,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "최민찬 부사장, SIMPAC 주식 1만5877주 ↑…지분율 22.10%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lcDc2cWdoRGhiQ1lJME5zb2lrYUNCTldhcDExMXJrNWw5emRmS3hTdHNNeDlDTkxIVFZFXzFhOW1qVlNGZDFoa0pPWFZPMmNjOWd0UTdOYnZlelFoa1JiV2FCV2hrNDhEUXdEcWZ2aXFha1E?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-20T17:47:17+09:00",
+   "stocks": [
+    {
+     "name": "SIMPAC",
+     "code": "009160"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "뉴보텍, 관리종목 지정사유 추가 우려",
@@ -377,6 +433,20 @@
    "dir": "down"
   },
   {
+   "title": "[특징주] 이수페타시스 16% 폭락…실적 호조에도 목표가 줄하향에 '찬바람'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dTNYdVJ2MkpZZ2FBTjdQYnZXRzFqNk1OZ2dIeC1yTXZRZC1IYy15OW1tQWRpZ25JdW9QcjhGb2pTdDlodXlGcFo3eWxFRndLc2NuRkJTalJGRWF1c3pLRXJwUUEtMmNnYlE?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-20T16:22:59+09:00",
+   "stocks": [
+    {
+     "name": "이수페타시스",
+     "code": "007660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
    "title": "[오늘의 특징주] 타임X AI·삐아 상한가…한중 FTA 기대에 화장품株 강세",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xNlA1Y3lUUmlUU3Zhc01OU3N2UjhHYTgwcUZRS01JX3RlRWFBejVHQ0kxZ21XMFZxZzZIaHFzaWRRTjdOVVpDWUtub2ZmQXAwcGwyamowVDNEenJWVXlZaUVTem4?oc=5",
    "source": "www.ppss.kr",
@@ -393,6 +463,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[특징주] AI 투자심리 냉각에 반도체 소부장 '와르르'…리노공업 15%↓·이오테크닉스 14%↓",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PYnhVcEtESGlHSFhiMHhacmN2RUNPdmpwZURxNy1UVGFvakFOekJIbmszSkU0ZzJHMjNIeTAtSVR4WXNkdHBOZ1o1MmRIZWNDdGVFYUU3NEQ3a0JFQ3djbGJrWHZmSDNSR1E?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-20T16:11:16+09:00",
+   "stocks": [
+    {
+     "name": "리노공업",
+     "code": "058470"
+    },
+    {
+     "name": "이오테크닉스",
+     "code": "039030"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "지엔코, 30억원 제3자배정 유상증자",
@@ -1791,6 +1879,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "한진칼우, 상한가 진입.. +29.99% ↑",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KaHhtOE1VWUZBd25zNWlyRjhFcDRlaVU5OXZTZTNWRnNZemZHVU8yY0ZWYTB4WmVtUHoxemRKaEJJejhtQWRIZ2tkcUhEY3FTRGc?oc=5",
+   "source": "서울경제",
+   "time": "2026-11-20T09:36:04+09:00",
+   "stocks": [
+    {
+     "name": "한진칼",
+     "code": "180640"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[특징주] 미스터블루, 전일 상한가 이어 10%대 강세…'에오스' 中 진출 기대감",
