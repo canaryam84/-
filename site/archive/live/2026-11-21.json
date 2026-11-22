@@ -1,6 +1,6 @@
 {
  "label": "11월 21일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-22T05:49:03.010924+09:00",
+ "updatedAt": "2026-11-22T23:57:45.721851+09:00",
  "items": [
   {
    "title": "InvestingPro 적정가치 분석 이후 CJ ENM 주가 65% 급등 By Investing.com",
@@ -42,6 +42,20 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "삼성SDI, ‘실적 저점 통과 기대’ 52주 신고가…목표가 줄상향 ‘100만원’까지",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PaVJKYUpqc0w0Wk9JS0JiTEt5eXNVdG5QOEZHQVI5aFlGQnBJVTFUVFBObmxxQVk2UGx4bU9yMGpHRTdUNzRNbkRwX0N1OHM5QnZXVHlENmc5X0I0UHVsLWJTNA?oc=5",
+   "source": "쿠키뉴스",
+   "time": "2026-11-21T15:27:46+09:00",
+   "stocks": [
+    {
+     "name": "삼성SDI",
+     "code": "006400"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
