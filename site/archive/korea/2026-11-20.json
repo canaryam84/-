@@ -82,7 +82,7 @@
     },
     {
      "title": "[급등락주 짚어보기] 자사주 의혹 수사 중 한진칼우 ‘상한가’⋯크라우드웍스 下",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1UFJDVXA0QWZyY2FELVB4WF8tSGxYcGo1ZG5XNGlmZ25aV3JldktnSnpUdHVmVGRRRFNFeVI1Rm83MFpHOHRhWjFEOENIT2xJbkRKWg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Qkx5cGFoRWEyNk5PWDVydDZyX1h5NkNyZXI3Y0VnejJiUDJjVVI4RFJYNjVCLUNhVlNGTDBCTkJsOUpfQ3JXc200STlaYlZPenRzU2JWUnFyZTFoMjdXYTl6ZndGUmNYTnNfOEh3?oc=5",
      "source": "이투데이",
      "time": "2026-11-20T16:45:00+09:00"
     }
@@ -116,7 +116,7 @@
     },
     {
      "title": "타임X AI 주가, 상한가... 왜?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83N1ZXc0xhR0RwdjZZdmFjRGp5bnFCQXR5VGx5RkpRWVFnR2UyYXRFWEFlRHo3aWRTWE01UEJBWWlXMWotbGlPM0U0YTBIWDRsTDBvb0h3LXUycnRBbWV1WjgwbUJzdVY4SlE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bGstZC1DWFllT01GSWpFVHB3NnVtWkF5UFRVNmphczMyRTYySUJLM2tIbUxOelU5YTdzOTZMcjJTT0RaVnlhUjBxaExYcU5sREFmUUNBeEFkMWFVVmd1MjJGVkVHaW5O?oc=5",
      "source": "금강일보",
      "time": "2026-11-20T09:08:30+09:00"
     }
@@ -225,28 +225,6 @@
    ]
   },
   {
-   "name": "마녀공장",
-   "sub": "코스닥 · 439090",
-   "pct": 18.0,
-   "limitUp": false,
-   "afterMarket": false,
-   "newsCount": 2,
-   "articles": [
-    {
-     "title": "[마감분석] 마녀공장, 18%대 급등하며 1만7170원 마감 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hblREZnhQZ1pHVUpTNlkySDV6WGI5VTk0Ujl4akRtNzlzc0Rxc1NRQ2YxSVVVNmZHaDduOHVEcFphUDZJOFJWaTV0QQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-20T15:48:51+09:00"
-    },
-    {
-     "title": "[특징주] 마녀공장 장중 16%대 급등 1만6800원선 거래 : 기업주식정보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idkp4cm0xN0lHcnFYVkt6RFVrbWVHbVFHV180SDZaUjU0cGlhWDdoTmRxVDBxVHdfTEQyRnRjRV9sRW1ic2VaazUyVQ?oc=5",
-     "source": "재경일보",
-     "time": "2026-11-20T10:23:17+09:00"
-    }
-   ]
-  },
-  {
    "name": "모비데이즈",
    "sub": "코스닥 · 363260",
    "pct": 16.0,
@@ -261,7 +239,23 @@
      "time": "2026-11-20T13:10:21+09:00"
     }
    ]
+  },
+  {
+   "name": "마녀공장",
+   "sub": "코스닥 · 439090",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 마녀공장 장중 16%대 급등 1만6800원선 거래 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idkp4cm0xN0lHcnFYVkt6RFVrbWVHbVFHV180SDZaUjU0cGlhWDdoTmRxVDBxVHdfTEQyRnRjRV9sRW1ic2VaazUyVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-20T10:23:17+09:00"
+    }
+   ]
   }
  ],
- "updatedAt": "2026-11-23T00:34:37.231288+09:00"
+ "updatedAt": "2026-11-23T03:28:40.794135+09:00"
 }
