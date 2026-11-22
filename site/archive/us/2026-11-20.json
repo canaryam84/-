@@ -19,6 +19,21 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QeXdvM21uNFpSZUY3eUpRNU9wc0pVLWtwUlkzWEk0UXZ5d0NYTFQyR1hXRkxqOWdjV2pCM01IQjBBYkJzNGZMdkpkcUV4dXhOZWdfRGZDMndLR281U2c?oc=5"
   }
  ],
- "items": [],
- "updatedAt": "2026-11-21T12:01:38.034337+09:00"
+ "items": [
+  {
+   "name": "Zscaler",
+   "sub": "ZS",
+   "pct": 20.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Zscaler shares rise 20% amid talks over its acquisition — CNBC",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcUhLbEVaOV9rWFo2S1BXbE9Id2tfZ3JDaXZvZVFxemlYa2JaSWFDZnZUeHYyRmZfT2NvSU1OMjNmMFFURDlLeWdaSVJnREE3UWVGc0dTZjlYcW1MY2VReWVQVFlNUFRYeEE5ZlhmSkJCZnA3QmtpZGJuT1Izak9MelJzRHNFRmozOTRXRmpyUTZOdjBBTC00d2otSTZ4T2FpT1hOVzVIamVfcXpaWENGWk8xOHBpbVcwdU9hVVhCYVVfZEJOaHo0ZEhGWm9PQQ?oc=5",
+     "source": "UA.NEWS",
+     "time": "2026-11-21T06:44:02+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-22T10:58:13.884903+09:00"
 }
