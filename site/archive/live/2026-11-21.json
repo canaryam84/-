@@ -1,6 +1,6 @@
 {
  "label": "11월 21일(토) 국내 종목 뉴스",
- "updatedAt": "2026-11-22T23:57:45.721851+09:00",
+ "updatedAt": "2026-11-23T05:55:06.762022+09:00",
  "items": [
   {
    "title": "InvestingPro 적정가치 분석 이후 CJ ENM 주가 65% 급등 By Investing.com",
@@ -57,6 +57,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "SK하이닉스, 키옥시아 전환사채 주식으로 바꾼다…8년 만에 주주로",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TOGdHblRheG1LVVNfdzBuUXd4TFNqYmwxc2tCLXJ4aVowdVA2bEJIRnM2MHp3bXAzYVpHMjdsM0pKZEdObGRzOTZuN1EtVzI2eGpYNEhfbkJKd3RHbmMzS1NlbHVGVFF0Nmc?oc=5",
+   "source": "중기이코노미",
+   "time": "2026-11-21T15:25:43+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
