@@ -1,0 +1,45 @@
+{
+ "label": "11월 22일(일) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 1.85,
+   "text": "+1.85%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RUWxVNE9RcTMyS1l1Mms2cGw5ZmV3VkdnV0pMZVJSTU1SbGpxaFVwRkZwQVhZemNNSEk4aTlhM1VzUVFFYXU1MkFZRVhONzMxZUE5YzlSSFdxdHZHTExlVWRRUm12QzAx?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "디라이브",
+   "sub": "DRV",
+   "pct": 35.21,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "디라이브(DRV) 35.21% 상승…업비트 원화마켓 약 61% 종목은 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fQTdlRzNiSnM3d25RY0xqRk5ZTkxZNGZ5TUd0R19ncFlWS1pkWExvQmtBSWt4bkdjWlNKSC1DSDh5SHo5T1REVXZR?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-22T08:01:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엔소",
+   "sub": "ENSO",
+   "pct": 22.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 엔소(ENSO) 22% 급등 1위…10% 넘게 오른 종목은 1개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zNWxlRVVIWVZtSlNnSk50ZDFZZUJaY1RWUHNRWVRPdVJkNUNfR0luMXJpWHVES0pwX0pncVEwYjRvcHVoQTh2N1lB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-21T12:01:05+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-22T19:56:19.474907+09:00"
+}
