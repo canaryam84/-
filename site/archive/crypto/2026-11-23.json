@@ -1,0 +1,31 @@
+{
+ "label": "11월 23일(월) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -1.75,
+   "text": "-1.75%",
+   "exact": true,
+   "source": "코인리더스",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyeW9LVEtPT0xCR3BDTWlUckFtUmdMc3RYRDZXTGNYdjVvNXVmUVdfdTlJUG9kVVNBbjVWbTFpbFR6S096bzRJaWZ3?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "지오드넷",
+   "sub": "GEOD",
+   "pct": 21.91,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 지오드넷(GEOD) 21.91% 급등 1위…10% 넘게 오른 종목 2개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IQXFrV2V1VDZkUFRkUlNncHlNUlJTS2EwcGZGVy00MEVTR1BoSkU3UWtWc01xbm80ZVE3U0E5VE9XaFUwMjkxalRB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-22T12:01:05+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-23T21:01:55.790109+09:00"
+}
