@@ -26,7 +26,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 21,
+   "newsCount": 22,
    "articles": [
     {
      "title": "큐로셀, 첨단 신약 건보 적용에 상한가",
@@ -104,9 +104,9 @@
     },
     {
      "title": "금양그린파워 상한가 질주…태양광 관련주는 차익 매물에 희비",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VMEl0TkQzdHVGRGk2WXBwU2RZWTNXT2ZKZEVvTlo0V3hpczVjb0tsNDZiRG1vTjRHRWVRY2M1TjY2bnk1NHhmbVY0Ml9OVHFNNXBhaFlyT2N3NjhObG9yRHlGTGtNd2R1YlYxalcxbVQwVUnSAXdBVV95cUxONGNCNWxyaUJBXzN2V1lhanAwTHc0ckdzOTU3bGNzZE0waEh6aGpCTE1JOVBJUUtNeHdwWWJ3RWVpVFFGME02Umo1TmJnT181aGdiUnV3cFptYTVoRF90eDVUTEUwX0RVUWNPSm5yanlwRGNvdzFnMA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40Y0I1bHJpQkFfM3ZXWWFqcDBMdzRyR3M5NTdsY3NkTTBoSHpoakJMTUk5UElRS014d3BZYndFZWlUUUYwTTZSajVOYmdPXzVoZ2JSdXdwWm1hNWhEX3R4NVRMRTBfRFVRY09KbnJqeXBEY293MWcw0gF3QVVfeXFMTjRjQjVscmlCQV8zdldZYWpwMEx3NHJHczk1N2xjc2RNMGhIemhqQkxNSTlQSVFLTXh3cFlid0VlaVRRRjBNNlJqNU5iZ09fNWhnYlJ1d3BabWE1aERfdHg1VExFMF9EVVFjT0pucmp5cERjb3cxZzA?oc=5",
      "source": "핀포인트뉴스",
-     "time": "2026-11-23T15:40:31+09:00"
+     "time": "2026-11-23T15:43:07+09:00"
     },
     {
      "title": "원전 르네상스에도 차익 매물…금양그린파워는 상한가 직행",
@@ -128,14 +128,8 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 5,
+   "newsCount": 4,
    "articles": [
-    {
-     "title": "현림로봇, 삼성전기 공급 계약 체결에 주가 30% 급등",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ER0YxTGZvMDRqMVNTYmNsV1NaSmxMaC16U3lZM1NFVVBiTmhvUnFkV2VXdG1adVY2YVVOZXItSXhxdVdSU01TOHlMNGlsZE5xRVI1RjdaWXZTT095TzJfM3owNXZ2d0thc0FBNTE1Tm4?oc=5",
-     "source": "Investing.com 한국어",
-     "time": "2026-11-24T00:17:54+09:00"
-    },
     {
      "title": "휴림로봇, 삼성전기에 자동화 로봇 공급 소식에 장중 상한가",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xMVJNRHlpakNzWW9PUW81WUJ4WnFsaVVWaXAzcDVsMnVvczMyVmVDdmE0dFc4YW1mY2ZYYk4xbVJxeExUSkZieUo2WEQ1TTNZOTdGYnJzbEcxb2FOT01nMlBVc3FQMGxTMk9ZMlNzUHd5dw?oc=5",
@@ -153,6 +147,12 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QRU1LcFZSaC1jdU1ZbWtXVE9DRTBmWVFzbmg4dEJ2ZmJRT0U2TTBuVTBBSXVSeVhYVC1za0llZFE5WkdNNGFoVXp1LXlzdU5SQzVxWlZob1VmNlJEWHlfLU5wMnYydU3SAWtBVV95cUxNZkM5eFlqQzkxM2EyUWJlX2FqbkNoRGtjSF9BeEkzQXhPY19naWRtRGU4Y3BtZm0tTDZIcXc4TTdmNXRBS0g5S0p6emNpSkp5WjZjWTFNZEpMcTBCVzZxUUlPSDBvcXQxRXRZMA?oc=5",
      "source": "현대경제신문",
      "time": "2026-11-23T11:21:57+09:00"
+    },
+    {
+     "title": "휴림로봇, 삼성전기 장비용 로봇 공급 소식에 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CTkVGVFM2LXlTNkFnZUlxdGFYOVpLNTVfZmU1OUpzZGhaMDdkeFJrUDB2dWFOaU9MbjgxeVpkR3ZWU1FTYUtWOWdHS2JzMmtYTEFDRDlTUFJPRnh0RTVMNE9rTXRESi12S3c?oc=5",
+     "source": "뉴스웨이",
+     "time": "2026-11-23T09:58:25+09:00"
     }
    ]
   },
@@ -277,6 +277,28 @@
    ]
   },
   {
+   "name": "SK하이닉스",
+   "sub": "코스피 · 000660",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[MUST KNOW5]젠슨 황은 복귀·SK하이닉스 ADR 20% 폭등…시장 하락 멈췄나",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHVhTEU0WnNSNjRJU2N6THUybVAtZk1wRzN1VWVKZkYyWUxxMG1yWEJMV0dLVmpqdmNpOWhSZnRiWVJDcUc5RGVLRldUQ1B0cm1QQTVUZzNYTEJvSGZEQzJQaDltU2VfbGd4SVFxeEpOUF9Hc2lxeFFDVEFsSDlrXw?oc=5",
+     "source": "이데일리",
+     "time": "2026-11-24T06:58:09+09:00"
+    },
+    {
+     "title": "[글로벌 마켓 뷰] 엔비디아 구원투수 젠슨 황 돌아왔다…엔비디아 30% 폭등…SK하이닉스 ADR도 20% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYkdVZWZoNHRNd2lfT2U3YWlQV2tuaUlnUk9HVmttSmdqUEpDS2x2TmZ0cG8zSXVkU1N4X2d0cS10QTBuakV3RkNFT29NdUg5NzdSTEZJWGxDQmFpQk9EX2g1SURqWlY1U3c?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-23T23:25:44+09:00"
+    }
+   ]
+  },
+  {
    "name": "에이치브이엠",
    "sub": "코스닥 · 295310",
    "pct": 16.0,
@@ -293,5 +315,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-24T04:25:09.172686+09:00"
+ "updatedAt": "2026-11-24T07:37:08.952483+09:00"
 }
