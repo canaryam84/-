@@ -1,6 +1,6 @@
 {
  "label": "11월 22일(일) 국내 종목 뉴스",
- "updatedAt": "2026-11-23T05:55:06.762022+09:00",
+ "updatedAt": "2026-11-23T10:14:24.115761+09:00",
  "items": [
   {
    "title": "[종목 브리핑] 한화에어로스페이스, 임직원 보상용 자사주 매입 완료",
@@ -305,6 +305,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "롯데관광개발 김한준 대표 등 오너일가 주가 반토막에 주담대 비상",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01Qm9pZTN2cGhMTnduZGprUlo0S1dmQnJRd3NjSkViQzFNUnlkWThIVDJ1bmhTeGdVLThQU0JsNDVqLVdMYnRXSHNSOER5YXE1WjFKdm9pS1NMWHRDTnlTVXJ4U25ya0J2b1NCblpCY9IBc0FVX3lxTE1vZ0MwbnhKdXJKUHRXblQwTEV4OVFvbnh2UFJrOE4yY3NRNjBvV3NZWmU2ejdGNjZoQ3N6YlNWWkFZSmVqYTJrd1JCLWR0NTBEeUdSODA4aVV4V2lTZXJKLXNHNHY5YngySjR2RHA4ZE1Rbzg?oc=5",
+   "source": "더 이코노미",
+   "time": "2026-11-22T09:30:59+09:00",
+   "stocks": [
+    {
+     "name": "롯데관광개발",
+     "code": "032350"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "AI 반도체 수혜 기대에도 된서리…주성엔지니어링 주가 급락 무슨 이슈 있나",
