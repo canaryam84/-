@@ -1,0 +1,99 @@
+{
+ "label": "11월 24일(화) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 0.74,
+   "text": "+0.74%",
+   "exact": true,
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnNfeUpscVlseTJ1Tm9meVlOSkNVWWo1dXA5QnRvTTFISldPS1pkeU1OMGJhQnh6UzBsZE9GczllMXJyYkNXWmtWT2N2QmltQXk2VnlORDcySm44RnpCVmVmc2VtN054aWV0OEZpcmNxaE4tNk1RUmNQa2dXWllBYdIBlAFBVV95cUxOd1FOV1lsV1dtQUVYVnZUaFlpUWxadHZBdzBoTW9vbjYyZ3E2eXU1OWJSV213MW9vc282cEtpZnhESThuZjhzdTk0a3dlTkRHaHlrVEFLNmlWS19VOVFMSmxxUDVJTURNZld4eU1lYnFpczRrRDl4S3BWQnJzVUdXQ0dWWE9MSS1CNGZZc0ZrSnlYWmFw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "유에스디에스",
+   "sub": "가상자산",
+   "pct": 205.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[아침 시황] 비트코인 8,364만원…업비트 유에스디에스 205% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRlVDdE9mZmNTTXdNNmRHMDF5UVgxLWpVV1I0NFdmVGVIS29DTjREVjFzVEItaVVNdkloM2JWOC15WmRIRnNJWDQwYlZTcDVhUjZGQmpiT3ZzU0hZa2dkSdIBZkFVX3lxTE0xd1VBOUpmZTVBNGE4Z0NBa3VsOXFXamFMYThDMHdqdjJOdFJPdGpfNWM3SDZEMDhGMmt1NnNlQWlyYjJJcEJRZ1ZjYVUtTTVLamNCZnR5czQyLS1YYlpKV3UxZmlOUQ?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-11-24T07:30:36+09:00"
+    }
+   ]
+  },
+  {
+   "name": "USDS",
+   "sub": "가상자산",
+   "pct": 205.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "리플 XRP 거래대금 1위 복귀…코인 거래액 75%↑, USDS 205% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QVV80V0JnOTBpQUpLUWJsZllQdUhFQzl5dGNKb2pfY1pMVG5vVXJxd2ZMQ01rVVNjZWRTRTU4dHViUEpfaGNadkxPZF9ubllJTlhfRl9URnFSdWxTRFpmRFZESk93Zm43bDhKUTc2eHhLUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-24T08:48:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "거래액",
+   "sub": "가상자산",
+   "pct": 75.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "리플 XRP 거래대금 1위 복귀…코인 거래액 75%↑, USDS 205% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QVV80V0JnOTBpQUpLUWJsZllQdUhFQzl5dGNKb2pfY1pMVG5vVXJxd2ZMQ01rVVNjZWRTRTU4dHViUEpfaGNadkxPZF9ubllJTlhfRl9URnFSdWxTRFpmRFZESk93Zm43bDhKUTc2eHhLUQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-24T08:48:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엑스테리오",
+   "sub": "가상자산",
+   "pct": 39.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인브리핑] 비트코인 소폭 상승…엑스테리오 39% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5naE5CMEdpVmtNNGhTZ0RTLUpmMGtqNlRydXJZbjJWY1ZQbjJpWTFtTlVSci1SemhrR1BlUXBWRmxJNUhvRm1hZzhKY1NFNjVBeVgwb251WkswZjUzQWc?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-11-23T17:46:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "sub": "가상자산",
+   "pct": 35.0,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[코인 브리핑 11월 24일] 엔비디아 31% 급등에도 비트코인은 보합권",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzaHZTTkY0b0ROY294UWVvWFVJamhHMDE3a1VJUTVtOUE1UFMxRUM0YjRxZVRUTmY5SkZxY0ZRM0h2U3daT3RXWVM1dVRTME5GdnctbmJlQmsxR3FZOThpM0c2V29EclJ0SXV3?oc=5",
+     "source": "https://www.standingout.kr/",
+     "time": "2026-11-24T11:02:26+09:00"
+    },
+    {
+     "title": "젠슨 황 복귀에 엔비디아 35% 폭등·비트코인 급등…앤트로픽만 3% 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jOGZmazM4MUZadlczUlNZNUdBc2NhVkFnSXpwTFg0bUdLODdfSU9BWHFDSnlDT0MyUXREaWtPZHpsZm96b0ZFSlNB?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-24T06:26:00+09:00"
+    },
+    {
+     "title": "젠슨 황 돌아오자 비트코인 급등! 엔비디아 35% 폭등·숏 청산 5억 달러 돌파",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XUy1nOXl6ZHhIakVqeWFxM3MzcjNuWmJHOVNfQmRJVW04RTlNN3pYR05CUnpJNUhJby04bVZSQjJSMEpFaVItUUtn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-24T06:06:00+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-24T22:27:02.663245+09:00"
+}
