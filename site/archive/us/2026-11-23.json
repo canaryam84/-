@@ -1,0 +1,131 @@
+{
+ "label": "미국 11월 23일(월) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 3.01,
+   "text": "+3.01%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFVDSEh1VGh1VmR0eDZ6TGRwc3VBdkhIUHp3bXY0ZXF5RnF5TkdJeHdHY1I1OTBSV0tDV2dmRzR3VGpNWllGOVlCQzlSYmlJS3F2MlpBcU1GZm96SGV6TWZoa3IwcFNkRjZBNVpBZWdPWXZvejEyQzQ4eUZfdkEyVWd3SGhzd1M3eE1qbHJIRXp2Xy1ZeS1BdzFHcE9OZW1oMk9Pb0FwejJSZk5JdnVndFp6ejdEWnlNdmp2WXJxVVg1V1gyeHc?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 6.51,
+   "text": "+6.51%",
+   "exact": true,
+   "source": "https://www.theconnectmoney.com/",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DUTVvczBjRFdyeUxRcEF1MVFRRUYxZWctV2xsUkZHVk5FR0g5bVRqVUlHT3B1NTNtWVQ3ZFlxRDhoSExyYnR0UF9SSTZsY2d3V2VQZG5fYm41dWNhaE9ZUQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Nvidia",
+   "sub": "NVDA",
+   "pct": 35.0,
+   "newsCount": 37,
+   "articles": [
+    {
+     "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDlZbVJNTEhVdzU0SzE3azZIRE1jWkpKQndQTWdfTUFnekVvMHpnVHJLSk1IQlU1bkZFcEFKZDZ6UGFuSmhCLWlxeG1XVUg2X3JJZjR5dWRtZ3paN19KRFNfRlZ6MEJJNkVnT1RTVTRIa09kdlF0WjA1V3hyaXVmeDRMeWJZbURub2txekhtMzdwMnVvdzFKTVhKUW5wUEZGMmc2MVMtR0lRQWZocWFoNF9UTHVxNDd3TW9mQjBhN0RhY2N5QXVyMkx4YURZR3RBYnFfbtIB2gFBVV95cUxNeThneEFMSkE1WHY4aWtPUUFQYW1Id055YUhIWHB5NGJURjI1eUVRRm9icXBNa2JIcEVhNTZMUzgyLW5hOFBIbDVnTWNpR2JaWnB2R3lVWlNtX3hhWEdqbXJqZm1oczduYmZ0dnVHUlFUczU1TEY2REdlc2g2U29TZFBiQ0NDanVSRzA5VG8zOV9hcW96ZUtHTDczb2tPbVF2d0dhdGdIUkFwUXliRGtyN0psZzFVVE1XeFVZaG45cEw2eTJ4ZmJJdjZLSHIwTEM4dmx0Ni1DTlRqZw?oc=5",
+     "source": "Business Standard",
+     "time": "2026-11-24T12:11:15+09:00"
+    },
+    {
+     "title": "Nvidia shares soar more than 30% after Huang reinstated as CEO",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfUlJPeVBuWThXUnJweFNhZ0g2anhhVGY1enY1eW5lcnBJVkdzYUI4ZTV2TWxfb2l2Q195Um8tZDdjNXZmWmlHTVZXc2ZNVzZnd1RpTDhPMWd0VEI1U084ME9DVnZGdzNXSGJSSVdWaE5WeWM?oc=5",
+     "source": "CNN",
+     "time": "2026-11-24T11:55:54+09:00"
+    },
+    {
+     "title": "NVIDIA stock surges more than 30% after CEO reinstatement",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXVnTEI2V3lrNHRjbTQteHAyQW81ZWZNcV8yNWcxQzRjSy1hMjctM1FGNkllZlZnbmQ3TWRYaGdIdU5COEFWdFNUeDFkb2xRWTJhU3JHcmgyVTFGWXRlOUtkTERaSTg4Wktud3Uwc3VpMXFhMDJJTWdzVHA5U3Q4WDNmelI0cFN0Rk1mUjAwMEo3YVh4VnVwV2JNT1Zsd1RRbDZKY09NWjh4OGc5eV9BVU9NWk40S1hhVDQwWVM1aHJnemV5U1lHdTN4cw?oc=5",
+     "source": "KGW",
+     "time": "2026-11-24T10:19:00+09:00"
+    },
+    {
+     "title": "NVIDIA stock jumps 31%... market cap hits $4 trillion in one day : Finance : JKN",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ibWJ5dU4zTnJ2a1dXTVJOSk9GVWR6NnhFOEVoNXQtN0NrSnhleEJvRjBZdER0d0RheFdKZTg1T2k4NXdCY3BiN04ybWg2Yy1UZnpzT0hvVE9xalRWcE9oUGdB?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T08:10:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "sub": "미국 주식",
+   "pct": 31.0,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "젠슨 황 복귀에 뉴욕증시 훈풍…엔비디아 31.5% 폭등에 나스닥 6.5% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcDJUYjViUEtOWlhuZlpqdGFWQ3FLMWVKNnhTelBacmRhcWdKWXV5ejRkaDBlVFRJZUMta25zWFJFdmJJRjNNZXdONEhlcVVDazhacy1zTFhORFFPZ1NPZWM4QTNzcVYwY0E?oc=5",
+     "source": "nbn 시사경제",
+     "time": "2026-11-24T09:08:27+09:00"
+    },
+    {
+     "title": "엔비디아 31% 폭등…‘젠슨 황 복귀’에 월가 뒤집혔다",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tMHZBd0E1SGNxVnJ6Z05EVmU0dFBzM0ZIUjdNODV2VWhfN3dCU25qMTFYZWdJMlpsMTJtSnlaM2pKelNJeEJyd0V3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-24T08:49:53+09:00"
+    },
+    {
+     "title": "젠슨 황 복귀에 뉴욕증시일제히 급등-엔비디아 31.5% 폭등",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Qkl2T1hQVTk1Y005TVVnVjdPbVJudm5RNzdpcnZxU040VWdSdV9lU2s3RUh4TlNXOTdQbC1tS2VpSENIYVNHeUQzSE5jS1JhbXZPcU9nTjQxb3FtOERELVk3c1RxT3RlVVNDMkd3?oc=5",
+     "source": "미디어파인",
+     "time": "2026-11-24T08:47:33+09:00"
+    },
+    {
+     "title": "젠슨 '왕'의 귀환···엔비디아 31.5% 폭등에 뉴욕증시 부활",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CM0gxX2RVcVBIaElCYXVxaUtqNjdoT0xGc0FpTEdyc2g5LUNHeFJCQzhDbC03bW5RbGNqN1Q4a2VoT1ZFWWhlRVZhbW1QRlRTemdsaVQ3QkdGYjRWNXJDR3pyTnJPQ2U5bDBOUDJMY9IBb0FVX3lxTE1CM0gxX2RVcVBIaElCYXVxaUtqNjdoT0xGc0FpTEdyc2g5LUNHeFJCQzhDbC03bW5RbGNqN1Q4a2VoT1ZFWWhlRVZhbW1QRlRTemdsaVQ3QkdGYjRWNXJDR3pyTnJPQ2U5bDBOUDJMYw?oc=5",
+     "source": "글로벌E",
+     "time": "2026-11-24T07:41:51+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Kymera",
+   "sub": "KYMR",
+   "pct": 29.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Kymera shares jump 29% after positive midstage eczema trial",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjJza3UtdVJINmNpSWVJOERkUjNYaE1uN0tOY1JHWno3NUtmd3RHRWNvWVJLa05oazhBQ0VpSjhkYmxoZEc1TTI0RzFDdFhnSURrTEZYaW5WNWRLUndCUlUwUGZVNHRvaDloUFZIaDZqemxSNmhYWl9CWGQ2azc0cDg1eFVoOHR4VzEwVGVSbDVid0dDVmxkTUk4RmRobDlSYmNpNHpNTmZtS3Bxem5SVjVJZGNzQQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-23T21:39:05+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Aehr Test Systems",
+   "sub": "AEHR",
+   "pct": 22.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Aehr Test Systems soars 22% amid chip stock rally (AEHR:NASDAQ)",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1F6NmgtNW9IVFZKLS1NZHU1dVJ5QVc4V2dOa2oxX01kUGdRR0w3azJHV2NKRnBHSzBCRXBhZXVCUGlKb09wVnhVaXBYMHdQZHI2TlRzQ0p2Q2lVVGtKa3F4NGVaMzdLTzhmeTJ2Nm5pY2hjeWJJSEI2R0ZOZEV0aERWcGZUVXcyU2YwZ3FmMA?oc=5",
+     "source": "Seeking Alpha",
+     "time": "2026-11-24T06:47:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Dell",
+   "sub": "DELL",
+   "pct": 21.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Dell stock soars 21% ahead of earnings as Nvidia (NVDA) rally fuels AI boom: What to expect from Tuesday’s",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTXU4dU0wVDIwYnduZE5sSm56MkFXV2pnb2JNLVBlcjg5M3hvVzdhVjM3UkdWM2N2N2ktZGZLcmlmX0JEVXFRbkVYdWU3a0RqSGprLVZGMExCTGhlYi1XeWJ6dFpPRjlhWmkyc0RPY2dvVF9MQjFQdDN6V0pYcEcxX05RcVo0SzF4RjBrQ3pDcHNUdUhFV1pQWXlKUlFETmFCRHhQSEkzUFh2N3J4YWpBUWUwcS1TTU01Ujlkc19fWHRkMGduZWJfWndhdXRfMzRzZUZTeUZsLW9TZElnc25DQm90ZGNSUll3clhPa2FFc3YweVdGZ3hXYWdFLUNuVTdJME55U0l6TkJ0X1NBeWfSAZMCQVVfeXFMTlkwaUF4WXZkRGxVVW4taVVzNDNoalRNTUV2TVVucHBJRmR2UzZwenVHOV9Dak1BU0VjT2dPUV9QZGFwdEk1Q2RLbHhyUDQxR0tPaXdfdENETmNVNEg3aGZUbEh2THpHTnExSnNSMXo0WUV4RkV5M1lzMmN3SDh3dXJyUUhiSHBzRWhkVjI5VVk4ZkpwOHJTS0xqb2xreDRHaDhUSlBjU2hIcDU0dXpHeklSM1VoSC1zLVJVWjA0UjFLNDhQdzhONENSd1JONUZ6WDBsak94M3A2cmJWbVhmTWN6ZjJ6SVJCQ2E1dG9McmZqMFlrcnJDaHRST3I5ZnFQSWtpRkdzUE9UZzFLbC1GWTByRFk?oc=5",
+     "source": "The Economic Times",
+     "time": "2026-11-24T04:20:57+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-24T14:47:10.909347+09:00"
+}
