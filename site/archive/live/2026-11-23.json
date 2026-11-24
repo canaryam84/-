@@ -1,6 +1,6 @@
 {
  "label": "11월 23일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-24T15:54:17.876442+09:00",
+ "updatedAt": "2026-11-25T03:28:01.215823+09:00",
  "items": [
   {
    "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
@@ -455,6 +455,20 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "[특징주] 증시 급락에도 로봇주는 달렸다…휴림로봇 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15SDZNeFNuYnlRT3FZZzB1NmpfRHFGVEZndVBqczg1MzlGR0lrOVBOc1M3Nk5iSFVmbk9JeGRVWUUzQjB1Q1lGbVFGUG5uWnZZTEYwd21vT0RCNUVTdEhjZnlsSTZrNU82c0E?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-23T16:04:33+09:00",
+   "stocks": [
+    {
+     "name": "휴림로봇",
+     "code": "090710"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "“카모 상장 약속 지켜라”… TPG, 카카오 상대 1.5조 국제중재",
