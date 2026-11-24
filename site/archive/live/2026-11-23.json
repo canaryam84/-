@@ -1,6 +1,6 @@
 {
  "label": "11월 23일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-24T13:08:04.355984+09:00",
+ "updatedAt": "2026-11-24T15:54:17.876442+09:00",
  "items": [
   {
    "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
@@ -323,6 +323,20 @@
    "dir": "down"
   },
   {
+   "title": "최병홍 전무, 에스씨디 주식 7100주 ↑…지분율 0.06%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0NDZ3aVMyWjNJbHlpdEl6ZXdSeEVhQkl5enQyVDZ3NGZwNzFiZ055QlVoYUZhVWlWR1JrWlNOVVppLTBvelcwTkJESG1aT0FTTGlBdmQ0c2I5ZmFIRkNLWGhob1FrdFZZZl8yODl5dXFGS1E?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-23T16:49:34+09:00",
+   "stocks": [
+    {
+     "name": "에스씨디",
+     "code": "042110"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억 규모",
    "link": "https://www.hankyung.com/article/2026112348146",
    "source": "한국경제",
@@ -415,6 +429,20 @@
    "dir": "down"
   },
   {
+   "title": "오영근 상무, 원익큐브 주식 5000주 ↑…지분율 0.01%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52X2I3eW5ERFU2cXVYdG92N2dxeXZER20zTzBDUzkwa3FOb1hxT1dmZnFpQ0dKT1B5OFJGZ2lSeTE2bjdxMXZBWTJVRjd4Y20wYjY1OEJibFhrWDRNczVyZXA4QlJPd3F1XzJ3aWxUVGRONFU?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-23T16:05:53+09:00",
+   "stocks": [
+    {
+     "name": "원익큐브",
+     "code": "014190"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "[특징주]에이피알, 기관 순매수 속 9.13% 오른 채 마감…한중 FTA·美 아마존 호조",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZXJ0STliYmJucGNYNHM3alVHQTZoVXVLUmFIOVI3RUh3d29pMU9BX3A3SkxBWmxyZzZCQXZfSTlsYmlVYW1ZTWtYMkJaZmpZdVR4MzJUSTRXZ0lTOVdZOVdVOTN3cktMQjhJRdIBcEFVX3lxTE05U2dkdUFCNHlpdzFoZHZaZG5Mdy13UG42MC1JODZxSjVvbXhnSzByeDBIbGN5bXEwdnlmdHYzb3A1LXEwSmIzRVlhRTZkNHNPR05RZTZGNlNlbk5sU2xSWHpncWt5cVhPUW1TX2U2T1Y?oc=5",
    "source": "남도일보",
@@ -440,6 +468,20 @@
     }
    ],
    "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "김진성 부사장, 휴럼 주식 1만9200주 ↑…지분율 7.20%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GTU85T21JUVM3ekRoSWVPUzdweU93eVRvV0J4cm5ScXB4RVlrVnBnWGtTcHJNQVE2V0FmbnZUdzRobE1GNjVDREQzcGVDTGFpMEFKZTE5dmRXel95TVd1ZVZiQ2JPR0NDNHVGLUp6M0k5bEk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-23T16:01:36+09:00",
+   "stocks": [
+    {
+     "name": "휴럼",
+     "code": "353190"
+    }
+   ],
+   "thin": false,
    "dir": "none"
   },
   {
@@ -1197,6 +1239,24 @@
    "dir": "down"
   },
   {
+   "title": "[특징주]휴림로봇, 삼성전기 로봇 공급 본계약에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mQzl4WWpDOTEzYTJRYmVfYWpuQ2hEa2NIX0F4STNBeE9jX2dpZG1EZThjcG1mbS1MNkhxdzhNN2Y1dEFLSDlLSnp6Y2lKSnlaNmNZMU1kSkxxMEJXNnFRSU9IMG9xdDFFdFkw0gFrQVVfeXFMTWZDOXhZakM5MTNhMlFiZV9ham5DaERrY0hfQXhJM0F4T2NfZ2lkbURlOGNwbWZtLUw2SHF3OE03ZjV0QUtIOUtKenpjaUpKeVo2Y1kxTWRKTHEwQlc2cVFJT0gwb3F0MUV0WTA?oc=5",
+   "source": "현대경제신문",
+   "time": "2026-11-23T12:10:24+09:00",
+   "stocks": [
+    {
+     "name": "휴림로봇",
+     "code": "090710"
+    },
+    {
+     "name": "삼성전기",
+     "code": "009150"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "한미약품, '에페' 흥행에 주가 상승...비만 신약 앞세워 재도약 노린다",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhNHluSHgtcElESzE2TVF3Rk03R2k4VUdFTlhGaUsyZS0wTkZTNTJtRTI0MUlWb25JN3UwSXJpWEk3dGE2djMzUURXY21VTFQ2NjU0cTJkWjNXaGdFQUg2NQ?oc=5",
    "source": "증권일보",
@@ -1389,24 +1449,6 @@
     {
      "name": "IPARK현대산업개발",
      "code": "294870"
-    }
-   ],
-   "thin": false,
-   "dir": "up"
-  },
-  {
-   "title": "[특징주]휴림로봇, 삼성전기 로봇 공급 본계약에 상한가",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QRU1LcFZSaC1jdU1ZbWtXVE9DRTBmWVFzbmg4dEJ2ZmJRT0U2TTBuVTBBSXVSeVhYVC1za0llZFE5WkdNNGFoVXp1LXlzdU5SQzVxWlZob1VmNlJEWHlfLU5wMnYydU3SAWtBVV95cUxNZkM5eFlqQzkxM2EyUWJlX2FqbkNoRGtjSF9BeEkzQXhPY19naWRtRGU4Y3BtZm0tTDZIcXc4TTdmNXRBS0g5S0p6emNpSkp5WjZjWTFNZEpMcTBCVzZxUUlPSDBvcXQxRXRZMA?oc=5",
-   "source": "현대경제신문",
-   "time": "2026-11-23T11:21:57+09:00",
-   "stocks": [
-    {
-     "name": "휴림로봇",
-     "code": "090710"
-    },
-    {
-     "name": "삼성전기",
-     "code": "009150"
     }
    ],
    "thin": false,
