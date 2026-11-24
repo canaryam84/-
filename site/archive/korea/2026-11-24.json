@@ -1,0 +1,357 @@
+{
+ "label": "11월 24일(화) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 6.32,
+   "text": "+6.32%",
+   "exact": true,
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR2QxV3dmYjZ6VWVuVk9URHdaRk52UU1BVXNfeE0zZzFGQW1zTUdfdHJEUVZJQnVTcWwxeGxZVzNvdTJjUnh5Y1pVQVdaRGoxOVM4azZZUEVWa2o3UV9iajBJb0lXQUptNHlFc0pGaGpmR1BxUHRkT21NcDVpbXU2ZkhjTjFQcWMy0gGcAUFVX3lxTE1PcXh1bjNKV21iUUVsT2l0MHc3TW02aXlhTVJYUUdRR0p4ekZ2UlBCeHVCTGxlUUU1SkI1VjU2TklubjBXTUxfc0sybFBqWlFuUThtZzg1Vi1yaF80THhNVzUyMFJYRjhuZHhLc1pDbmNZNnNIUk5XcUtTenVXZWNad2E0Q091WHhTQUZ2ZjAyQkZ4TUF2S2h1THdweg?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 4.79,
+   "text": "+4.79%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfOXYxMFN6ZGx0WEZ0VExlcWQ4UFdTaGxEWGs1NzdOam85UWpwQjRGcXZvZTlacFd2eHhVb2FQNENmRFRVQ0VPNk5IS1AxaTlUUlcxV3czUHVpU1U?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "현대오토에버",
+   "sub": "코스피 · 307950",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 12,
+   "articles": [
+    {
+     "title": "'깐부' 복귀에 현대오토에버 상한가…로봇·자율주행 기대까지",
+     "link": "https://www.hankyung.com/article/202611247092i",
+     "source": "한국경제",
+     "time": "2026-11-24T16:27:15+09:00"
+    },
+    {
+     "title": "[특징주] 젠슨 황 복귀에 현대오토에버 상한가…엔비디아 GPU·피지컬AI 수혜 기대",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sT2ppaGd1a2FoMkRkTmRGMnM4RFV5SWpJOW1fUGo0bE12WGFYekViNzJva0tqYjNaWkIxVDMxT1FMTVgxb195X3R6MWdjVGVZSmdxcEx0OUwxN2l4T0RaRVZCNFN5R0Q3OXc?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-24T15:56:51+09:00"
+    },
+    {
+     "title": "[마감분석] 현대오토에버, 상한가인 36만 2500원에 거래 마쳐 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rWTdKbkZSUl9LME5WMC1ITWQzTUZMOGtQVDJoWFA0XzhYcWl6WnRPUVVUdEFfNUs3ZW9pNGYtd003R1RuLVZGTTFYSQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T15:48:05+09:00"
+    },
+    {
+     "title": "로봇으로 번진 엔비디아 훈풍...현대오토에버·휴림로봇 상한가",
+     "link": "https://www.hankyung.com/article/202611247185i",
+     "source": "한국경제",
+     "time": "2026-11-24T15:41:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "휴림로봇",
+   "sub": "코스닥 · 090710",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "휴림로봇, 이틀 연속 상한가 행진…대기업 자동화 사업 기대에 7430원 마감",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rQ2ZiM1pLVk1PQ1FONXVZTEZDOHgydmtNWG5WWUFSQkR1TmI2OU5zWjlSVVQzazJFSDdPOVRvZERWbkczcXRob0tSX0poXzFwRFUyREw5TmlvOG1mQ3JRYjRCaFhBRFE?oc=5",
+     "source": "제민일보",
+     "time": "2026-11-24T15:42:26+09:00"
+    },
+    {
+     "title": "로봇으로 번진 엔비디아 훈풍...현대오토에버·휴림로봇 상한가",
+     "link": "https://www.hankyung.com/article/202611247185i",
+     "source": "한국경제",
+     "time": "2026-11-24T15:41:39+09:00"
+    },
+    {
+     "title": "[특징주] 엔비디아발 훈풍에 로봇주 무더기 급등…휴림로봇 등 5종목 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LOFl5WUg1d3lwQUZ6bldnNHc3Q3J6R0NpZ2xtYmdkZlRFaml1d0lsdkNZY2l2TDhFbHRlWW84dHJyRHZzSXRCbEJtcVFkSVpNMHFPVFJ3TXBjQdIBWEFVX3lxTE5lckJ5akJycmtyRks3VUFGd1ZWWm9tR25RdVF2bzhhSzJhMkdjZWk5VC1WTFJ0TFQxSWpPSGxmYWhfQllQMXBpQzhXYWg4TDY2Y2pkWmZRaGQ?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-24T13:45:14+09:00"
+    },
+    {
+     "title": "휴림로봇 상한가 7430원…거래 2154만주 속 실적·증자 이력 점검",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tVkJSY2M4eWFCbHJhb0QyRVJWU2lCVWdyLW5CUTVuNWx0S3gwQ3hXTHNqdDBmTnZFUTRlRGJwVUt4Zms1bDVKdHZoLTh1Wi1rUWtZSS1vaW1BbVRtR3VkZm0wb21EMnZ1LTR5bGhB0gFyQVVfeXFMTURUTFNFbEt4UTFkUkNfVEJwWXNOeWpIU3hwblp6czJCNDhNaDl0dUJQZ3NTZlJqUWFvYmU0UEdFY2lIbF9JVWNDR0FldndGbU9EVmRmY1F3WEpiX0JWM3Y1MmE5d2lnLWM1alI3YmFOVlh3?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-24T13:31:51+09:00"
+    }
+   ]
+  },
+  {
+   "name": "KH바텍",
+   "sub": "코스닥 · 060720",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "[단독] KH바텍 12190원 상한가 직행, 공시 없는 급등세 검증 - 폴더블 힌지와 전장 부품 모멘텀 속 수급 쏠림 진단",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rUVpLeFFpYmlZaDR6SmhpSmh6YUxlX09lZFBmWTR4YWxFcmlaRWZRNk84aXBsTGJHczNCQTM5S3FVUktyaGNVVzBsMWJINzU1M1kzclg5M3dQbTVWTFV1dl9mMXZpamR4Q3ZTaWFjeVFSS3QySnfSAXZBVV95cUxPa1FaS3hRaWJpWWg0ekpoaUpoemFMZV9PZWRQZlk0eGFsRXJpWkVmUTZPOGlwbExiR3MzQkEzOUtxVVJLcmhjVVcwbDFiSDc1NTNZM3JYOTN3UG01VkxVdXZfZjF2aWpkeEN2U2lhY3lRUkt0Mkp3?oc=5",
+     "source": "데일리머니",
+     "time": "2026-11-25T00:42:47+09:00"
+    },
+    {
+     "title": "[마감분석] KH바텍 29.96% 급등하며 1만2190원 상한가 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdzdkVndENFJhV3RvOTQyMUFrNjE4WGtZdHN3SWdFVUJRRDdISFlzRE1ReG9xMkVzNzBqR0pmOXlLYUw2SUxEZzhuVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T15:47:56+09:00"
+    },
+    {
+     "title": "KH바텍 1만2190원 상한가…거래량 20일 평균 20.7배",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PeU1Qb0JhRXpxaUhfWktDYXo5WXh2eDBvYklkME1VQ3BHYUhHdnAyYlUzdmMyMnI3bWRaajZ5eHlOMWJiemg0R2xMY0hwVXV0azdZc2ZyQUVWWUpWdDNoeXN3Q0dDZw?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-24T12:18:08+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 애드바이오텍·KH바텍 상한가...AI 서버·로봇주 동반 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KS3VKcVR5SlJtRDJDSmstaDJpbERXS25vblotR3lzZVl1MjhYdjlXclM3TnF0bjZ6Sl9nb09XbjAtU3F1S1J6dXBwME95dFdoSkhJdmpxNzFmTm45Nkh5NzhRTXg?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-24T10:27:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한국피아이엠",
+   "sub": "코스닥 · 448900",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "한국피아이엠 상한가…자동차·IT 금속부품 수주 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBQ0EtQW1NenZDRW9rRTdlX21ZYVJUOU9YbWJRSnBiLTFrZWtVTC1nNWIzcHBGT0Z5ZGMtOUJsbkRiVzRGRTg3QnhJVDMySzlvS25hckdWX05RN2ZvcDM4eTJQcEx5VWUtQ2JwVlRGSkg3Z9IBckFVX3lxTFBBQ0EtQW1NenZDRW9rRTdlX21ZYVJUOU9YbWJRSnBiLTFrZWtVTC1nNWIzcHBGT0Z5ZGMtOUJsbkRiVzRGRTg3QnhJVDMySzlvS25hckdWX05RN2ZvcDM4eTJQcEx5VWUtQ2JwVlRGSkg3Zw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-24T15:49:42+09:00"
+    },
+    {
+     "title": "한국피아이엠, 오전 장중 5만1300원 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxQzQ2N1BkSHQxTnhETmVLbGhiSjBLNHhYRnpZSFAtbmtsTVBOUjBKMnJrNjdFNjZDNDN2bmpab0V5ckdwelZoQWlxMFVkZERkbVpBVG0wUTF1UDZ4eENzek4wajBVUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-24T12:41:03+09:00"
+    },
+    {
+     "title": "[특징주] 한국피아이엠, 피지컬 AI·로봇 테마 급등에 28%대 강세",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jU1lvdlhBRkhPZVJzUHdXQ19BRTJJaFBBNjE1d0RObHZ4MHV1MC1JQWdXNkMycVZsWnFpUE1QR0hXUEJWZlJJUHFYY2w2UFVWQk5wUElHZGU3blFsRUdBSHpGV2ViQU9GaFhiTQ?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-24T10:07:09+09:00"
+    }
+   ]
+  },
+  {
+   "name": "애드바이오텍",
+   "sub": "코스닥 · 179530",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 애드바이오텍, 중앙아시아 K뷰티 진출 기대감에 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSHZFTk45QlBHYzBOTVF0WDBvbGNEMXp1dFV4bkJVWnNKbVhPaXdDUGVRRDFDWHFxVUdPWnNEd01xT2E0al9OMXQyUXh0RTNrTmRYXzl5c09VWG5SbGdiNExBZkFnSTZkUDRlcA?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-24T18:24:51+09:00"
+    },
+    {
+     "title": "[오늘의 특징주] 애드바이오텍·KH바텍 상한가...AI 서버·로봇주 동반 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KS3VKcVR5SlJtRDJDSmstaDJpbERXS25vblotR3lzZVl1MjhYdjlXclM3TnF0bjZ6Sl9nb09XbjAtU3F1S1J6dXBwME95dFdoSkhJdmpxNzFmTm45Nkh5NzhRTXg?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-24T10:27:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "바이오인프라",
+   "sub": "코스닥 · 199730",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "바이오인프라 1687원 상한가 돌파 뒤 수급 과열 해부 - 자회사 흡수합병 완결과 임상 수주 회복 기대감의 만남",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vYjJodkFGTVRRZmVqaWtfUG8yUHB0dXJVaWJUX1ZXMS1IV1ZuODNFYlRmcGpVd2pfT1o5VUhiT01pMVJVV1hzQW1Nd0lSMUlYYXJFYmJSR2czeU9GRmFlQmVQN0FJUGtwVzlEbTFaenNuTWE4RGfSAXZBVV95cUxNb2IyaHZBRk1UUWZlamlrX1BvMlBwdHVyVWliVF9WVzEtSFdWbjgzRWJUZnBqVXdqX09aOVVIYk9NaTFSVVdYc0FtTXdJUjFJWGFyRWJiUkdnM3lPRkZhZUJlUDdBSVBrcFc5RG0xWnpzbk1hOERn?oc=5",
+     "source": "데일리머니",
+     "time": "2026-11-25T00:42:46+09:00"
+    },
+    {
+     "title": "바이오인프라 1687원 상한가…CRO 수익성 회복이 관건",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUms5NC16YTJacjFUQjJ0T05LMGtfc3B4ZlBqcFF0Vm1wb04xQ0FDUlQ4V1loSmNDcjAzbFc1aFBzYVdYc0dpSFh3ZDBHaFNwUzZsUlBoYjRyTW1LMnkzMU0zblJLam01Qlh1RG5iRWNwZ9IBckFVX3lxTE1CUms5NC16YTJacjFUQjJ0T05LMGtfc3B4ZlBqcFF0Vm1wb04xQ0FDUlQ4V1loSmNDcjAzbFc1aFBzYVdYc0dpSFh3ZDBHaFNwUzZsUlBoYjRyTW1LMnkzMU0zblJLam01Qlh1RG5iRWNwZw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-24T15:48:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깨끗한나라",
+   "sub": "코스피 · 004540",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "깨끗한나라우 상한가 마감…보통주와 가격 괴리 점검",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wT3NVTDFqUWd4Yk9YZWRlOEwzT1BPcjhWRFp1VU1mMDliMFhMRDVnWG53UDRzUl9Hb3lVSDlwVkU3dXFyVUNDczlUUXpzMkV4TkdqUzhLeldxdXc5NFpUNG9VeE9jaElGdE1mc2Z30gFyQVVfeXFMUGJtdjk1aWNuTGVKMFAwQ1hHb211WVBIbkR1YlQ0TkUzLUUwYVVOS3JkMnkyLVhBUXFRcUljVXVIM0FCOGJPSUcyY3k5WmtiVUJ3WVg3TzVGdWNLRmVUQTlrT1VNMnh2OHk4MmcxQjdfUnR3?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-24T15:46:38+09:00"
+    },
+    {
+     "title": "깨끗한나라우 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wd1lTNG1CYThXdkk4T090V1pJRUVpbTBYMjFWMkFtXzAxY3kydFo2QjBrelRyWkM3aVNQd2JCSm9uN2tnUG5aQTVBY0dDMHlROVl5b2xPanhmVlFGRDYzblBaaVR3LUlXa2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-24T10:15:01+09:00"
+    }
+   ]
+  },
+  {
+   "name": "액트로",
+   "sub": "코스닥 · 290740",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "액트로 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSDZaYTdhNW5kV2ZSVGJrV0xIbTB6ckpRMzdjS181bmFNbDdXcWdrVXQ1SjV0cE1PalZtRERLeERXaU43dFhvRGpVSlh5WDl1eFRpT2M5WThTVU9JNWxuck1ZdzVPNlZaVFE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-24T11:07:28+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아이티엠반도체",
+   "sub": "코스닥 · 084850",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "아이티엠반도체 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrNklPT20zWWlpLU4xdzI5eEpjclV5Wlc0NmhLcmthUkUtWTBsZm84dmZIdDhWY3JfQ2JMUXZvNUFYa1N3TTYyMExoeGJIWGUtY3hGa0JUSkJwam9xdEJHRl93RVdvbWVGNHc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-24T09:15:33+09:00"
+    }
+   ]
+  },
+  {
+   "name": "모베이스전자",
+   "sub": "코스닥 · 012860",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 모베이스전자 상한가 기록 2285원 장마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwdEtPRUN5QnZHeldteDZuMkdueVlwQjdPcVV0dFpxbE1hdG5sTkVkS25PVUs5d3RGMkE1S1RMVjM2aFV3RGJ3YWl1bw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T15:47:36+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아모텍",
+   "sub": "코스닥 · 052710",
+   "pct": 23.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 아모텍 23%대 급등 1만2740원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ucmRvLW9IaWw2Y0FLWWxyX3NuRzFuMW91YWZTVlNuS2lYNm4zWmh0T1RZNlU3LTlkcXoyWXlwMXEza2k1RlM3cGQtVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T15:48:42+09:00"
+    }
+   ]
+  },
+  {
+   "name": "유진로봇",
+   "sub": "코스닥 · 056080",
+   "pct": 20.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 유진로봇, 20%대 급등하며 9530원에 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R3V0bXNrR2hPdmFoMGdNMlUzQzZxQlFHTXdoOVBqMW5JRDVwQmp1V3B4Q2dYQ3FYY3pOaHFmal82WEJhaUxYLU1XQQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-24T15:48:59+09:00"
+    }
+   ]
+  },
+  {
+   "name": "두산",
+   "sub": "코스피 · 000150",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] 엔비디아 관련주 두산, 젠슨 황 복귀로 투심 회복…17%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jaUdmakpSQ0hNOV9UcFFpUFluX096a3Q5eWQtNWlVa0ljaVBrYUljN19ZNElGSW1KUDdpbWRaamZlZmIxeGpaX1Z0TkRXdW5xQjM1cnhIanhWQdIBWEFVX3lxTFBEQURfdkx6bzQxM3BOeDBMNW91QU04VGM4UDdKdGU5czlRY05nZ1JBakl4MkVLZVhxZ1A3MjFiczQ5MjNlOXJUQmJvclJiaDhkWlAyVDBGMV8?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-24T10:15:25+09:00"
+    },
+    {
+     "title": "[특징주] 두산, 젠슨 황 엔비디아 CEO 복귀 소식에 16%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44M01lSGdLNVQ2SklmZTZRcHVITjFwNzQzaWZ0MmFFRy1ublVOX0txVGhZUmhWSzFiSDY3QnZFa1NfbVB0WjJ1UkVTeHk4WHZtSXBrVVl1bkhlUQ?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-24T09:38:00+09:00"
+    },
+    {
+     "title": "[특징주] 두산, 젠슨황 엔비디아 복귀 소식에…16% 급등",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/24/KPNBBJ644BC33AY5BKGUE7RMLY/",
+     "source": "조선비즈",
+     "time": "2026-11-24T09:31:36+09:00"
+    }
+   ]
+  },
+  {
+   "name": "LG전자",
+   "sub": "코스피 · 066570",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[특징주] LG전자 주가, 젠슨 황 복귀에 15%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xcC1DQ2o2UjRoMXpiMm1tUWNNTDY4emhPRDF3Z05IUzYtNExpaHpUYnJRMFI2SXU1YXJOTFJ2ZU9VX3FyRTNldVY4V01zQWxZQkV6WVRnUnlwX3A1QnJHV1ZQOE1ydFpJUlE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-24T17:48:24+09:00"
+    },
+    {
+     "title": "[오늘의 주목주] LG전자 주가 15%대 급등, 코스피 '젠슨 황 엔비디아 복귀'에 5천 선 회복",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EbHFIRTRoNlJFVHU1V3E3R2F6MF9CT0VMQWhuYnhXZ3I3ci1hdU9aaklJM0h0SWN4QnVWRWZQRFQ2SzdEQzREQ1dQdGJ0LTNaUGI0UFZZbEd2dVd2MWFmOUdNZkhpMkgyMHRhclFVZGdSaHc?oc=5",
+     "source": "비즈니스포스트",
+     "time": "2026-11-24T17:45:29+09:00"
+    },
+    {
+     "title": "[특징주] LG전자, 젠슨 황 엔비디아 CEO 복귀에 16% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZWWlJWGVDUHpFaTJQWHJGSzdPcnBKaWJhS194Tzh2Wnl1TFh6aWNQODg5VGNKQ3YtUHRteEJUaG1QeHFHQ0NjdmJfU0szMGdneV9SVTNYQi0tUdIBWEFVX3lxTE9sSHpoUGN6OExiaGM2M096cmtITFZLUXhhRk0zcURlc19OcU81M1lDa0FoYVlDUzZLZGEySmM5V3VrX2JLd2RWcEJ1N1JmZGtVY00xUS1EZTc?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-24T14:03:17+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-25T04:01:27.486752+09:00"
+}
