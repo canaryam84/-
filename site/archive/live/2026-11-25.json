@@ -1,6 +1,6 @@
 {
  "label": "11월 25일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-26T00:58:18.372839+09:00",
+ "updatedAt": "2026-11-26T02:42:01.761212+09:00",
  "items": [
   {
    "title": "미 10월 근원 PCE 3.3% 상승⋯예상치 상회에 ‘끈적한 물가’ 지속(상보)",
@@ -139,6 +139,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "삼성전자 주가 급락 속 장기투자론 부각",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHdUNFlNbVFSV19rNDB0WktaMVdKRWZRaEphRFkwUTh4X2ZybnpBVmJ3c3lfNVdmMEhJWW5aeDF0WHlfLWEzZFV5dWR3cFpMdnRTNGVWVHBQU0Y4clA4N1VZQ2RHdnVIUXE3dldmU3FhS0xCd1VxVFNfWkNTV1NXVXVKb3dVNkl4cEZDbFNxZmtmTXNlV1hKald3?oc=5",
+   "source": "Traders Union",
+   "time": "2026-11-25T18:36:24+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
   },
   {
    "title": "“삼성전자 망할 것 같아요?”…존리, 주가 반토막에도 ‘오히려 찬스’라는 이유가",
@@ -683,6 +697,34 @@
    "dir": "up"
   },
   {
+   "title": "티와이홀딩스우 3460원…29.83% 올라 상한가",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVG8wZTZJelZxMnJSS2dBMnJqbExEYXlWd2RkdjBIUlJuZElsdFBZTjh3YTlwXzRJVFQ5Y2NTM2UxSkZoOUhKQXZtWWFlMTZuU3h0cmMyNWhBREVOZG1OeTFzajQwNi1yQS1oMk8xazRlQdIBckFVX3lxTE9wVG8wZTZJelZxMnJSS2dBMnJqbExEYXlWd2RkdjBIUlJuZElsdFBZTjh3YTlwXzRJVFQ5Y2NTM2UxSkZoOUhKQXZtWWFlMTZuU3h0cmMyNWhBREVOZG1OeTFzajQwNi1yQS1oMk8xazRlQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T15:43:49+09:00",
+   "stocks": [
+    {
+     "name": "티와이홀딩스",
+     "code": "363280"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "윙스풋 4125원 상한가…9만8998주 거래",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZ9IBckFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T15:43:06+09:00",
+   "stocks": [
+    {
+     "name": "윙스풋",
+     "code": "335870"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "특징주, BGF리테일-편의점 테마 상승세에 6.75% ↑",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5M1RXNHhSM19OLTdZZEN4ckNGb2hzNjhPMGdjaXhDb2JYWFNORVJESEdrZjJnazFLOUJGQy1YeXE2YXlJVnFqVW01M0JUQ2xSV1E?oc=5",
    "source": "매일경제 마켓",
@@ -823,6 +865,20 @@
    "dir": "up"
   },
   {
+   "title": "파수AI 장중 상한가 7550원…635만주 손바뀜",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84bTQ3ejMwd1BFb3l4MDFBeHotak5vOGxnZjNxclFGOExPbXl5N2dGTGRSVTY0NXI2M1FYZlFBNjV5eXY1ekJoZkpjaDJGa0MyVE9UMXdXVDNjaTVYNVRGWXVCb1VpbkFxVWF1cGduc3Nad9IBckFVX3lxTE84bTQ3ejMwd1BFb3l4MDFBeHotak5vOGxnZjNxclFGOExPbXl5N2dGTGRSVTY0NXI2M1FYZlFBNjV5eXY1ekJoZkpjaDJGa0MyVE9UMXdXVDNjaTVYNVRGWXVCb1VpbkFxVWF1cGduc3Nadw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T14:17:51+09:00",
+   "stocks": [
+    {
+     "name": "파수AI",
+     "code": "150900"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "필라델피아 반도체 지수 다시 급락, 삼성전자 주가 전망과 마이크론 투자 의견 하향",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeG1IXzhYSmpTZkN6NW4tcHNHTDJBb0I2RF9SeTFlX1d0RHlXRjR1aEY3MFozcG1wcWlFdHRxZW9NWmh1SW1IQXlPM1laSFpBbk1qei1Zb3kxX0xuSVA3REtaLUR0eG8tQUJ6S1hNNlVYVzk5LXRFQ283WHFzZVdiTXZPQQ?oc=5",
    "source": "네이버 프리미엄콘텐츠",
@@ -922,6 +978,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "안랩 장중 상한가 15만7900원…거래대금 2652억원",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xX1gzeFB5bVhRUS1oSXVJWG56UHR2OHktT2hLRG44WUFuaU5CNFBKREx3ZV83NDhHRC1kWWw2U25JcVhxbnpTdmVVV3c4MnREbkNnTlMtMTZ0SFE4c2Mxak0yb3BnQzJyYzdoa3pzMm9QQdIBckFVX3lxTE1xX1gzeFB5bVhRUS1oSXVJWG56UHR2OHktT2hLRG44WUFuaU5CNFBKREx3ZV83NDhHRC1kWWw2U25JcVhxbnpTdmVVV3c4MnREbkNnTlMtMTZ0SFE4c2Mxak0yb3BnQzJyYzdoa3pzMm9QQQ?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T13:57:36+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
