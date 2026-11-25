@@ -1,6 +1,6 @@
 {
  "label": "11월 23일(월) 국내 종목 뉴스",
- "updatedAt": "2026-11-25T03:28:01.215823+09:00",
+ "updatedAt": "2026-11-25T11:42:42.239771+09:00",
  "items": [
   {
    "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
@@ -1013,6 +1013,20 @@
    ],
    "thin": true,
    "dir": "up"
+  },
+  {
+   "title": "극동수산(주), 한성기업 주식 5만6246주 ↑…지분율 18.49%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTnpScTdZMEVweFFDY0tZdVhIaFh0NmJ6ZHdta19rMmFnaTlPTkVnakpXZ3YyM1ZoYW5IYXJ5MlliSGxqWDlhU204ODhOYmtFajViZVNxYThIcDIwcjBLT2ZQTHI0QTRsTmhjNWtJME9BNUk?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-23T13:40:19+09:00",
+   "stocks": [
+    {
+     "name": "한성기업",
+     "code": "003680"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "김세훈 독립이사, 동양 주식 1500주 ↑…지분율 0.01%",
