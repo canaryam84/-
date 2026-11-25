@@ -1,0 +1,351 @@
+{
+ "label": "11월 25일(수) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": -6.16,
+   "text": "-6.16%",
+   "exact": true,
+   "source": "네이버 프리미엄콘텐츠",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlvcVI5NV9GeXp2OGZtNTZVbGc2UFR2amc0Vm1JNEVPWTl4WFlFcDdaazRnRDRqU1JEb2lNMVJjLWpOMjRkaEs3U2ZwWmktcGZ3S1YxYk40Qm9TeWlhZnBuMGRPSjFDSC1CeFJZSVZoMUROdjBONW5mLTNuTmo3MGI2ODdfTXpNTFFNZ1ppd2I?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": -2.29,
+   "text": "-2.29%",
+   "exact": true,
+   "source": "마켓인",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XXzl3X0dkSHQteHM5cFBfSDVmWlJaTXBrU2tCRFRoTUtwRG5pSWVnalc4alh4cWhjblpEWU83M2VRZGpXbDFpbk9TT2E5TmtEZTQwNkxrVzJnR1plMmR3aVJzOGZkYVpsMXVydDlpbmhHTDg?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "안랩",
+   "sub": "코스닥 · 053800",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 10,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 안랩·파수AI 상한가…CIA 해킹 소식 속 급락장 역주행",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNjJUSHdQZ1hwckdSaDBRbGh4Ui1YSnJ4elJLZTRVaFdGOG4yY0ZqN19faldUMHJ3R0Nzb0dsZTJBZEtraDNaNW9nMnJDOXItcDVENkkxVU8xbnVfTWFXMWNBVks?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-25T21:18:50+09:00"
+    },
+    {
+     "title": "해킹 잇따르자 보안주 일제히 급등…안랩 상한가 : 금융",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2U0VQa3ZoSTY1MkJxd3lqS3NMT3dVTWpPUE1fNVpDY0hFREFLRVZOWTRzM1RTMVJTbW9IM1RhSEVhU2VqVGlKOTAzMA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T16:31:03+09:00"
+    },
+    {
+     "title": "안랩 주가 17% 급등…52주 신고가 경신 : 한국증시",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tbTNTV2RXN3puQTh2M2o5eHNYc1ZZTUQ5bHBTMGx2enJzUjZBOVlHbWpuUmFlTjhRSlI3U2lFUTdnZlJqOEJENVZNVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T15:09:08+09:00"
+    },
+    {
+     "title": "[테크M 리포트] 안랩·파수AI 장중 상한가 기록하며 보안株 '들썩'...업계 '기관도 관심'",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82alVZMlpMazJPb2ZoNzJOM18wYkp2dzBRNnpSQldlV0ZYSXZOTmVhbG02clI4TEpraHNOY0tNa1FpdlZGbzB0RHhIUWE5MTR2SE8ybDNpU08wa1lIc1JIand4WlJuZ9IBakFVX3lxTE44Vm1MLU00N2xSbG9fVjc5V1pXNG5yQWZPMTdTTDdmMy1GRlFWVkVULV9CYTNRTjFROG15eTZhdU9NWlNKR1QxNXNmZFpRTEN5djA1VWpkZmlZNGExS0hpX2JlZzNrV1lJNFE?oc=5",
+     "source": "테크M",
+     "time": "2026-11-25T14:59:54+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뉴로핏",
+   "sub": "코스닥 · 380550",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[마감분석] 뉴로핏 15.23% 급등 5600원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05RkJ3SFEwRXdnd3lydkZGekw2Yk9xREszM2drak15RmlUdEZvc0RKRFRkaXo1Smx5Nklra3ZnSW5sMFdWcjZaSnA4QQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T15:48:48+09:00"
+    },
+    {
+     "title": "[특징주] 뉴로핏, 美 의료영상 AI 기업과 수주.. 26%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDJFXzNnZXZWVl9TS0ZpM2k2bngxTGxJVjRpa3dzdzJYTjlwcno4MEs5el9oUERFbzVyc194WWM0Y0toc2hXLWxkZ2pQakpnaDhkemxNWUNlNmdQYjFSVUVQQlNZTldzRXlUZkxFNXFsb0RUSy1ycTVEV0toSkFISnZqd1phb0li?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-11-25T10:16:56+09:00"
+    },
+    {
+     "title": "[특징주] 뉴로핏, 美 의료영상 AI 기업과 공급 계약에 28%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRzJtdlR2ZHFvVWFEU0lOVkk1ZmhCUjhOTHc3NzVySVUxb0MxM1VXZ3dGUTFKRXBhSkZRQ0xsY0RMWWc0SnFkWWt0eGx6RnB6Y2I3WWM0Mmp2QdIBWEFVX3lxTFBwNVJkUlZrM1Y2MlVGWXB5Nnc2ZGpwQWxxdUxCdUZrU04tQnBQTFZid0VsRjI1Ukc0Q2dvZWhBMEZ5eWVDdjR4ektXLVZRcEJrbkxMaExrekY?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-25T10:10:03+09:00"
+    },
+    {
+     "title": "[특징주] 뉴로핏, 美 의료영상 AI 기업과 공급 계약에 15%대 급등",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/25/SKV22QISH5HNHG7ABKZ4QJBIBU/",
+     "source": "조선비즈",
+     "time": "2026-11-25T09:30:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "파수AI",
+   "sub": "코스닥 · 150900",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 안랩·파수AI 상한가…CIA 해킹 소식 속 급락장 역주행",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNjJUSHdQZ1hwckdSaDBRbGh4Ui1YSnJ4elJLZTRVaFdGOG4yY0ZqN19faldUMHJ3R0Nzb0dsZTJBZEtraDNaNW9nMnJDOXItcDVENkkxVU8xbnVfTWFXMWNBVks?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-25T21:18:50+09:00"
+    },
+    {
+     "title": "[테크M 리포트] 안랩·파수AI 장중 상한가 기록하며 보안株 '들썩'...업계 '기관도 관심'",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82alVZMlpMazJPb2ZoNzJOM18wYkp2dzBRNnpSQldlV0ZYSXZOTmVhbG02clI4TEpraHNOY0tNa1FpdlZGbzB0RHhIUWE5MTR2SE8ybDNpU08wa1lIc1JIand4WlJuZ9IBakFVX3lxTE44Vm1MLU00N2xSbG9fVjc5V1pXNG5yQWZPMTdTTDdmMy1GRlFWVkVULV9CYTNRTjFROG15eTZhdU9NWlNKR1QxNXNmZFpRTEN5djA1VWpkZmlZNGExS0hpX2JlZzNrV1lJNFE?oc=5",
+     "source": "테크M",
+     "time": "2026-11-25T14:59:54+09:00"
+    },
+    {
+     "title": "파수AI 장중 상한가 7550원…635만주 손바뀜",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84bTQ3ejMwd1BFb3l4MDFBeHotak5vOGxnZjNxclFGOExPbXl5N2dGTGRSVTY0NXI2M1FYZlFBNjV5eXY1ekJoZkpjaDJGa0MyVE9UMXdXVDNjaTVYNVRGWXVCb1VpbkFxVWF1cGduc3Nad9IBckFVX3lxTE84bTQ3ejMwd1BFb3l4MDFBeHotak5vOGxnZjNxclFGOExPbXl5N2dGTGRSVTY0NXI2M1FYZlFBNjV5eXY1ekJoZkpjaDJGa0MyVE9UMXdXVDNjaTVYNVRGWXVCb1VpbkFxVWF1cGduc3Nadw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-25T14:17:51+09:00"
+    },
+    {
+     "title": "파수AI 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91MXpUUkpHdlI2YThXYUx1RnBOU1p1MFIzSXl4VVEtY0h4bWRrVEEyTW1oc1lsb1dlREYzRHFkVVAtNUpiZ1BGbGFtcVVHYXZYWFdmWVJ6U1hMUjlxcDd6dm5zWm9fWmVPelE?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-25T10:06:13+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뷰티스킨",
+   "sub": "코스닥 · 406820",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "[마감분석] 뷰티스킨 상한가 기록하며 2520원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3TlFZbVZlbkRocGlhUmE1bk5XMFVtZTgtNUZJMjNDeUdxenBLeEJYT3JqLWNtQlp3SGJSOGhnS3dhQXM4RTlSZHZSTQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T15:47:44+09:00"
+    },
+    {
+     "title": "[특징주] 급락장 속 화장품주 강세…뷰티스킨, 25%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MNEdsX3F6SzByTk13ZkJ3N29MQWtuNjhjdm1sbE54WTkteHVHSXhTcXJJdU9VdVlEME5rWk9yNDVIYlVLU09DVERfWWpINm9hRWdmUldXODZqZ9IBWEFVX3lxTE5YUzBzZ2s0bE5PV1NVUDdaVnFWcXRRVDJyYkFYWVltM3d4MThUMlYzY0p0VHBJZUM4X0tBMDBNRmlTd2I2LUJiTVNidTJIRzVFVlZBaGlyZFo?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-25T11:41:37+09:00"
+    },
+    {
+     "title": "한중 관계 개선 기대에 화장품주 강세…뷰티스킨 25%대 급등 [이런국장 저런주]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SUEtjSjBQX0xIZUhud0FqYkYzVnZyeGx1WEQ3OTdzMms0OVJqRTlhX1Q3QTFZQ2htRGExMTB0eWxiU3lqVkRtNmpxR29DeDR5SmfSAVNBVV95cUxONUNYNzFEWFRuVEpLSFlQd0gwNzNCOFVwZUR4SmpwVDVDS3NIYmhGYVVVTFJRNnRTSDR2bFNjcHNKM0d5N1UyUmQ4cTJxSlpBWHcyMA?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-25T10:49:44+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깨끗한나라",
+   "sub": "코스피 · 004540",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "깨끗한나라 주가 29.92% 올라 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jNllERE5BRFZBd2daZjVwcmNVOEQ3UEFlaW9qS1NSZkF1Vmx4VkFmWXlQQ25wYjJyc1hjNlZLSDIwb3VVQXVlZTFQYjA2U0JTUEktWm5CY0VRWkZuQWlHbUJuYWJyUQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-25T14:59:40+09:00"
+    },
+    {
+     "title": "[특징주] 깨끗한나라, 브랜드평판 1위 소식에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02N1d6VWR2d0IwcTI2M1kwcjliS0J3N1dHX21NM3NVUzFlcFFLbl8wcjNMcFRBeWQ4Q1AxbHZ4QXUtVXV4V09lVFNLN2xYWkE3VHFiZlZEd0c1QdIBWEFVX3lxTFBKUDcteGpoZG5oZjFTZkdTaE9oRW1yS2JObmluNnp1UGhxX2E5d3JySkoxblJaMng0TTRRa3NEVFk1NTNuT3NMdW1YSGNrZXlzQkVVUUIyMDY?oc=5",
+     "source": "아주경제",
+     "time": "2026-11-25T13:51:07+09:00"
+    }
+   ]
+  },
+  {
+   "name": "티와이홀딩스",
+   "sub": "코스피 · 363280",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "티와이홀딩스우 3460원…29.83% 올라 상한가",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVG8wZTZJelZxMnJSS2dBMnJqbExEYXlWd2RkdjBIUlJuZElsdFBZTjh3YTlwXzRJVFQ5Y2NTM2UxSkZoOUhKQXZtWWFlMTZuU3h0cmMyNWhBREVOZG1OeTFzajQwNi1yQS1oMk8xazRlQdIBckFVX3lxTE9wVG8wZTZJelZxMnJSS2dBMnJqbExEYXlWd2RkdjBIUlJuZElsdFBZTjh3YTlwXzRJVFQ5Y2NTM2UxSkZoOUhKQXZtWWFlMTZuU3h0cmMyNWhBREVOZG1OeTFzajQwNi1yQS1oMk8xazRlQQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-25T15:43:49+09:00"
+    },
+    {
+     "title": "티와이홀딩스우 주가, 상한가...이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdHlKVGZWTi02LVJmcFAtdnBKeHVWSFN2TDdJbXNBSk1ISGdwTVJ6bHNTNWRYUW9MeEx0Q3hhc3BGcUhWV19MQVliVzdZTGhOdDdvb1piSVYyMGFRclp5SzhIUGNfQ01tY1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-25T11:01:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대성하이텍",
+   "sub": "코스닥 · 129920",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "대성하이텍, 28억 中 회사와 225억 계약…상한가 뒤 공시",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubWhCLS03Z2NyZ0Y3WGQydEJSQnk5a2FacUctRG13V0Z3VzYybTBzTkFWbVZSTTBDNTdFZDBkVHV4WTE5eTVCX1JXUm5wdmQwVjF5MF84NHFDS2ZmbjUyN25MNVdyb21JTVRzUngxaU8?oc=5",
+     "source": "리드경제",
+     "time": "2026-11-25T13:36:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "TPC로보틱스",
+   "sub": "코스닥 · 048770",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "TPC로보틱스 4465원 장중 상한가 기록",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nRmRMZXdsSEpUcHlsbGdNWE5pcWdnd3VxaW1hRDZEa3BmV2ZRcWZWY0VMSDZMZWJJcWNvWUhrVVY5NkJ1bmotSEpuallWMUt0UFJQQ2lHeXdNdERYaG11LUF6SkdmQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-25T14:23:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "윙스풋",
+   "sub": "코스닥 · 335870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "윙스풋 4125원 상한가…9만8998주 거래",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZ9IBckFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-25T15:43:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "본느",
+   "sub": "코스닥 · 226340",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "본느, 코스닥서 장중 3340원 상한가 기록",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tSW5tSzhJM18wN2RVVWF6ZVR1NkVzYTNsX0dlWmN1THc4VEhMd1pzdm5ucGZwNDRORGhfV2tBdEN4TzJla3dWOUpUcVBNTTZ4akk3Y0JRUW5TTW1oZGVhVGdZdmdWQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-25T14:50:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "다올투자증권",
+   "sub": "코스피 · 030210",
+   "pct": 28.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 19,
+   "articles": [
+    {
+     "title": "다올투자증권 경영권 매각설…주가 26% 급등",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VWFB6dTF2VnIwSlU1NGlDaks1OEx4a1I2bUVwR0YwTzUtdHV0NzV5aXJwSk52c1FfMUhLeGxEMmlWdnNXUWFkZXFEQWpBYmlzSEQxNEN5TEF5WDFEUUhCZ252VzdCSERNRU1IaXU1WQ?oc=5",
+     "source": "서울신문",
+     "time": "2026-11-25T17:15:32+09:00"
+    },
+    {
+     "title": "다올투자증권 매각설에 25% 급등…원매자별 시너지 촉각",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LbFh1R2pBZWxIM0NVaDBvQ21pNGI4b2FrRllMejRlT0Uyak5oRnk0ai1kVUJVdlcyXzk2OV9icFRBNjlPVzlxSFlZaVRSVGFhSElZa3NuMkVxMVRPeGsybUpoaVlpVVFIYVV1MlFhU0TSAXRBVV95cUxNejFBN0pBWGRWOHhIU0FheVdxczVKb3p2LUxRSFBwX0JyZGFhNkJLdXV1X3QtZEVJNGxFX0Y3RnlvMWdUNk5hUzFCTFI0ODhfVkJBaGRxRjZ5TzJsZmQtSThoMUE4Y2VPRHBldnFTUWd1STAyeg?oc=5",
+     "source": "포인트데일리",
+     "time": "2026-11-25T16:30:00+09:00"
+    },
+    {
+     "title": "[특징주] 다올투자증권, 경영권 매각설에 25.94% 급등…증시 급락 속 '나홀로 강세'",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1feHN3M3BGd0lfenppTllWLWNsVWxZZ0FSNHhmcnlzdlBXZXlJZDh2Y3ZaVTlkYUlDNXRNTnVSdVhLT0J2R05WUXczeDZLQ3VMQUt1bGx4TEZ3N0dZX0NHLUhaNXJwT3VhY3c?oc=5",
+     "source": "https://www.moneystorm.kr/",
+     "time": "2026-11-25T15:57:26+09:00"
+    },
+    {
+     "title": "[마감분석] 다올투자증권, 25.94% 급등하며 4,005원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeVRNZUNxd256VDZoSUEyQ1NFc3R4NHRqYUV4Rm5MR2FlZVIwelJ0WGFQd2tWZWx4dlZTa3dzakVGZVRzYlR0bWtMaw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T15:47:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "뷰노",
+   "sub": "코스닥 · 338220",
+   "pct": 27.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 뷰노, 브라질 안저 AI 진출 소식에 22.07% 급등",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWU9YN2tJMDhnM0NSVlJ2R2FNN2RmVEdZczlraFpXLURwWEJHTjJqcG9TRUo3eDJPT01wRXdUemtfRTR4TnhQZEg3aDVOTXpHRUhlWk83Q0tzNGFqNlVsd1VQLU85cnlJQmZaZg?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-25T18:22:47+09:00"
+    },
+    {
+     "title": "[특징주] 뷰노, 글로벌 사업 확대 기대감 속 프리마켓서 27%↑",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwd3VIcy1aeEhqOUUxV3hjcE5EVUlDWXdMcWNCalktWU1ONVViVDViaVVPMUllSFlUQ1lNU2l2QlQ3Y0I1Z2x4UlFkRTh4T2lLNTZzUzg1ZFJlQnRR?oc=5",
+     "source": "뉴스핌",
+     "time": "2026-11-25T08:40:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지니언스",
+   "sub": "코스닥 · 263860",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 지니언스 18%대 급등 4만2050원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OMjdueDVMaWdCb2hHcllDZkZwaTBWc05zaUxXWDl2RGpuQno5Qy1sQWRsYk01N3JwTnV6bDJxQ3h6bXBXcnRzWHplSQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-25T15:48:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한진칼",
+   "sub": "코스피 · 180640",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "한진칼우 장중 16% 급등…조원태·호반 지분 경쟁에 [이런국장 저런주식]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PQlkwMzIyX2UzbzRfeW5MTTNteGNNSFhKOEk1RXlpYV9vR1NuTUI0VEY3TmFuTml4Z2hBRXNVVHA3elVHOFFYSEhMNmNJTk5xemfSAVNBVV95cUxPWnZSYlNuekdrUVEzSmJyaW8zTHVKTkp4ZUg2RUgyNDZWNXlpeUh4RlNaSHFsdTV6Y1ZUTWl5LTBJYkJpYVZQSnZKUncxMkoyMHJrUQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-25T13:59:21+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-26T03:07:45.634595+09:00"
+}
