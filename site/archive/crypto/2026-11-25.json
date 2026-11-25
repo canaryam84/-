@@ -1,0 +1,77 @@
+{
+ "label": "11월 25일(수) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -2.42,
+   "text": "-2.42%",
+   "exact": true,
+   "source": "https://www.standingout.kr/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OUGo0ZzRqTHVSdWt4VXRnVkVVWmp0cDgtQ1FIOGJYMVFOV1ZRTWJBeHo0aS1DdWNWNEV1NkNKN1JpNFhpN3E2THRHN2JHbzN5aUt1OV84NFRxY04zXzJiN1ZONHNEZVpWODVB?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "멀티버스엑스",
+   "sub": "EGLD",
+   "pct": 123.84,
+   "newsCount": 6,
+   "articles": [
+    {
+     "title": "멀티버스엑스(EGLD) 94.67% 급등, 거래대금 1,585억원 1위…업비트 85% 종목 약세",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55eTNIeEoxaml5S0FoQUl0aGc2d05oOTduTVQ5RjZBR1QtS21OcHhQZnV5Skl2WHBwM1hpR1o0Nm4tUFFDLTFZb1hn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-25T08:02:09+09:00"
+    },
+    {
+     "title": "[아침 시황] 비트코인 8,170만원…업비트 멀티버스엑스 102% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUTdSeXFsOENJQVlzRWVmbVp1WjRuNHFzR2FFWHRDNWZhS013dENsWjV0NDk3V0FJMUppVHhIQVVUZWxJamcxdkJpYWY0NU9LTUlQSDBDVUdockxTei1MbdIBZkFVX3lxTE42Z1JUV0pzb0ktVHB3UzBCOGpxOFJHTUhJTG1HT2huS1JLdE9zN2N3NEUwWXllVzVWR3A5dVdlX0ZLdFlLcEpROGtEa1VXYmR4OHd2eXRQU0VkcExfSEs4cXgxeml3Zw?oc=5",
+     "source": "토큰포스트",
+     "time": "2026-11-25T07:30:34+09:00"
+    },
+    {
+     "title": "리플 XRP 거래대금 반토막…멀티버스엑스 100% 급등",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PR1Y0MGNGQkRDT2ZtN2ZnQmg4Z1N2NTJrbUNzckY3TE1SSVZRYnlXclR2SGhrOVhodUx0MU5Ja0pETlB1elJwd3VLTHN3aUdzVDVWQ1B4MWpuNEhTUmZtOEFUNkx1d05NTjFSbnF4UWhwQQ?oc=5",
+     "source": "톱스타뉴스",
+     "time": "2026-11-25T07:02:00+09:00"
+    },
+    {
+     "title": "멀티버스엑스(EGLD) 99.13% 급등…업비트 원화마켓 79% 종목은 하락",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JNUpRUTBBeU5PTzZhV3hQZnQxSUZfVFpEZnBfVTRSOHlpRzhlNjZlTVVrcHNXMjh4TVNqeHVsaDZPT2lndF82R053?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-24T20:01:53+09:00"
+    }
+   ]
+  },
+  {
+   "name": "과거",
+   "sub": "가상자산",
+   "pct": 44.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "비트코인 6,400BTC 바이낸스 유입…과거 44% 급등 재현될까?",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pOVpaTzU2WVl1LWJISjlnbm9FYTBkOGozVnV4X3QwaEpzbjFDd3ZoSGJiY3ZNVmlKRTBwbjdnNjdsTDZrQ3BBYmdR?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-24T15:09:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카바",
+   "sub": "가상자산",
+   "pct": 31.46,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "카바 31.46% 급등…AI·토큰화 자산 로드맵 이행 주목",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13eFd3Y2ZfY2gtMUpldXRDdVVwck9NbHpBR1NiOXJwRC1VRnZ0djNYWmMyTTd6SFhjbzBBQVV2SG1PdzJNSVhwUE4tV0NxRG1uZGJSeUJES1BGT3c2S0FwdUZPRnFPNW0yRml5ZnN2ZmNjUdIBckFVX3lxTE13eFd3Y2ZfY2gtMUpldXRDdVVwck9NbHpBR1NiOXJwRC1VRnZ0djNYWmMyTTd6SFhjbzBBQVV2SG1PdzJNSVhwUE4tV0NxRG1uZGJSeUJES1BGT3c2S0FwdUZPRnFPNW0yRml5ZnN2ZmNjUQ?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-24T13:15:56+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-25T21:23:40.483393+09:00"
+}
