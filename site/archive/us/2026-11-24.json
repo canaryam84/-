@@ -1,0 +1,73 @@
+{
+ "label": "미국 11월 24일(화) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.86,
+   "text": "+0.86%",
+   "exact": true,
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakZJc0VlUDVlcWRqU1djZzRYRW4wTzFwb2JCclJDVV9EOUlXdUthZDhWbno2RUt4TXNJenlZSWhSWXNUMEJlQk5GZHRNb0RwSHlDLUpjak1va3VlRVlkalUtWjhodXJzemU2a0M5SXVydTlGQkJBbXhDZHNMYWRCUElKY08ySGpjY1JtQmxRVWFIWjdEczdLTWJrVmE3akViUUc4TmpCNUoyX0ZMTlJFVE5tLTc2WXFIRHlkaDVRQW51Nnpf?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -1.48,
+   "text": "-1.48%",
+   "exact": true,
+   "source": "매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlT21XVWt1bWU2dTdXTW40TFB5MmFZaEdQYW5wQlZZYTBzTHM3WEsxUzNfcEVLMWN2TjRya2I5M3g4dk1ETW9GRUdjUDZVdFZDbVVmMEpvR1NQSVBFLXc5bTA4YTQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Nvidia",
+   "sub": "NVDA",
+   "pct": 30.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "Nvidia shares soar more than 30% after Huang reinstated as CEO",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeG40SVFjeUV2Rlk2SURmSURfQ0drR1dyMm05WExfY1NlN05TUkVqNmcyTGZmNUtvbXBQWTBxUmtSSVg3NEhtaGxhSEF2Q0NFc1hoWXk4aXcxRldGYlc4TXcwZVladDJxQlJXN2FJbFFsVzE2SmVaWnVLTV9IN21JdzVrUUV4RERhSFNlMENiVldvd01OLVQ1cXU3a1c3TWVuM3hwVnhNYzg?oc=5",
+     "source": "Houston Style Magazine",
+     "time": "2026-11-25T06:31:28+09:00"
+    },
+    {
+     "title": "Nvidia stock jumps 30% after CEO reinstatement boosts Michael Burry's mixed bets.",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMW5PdUUzS2Rzd054UXlZb2VYSVNzRlhHSzdkeGV0eTlkZUljbVdHSmM1RUtEUC1vams3N1dwRzFidV9zbHFVQWNaZTBkZ3NXUkczTE1Ga2FtRm12VWNFb2VvZnd5VHFfUXNkelQtLVJiZlYxMDFxLXRkYmpWUEg0N0wyMnFyX0pORlNtS3QxZkRFWDF5ZEtIZkFPYm1JVklVOWlN?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-24T19:00:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "수주..",
+   "sub": "미국 주식",
+   "pct": 26.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 뉴로핏, 美 의료영상 AI 기업과 수주.. 26%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDJFXzNnZXZWVl9TS0ZpM2k2bngxTGxJVjRpa3dzdzJYTjlwcno4MEs5el9oUERFbzVyc194WWM0Y0toc2hXLWxkZ2pQakpnaDhkemxNWUNlNmdQYjFSVUVQQlNZTldzRXlUZkxFNXFsb0RUSy1ycTVEV0toSkFISnZqd1phb0li?oc=5",
+     "source": "글로벌이코노믹",
+     "time": "2026-11-25T10:16:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Abercrombie & Fitch",
+   "sub": "ANF",
+   "pct": 24.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "Abercrombie & Fitch stock jumps 24% on record sales, but tariff refunds flatter the quarter",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDUwSG1KLXlKMHZIUlpaVzhzb0tySVRkZE1EemRJUVRSU2J5T2UwOUZrYWRxQThPT0hKYzZjUjZzZ0RBdEhkUFoxSnQ0MUh4OTNIOVJHRWgyd0dsR1JCTjNvQ3JEZ1AtbERCRTgtQnM1STZTT1JDMVpIUnI4b3dmVGZvbzhKSk9GdkFqeWg4Q3daakdqWGU2MXdvWlFIY2ZjbzVybk1EUGEySE1aRUtCQ01Yb2hYZw?oc=5",
+     "source": "Startup Fortune",
+     "time": "2026-11-25T02:45:29+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-25T13:49:12.735425+09:00"
+}
