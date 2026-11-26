@@ -1,0 +1,459 @@
+{
+ "label": "11월 26일(목) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 0.29,
+   "text": "+0.29%",
+   "exact": true,
+   "source": "연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96TC1NUWNIbS1ESWVhc2lvSWFhYWlJRHlBSTQ5TWtSdkV6TWhrc0Q3eVpIMENpc1hhQXpQQTEtN0RTRWtCdkJCTGpoYUVaVmdKVDZVQWd1ZEVRbEnSAWBBVV95cUxOcVBfbWxoMEFZRW1zU1FkZUduUFNSOFBpODlxclJYSVM0NmVJVElvZl9PSDhfSG0zeHdWS0ZoRjk2VHV2Q0RGVGhEazF2RHRjNlNwdHFSVUxRTE1uUWd0eHU?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 0.78,
+   "text": "+0.78%",
+   "exact": true,
+   "source": "브릿지경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94RkpMSmNIRldjeWtJdWxTQ2plOUl3NjViRjhEaG8tOFdON292RjlEbjFIalFfYVZlemc1SEw1emEtTkJHd1J1cWhUbHd1Y1JfRWhKMUVMWTVTZw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "LK삼양",
+   "sub": "코스닥 · 225190",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 하나에어로·LK삼양 상한가…스페이스X 우주 데이터센터 승인에 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVS1iYWdaWWhvNnR3QTVrQWxYZ2REOHBTZ3hhMDJ5MHhzd0Nic1JOOHRuaUp6VklyejQzeUFNRmhEb29PMERDNXFJOVZfclpvU0dDeGF0WGs0RWhMdkV5NmJaWUc?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-26T17:23:43+09:00"
+    },
+    {
+     "title": "LK삼양 주가 장중 상한가…4580원 기록",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UmU3VHE5TDRjS1NlUUl3S3UyLVVZaVRmS0h0dWh6U1Bacm9DMHFPR21HY0xiQ2ZrZ1Q0emVmYUR3bnc2MTRFNzlEcUpkaDkyYWpQN3Fjb2ttbUdtMGJlcDZQWmVaQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-26T15:30:30+09:00"
+    },
+    {
+     "title": "[특징주] LK삼양, 우주항공 테마 매수세 유입에 상한가…광학·산업용 렌즈 전문기업 부각",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOW5zQm5LbEJ5VkVDNHRicm0xT25nSGY0Sm1aZkRaejdpWnR5YUJROVVmaG1pSGhWaS14ZDloNGxQTE0zcUlDNnBtY0hQRnpWR1Y0c29nSXZOR2h6bURSYV9hQnpYa1c5V2g1Yw?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-26T09:35:10+09:00"
+    },
+    {
+     "title": "LK삼양 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xb2MwN1JIX2Qtd3l5R05HRFhRSjBVY2VXOGlOQVNtS24yNW1NOGJ3QVRRSUdFVFlpQzc2cDRHd1BDVzg5WDNab1NfbVVKYmt2RTRtbFNSbEtfd3BrWmdNWnVlWUlET3Vra0E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T09:24:54+09:00"
+    }
+   ]
+  },
+  {
+   "name": "하나에어로",
+   "sub": "코스닥 · 271160",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 하나에어로·LK삼양 상한가…스페이스X 우주 데이터센터 승인에 급등",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVS1iYWdaWWhvNnR3QTVrQWxYZ2REOHBTZ3hhMDJ5MHhzd0Nic1JOOHRuaUp6VklyejQzeUFNRmhEb29PMERDNXFJOVZfclpvU0dDeGF0WGs0RWhMdkV5NmJaWUc?oc=5",
+     "source": "https://www.ppss.kr/",
+     "time": "2026-11-26T17:23:43+09:00"
+    },
+    {
+     "title": "하나에어로 장중 상한가 5,200원…433만주 거래",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zOUp0Mi0ybGw3eXRhWENzYVh4QklsNWdLZU1YOTBncDJBbHdzeWtpTFF2c0tFbjBScy0ydldkTmtKeV81aExpdEg4V1ZRaGc4REctYWhnVXBqUXE2M0IyQWh5dTJwSzVra2p4RjZPajVvZ9IBckFVX3lxTE5zOUp0Mi0ybGw3eXRhWENzYVh4QklsNWdLZU1YOTBncDJBbHdzeWtpTFF2c0tFbjBScy0ydldkTmtKeV81aExpdEg4V1ZRaGc4REctYWhnVXBqUXE2M0IyQWh5dTJwSzVra2p4RjZPajVvZw?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-26T14:44:33+09:00"
+    },
+    {
+     "title": "[특징주] 하나에어로 장중 상한가 직행 5200원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tWUxhcGFELTJIaUdhS3IwSUh3Wk1mcXF2d0k5ZFhQZk9nX3JjLW5MN2J0a2tqWWktekJfMGN0dmFkR2VndnJScG9JUQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T10:22:23+09:00"
+    },
+    {
+     "title": "하나에어로 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoM1F1RGFIaFJERnZwZWJibDhtQWllcE5pdEVqV0FaSmZDcWhnT3FWXzFDU2hKejdmZ21hb3VxTG5CRDhhZ0FTSnFHRVE4RHFxTHl3azFnc1F0WDBHVWEtSGdDemJvYTBN?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T10:05:27+09:00"
+    }
+   ]
+  },
+  {
+   "name": "천일고속",
+   "sub": "코스피 · 000650",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "천일고속 19만7800원 상한가…운송 영업손실은 16억원",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FU19VU1dsSWdxbE82a3JRTENfZjVEaGVwM3pEZDFZbXBqT0FxRThFdzAyYmJKakJwWEMyM3VxX2F5U3phNmNwejRyMUk5eE9QWEVrS0NPT2QzZEZ1NVBnb0o3ekFzcnZrN3lSYXNR0gFyQVVfeXFMTUt3TVZmTktEN3lPQWgxeXZZMnFqY1NNREhRV1MteW5ObVRnNkFoSXdoQ215WmtaLTFtTjhtUU1NdHR5M3JURS1maTFpb3dQRHMteVhoNmVIOWRqVGVWeHAyUGVjNXVvTVlRV2JxT2JIRVln?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-26T15:47:46+09:00"
+    },
+    {
+     "title": "천일고속 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WempIUDM0WU1MOUNmWnNGdGk2SFd6c0NvMDVqaHhYSWhwQXFJVUNHeDVQZFloRjdsdW0tbTk4RUR2Tkw5MUVOeWhLZVFtOHA4WEE0RDlCdmI2cnBERko5OXJaUXNBdjRENmc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T15:11:04+09:00"
+    },
+    {
+     "title": "[속보] 동양고속·천일고속 주가 나란히 상한가…서울 고속터미널 재개발 관련주 '들썩'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16al9mZzh6YVFJMWRvak4yejdnWGwzckdHbmlTUmFKZk5ReU85OGVaUlBsMUNiQWJKVEFrenlwX3l4cjBoYzRQTzRKTlRfTC1MZGRCNy1yNkRGVF95Mk9UVHU3SWZaaDBP?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-26T15:10:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "크라우드웍스",
+   "sub": "코스닥 · 355390",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "크라우드웍스 585원 상한가…최대주주 측 주식 가압류 공시",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUXBoSXVaQXgxQlNNajhjanI1ZXVjWjZVelhSRld5MXRWMHBvNUEwTFozVjFZUDNCOG9kT25pQXA5QUlfeW5Wb1NCTTJ5MlV6UUJzRC1MX0J0b2RPb3c4QlE4c0RJaGlrdGljOGln0gFyQVVfeXFMTTdGSG9zVy1CY0JVMjc2VmhSNHFwOWJwcWNyNEVncjNLNE1fTWJpYnBaZFpwUHduc1JLMFZ5VmM2T2p6Yk9QelZRcDlob1pLMDBzTmhsUE05dDVfd3FwVDZzNldtRVdzM2xOWXVOUVp2QUFB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-26T15:47:26+09:00"
+    },
+    {
+     "title": "크라우드웍스 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Bb01PQU43Z0EzSkJPdDFMNHg5S2l5S1FQOE1Pc2tMeU5hYXRDQmN6WDdVQW1ZRGJmYXo4Si02NFBxSWVOR3pJOGswVFM0dk53VFlpcl9jLTNHem1QVlNkWnBlaHB2ZDg3N1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T15:06:59+09:00"
+    },
+    {
+     "title": "크라우드웍스, 100억 가압류에도 상한가 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZjlHcUZ6RHFOMDhCSHJpNTRpWU1lT0lMQ01ITWRLWk8yOGNiVTAxM0d6bUFEX044YXVlX0UtWmtkTldyX05CQzRkZDhFVUJINmd4RFNMcHJQbGlIQnR0X0FNbHktaGVQUEHSAWpBVV95cUxNbmY5R3FGekRxTjA4QkhyaTU0aVlNZU9JTENNSE1kS1pPMjhjYlUwMTNHem1BRF9OOGF1ZV9FLVprZE5Xcl9OQkM0ZGQ4RVVCSDZneERTTHByUGxpSEJ0dF9BTWx5LWhlUFBB?oc=5",
+     "source": "센트럴경제",
+     "time": "2026-11-26T15:05:50+09:00"
+    }
+   ]
+  },
+  {
+   "name": "셀로맥스사이언스",
+   "sub": "코스닥 · 471820",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 3,
+   "articles": [
+    {
+     "title": "셀로맥스사이언스 3,950원 상한가…7억원 자사주 신탁 결정",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UN0tYYzJHSy1NZjc4QzIzdkZYeGotcmZuaml3Q0puOUJyUEUxMVV3Y0x3bEx2NExXU2JHYnlUM2szc0RrNFJyRkRfaWNvU0lyUVNBSDRfdGN5SXVfMEdwbVVqYVVJdUQwVnI3dDRn0gFyQVVfeXFMT2VkY09qQ0k4TThrU2g3bURFV3ZvZ0Z5RGxFRThxRV93Z1VVZ08wbnhsQW5samtLanlfODZxOGY5R21SWDRYeXktc0MwS01tOXZOQVFSeEtpX0QxZXVvbXAzOXVJODBqVnZBUEtEQUJxM3FB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-26T15:49:20+09:00"
+    },
+    {
+     "title": "[주가] 11월 26일 주요 제약·바이오·기기 5% 변동 현황 - 셀로맥스사이언스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uc28tQ3VIdGlIMDlzUWVnLVlkckwtelJqcWJLN3Bwck52SlVhQXpQVWdyMmZXQTRRR3FackNXNXhFQ3RKVlBlcTVlN1prTjlzdWtQRUlTOVhfa3ZhV2xJbXZQcGFKWkJTbEk0?oc=5",
+     "source": "메디파나뉴스",
+     "time": "2026-11-26T15:37:23+09:00"
+    },
+    {
+     "title": "셀로맥스사이언스 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMkpXS0thTFV0UmdoUnBDUnpFVEU2R05GMFh2b1NzRmlQb2FEMmZlQ2g3M2V6cmVBbHdwRDB6M0U1amNkdTlGeEJSWDYxU3pXMVFTcUVBdWR0bENSVURfTDNKSTNfaWtTU3c?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T09:13:15+09:00"
+    }
+   ]
+  },
+  {
+   "name": "동양고속",
+   "sub": "코스피 · 084670",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "동양고속 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSTkyMVNDVURrck5iYjR3SkZuM213NGhrUXlyOTJEeXp4M29WczhDSXpzTGR6WkVpUGl5TzBISjY3aWlrLUNZVk9VNjlQeUFHdXFnYV9pbS1lTFFtUzBsQ3ZNX0tCVE92V1E?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T15:15:25+09:00"
+    },
+    {
+     "title": "[속보] 동양고속·천일고속 주가 나란히 상한가…서울 고속터미널 재개발 관련주 '들썩'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16al9mZzh6YVFJMWRvak4yejdnWGwzckdHbmlTUmFKZk5ReU85OGVaUlBsMUNiQWJKVEFrenlwX3l4cjBoYzRQTzRKTlRfTC1MZGRCNy1yNkRGVF95Mk9UVHU3SWZaaDBP?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-26T15:10:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나노팀",
+   "sub": "코스닥 · 417010",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 나노팀 상한가 기록하며 6430원 장 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Uc0M2b205amFLQ3ZwazJKUThmMUdzUGJRd24zMDQxcGJEekdXcTNKb3VmeTV1eFJYRjR6U09TN2trNWJWTjRSa0VtMA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T15:47:30+09:00"
+    },
+    {
+     "title": "[특징주] 나노팀, 장중 6,430원 상한가…거래량 315만주",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOa3lmalp0cTlnbW5NZGg5VUU4NnE0TkQ4eXVMWDZBSWVvbFlkTHc2cGc5M2VsalM0Qk1fSFZlQWpEdWhZT3FSSTJNc3FoNWFvM09VWG1LbW5CT1U1RFVoczRlcEhkbmxs?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-26T14:58:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "윙스풋",
+   "sub": "코스닥 · 335870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "윙스풋 상한가서만 거래…자기주식 477주 소각 예정",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQThMS2t1SzJIcXgwbHFXWXZaWWhWSkFrOHNBQndCX3ZnUlJIQk9jQTFERXptcExrSWVhanFfdlZBd09Zd0VqZERnSVVnOTNIMnQ1SDA3U2VHMUEwNzF1MUJSMnE5bDFjck9RTEhR0gFyQVVfeXFMUHpyXzdkVzdUQ1dpOTdRcjZ1aHNLa2tVZjI2RGlvVzlVbnBXLWtubmxQeUhGYzJ0REpCTlZoQUc5NXZCb2EwOEpWMG1SNVNicnJOVk1acFRkTGlMTUtrRHV6SHhNZkYyd2ZOY3poNWZXd1dn?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-26T15:48:41+09:00"
+    },
+    {
+     "title": "윙스풋 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UazlGLVpGeHQ0dzNxMDl5eTJmNGVYTkh3N0p4Mmo2aGM5LUtnNlVOeHU2Q1FMV0VJWmlrWFNFdTlMOVhYTnZrd2hBWlNjbWlKOEZlbnpmZEVVdnFKaDNRS2w1VjFOMFJUc2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T09:17:16+09:00"
+    }
+   ]
+  },
+  {
+   "name": "진코스텍",
+   "sub": "코스닥 · 250030",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "진코스텍 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNeTF3cjBSdkM0NG40M1JLS0stazFjN1ZzanNZbzBqY2k1ZXNWcWp3a1hISnpySElNaE9vSEM2M0VTeTRHZUVOSXE2WHJCWDhzSVN3T25VRVpkZlJLWExjUXM3ZWtaNGZqa2c?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T15:04:24+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이유브랜즈",
+   "sub": "코스닥 · 481070",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "에이유브랜즈 주가, 상한가... 무슨 회사길래?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VSm0wQmNVSzNaSEgxd184MDgtVEtKZE9DazA3b3dpUG1oTzd3TF9aSWRvNVgtUGkzYWNGTFZvUFhZSFV3Y3hBUEVadGMwZ1VUQmdqcVh0MUozQXRmM1hwc19kZEZaT3VMRGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-26T09:31:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "다올투자증권",
+   "sub": "코스피 · 030210",
+   "pct": 26.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "다올투자증권, 경영권 매각설에 주가 26% 급등…12월 24일 재공시",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZFAwMmhxZHNTSzNOdjkyN3JOem9YWGw4SmgzckI4dGtUbzhmdUFfM3ByRWppdzQyWGgzby03Yy1WckpjNWl0VzZuM2w5RGJHY3FUYmFfeUV2VGxoX0lHSTFrOHRCN0NyT1E1eQ?oc=5",
+     "source": "스페셜경제",
+     "time": "2026-11-26T15:01:23+09:00"
+    }
+   ]
+  },
+  {
+   "name": "미래에셋벤처투자",
+   "sub": "코스닥 · 100790",
+   "pct": 24.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "미래에셋벤처투자, 하루 새 21% 급등… 1만8770원 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uUF9TeTNFd3lfdFVyMUNrY2xoLXRQLWk5NUU4MnJyYkd0Z3ZIZFZXUzdsN01CVjlSQlhNUTR2S2JQOFdrVlVaRWxwMWhfeFZ3TEFLdU45MFVFUG1qbGluV01Kc0tSalM5OExXTm53?oc=5",
+     "source": "S저널",
+     "time": "2026-11-26T16:33:46+09:00"
+    },
+    {
+     "title": "미래에셋벤처투자 21.57% 급등 마감, 1만 8,770원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vcDNOOV91QzNJQl9kX2RYcjdLckJxV3NkTFZsT3RXc0YxcU8yQW9yOGZ6Wm9Uak8tc0dzTHpTR0JMckJKVEVYSHc1TQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T15:47:49+09:00"
+    },
+    {
+     "title": "[특징주]스페이스X 관련주 급등···미래에셋벤처투자 24%↑",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUlZfMjMxUFdJWkxuNDJRR19aNlVIYzlRVENIakp1QzB6WWtTZmlBUVMwX0V2ck40dE5BOEpaM0J1SVNPaTA0Q2FEUDZmNXJndFlDOTIxYzFjTXhSQmtxUV83UUpFeVHSAWtBVV95cUxOcHNIQXlJZ1lJZHoxWUtOcnpoS1dzWWRTc2FlTXUtNWJoUDlNMFAxNkFtS09pZnVhMWhUUXdIV2I4Y2pwVWtXRVNVaUVRRTVMckJFSFZ6Z1pwM2tNYm1nZUJWR0NCRFZDRW5FNA?oc=5",
+     "source": "현대경제신문",
+     "time": "2026-11-26T11:22:23+09:00"
+    },
+    {
+     "title": "[특징주] 미래에셋벤처투자 장중 23%대 급등 1만9000원선 진입 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXemdkaEdyeHZLLWVCZEtXVTRRa2FYTHBaUUVJbzVKZkNFM1ZURm1tLXM4Sl9lU3U1azYzbHMxMFdSRUhJYWZzZW9jcw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T10:22:41+09:00"
+    }
+   ]
+  },
+  {
+   "name": "나라스페이스테크놀로지",
+   "sub": "코스닥 · 478340",
+   "pct": 22.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 나라스페이스테크놀로지, 수자원공사와 101억 공급계약 소식에 22%대 급등",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/26/XVB25ZPETVCKZDIRMSJSJ3TGHE/",
+     "source": "조선비즈",
+     "time": "2026-11-26T09:22:25+09:00"
+    }
+   ]
+  },
+  {
+   "name": "한진칼",
+   "sub": "코스피 · 180640",
+   "pct": 21.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "한진칼우 장중 20% 급등 후 보합…극심한 변동성",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45YzNCV1Q5OTMyMUVBQV9JbVd5MXZtczljdEc0RzRtcHhvT0NtZ3NodEIzVEJYWThEOEtFZEJQSHJCWkp1TUVXVzUzUkZMRVZmZmRMeDd2ZXJINWZSYzJRVDhydXNLU2x6?oc=5",
+     "source": "https://www.2news.co.kr/",
+     "time": "2026-11-26T16:37:00+09:00"
+    },
+    {
+     "title": "이달 4배로 뛴 한진칼우…장중 21% 급등했다 제자리[핫종목]",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zTWRtT1RuTGk5Rlk2RmJMSzZFMV9aR2JqTDJpZF9SN05iOHNlZTIxMmJXaDhuUjMzeVVPWlBXX1plS3phRk1SSFB4NmZVWDJzbmctX29mczlLeU0?oc=5",
+     "source": "뉴스1",
+     "time": "2026-11-26T16:33:34+09:00"
+    }
+   ]
+  },
+  {
+   "name": "깨끗한나라",
+   "sub": "코스피 · 004540",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 깨끗한나라 장중 19%대 급등 1699원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBISzl4d1h6MHFyYnhwY29UcVp5NWViY0g0MEtqRG1pMTNCVGNXcm1ueWwxUTk2dVp5OFRncm1idkMzRjBONEhoQXkxNA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T10:22:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대주전자재료",
+   "sub": "코스닥 · 078600",
+   "pct": 19.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "대주전자재료 주가 19% 폭등…AI 서버용 MLCC 슈퍼사이클 오나",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtblhldEY4THFVTEY2eGttNUtCR2xaS0RMSWhxOHFQaTFDMVZGZmhxbHhTaTlUc3ZsZzc2S1Z2TDNYTHNPb0xzbmFnVWVhOWZ5ZF9haTdLOU5sR1RiRFJoZW1xU2Rrd2lld3M2WjJhUWJOMXgtQjBr0gF3QVVfeXFMUG1uWGV0RjhMcVVMRjZ4a201S0JHbFpLRExJaHE4cVBpMUMxVkZmaHFseFNpOVRzdmxnNzZLVnZMM1hMc09vTHNuYWdVZWE5ZnlkX2FpN0s5TmxHVGJEUmhlbXFTZGt3aWV3czZaMmFRYk4xeC1CMGs?oc=5",
+     "source": "핀포인트뉴스",
+     "time": "2026-11-26T09:34:01+09:00"
+    }
+   ]
+  },
+  {
+   "name": "보로노이",
+   "sub": "코스닥 · 310210",
+   "pct": 18.17,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 보로노이, 18.17% 상승하며 138,500원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LazBRbk14NzcwVW5mTWdLaU9RUFlIR3BJeWdqZkpyTmxCRWNCenlwOEthWElmNV96blM2cUJOOWV1N3JjTF9BQ0hJRQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T15:48:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "센서뷰",
+   "sub": "코스닥 · 321370",
+   "pct": 18.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 센서뷰, 별도 호재 없이 18%대 급등 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iT1VhMEctMXRGU1BRSmQ1alplbXRlUU9CTmt4dU5XQWVFTWl1MFdmRm01Y1MzZ2RWVXRZcVJBWGh0dnAxVzZkYjhYNA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T15:48:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이치브이엠",
+   "sub": "코스닥 · 295310",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 에이치브이엠 장중 16%대 급등 5만9000원대 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xWDBLZV9aVTZXbUZGcHVuNktkNms3YzdZbm5TdEh0dDZQOS1BNElDYzNvemVpSzhyempuVjQyWEt3Q3RwOFVzNVhoMA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T10:23:20+09:00"
+    }
+   ]
+  },
+  {
+   "name": "스피어",
+   "sub": "코스닥 · 347700",
+   "pct": 15.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 스피어 장중 15%대 급등 2만2150원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbkhkbnV5V1kzTUVodmExMkMwNWcxVGs0bWxQN2Vseks1a1YydVpSVURWWXZUa3lpOVY1cUJmZVUtZk0zc1B0NDE3WQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-26T10:23:37+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-27T05:09:27.364513+09:00"
+}
