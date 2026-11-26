@@ -1,6 +1,6 @@
 {
  "label": "11월 25일(수) 국내 종목 뉴스",
- "updatedAt": "2026-11-26T02:42:01.761212+09:00",
+ "updatedAt": "2026-11-26T10:18:43.232349+09:00",
  "items": [
   {
    "title": "미 10월 근원 PCE 3.3% 상승⋯예상치 상회에 ‘끈적한 물가’ 지속(상보)",
@@ -711,6 +711,20 @@
    "dir": "up"
   },
   {
+   "title": "뷰티스킨 2520원 상한가…거래량 618만주",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GdjB3X2xPUXNBM0RSd3paVHNWRmNfRHp5RWxQUHpDWlpnZXZrQTJGbVVGMlV2c3dpNV9tOEd1SnlFLTgzcjZFQ3RfMUdwcUZGWWhyc1d4ZXdPaXFua2kwRW8xMVJ5NzZkcV9TREdn0gFyQVVfeXFMT3l1b1gzaUxBSVk5Wk54YW8wemVWMTFHR3BKRVdTSWVadlVvbmhfVDByNDJjekFFcnhhMkloY3FEN0xSOXQxSDY2QnBya2xMbVpnNGUtamkxa0tRMURRbzRiZndPRHZKQm5hdjVmX3dXdnRn?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T15:43:26+09:00",
+   "stocks": [
+    {
+     "name": "뷰티스킨",
+     "code": "406820"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "윙스풋 4125원 상한가…9만8998주 거래",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZ9IBckFVX3lxTE55c3NBTzVKV084ZGE3X2h4NGVxU0E5SVBiZ1VmT080ejF3TmtIbE1PazE0cXlNcVJVWm5kT0d3dlI0ZUJKODZSUXVvSS1qQXlUVkR4cWhfa01OZHpZZlF5bGlZVGVwcmRNMGxPaDQxdktjZw?oc=5",
    "source": "잡포스트",
@@ -719,6 +733,34 @@
     {
      "name": "윙스풋",
      "code": "335870"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "깨끗한나라 보통주 1420원 상한가",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub2lOaTZQNmp2WG9Kdkk0NHpQM0p0R2NrVDZuWkdnT2xFMml3ZEJRcERnRWpmLXVRWDlyUExlR0pEalF2dnk1UHR0OEpVUXVPVTNVbUdTX1RtLUNmSXQ1NDdsekF0VHF2NE9feGJR0gFyQVVfeXFMUFR5ZU9jVDJ5NzRtQWFWTXJ0eFRDRmRFUTJBN00ta2JGMUhLblY2M19hTUFkLXNITWcyUFZEOXJtRm5CaFIxNTl0WXo4WkswaDNQZ3ZpNTZzOUxYTUNGSjh2c3B1R0tsQm1CcGpzZTZjUGlR?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T15:42:48+09:00",
+   "stocks": [
+    {
+     "name": "깨끗한나라",
+     "code": "004540"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "케이아이이 8800원 상한가…장중 저가와 2020원 차",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBeGVzSVVuSC1RT1d4cFVMMC1tWFpsS21aS2NoeHBiRldUeUVmWHdienFVU3RzeEZwNjNEaG5tSG9SWU80N1VVUDRTbVpjYVBUcU5UdmZPNDRyMnJQbktqQnpkTk9FcUpOb2N0eldfSDdfZ9IBckFVX3lxTFBBeGVzSVVuSC1RT1d4cFVMMC1tWFpsS21aS2NoeHBiRldUeUVmWHdienFVU3RzeEZwNjNEaG5tSG9SWU80N1VVUDRTbVpjYVBUcU5UdmZPNDRyMnJQbktqQnpkTk9FcUpOb2N0eldfSDdfZw?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-25T15:42:05+09:00",
+   "stocks": [
+    {
+     "name": "케이아이이",
+     "code": "009140"
     }
    ],
    "thin": true,
@@ -765,6 +807,24 @@
    ],
    "thin": true,
    "dir": "none"
+  },
+  {
+   "title": "[테크M 리포트] 안랩·파수AI 장중 상한가 기록하며 보안株 '들썩'...업계 '기관도 관심'",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82alVZMlpMazJPb2ZoNzJOM18wYkp2dzBRNnpSQldlV0ZYSXZOTmVhbG02clI4TEpraHNOY0tNa1FpdlZGbzB0RHhIUWE5MTR2SE8ybDNpU08wa1lIc1JIand4WlJuZ9IBakFVX3lxTE44Vm1MLU00N2xSbG9fVjc5V1pXNG5yQWZPMTdTTDdmMy1GRlFWVkVULV9CYTNRTjFROG15eTZhdU9NWlNKR1QxNXNmZFpRTEN5djA1VWpkZmlZNGExS0hpX2JlZzNrV1lJNFE?oc=5",
+   "source": "테크M",
+   "time": "2026-11-25T14:59:54+09:00",
+   "stocks": [
+    {
+     "name": "안랩",
+     "code": "053800"
+    },
+    {
+     "name": "파수AI",
+     "code": "150900"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "깨끗한나라 주가 29.92% 올라 장중 상한가",
@@ -4305,6 +4365,20 @@
     {
      "name": "S-Oil",
      "code": "010950"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "\"주가 두 배 돼야 본전\"…두산퓨얼셀 주가 급락에 한투·KB·대신證 '속앓이'",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXBvcjcxdXlaaWU4VS1DVlpnUDV5X3QtbnVfbmltSVBLRDY3SmhRdDBsU1k3ZUV0dzZtOS1NZTNLQThWSFB3Q2tJSXFXWVRuaVhsbDFkSW9LejVMcDRNQ1hKaFAxanhQdWZFVXZDdFJ1RHNZeGRESzNTcFFsaDBqNC1ISQ?oc=5",
+   "source": "인베스트조선",
+   "time": "2026-11-25T07:00:00+09:00",
+   "stocks": [
+    {
+     "name": "두산퓨얼셀",
+     "code": "336260"
     }
    ],
    "thin": false,
