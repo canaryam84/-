@@ -1,0 +1,45 @@
+{
+ "label": "미국 11월 25일(수) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": 0.33,
+   "text": "+0.33%",
+   "exact": true,
+   "source": "뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tLWREVVNBUGNHbkRHNWlBVlhNMXgyNmd3WENWWTRmUWxETjFwYVVRUGhSYXpEMTk4QXZjZFhoVEl2dTQwMHRXblZYVHg1VkIzS3BvekhGdnNFeC1Bc0NSRTFJVU9fclE?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": -0.62,
+   "text": "-0.62%",
+   "exact": true,
+   "source": "더팩트",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJQmpPVHJqV3FMdDJVSS15YkZuQ3Rldi1MU2JXd0NIZk0zME5tY1dkUlFtWjRuR2NOM2V5SzVNcmNwaklxVld0bm1kZWVPU3R3WU4zMG1iWdIBUkFVX3lxTE5sTXNjdDdpOFRfV183UWQxQXBaVXZyNUMtWVBGbkU0d2JSTHhTRWVwNldpMUVtOS1yU0ZXRmdZdURzRmxOWDBvN3NmaEhWVXJBTnc?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "Nvidia",
+   "sub": "NVDA",
+   "pct": 35.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "Nvidia shares jump 35% after Huang reinstated as CEO following Trump defense",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTJ0cl9lU196QjJiM3BZOS0teTdLNGZIUXRsZDhlOVc2cFM3bS1tclJEYmJHNHliZmhUUE11RUMzUG5iYU1lZ1VCSDJoVnU3UzJVelBpOHM0U1ZXTWY1SVFCbHZzMVl3cnVYR0xjSDFOUmo3MFdFZjdtcE9oMmo3Tkw4ckpMQWxwcmYtOW9FbERJRXYzRE5Ia2Zuc1lNTEFsWmRsczJTVi16WGhvZEg4?oc=5",
+     "source": "WGME",
+     "time": "2026-11-26T08:07:47+09:00"
+    },
+    {
+     "title": "Nvidia shares jump 33.1% at the open after Jensen Huang returns as CEO",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45OVV1MDdQUlVKTjZpU2VjTVNFdmQ3T2MtcUNjWGhmTG54SFB6c1FQNWtzczJhM29KZ0FjVUg3SFpKZVZaalEtY1RBSW9SRzJkUHVjbTBvdnlHR3R0UjVYWkdrc05JeDQ4TWxZaW5HQmhveDlnYnRteg?oc=5",
+     "source": "Ecns.cn",
+     "time": "2026-11-25T18:16:05+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-26T13:01:32.591385+09:00"
+}
