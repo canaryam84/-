@@ -1,0 +1,93 @@
+{
+ "label": "11월 27일(금) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": 3.03,
+   "text": "+3.03%",
+   "exact": true,
+   "source": "IT타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByalJxTXRDekpEMjMza1lDNC1qZGF1M0ZnZlBVVjY3VFNoRkdVMkNnS2VZLWRLNGxHN2MxSDFaaHZCX2RWa0NyYXF6Wi1UNDV0Sk9wN0NUdG4wLVRvVlZOYnB4bHplWjFk?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "유에스디에스",
+   "sub": "USDS",
+   "pct": 63.5,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "유에스디에스(USDS) 63.50% 급등…업비트 거래대금 846억원 몰려",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PUHpuZThMdVJrOGNheUZSd013dWRfU201dWpuRWJiZjl2T1p6Y0tWZW05WlM3NTN4RGhTRHp4T2tRQm4yekpLRXpR?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-26T20:01:59+09:00"
+    }
+   ]
+  },
+  {
+   "name": "무브먼트",
+   "sub": "MOVE",
+   "pct": 32.0,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "무브먼트(MOVE) 25.48% 급등…업비트 원화마켓 190개 종목 상승",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85cXlCVmozMjkySlhmM2hiVWlibkJTN01id1hwWGJ0NDhmb0d0cnQ1OW8wSHFtZTRKTTN2YzZoUURsYW9nZzVEeld3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-26T13:01:13+09:00"
+    },
+    {
+     "title": "[업비트 TOP10] 무브먼트(MOVE) 32% 급등 1위…10% 넘게 오른 종목 3개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTdGgwNWFqOTdycEtLdlhVQUstdFZud0xoMXB1OEZMYVFpMGs1Y1ZBX1ozRUhJRnBHdzlhdk4yWHFXUGNpOEMzMUZ3?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-26T12:01:04+09:00"
+    }
+   ]
+  },
+  {
+   "name": "만트라",
+   "sub": "가상자산",
+   "pct": 31.29,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[인기 검색 코인 톱15] 비트코인·이더리움 반등…만트라 31.29% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUmQ2X1dkQV9Rb0VVdHNLdW5ZOUw4dFF0ZUZKVXBOVnQ2Zko2ZG5EaGMtVlFDSHdMd0Y3dDdpNTdqV0NiUUkya21FYll6aHd2NzFsQQ?oc=5",
+     "source": "이투데이",
+     "time": "2026-11-26T16:51:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "Sei",
+   "sub": "가상자산",
+   "pct": 25.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "프로토콜 업그레이드와 신규 통합 소식에 Sei 25% 급등 | 주요 뉴스 | 코인마켓캡",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5VzVxQ2pIVUFJY3ptWEZYZTF3LXltYUUzN0xyeXg1c0xzYzIwNGItWDdEc3JMUmpNWEVCd185WlgyMHoyTmhqZVVUOEFybjgxZGNiUktvTlp5ZGgtR01HUjBYZ1FJeGJsVTRsV3ZxTllWRmRx?oc=5",
+     "source": "CoinMarketCap",
+     "time": "2026-11-26T17:04:37+09:00"
+    }
+   ]
+  },
+  {
+   "name": "파이버스",
+   "sub": "가상자산",
+   "pct": 20.54,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[11월 27일 코인 가격] 비트코인 3.03%↑, 파이버스 20.54% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByalJxTXRDekpEMjMza1lDNC1qZGF1M0ZnZlBVVjY3VFNoRkdVMkNnS2VZLWRLNGxHN2MxSDFaaHZCX2RWa0NyYXF6Wi1UNDV0Sk9wN0NUdG4wLVRvVlZOYnB4bHplWjFk?oc=5",
+     "source": "IT타임스",
+     "time": "2026-11-27T09:09:57+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-27T20:55:50.498608+09:00"
+}
