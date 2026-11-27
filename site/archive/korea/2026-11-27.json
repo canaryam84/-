@@ -1,0 +1,381 @@
+{
+ "label": "11월 27일(금) 정규장·애프터마켓 마감 후 보도 기준",
+ "threshold": 15.0,
+ "indices": [
+  {
+   "name": "코스피",
+   "pct": 4.34,
+   "text": "+4.34%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTEs5OXV0VFAxQm1aM3ljQTNjYW5TQUdhUFVQa21NQm9QVHJEbDY1RVI2TmMtRHdCcmtucnRQUEpVWW84ckY2dU9waTduV2w1UWlIVFppc1ZJWG04ZWkxZ002bGJtSVU?oc=5"
+  },
+  {
+   "name": "코스닥",
+   "pct": 8.13,
+   "text": "+8.13%",
+   "exact": true,
+   "source": "연합뉴스TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTEs5OXV0VFAxQm1aM3ljQTNjYW5TQUdhUFVQa21NQm9QVHJEbDY1RVI2TmMtRHdCcmtucnRQUEpVWW84ckY2dU9waTduV2w1UWlIVFppc1ZJWG04ZWkxZ002bGJtSVU?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "제닉스로보틱스",
+   "sub": "코스닥 · 381620",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 7,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 제닉스로보틱스·코스모로보틱스 상한가…로봇 표준화 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3b1I5Rmt3M1lkaXV2N0tDdE8xbjhlUGxZWkdxeTNtM09LMXVOWG9mNUZac3YxOVdMODlMNExTSzNiRm5mS1djTklUN2NsSlJEb3piMHdqRDBHRnUxVk5QemUwcWQ?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-27T16:46:12+09:00"
+    },
+    {
+     "title": "[마감분석] 제닉스로보틱스, 상한가인 8,020원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VbkxmZG5uOU90QlkzOUtwdEFucndFb05Wc01NN2JxRTRIMTlsbEZaYXU3UzFFVUs1QWdtY0U4NkdvVUxEVm1GdWpEOA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:47:20+09:00"
+    },
+    {
+     "title": "AI 로봇 학습데이터 KS안 예고…제닉스로보틱스 장중 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vTXlWSkF1azQ3V2pTWXE1dmhDN2xBMzFKWUVxQ3BKamw3UmY4RHlyWUt5OVBiUkoyMmI4amJ3dnZXQ2JpYTFKZTN0bUJTcTZRZEprUHRiVERQUjBneFBQNEJlZVRMQQ?oc=5",
+     "source": "비건뉴스",
+     "time": "2026-11-27T14:13:46+09:00"
+    },
+    {
+     "title": "[특징주] 제닉스로보틱스, 특별한 공시 없이 장중 상한가 직행 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oVk95OGVYTVVDOUpBM2s0LTVnZktVNG5JQmJjY05xM3BlaHNYaGVpdXVvSlhDTXZMSjFHQzFzdktHcmdQUE9SUjdZRQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T10:22:32+09:00"
+    }
+   ]
+  },
+  {
+   "name": "큐리언트",
+   "sub": "코스닥 · 115180",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 5,
+   "articles": [
+    {
+     "title": "[숏폼] 큐리언트, 706억 유상증자 초과청약에 상한가",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83UjA0X2hSME8tX3Y2a0ZiaXJ3Z1dKVWQ3T1AxOTJFSWFhOGJxeXFDUDJRdXlSMElkM0kyVm9PMm5oREZwcVNTQlBNOFhLUkZvdFJBeF94TG9fRUZKekYwWk43Wk5JX2lhM0lz?oc=5",
+     "source": "히트뉴스",
+     "time": "2026-11-27T19:47:21+09:00"
+    },
+    {
+     "title": "[바이오 마감 브리핑] 항암 신약주 급등…큐리언트 상한가·에이비엘 27%↑",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvODJiU0J3NFNCVExoUXc1ekt5VkF4dkRDb21DQXIteXUzTGxvQ3Zwc01WZWtNYXpCNHJZLUNnXzk2X3RqaC1hc05QaWp2ZDFmdUtEdC1BdUFJOWhXTjlUUk42d2V4Y0cyWDQwek1UV3lWUQ?oc=5",
+     "source": "메디코파마",
+     "time": "2026-11-27T17:25:01+09:00"
+    },
+    {
+     "title": "[특징주] 큐리언트, 유상증자 구주주 청약 물량 초과 달성에 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTDNyOHlvYUZEVm83R2FLYm9XVm5DMzdnZTVTMm5SdU94RFVqNzhaNFZfTEVheEI1QUhiaHVkT1JPb2hrYmFIUXhaTmM5SzhYRVJzT3hoT1RiNWhHZUxlblJTRWtNc0lXckNBUQ?oc=5",
+     "source": "바이오타임즈",
+     "time": "2026-11-27T16:57:22+09:00"
+    },
+    {
+     "title": "큐리언트, 706억 유증 청약 완료에 상한가…신약 개발 재원 확보 [Why 바이오]",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aSUd4WER6cldIaVQtazhUbkxyY0UzSV9WNlc4NDBuVGJYaklqLUxSbGZ6WnZwdkNvYzdDQmNBelhlWVQ2SGNqUnFHLUd1TkF0MnfSAVNBVV95cUxNNGYyZU1ucVJzZHhjNWRORGRhWjY2Wlp5ZF81RlBCY2pnZUpUblRSNllwNy1RaGZZOEZZa3ZkVmt3aTJwQ0p6UVpUX1dkdFppQXFjSQ?oc=5",
+     "source": "서울경제",
+     "time": "2026-11-27T15:08:45+09:00"
+    }
+   ]
+  },
+  {
+   "name": "코스모로보틱스",
+   "sub": "코스닥 · 439960",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 4,
+   "articles": [
+    {
+     "title": "[오늘의 특징주] 제닉스로보틱스·코스모로보틱스 상한가…로봇 표준화 기대",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3b1I5Rmt3M1lkaXV2N0tDdE8xbjhlUGxZWkdxeTNtM09LMXVOWG9mNUZac3YxOVdMODlMNExTSzNiRm5mS1djTklUN2NsSlJEb3piMHdqRDBHRnUxVk5QemUwcWQ?oc=5",
+     "source": "www.ppss.kr",
+     "time": "2026-11-27T16:46:12+09:00"
+    },
+    {
+     "title": "[특징주] 코스모로보틱스, 휴머노이드 시장 성장 기대에 29%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eG1wMlItME9wTmI3eWZZaW1OQThvaGhhc0ZnSUwwYUM1V1o3Q1J4eG82VUh0SU93c3R2S2NLNDRVZl9tbG9wOVF6ZnRxanNKTlFWdDJTZXc5QQ?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-27T09:50:00+09:00"
+    },
+    {
+     "title": "코스모로보틱스 주가, 상한가... 이유는?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VTJsQmFWTnlTTUQ3Y0JmWk1OMkNSLVJtQnlBZVZwVFFxeHltN19vQ0ZvLTZYZFd0M0FtdERZcjZ3OWdRb205LWlhbWlTZDhQek9YRnU5TzZnbDM5UHg4MFpjT3p1dFF0OGc?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-27T09:48:32+09:00"
+    },
+    {
+     "title": "코스닥 4%대 상승...보안·로봇주 강세에 안랩 14%↑·코스모로보틱스 상한가",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6N0hPODZPQV9INWV1bWFVT21OMU54SnJnZ01GMlRWcmtqSGxXb2dfczd3Tlh3NFVzcUR4cGNvR0d5U3NseDZQVGtzVGJZUUFoTng3eWhRbEFobHRmU0VEVmVGSmVmVmJZd1E?oc=5",
+     "source": "월요신문",
+     "time": "2026-11-27T10:17:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "엔켐",
+   "sub": "코스닥 · 348370",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 엔켐, 27일 27.33% 급등… 1만 670원 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QTdDY1oweElzclVyVXQ2ekpRZmMxQ3ZfSFYtTHMzN0U5SHgyb1IwTFkwMk5ZaU5qQlRrWV9HVk9ZakdJcXhOWWdTaw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:48:13+09:00"
+    },
+    {
+     "title": "[속보] 엔켐 주가, 주말 앞두고 상한가 도달…1만원선 돌파",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oemtKN09ENjFSeDV2MkxWbmI2WjNKLWN4WHl5OGNBbHhTWHdHaFo3MW80OWY1NUNIX1JWM1BtejdlLTUzdzVIM0k1cmdYTENURWtTX3N1aDFURWt6cDdJRGxYMUgxbFVT?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-27T14:07:56+09:00"
+    }
+   ]
+  },
+  {
+   "name": "라온시큐어",
+   "sub": "코스닥 · 042510",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[특징주] 라온시큐어, 장중 18%대 급등하며 1만8000원선 돌파 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VTUtCeHFmbTR3OG1wN3NROFQ3YWtNU3BtZFotRVVfTW1CQ2pPWTBVUmExMFM1dzg3ck9hSlpNMTVaY1lQc1FFbkFVVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T10:23:56+09:00"
+    },
+    {
+     "title": "라온시큐어 주가, 상한가... 왜?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaTJqZkdwNExGcTR2SG1ySzFRZUIxcjQyOXhQMXkwRUJJb3RGTHI2bTBsSGlRamxodkRseENRbkJseng2RVl1WDllRk5faGFUUTIyNVJSbEtJaE1hSjA4Z256WG4taXA3M3c?oc=5",
+     "source": "금강일보",
+     "time": "2026-11-27T09:25:47+09:00"
+    }
+   ]
+  },
+  {
+   "name": "클로봇",
+   "sub": "코스닥 · 466100",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 클로봇, 29.87% 상승 마감하며 상한가 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CVzc1NDYwZktWOEIwMEFVT0xXekltNDV0UHo1TXlSaG5YTEdTZ2YyekJlVnk2MFlUNFFaWkxacTlzUkJSX2lLOHdoVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:48:03+09:00"
+    },
+    {
+     "title": "[속보] 클로봇 주가 상한가 도달…코스닥 7%대 급등 속 '불기둥'",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55SVJwRldfeVZVZmZ0T1dnV1FpZzVCbUZnZ1B3RGVmeTV4c0dpX094eDdpZ25JQU1wRVN4UHVDc0k0bGg5STM3eU9tRk1UTFlGN1VOVEZOYzBsLTVMSDl4Ty1Ba3hlV0hD?oc=5",
+     "source": "CBC뉴스",
+     "time": "2026-11-27T14:30:40+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에스피시스템스",
+   "sub": "코스닥 · 317830",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "\"반도체 공장에 로봇 더 들어온다\"…제닉스·에스피시스템스 상한가 [주가동향]",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tenlPZ0dSTVFTd1QwUjRJdUhYUGRNVzh3aFpDTGZ5bnUxdk9uYXBudmtlcU9GejkycXNWWC1ZV2VIY3ZJa2FQLW5mQm9VWXhrSTRzZ0ZJdlV1d3VzMWdJ?oc=5",
+     "source": "조세일보",
+     "time": "2026-11-27T09:55:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "윙스풋",
+   "sub": "코스닥 · 335870",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "윙스풋(335870), 상한가 뒤에도 시총 169억…관리종목 기준 아래",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YX0haWE9ibUY2VmRfZTRBNjhpTklXSzdjZmV5bklNWkNma3A0Q1BkZk1TSF91VnR0aE1MdGFZR3ZubGZjbWRmZU5VM0xYd2k4Nk52ZWtER0psc0ZOT0tzNG9n?oc=5",
+     "source": "시사매거진",
+     "time": "2026-11-27T18:21:17+09:00"
+    }
+   ]
+  },
+  {
+   "name": "삼성전자",
+   "sub": "코스피 · 005930",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "삼성전자 '로봇 1만대' 전망에…로봇주 줄줄이 상한가 [종목 NOW]",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNzBIaEtQM1RyNDA2WmFMUVRlYmpMMWRPX1NxejhBa1lhSENzTnFMQ2phS0oyS283NVdjejVPbWxnSXJNOFpTN2RYQ1JCazdxOXlOYnNHeWRNdw?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "2026-11-27T09:29:31+09:00"
+    }
+   ]
+  },
+  {
+   "name": "퀀텀레일",
+   "sub": "코스닥 · 070300",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "퀀텀레일 235원 상한가…무상감자 비율 88.89%로 정정",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVENYeUQ4SUlWaTRzRnVaYnVlWGNQRE9BNDl1SkszYk05cE40WjV5NENnMWdNb0NQVUlSRHNKRHFUSk9uUDVta3B5NV9NQVpRUVdqdHNwTFpENFJsX1BGM3ZhMVBJSHJtSG9ZekVB0gFyQVVfeXFMTUJKTjQyVnFwZWpUYWNrbm1KY3JNNHNWb3hGcnVJZjRRTVhQV3NzUmhTXzk1ZHo1am9BUkpWZEdOUXl2ZmNRbzFPQnpSZTAtQ3p5V1ZmaDltRTN5LTNsZDhkOGl3d1pJV0NWTWNEMV9oaE1R?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-27T15:52:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "크라우드웍스",
+   "sub": "코스닥 · 355390",
+   "pct": 30.0,
+   "limitUp": true,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "크라우드웍스 1004만주 거래…760원에 상한가 마감",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lSDY0alpkeXh2WU4yUlZjMElZcDlRMUZPUlBkbjVhNzlYQ2x4QUJobl9ObUlYT1FoVy1vUGtXdVkzUkJlVDB3LU1KU0Q4VGw4UHNES1ZTMXhlZFo5RXpFc0dpOUwwWHg3VUlNUm1R0gFyQVVfeXFMTUZmaUw5SlhiNFJOUVgwc1dnY19wRTJMOTVBTVpSano1QXMwaU1Odll1OTJOMTk4MWVzbTBxSHRmNHUybU5yZWdYSl8xRTJGa1RPek9VTkNycmRoWkQxaEdpLUtTYVl0d2RfT2oyQzd3U1VB?oc=5",
+     "source": "잡포스트",
+     "time": "2026-11-27T15:51:03+09:00"
+    }
+   ]
+  },
+  {
+   "name": "대성하이텍",
+   "sub": "코스닥 · 129920",
+   "pct": 29.9,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[마감분석] 대성하이텍, 29.90% 급등하며 상한가 마감 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzWEFrbl9mcl9UZUZrUENFYU0tb25ERTg1RGRwZTJTQVdZOTg0R3B4aVNPZFJKWTh3ZV9Ib3h1OGNpSFdqQXR3Wk9zVQ?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:47:55+09:00"
+    }
+   ]
+  },
+  {
+   "name": "지씨지놈",
+   "sub": "코스닥 · 340450",
+   "pct": 27.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "[마감분석] 지씨지놈, 25.99% 급등하며 1만 원대 회복 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56TTE2X2ZvVnlOYk5ScFFIWlI0c01zMXg1blItdHNEYS05SThIOEZPcndSbmc2Q2RQX2JVM2ZsV1owMWxUTWRub2NxNA?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:48:31+09:00"
+    },
+    {
+     "title": "[특징주] 지씨지놈, 유전자 치료제·분석 테마 강세에 27%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUHNoZjZqeUt2RnRydWJjTkRSVGx4NWhLN1prQl8tNEpwS1AzekwzcHhTTGFmTXktUEhVRk9vYkxNTnhma1dhZmxjMG1FUGctOWp3OEVWbnctRTRPUTJrLTJXeXJBMnFfU2Z0dw?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-27T11:05:38+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이비엘바이오",
+   "sub": "코스닥 · 298380",
+   "pct": 26.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 2,
+   "articles": [
+    {
+     "title": "에이비엘바이오 26% 급등 마감, 46,750원 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vajZPelRXaDVHRzZtOEYyUlhiZXVUdEZ4TGV1Y0xWcTl2MUM4ME9PWm1iTnVuWEwtYldHZ0N1cGxUeVBkLTM3UEhWZw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T15:48:22+09:00"
+    },
+    {
+     "title": "[특징주] 에이비엘바이오, 장중 20%대 급등세 기록 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Uai02LVM5SC1JVzQtNlhBT095eXdmZU9MUlVpaERkcUJpTHlteV9mMTI2ZmZfbUwwTzdnazFLSVFYS282TDV1azFKZw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T10:23:39+09:00"
+    }
+   ]
+  },
+  {
+   "name": "리가켐바이오",
+   "sub": "코스닥 · 141080",
+   "pct": 17.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 리가켐바이오, 면역항암제 관련주 강세 속 17%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TQXl2bHBESkFEcC1ieDNCaERNbkZsZXN2cHJyMmM4UHhhN2xiZ3EwSHBRYU9HMG5kU01LVGpaVDdaakRvemhOcVhVV3FsYlhBVU10SFZ2cGw0QQ?oc=5",
+     "source": "브릿지경제",
+     "time": "2026-11-27T09:56:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "에이엘로봇",
+   "sub": "코스닥 · 471800",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "에이엘로봇, 16%대 급등하며 1만 원대 회복 : 기업주식정보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5taHdnRTFtNUw2cXpPamRhaEV6YVZpZm51eGE5N3FMR2x0ZG5sUzRUdkg5WDgxQ2RjbVhBb21IY0J3UWVRLWp0OVhQYw?oc=5",
+     "source": "재경일보",
+     "time": "2026-11-27T10:24:06+09:00"
+    }
+   ]
+  },
+  {
+   "name": "아이티센글로벌",
+   "sub": "코스닥 · 124500",
+   "pct": 16.0,
+   "limitUp": false,
+   "afterMarket": false,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[특징주] 아이티센글로벌, 국제 금값 반등·귀금속 테마 강세 속 16%대 급등",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tWFU5emlnMDdUYlZIUkJMU3dZa3dWdWNWVmhOaVVoQ1k5YWRSa2o3SWMwOGpaRnRYWWNTcFhlY0Nqd1JrQW9ud3BxVUM2U0hkM3RGOGVSRzc3MFF4TnNSODgwX0NZWmY2QXpabg?oc=5",
+     "source": "와이드경제",
+     "time": "2026-11-27T13:34:54+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-28T02:36:40.810554+09:00"
+}
