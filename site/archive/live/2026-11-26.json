@@ -1,6 +1,6 @@
 {
  "label": "11월 26일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-27T10:05:18.538550+09:00",
+ "updatedAt": "2026-11-27T13:54:24.903110+09:00",
  "items": [
   {
    "title": "삼성전자 레버리지 주가 급락…진행자 눈물 영상 확산 : 한국증시",
@@ -36,6 +36,34 @@
     }
    ],
    "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 진코스텍, 실적 성장·K뷰티 기대에 상한가…신규 상장주 수급도 유입",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVDBSLWx6V0VjWHlLR2xkakt1SzU2aEQ3S2ZvZGV2NTBtMW96Zl9VZ3lsLWo2dVRTLThBU25XMGtxdVhmTzhBb21RaWttMGJoX2xxZERhdTUxNUV0aVlrT3JLMktzS21GdEE?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-26T21:06:25+09:00",
+   "stocks": [
+    {
+     "name": "진코스텍",
+     "code": "250030"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 천일고속, 서울고속터미널 재개발 기대감 재점화에 상한가",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wWUlXMUowaV9SZ2dfcFdEWGpKZFI3SjF5TmxqSkt0SmpBdzZGbTRxV1M3T3k4OHd3RXhhd2xxR2dmcG50TklMZWhlaFc0dFFUak1qc2dzZ1NqTkZib1QzUTEza2JXby1hVFE?oc=5",
+   "source": "https://www.moneystorm.kr/",
+   "time": "2026-11-26T20:58:06+09:00",
+   "stocks": [
+    {
+     "name": "천일고속",
+     "code": "000650"
+    }
+   ],
+   "thin": false,
    "dir": "up"
   },
   {
@@ -484,6 +512,20 @@
     }
    ],
    "thin": false,
+   "dir": "up"
+  },
+  {
+   "title": "[마감분석] 삼천당제약 특별한 공시 없이 9.62% 급등 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0OHFnZEZaZkxOQ2pxV2NvRzhTTzMxdHI3OUV0NjJGcUwxNG9TUm5kNlViV0JtVHdUVzdUSnlTeVNzdGxlMFZ3LWlLNA?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-26T15:49:31+09:00",
+   "stocks": [
+    {
+     "name": "삼천당제약",
+     "code": "000250"
+    }
+   ],
+   "thin": true,
    "dir": "up"
   },
   {
