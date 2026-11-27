@@ -1,6 +1,6 @@
 {
  "label": "11월 26일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-27T13:54:24.903110+09:00",
+ "updatedAt": "2026-11-27T23:52:43.375027+09:00",
  "items": [
   {
    "title": "삼성전자 레버리지 주가 급락…진행자 눈물 영상 확산 : 한국증시",
@@ -161,6 +161,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9raXp3aEdENXNHdlgxNHJBTnczcjVMNmpvOGtiQjhzOFZBU2ZMZl96YnRwRWJSR0pVM2ZOU3ZrdjB6MGtoejU0bG5UZU4zUQ?oc=5",
+   "source": "전자신문",
+   "time": "2026-11-26T17:50:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    }
+   ],
+   "thin": true,
+   "dir": "down"
   },
   {
    "title": "최광천 전무, 퀄리타스반도체 주식 1만5574주 ↑…지분율 9.15%",
