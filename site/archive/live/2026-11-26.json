@@ -1,6 +1,6 @@
 {
  "label": "11월 26일(목) 국내 종목 뉴스",
- "updatedAt": "2026-11-27T02:25:58.855674+09:00",
+ "updatedAt": "2026-11-27T10:05:18.538550+09:00",
  "items": [
   {
    "title": "삼성전자 레버리지 주가 급락…진행자 눈물 영상 확산 : 한국증시",
@@ -133,6 +133,20 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "최광천 전무, 퀄리타스반도체 주식 1만5574주 ↑…지분율 9.15%",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TenlrREZxc0FBSXNtSlppU3ItOWFaN284UldIaEVBN3Y5Y1dXY2NycmtuTmVucDBaN3JwSjdNbWVMeDBNYVdQSXJ0WVJoZnBza1p3aENMdW5RWmRhbnJrUjdnbjR0LWd2M3l4eWVKdFdhczQ?oc=5",
+   "source": "데이터투자",
+   "time": "2026-11-26T17:48:54+09:00",
+   "stocks": [
+    {
+     "name": "퀄리타스반도체",
+     "code": "432720"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "삼성SDI도 1.4조원 자사주 전량 소각",
@@ -513,6 +527,34 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[마감분석] 스피어, 18.41% 급등하며 2만 2700원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TbWZIeG9JSEFjeDBhVFhJV0JRbzZMbWM2TXpRVklOT212cW9tZUNqYkdKVFF4akxxTEdTR01IUW9faWdsYnlmSUc2NA?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-26T15:48:08+09:00",
+   "stocks": [
+    {
+     "name": "스피어",
+     "code": "347700"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "미래에셋벤처투자 21.57% 급등 마감, 1만 8,770원 기록 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vcDNOOV91QzNJQl9kX2RYcjdLckJxV3NkTFZsT3RXc0YxcU8yQW9yOGZ6Wm9Uak8tc0dzTHpTR0JMckJKVEVYSHc1TQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-26T15:47:49+09:00",
+   "stocks": [
+    {
+     "name": "미래에셋벤처투자",
+     "code": "100790"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "천일고속 19만7800원 상한가…운송 영업손실은 16억원",
@@ -2407,6 +2449,20 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]삼성E&A, '건설 모범생이 보여주는 눈부신 성장' 목표가 90,000원 - DS투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBINTZycDdHWDBzNXNEUVc1WVg3MFQ0Z1ZDYkI3ME1sdGFILWdQQjd3WmFzT3ctcEhDd2Rmd3k2ZHZRc2tOdE9EdXhrd1czaDNjSU9iMkxjX2pWeHJ3?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-26T09:37:00+09:00",
+   "stocks": [
+    {
+     "name": "삼성E&A",
+     "code": "028050"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "LIG D&A, 방산주 조정에도 수주 모멘텀 유효…목표가는↓-DB",
    "link": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=219116",
    "source": "인포스탁데일리",
@@ -3541,6 +3597,20 @@
    "dir": "none"
   },
   {
+   "title": "\"스튜디오드래곤, 목표가↑…중국 재개방 이점\"-대신 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5reXpSWXZsaTE3X08wY0R1dFNIb1U4dFA0c1Y5NVhiZHdsa1RlOGtNX21zdWtlbklpZGh2ZV9taDBVVVJSb1BoZHJIdzM0SzNXWVF4R0hBSi1pQkZ1S25mUVNCajR0ZVFEVXZUTXpReURWaFY5ZlRYRjM5UdIBe0FVX3lxTE5reXpSWXZsaTE3X08wY0R1dFNIb1U4dFA0c1Y5NVhiZHdsa1RlOGtNX21zdWtlbklpZGh2ZV9taDBVVVJSb1BoZHJIdzM0SzNXWVF4R0hBSi1pQkZ1S25mUVNCajR0ZVFEVXZUTXpReURWaFY5ZlRYRjM5UQ?oc=5",
+   "source": "머니투데이",
+   "time": "2026-11-26T08:41:52+09:00",
+   "stocks": [
+    {
+     "name": "스튜디오드래곤",
+     "code": "253450"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "현대글로비스, 폐차 자원순환 공급망 구축…사용 후 배터리 재활용 확대",
    "link": "https://www.etoday.co.kr/news/view/2653111",
    "source": "이투데이",
@@ -3581,6 +3651,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "녹십자, 사업별 가치 합산 적용…목표가 21만원으로 상향-iM증권 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSWwwN052M1hDWE1PMWx0OEFCMTJSWEVXUWpIU3dCSDBqUERwYm00djNzcGNLMU1oelZEMU5xSjBCbjZWN0RfcG1XX2NvVFBWNzBtWk9kX0tNdW5jd0wzYU9TUkR0UU1GeGhMcUxEYnhaZnRObHfSAXtBVV95cUxPWDk1OE0zTEJfWTRWTU1OVGJSbV96OXptUTFWbTRNd0NMWW1kWTQwelg1eWZIMTM3RV82YkpFUVRaMnRiTlBtWDR4Wk50TmtpMk9lS2hYbklEMm9rWGdhZWFDSE81QlB3ZjZlYTVWNVdjYlJxVWVfZmtyWDA?oc=5",
+   "source": "머니투데이",
+   "time": "2026-11-26T08:36:41+09:00",
+   "stocks": [
+    {
+     "name": "녹십자",
+     "code": "006280"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "DS증권, 에이피알 목표가↓…\"일시적 요인 실적부진, 매수기회\"",
