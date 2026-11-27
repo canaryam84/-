@@ -94,7 +94,7 @@
    "pct": 30.0,
    "limitUp": true,
    "afterMarket": false,
-   "newsCount": 4,
+   "newsCount": 5,
    "articles": [
     {
      "title": "[오늘의 특징주] 제닉스로보틱스·코스모로보틱스 상한가…로봇 표준화 기대",
@@ -115,10 +115,10 @@
      "time": "2026-11-27T09:48:32+09:00"
     },
     {
-     "title": "코스닥 4%대 상승...보안·로봇주 강세에 안랩 14%↑·코스모로보틱스 상한가",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6N0hPODZPQV9INWV1bWFVT21OMU54SnJnZ01GMlRWcmtqSGxXb2dfczd3Tlh3NFVzcUR4cGNvR0d5U3NseDZQVGtzVGJZUUFoTng3eWhRbEFobHRmU0VEVmVGSmVmVmJZd1E?oc=5",
-     "source": "월요신문",
-     "time": "2026-11-27T10:17:40+09:00"
+     "title": "내년 기대감에 로봇株 82개 중 78개 상승…코스모로보틱스 24%대↑ - 머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WUkdwYW5WX1V1cDFxbGQ2ZzdFVHN6OWw3c2NReUszZWpXTVZieWstei1Gc2ZQV0k3cklISEprM1FvaU94MWtZMWwtOEN0TElYZ1RtYm9JX3ZVNnctYlVzMHYtOUVRLWZN0gFuQVVfeXFMUGNTS01QQkZRMTQ1dTlodFFJZVJBRjRzOG1SblB4Rkg1czdvVG41dlFYZC0ydkZsYXJRMVZqWGRyWUZxM0x0MzF0RmdRT1cxTnpvRmdmSVBsUnJKUlhFR0xLYmdzNHRCOHhFcW54U0E?oc=5",
+     "source": "머니투데이",
+     "time": "2026-11-27T09:25:15+09:00"
     }
    ]
   },
@@ -377,5 +377,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-28T02:36:40.810554+09:00"
+ "updatedAt": "2026-11-28T04:55:30.196332+09:00"
 }
