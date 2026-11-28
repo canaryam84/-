@@ -1,0 +1,39 @@
+{
+ "label": "미국 11월 27일(금) 정규장 마감 후 보도 기준",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "다우",
+   "pct": -1.18,
+   "text": "-1.18%",
+   "exact": true,
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjdBakhSNzNYQ3N3aWREX1ZnVV85XzZYWm9oMGhyZ0NlbDhPNEI3aWctdUw5emxRMC1LSjROemFjM293ZHFpT2txd0pwNHNNcDBNSEZKbWM3elhfN3Y0Wk01VnlZTnI4YkR3SmVSUEZOcnJoUDF1Q1g4Vzc3Wl9lNmZ3V1k4TU5aZGZ6bmsyM2laWml0RFMzRmNGb3M1R2VQM0F2bC1HanZQNTg?oc=5"
+  },
+  {
+   "name": "나스닥",
+   "pct": 2.31,
+   "text": "+2.31%",
+   "exact": true,
+   "source": "브릿지경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMGtLUjlaME1nNEFOSldRWnJUV1JORktEekNGX2hFSVFMVEQ4N1o4YWVGWklLU3JSR09ydGJiajFneDByZGQ4a2Z1V0NWSU1vWlFjemo1cG4zQQ?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "AMD",
+   "sub": "AMD",
+   "pct": 89.6,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "AMD stock soars 89.6% despite Broadcom's larger AI revenue and market scale.",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTy1Td3oxdTF1QUFXcTZSUUgzSW5Sb0tUMDhjX3pRLVhMSUg4dmFBYmlPdlJFZm5YWW9Ud2JkNGlrWXRpQUhWNjRjdV96c0FzaHp3VjNQMzBfeERqT3pKWXNYbldsZFZ2UjdlRVVpS211amZEVDUwUG1PMUUzMW5mSk9aX19rY2FmRVBEdXA2LThCNmtDenFFRzZxbm5zam1SMWVFcHppVms?oc=5",
+     "source": "Pluang",
+     "time": "2026-11-27T21:41:09+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-28T12:46:52.873687+09:00"
+}
