@@ -1,0 +1,45 @@
+{
+ "label": "11월 28일(토) 12:00 기준 최근 24시간 보도",
+ "threshold": 20.0,
+ "indices": [
+  {
+   "name": "BTC",
+   "pct": -1.33,
+   "text": "-1.33%",
+   "exact": true,
+   "source": "핀포인트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbEZKbENTMGdQbHNtRzRBeXpLRFJaUGJjZ1JHb0ZaNDYydV9TVkN4cVdKTUlEUngxekVQVkZSTC1vSzJJSXNxR2lmQkItR3podW9MZWxQeEc0UGxvc0JHOFlwMzdTUE9oeG0tTkczYUpmRGfSAXdBVV95cUxQeElGdURrb2FvZllaM3JHUDBhWHI4dTMxWms0VlREWTByUlhyRWpiVHR2SF94Vl82OUt2M3RObWRlT29TVWI5NDV5NmlTREM1QnA0UEdCRmQ5NVJRSWNteWtHczVMa0NjempBaGJVNUVPaFl6Q01aYw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "name": "해달프로토콜",
+   "sub": "가상자산",
+   "pct": 41.0,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[코인브리핑] 비트코인 8300만원대 회복…해달프로토콜 41% 급등",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13TWV1RUlOWWR0cWxWX3JxdUUxUEp2VG91UFR1aUtqbW1wVkZLdWhHSjZoSW5ub19rSXVtQmNYTlVkT3NPZl9ZWHZyQjdheS1TNFNBSU1EdFI4RVhYa3c?oc=5",
+     "source": "아시아타임즈",
+     "time": "2026-11-27T18:50:00+09:00"
+    }
+   ]
+  },
+  {
+   "name": "카바",
+   "sub": "KAVA",
+   "pct": 22.86,
+   "newsCount": 1,
+   "articles": [
+    {
+     "title": "[업비트 TOP10] 카바(KAVA) 22.86% 급등 1위…10% 넘게 오른 종목 3개",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tWXQ2bFdldmRWbnRWUjZsNzE2RXhCUTdUeVNHcER1dHMzSmpWdEFfUlFpWG9YY3BkQl84TmhZdmc5eS1QUlVKOGhn?oc=5",
+     "source": "코인리더스",
+     "time": "2026-11-27T12:01:01+09:00"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-28T20:30:01.606597+09:00"
+}
