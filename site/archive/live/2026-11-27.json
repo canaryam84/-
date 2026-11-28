@@ -1,6 +1,6 @@
 {
  "label": "11월 27일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-28T02:04:03.402758+09:00",
+ "updatedAt": "2026-11-28T09:36:31.677801+09:00",
  "items": [
   {
    "title": "SK하이닉스, 자사주 일일 매수 주문량 두 배로…“주주가치 제고 차원”",
@@ -789,6 +789,24 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]NC, '안정적 실적에 더해지는 장르 확장' 목표가 290,000원 - 다올투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91MGZLVHRyUlRSVjVHTXFid3dzRnd2eXVKYXBoVzY0Uzctc2hvenhxWnh1Uzg5dllyalpGRjhyQUI3bVh3RDVQRWphTUxweklhS25SZTJ4NXFldGFz?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T13:50:00+09:00",
+   "stocks": [
+    {
+     "name": "NC",
+     "code": "036570"
+    },
+    {
+     "name": "다올투자증권",
+     "code": "030210"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "프로티나, 유럽 빅파마와 바이오마커 계약",
    "link": "https://www.edaily.co.kr/News/Read?newsId=02312406645649984",
    "source": "이데일리",
@@ -1481,6 +1499,24 @@
    ],
    "thin": false,
    "dir": "up"
+  },
+  {
+   "title": "[리포트 브리핑]한미약품, '기술이전으로 증명한 R&D 경쟁력' 목표가 630,000원 - SK증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBybkxJZzBET0loTGxLdG5YZ2JGMW5tVVYtRWRXWXFuU0I2eG02TExab0E0SUVDTWtaNExhV3FiS2tPTVNNTGNKeWJuNlBRVVlLYURydE1VbVctRWxV?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T10:08:00+09:00",
+   "stocks": [
+    {
+     "name": "한미약품",
+     "code": "128940"
+    },
+    {
+     "name": "SK증권",
+     "code": "001510"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
   },
   {
    "title": "[특징주] '환급 가능성' 소식에 DB손보 4%↓…현대해상·메리츠금융도 약세",
@@ -2847,6 +2883,20 @@
    "dir": "none"
   },
   {
+   "title": "[리포트 브리핑]해성디에스, 'CEO IR Day 후기: 걱정말아요 기판' 목표가 70,000원 - 메리츠증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90RkZ4VGxydWg0Y184cnV6MEg2R3RhbUhNRk1DRWFuR0I3THExWGcxSVdJT1ZyRnkzZ0w3Z1NTUGpvczA5c1pTNUJWb2lHOTVlak1Ld3dxNlRSUkE2?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T08:59:00+09:00",
+   "stocks": [
+    {
+     "name": "해성디에스",
+     "code": "195870"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "키움證 “펄어비스, 연내 ‘도깨비’ 정보 확인이 중요…목표가↓”",
    "link": "https://biz.chosun.com/stock/stock_general/2026/11/27/K6CV72GC7NFLLCHJPPQLCYXCBA/",
    "source": "조선비즈",
@@ -2975,6 +3025,24 @@
    "dir": "up"
   },
   {
+   "title": "[리포트 브리핑]LG씨엔에스, '본업의 안정성 + AI의 확장성' 목표가 91,000원 - SK증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aGpPd1Nrcy03N0k5OUQySUh3SUtCOFE5RDZKQ1FmeHVCM25fZFVwVFROWDRzRm9jdTRyRFd5MnM3NWhDQnRDQ2V3OWRnY2FNdFEtQkFDWURkRTEz?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T08:42:00+09:00",
+   "stocks": [
+    {
+     "name": "LG씨엔에스",
+     "code": "064400"
+    },
+    {
+     "name": "SK증권",
+     "code": "001510"
+    }
+   ],
+   "thin": false,
+   "dir": "none"
+  },
+  {
    "title": "현금 1500억 쏟는 현대그린푸드···주가 2년만의 최대 낙폭, 왜?",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VS0k5MHVlQTE2TFJTX0hUaU0xa0JOcEkzenVPRE5yX3psWGcxMy1XcVY3RXR6VFhaX2xsbFhnV2JidV9CV0dTbjBsSzlxMjZKbTVLeldwOS1TM1VFOWl1YmlJcTNNcVlYdHRVSWZ5ZHF1d9IBdkFVX3lxTE5pX1RUWVh5SlFQTktGRDNyalFRbkZiRWFsZlJaOHJsbllPclBRRnV1cG9uSU5vaDROMWhscm9acnBDTVZVTDMxR29oS09MU3B2YlVEN3kxOXN4LWRHSzlCSzM1ZnR5eGR2U3hZUlQxNkk1cDFJUWc?oc=5",
    "source": "증권경제신문",
@@ -3078,6 +3146,24 @@
     }
    ],
    "thin": true,
+   "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]와이지엔터테인먼트, '4Q26 빅뱅 레버리지, 내년 신인 모멘텀' 목표가 60,000원 - 한화투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mQjQxNkVybzVoREI5YWVPdnQ0aVNfbk5ndnBiZDlscXRwWl9xb081VG16THJfUk1acG1mS3FCTjA0S0d5eHViTldFTXo4b3JBUVprZzBoOEVpb3Fm?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T08:31:00+09:00",
+   "stocks": [
+    {
+     "name": "와이지엔터테인먼트",
+     "code": "122870"
+    },
+    {
+     "name": "한화투자증권",
+     "code": "003530"
+    }
+   ],
+   "thin": false,
    "dir": "none"
   },
   {
