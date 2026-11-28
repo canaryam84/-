@@ -1,6 +1,6 @@
 {
  "label": "11월 27일(금) 국내 종목 뉴스",
- "updatedAt": "2026-11-28T09:36:31.677801+09:00",
+ "updatedAt": "2026-11-28T13:39:46.380222+09:00",
  "items": [
   {
    "title": "SK하이닉스, 자사주 일일 매수 주문량 두 배로…“주주가치 제고 차원”",
@@ -21,6 +21,20 @@
    "link": "https://www.edaily.co.kr/News/Read?newsId=03548966645649984",
    "source": "이데일리",
    "time": "2026-11-27T22:11:53+09:00",
+   "stocks": [
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": false,
+   "dir": "down"
+  },
+  {
+   "title": "SK하이닉스 주가 하락에 자사주 매수 2배 확대 : 기업·산업",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fZHpTdnVXSXRDYnI1cEJFWUxOOUQtUDUzZzB2d3RCRHVsYS01V0p2RndiQldJdXdkOXYtQ1BfcFdMSmhuSVVGNWhVZw?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-27T22:00:30+09:00",
    "stocks": [
     {
      "name": "SK하이닉스",
@@ -199,6 +213,24 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "코스피 4.34% 오른 4915.68 마감…삼성전자 4.6%·SK하이닉스 5.4% 급등 마감 [시티타임스 헤드라인 5]",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90VGVObV9tSXBuMEpVYzFocE4xdC1Ob19IbkxiQzg5dHFoRHpZRnVuelVmeGJUUEtTTXExZnhrZDY2aEY5RGpQd2RfcWRXWEZ6ZEJMaXFPc1NOaTMzSDdHdDJaUUE2M3o1TmYyQ09R0gFyQVVfeXFMUE84VGFORkpfZ0hkU29hai1LV2RpTmFWRHZvbi1yQXVfdUJ0Nko4MXp0aEpDTFp3REFMMXVOMkZoOWxtOXBFWHVobzB6UkJJVnNjVGVuY29OVHZpQ2Qybm1TOVNubzR4WTVHMEVvZHhmTnBB?oc=5",
+   "source": "시티타임스 CityTimes",
+   "time": "2026-11-27T18:07:14+09:00",
+   "stocks": [
+    {
+     "name": "삼성전자",
+     "code": "005930"
+    },
+    {
+     "name": "SK하이닉스",
+     "code": "000660"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
   },
   {
    "title": "[바이오 마감 브리핑] 항암 신약주 급등…큐리언트 상한가·에이비엘 27%↑",
@@ -431,6 +463,34 @@
    "dir": "up"
   },
   {
+   "title": "[마감분석] 알테오젠 9.40% 급등 18만6300원 마감 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55enB2aUN5SGJEZlRFODBqR2lSR0VMZUdzRzdveFRWTzdtM3VvTmh6ckIydzB6MnRQRUwzNjlyMWJwWGkwYnVMLXRtaw?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-27T15:49:55+09:00",
+   "stocks": [
+    {
+     "name": "알테오젠",
+     "code": "196170"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "더코디 종가 1431원…장중 1000원대에서 상한가까지",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKUUFFa09LMlBEd1ozSzhVdDhSRXpvV3lPc0VicVQ5Q2VCcUM0ZDVOY0ZwYWRZWUZjalR2MnNkY1ZhOTNCS3RnQ0pWQ2w2ZkxselljeE1nLWZjOXZvcG8wckNuQjRIVlNGQzBkT1BB0gFyQVVfeXFMTWV1LTlGbW1VdC1xUGsxbjBqcG1Tb0dQWWY5WXhfZzB4RnZ3SlJMRlkyOWtwdUpubTIwdDdEbW5mQVFoSGpVTHRSVXVUWm5DaWF1TGNTRTRsWVQ5Sml4d281WHUtRWdlYmkwSlZBcTk4R3ZR?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-27T15:49:45+09:00",
+   "stocks": [
+    {
+     "name": "더코디",
+     "code": "224060"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
    "title": "[마감분석] 에코프로 13.91% 급등 7만2900원 마감 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtMEhYR1p1QlloMTNCUUtyS29iakpvcEZRRV9hYVNMUWtibVo5cEk1Wk9UeEJTMWIxUDhleUNiaWl0aXVDQ013NFRCRQ?oc=5",
    "source": "재경일보",
@@ -439,6 +499,20 @@
     {
      "name": "에코프로",
      "code": "086520"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "제닉스로보틱스, 225만주 거래되며 8020원 상한가",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tMWFKU1phMmsxaURZcVg3cXNsMmU3T0F4Uk0xbjZPaUtOTnVKcGR5ZGljTkZKY1haem9hSjBRR1oySnhaZ1ZEaGVMUjVPOE9aU2tLTE95UjZKTjhlalgwRFVRbGF6Rl9LaWJnTDh30gFyQVVfeXFMUEJIRm9SUkJYWHQybmtCdUJnalN0Z29Da3JIaFUwUklXcjlFN0tUU1lRMTBBZUpxTzJ2b0pGXzRhUHhncUdGdDF1b04waF9neENubUtQWXVYRlYtaUlRZnFmLVBXZHZFNm9aWXFoM1VXUXp3?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-27T15:48:48+09:00",
+   "stocks": [
+    {
+     "name": "제닉스로보틱스",
+     "code": "381620"
     }
    ],
    "thin": true,
@@ -529,6 +603,20 @@
    "dir": "up"
   },
   {
+   "title": "구주주 청약 106.33% 집계…큐리언트, 1만5730원 상한가",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVHctTFMzU29ObFNTZVpVZjAyTlBVTS1HOU1WdncwMTRsSXVkNUZVeTl6MEVYYVFSOThMQjZHVXlzUENKZ3ktb0pyVXVQWXdHS0djM3ZSbHZTZkNoa29MU1U4UnpOaXRQdTFVYmRn0gFyQVVfeXFMT19yNXdxd0tmVUpTRjdyTDlQZ2htZXUtYnVBVmxQeE0zVllGVk9weDlZSUNPVnhJRXpPUmV1d3hiWkF5eW03alhjbUxteGdfUFZLY2VfYmRpbE1JY0tSTF90ZjNKaEdnNExHX0I1SEphdHZB?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-27T15:47:20+09:00",
+   "stocks": [
+    {
+     "name": "큐리언트",
+     "code": "115180"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "5% 뛴 SK하이닉스 담고 4.7% 오른 삼성전자 던졌다…초고수, 삼전닉스 정반대 매매[주식 초고수는 지금]",
    "link": "https://www.mk.co.kr/news/stock/12220218",
    "source": "매일경제",
@@ -615,6 +703,20 @@
    ],
    "thin": false,
    "dir": "down"
+  },
+  {
+   "title": "코스모로보틱스 장중 상한가 5720원…재활로봇 업체 3분기 적자",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hQzgwLUx3Vk5TZHBVSkMxYmU1ei1GVGp2TmVPd1QxLWtfQUdUcWlzbWFkcWVjMGFkelk3UGhFOFBKQi04NDJRaTc2RnhIbnZsSlRRTFFFRTlvYkFyLTc4SGFFRjVqcFRMZUI4a0h30gFyQVVfeXFMTnN5MVlBbGRCQlZycmswemhjamEyWFVvU3dITkViRG94cWxpQ1M4aFZnWnZ6cFZmaW5BVk92WXB2dXh2UHZPdXRNM0N6SGE5Q3cxTDZaTk5kREs5OG1OZFhpeGdTZWd5bk9YcFVoMl9fT01B?oc=5",
+   "source": "잡포스트",
+   "time": "2026-11-27T15:00:44+09:00",
+   "stocks": [
+    {
+     "name": "코스모로보틱스",
+     "code": "439960"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "[특징주] 알테오젠 8%↑…MSD서 기술료 538억 수령 예정",
@@ -1311,6 +1413,20 @@
    "dir": "up"
   },
   {
+   "title": "[특징주] 앤로보틱스, 로봇 테마 매수세 유입에 급등…산업용·자율주행 로봇 솔루션 부각",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52a25IRklnOWc5cGZwMldYQV9KXzdwdnFxeXBGcXJ3MVZ0X0ZCbEpfTmQ2UTRkcVd2cGs5WVZhUDZpcHNtSHZQVFJ2WFlRVG91YndVZXZYaWhvLVZick9ueDB5TUQzZHJNT011Qg?oc=5",
+   "source": "와이드경제",
+   "time": "2026-11-27T10:28:03+09:00",
+   "stocks": [
+    {
+     "name": "앤로보틱스",
+     "code": "138360"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
+  },
+  {
    "title": "[특징주] 레인보우로보틱스, 특별한 공시 없이 장중 11%대 강세 : 기업주식정보",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQV9pbHdaS2pHTEMxNzBnX2lZU3gwUXdWQ3BLTVVRRE1QSlppX2dnRnFkVWVMTXhsWjY2ODItRXhCWDBRQ0c2azd6OA?oc=5",
    "source": "재경일보",
@@ -1319,6 +1435,34 @@
     {
      "name": "레인보우로보틱스",
      "code": "277810"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "에이엘로봇, 16%대 급등하며 1만 원대 회복 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5taHdnRTFtNUw2cXpPamRhaEV6YVZpZm51eGE5N3FMR2x0ZG5sUzRUdkg5WDgxQ2RjbVhBb21IY0J3UWVRLWp0OVhQYw?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-27T10:24:06+09:00",
+   "stocks": [
+    {
+     "name": "에이엘로봇",
+     "code": "471800"
+    }
+   ],
+   "thin": true,
+   "dir": "up"
+  },
+  {
+   "title": "[특징주] 라온시큐어, 장중 18%대 급등하며 1만8000원선 돌파 : 기업주식정보",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VTUtCeHFmbTR3OG1wN3NROFQ3YWtNU3BtZFotRVVfTW1CQ2pPWTBVUmExMFM1dzg3ck9hSlpNMTVaY1lQc1FFbkFVVQ?oc=5",
+   "source": "재경일보",
+   "time": "2026-11-27T10:23:56+09:00",
+   "stocks": [
+    {
+     "name": "라온시큐어",
+     "code": "042510"
     }
    ],
    "thin": true,
@@ -3165,6 +3309,20 @@
    ],
    "thin": false,
    "dir": "none"
+  },
+  {
+   "title": "[리포트 브리핑]SK리츠, '어려운 업황에도 배당은 상향' 목표가 6,300원 - 신한투자증권",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2UUltTC1kMV9wM3ItUHo0WnQtRXhsNkhsTktSaG05a1NsSmF1UU0zSDdQazhTVENWNmF3LUtlOEN5WVZkTjZLQ010V0xjcFRVNXFTaUxOU1pyR3cz?oc=5",
+   "source": "뉴스핌",
+   "time": "2026-11-27T08:31:00+09:00",
+   "stocks": [
+    {
+     "name": "SK리츠",
+     "code": "395400"
+    }
+   ],
+   "thin": false,
+   "dir": "up"
   },
   {
    "title": "낸드 업황 우려에 반토막 난 파두…대규모 수주에 반등 시도할까",
